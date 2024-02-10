@@ -6,7 +6,7 @@ aliases: ["0xf6829842c06ae524"]
 
 ```c
 // 0xF6829842C06AE524
-bool GET_WATER_HEIGHT(Vector3 Pos);
+bool GET_WATER_HEIGHT(Vector3 Pos, float Height);
 ```
 
 Gets the height of the water below the position including the waves.

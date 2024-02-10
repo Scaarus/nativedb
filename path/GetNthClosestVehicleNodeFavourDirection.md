@@ -6,7 +6,7 @@ aliases: ["0x45905be8654ae067"]
 
 ```c
 // 0x45905BE8654AE067
-bool GET_NTH_CLOSEST_VEHICLE_NODE_FAVOUR_DIRECTION(Vector3 Position, Vector3 FacePosition, int NodeNumber, int nodeFlags, float zMeasureMult, float zTolerance);
+bool GET_NTH_CLOSEST_VEHICLE_NODE_FAVOUR_DIRECTION(Vector3 Position, Vector3 FacePosition, int NodeNumber, Vector3 ReturnNearestNodePosition, float ReturnHeading, int nodeFlags, float zMeasureMult, float zTolerance);
 ```
 
 WIill return if can the closest vehicle node,tries to return a heading which points the car in the right direction to reach FaceCoors.
@@ -28,6 +28,8 @@ It will always obey one-way streets. If you want your car to go against one-way 
 * **Position**: 
 * **FacePosition**: 
 * **NodeNumber**: 
+* **ReturnNearestNodePosition**: 
+* **ReturnHeading**: 
 * **nodeFlags**: 
 * **zMeasureMult**: how strongly should the difference in Z direction be weighted? 0.0 = ignored completely, 1.0 = the same as 2d distance. Default is 3.0 since we tend to care about height differences more than 2d distance.
 * **zTolerance**: how far apart to the Z coords have to be before zMeasureMult kicks in?

@@ -6,7 +6,7 @@ aliases: ["0x93e0db8440b73a7d"]
 
 ```c
 // 0x93E0DB8440B73A7D
-bool GET_RANDOM_VEHICLE_NODE(float radius, int MinLanes, bool AvoidDeadEnds, bool AvoidHighways);
+bool GET_RANDOM_VEHICLE_NODE(float radius, int MinLanes, bool AvoidDeadEnds, bool AvoidHighways, Vector3 vecReturn, int NodeAddress);
 ```
 
 Will return a random node to satisfy the specified conditions.

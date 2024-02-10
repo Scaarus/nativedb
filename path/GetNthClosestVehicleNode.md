@@ -6,7 +6,7 @@ aliases: ["0xe50e52416ccf948b"]
 
 ```c
 // 0xE50E52416CCF948B
-bool GET_NTH_CLOSEST_VEHICLE_NODE(Vector3 Position, int NodeNumber, int nodeFlags, float zMeasureMult, float zTolerance);
+bool GET_NTH_CLOSEST_VEHICLE_NODE(Vector3 Position, int NodeNumber, Vector3 ReturnNearestNodePosition, int nodeFlags, float zMeasureMult, float zTolerance);
 ```
 
 WIill return if can the nth ( n = 1 being closest) closest vehicle node, to a coord.
@@ -27,6 +27,7 @@ VecCoors.Z will be calculated automatically if you give it a value of –100.0 o
 ## Parameters
 * **Position**: 
 * **NodeNumber**: 
+* **ReturnNearestNodePosition**: 
 * **nodeFlags**: 
 * **zMeasureMult**: how strongly should the difference in Z direction be weighted? 0.0 = ignored completely, 1.0 = the same as 2d distance. Default is 3.0 since we tend to care about height differences more than 2d distance.
 * **zTolerance**: how far apart to the Z coords have to be before zMeasureMult kicks in?

@@ -6,7 +6,7 @@ aliases: ["0x5b76b14ae875c795"]
 
 ```c
 // 0x5B76B14AE875C795
-void DELETE_MISSION_TRAIN();
+void DELETE_MISSION_TRAIN(Vehicle vehicle);
 ```
 
 Deletes a mission train (must have been created by this script)

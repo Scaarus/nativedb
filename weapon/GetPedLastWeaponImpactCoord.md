@@ -6,7 +6,7 @@ aliases: ["0x6c4d0409ba1a2bc2"]
 
 ```c
 // 0x6C4D0409BA1A2BC2
-bool GET_PED_LAST_WEAPON_IMPACT_COORD(Ped ped);
+bool GET_PED_LAST_WEAPON_IMPACT_COORD(Ped ped, Vector3 ImpactCoord);
 ```
 
 Checks if it can and gets the last position a weapon was impacted at. More info

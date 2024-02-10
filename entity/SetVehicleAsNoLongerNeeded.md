@@ -6,5 +6,5 @@ aliases: ["0x629bfa74418d6239"]
 
 ```c
 // 0x629BFA74418D6239
-void SET_VEHICLE_AS_NO_LONGER_NEEDED();
+void SET_VEHICLE_AS_NO_LONGER_NEEDED(Vehicle vehicle);
 ```

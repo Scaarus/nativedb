@@ -6,5 +6,5 @@ aliases: ["0x6f7794f28c6b2535"]
 
 ```c
 // 0x6F7794F28C6B2535
-void REGISTER_TEXT_LABEL_15_TO_SAVE(string pLabel);
+void REGISTER_TEXT_LABEL_15_TO_SAVE(text_label_15 pTextLabelToSave, string pLabel);
 ```

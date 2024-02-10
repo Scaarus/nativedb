@@ -6,7 +6,7 @@ aliases: ["0xf3162836c28f9da5"]
 
 ```c
 // 0xF3162836C28F9DA5
-bool GET_POS_ALONG_GPS_TYPE_ROUTE(bool StartAtPlayerPos, float fDistanceAlongRoute, int slotType);
+bool GET_POS_ALONG_GPS_TYPE_ROUTE(Vector3 ReturnPos, bool StartAtPlayerPos, float fDistanceAlongRoute, int slotType);
 ```
 
 ## slotType Values:
@@ -23,6 +23,7 @@ Function to get a position along current player GPS route using supplied slot
 
 
 ## Parameters
+* **ReturnPos**: 
 * **StartAtPlayerPos**: 
 * **fDistanceAlongRoute**: distance we want to get position along route.
 * **slotType**: type of gps route to check against

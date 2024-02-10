@@ -6,7 +6,7 @@ aliases: ["0x873c9f3104101dd3"]
 
 ```c
 // 0x873C9F3104101DD3
-void GET_ACTUAL_SCREEN_RESOLUTION();
+void GET_ACTUAL_SCREEN_RESOLUTION(int X, int Y);
 ```
 
 Returns the screen actual screen resolution

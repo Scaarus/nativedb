@@ -6,7 +6,7 @@ aliases: ["0x703123e5e7d429c2"]
 
 ```c
 // 0x703123E5E7D429C2
-void GET_VEHICLE_NODE_POSITION();
+void GET_VEHICLE_NODE_POSITION(Vector3 NodePosition);
 ```
 
 Resolves a node id to a position

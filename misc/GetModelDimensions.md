@@ -6,7 +6,7 @@ aliases: ["0x03e8d3d5f549087a"]
 
 ```c
 // 0x03E8D3D5F549087A
-void GET_MODEL_DIMENSIONS(Hash modelHash);
+void GET_MODEL_DIMENSIONS(Hash modelHash, Vector3 returnMin, Vector3 returnMax);
 ```
 
 Gets the dimensions of a model.

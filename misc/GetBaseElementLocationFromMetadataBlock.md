@@ -6,7 +6,7 @@ aliases: ["0xb335f761606db47c"]
 
 ```c
 // 0xB335F761606DB47C
-bool GET_BASE_ELEMENT_LOCATION_FROM_METADATA_BLOCK(int Element, int blockIndex);
+bool GET_BASE_ELEMENT_LOCATION_FROM_METADATA_BLOCK(Vector3 outLocation, Vector3 outRotation, int Element, int blockIndex);
 ```
 
 Gets base element location data from scriptmetadata

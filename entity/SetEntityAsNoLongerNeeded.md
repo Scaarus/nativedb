@@ -6,7 +6,7 @@ aliases: ["0xb736a491e64a32cf"]
 
 ```c
 // 0xB736A491E64A32CF
-void SET_ENTITY_AS_NO_LONGER_NEEDED();
+void SET_ENTITY_AS_NO_LONGER_NEEDED(Entity entity);
 ```
 
 Sets the entity to be removed, cannot refer to entity from script.

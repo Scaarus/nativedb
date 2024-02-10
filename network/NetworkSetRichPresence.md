@@ -6,7 +6,7 @@ aliases: ["0x1dccacdcfc569362"]
 
 ```c
 // 0x1DCCACDCFC569362
-void NETWORK_SET_RICH_PRESENCE(int id, int sizeOfData, int numFields);
+void NETWORK_SET_RICH_PRESENCE(int id, struct data, int sizeOfData, int numFields);
 ```
 
 Sets a rich presence in xbox
@@ -30,5 +30,6 @@ Sets a rich presence in xbox
 
 ## Parameters
 * **id**: rich presence id.
+* **data**: struct with all presence fields.
 * **sizeOfData**: sizeof Struct.
 * **numFields**: number of fields in the struct.

@@ -6,5 +6,5 @@ aliases: ["0x3ae22deb5ba5a3e6"]
 
 ```c
 // 0x3AE22DEB5BA5A3E6
-void SET_OBJECT_AS_NO_LONGER_NEEDED();
+void SET_OBJECT_AS_NO_LONGER_NEEDED(Object object);
 ```

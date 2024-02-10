@@ -6,7 +6,7 @@ aliases: ["0xb9c54555ed30fbc4"]
 
 ```c
 // 0xB9C54555ED30FBC4
-bool PLAY_SYNCHRONIZED_MAP_ENTITY_ANIM(float Radius, int SceneId, string AnimName, string AnimDictName, float BlendDelta, float BlendOutDelta, int Flags, float MoverBlendInDelta);
+bool PLAY_SYNCHRONIZED_MAP_ENTITY_ANIM(float Radius, Hash modelHash, int SceneId, string AnimName, string AnimDictName, float BlendDelta, float BlendOutDelta, int Flags, float MoverBlendInDelta);
 ```
 
 Play a synchronized anim on the map entity using the synchronized scene provided. more info...
@@ -16,6 +16,7 @@ Use this to add an entity with a specifically authored anim to a synchronized sc
 
 ## Parameters
 * **Radius**: 
+* **modelHash**: 
 * **SceneId**: 
 * **AnimName**: The name of the paired anim to play. AnimDictName The name of the anim dictionary the anim is in
 * **AnimDictName**: 

@@ -6,7 +6,7 @@ aliases: ["0xb635392a4938b3c3"]
 
 ```c
 // 0xB635392A4938B3C3
-void GET_VEHICLE_TYRE_SMOKE_COLOR(Vehicle vehicle);
+void GET_VEHICLE_TYRE_SMOKE_COLOR(Vehicle vehicle, int red, int green, int blue);
 ```
 
 Gets the tyre smoke color

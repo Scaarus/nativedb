@@ -6,7 +6,7 @@ aliases: ["0x8ee6b53ce13a9794"]
 
 ```c
 // 0x8EE6B53CE13A9794
-bool GET_WATER_HEIGHT_NO_WAVES(Vector3 Pos);
+bool GET_WATER_HEIGHT_NO_WAVES(Vector3 Pos, float Height);
 ```
 
 Gets the height of the water below the position excluding the waves.

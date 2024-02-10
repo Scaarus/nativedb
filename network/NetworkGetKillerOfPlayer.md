@@ -6,7 +6,7 @@ aliases: ["0x2da41ed6e1fcd7a5"]
 
 ```c
 // 0x2DA41ED6E1FCD7A5
-Player NETWORK_GET_KILLER_OF_PLAYER(Player player);
+Player NETWORK_GET_KILLER_OF_PLAYER(Player player, Hash weaponHash);
 ```
 
 Returns the player that has killed the other player last.

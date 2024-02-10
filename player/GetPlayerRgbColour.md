@@ -6,7 +6,7 @@ aliases: ["0xe902ef951dce178f"]
 
 ```c
 // 0xE902EF951DCE178F
-void GET_PLAYER_RGB_COLOUR();
+void GET_PLAYER_RGB_COLOUR(int Red, int Green, int Blue);
 ```
 
 Gets the RGB colour of the player.

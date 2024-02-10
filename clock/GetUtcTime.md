@@ -6,7 +6,7 @@ aliases: ["0x8117e09a19eef4d3"]
 
 ```c
 // 0x8117E09A19EEF4D3
-void GET_UTC_TIME();
+void GET_UTC_TIME(int year, int month, int day, int hour, int min, int sec);
 ```
 
 Same as GET_POSIX_TIME but for UTC.

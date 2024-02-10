@@ -6,5 +6,5 @@ aliases: ["0xdc16122c7a20c933"]
 
 ```c
 // 0xDC16122C7A20C933
-bool GET_MAX_AMMO(Ped ped, Hash weaponHash);
+bool GET_MAX_AMMO(Ped ped, Hash weaponHash, int ReturnMaxAmmo);
 ```

@@ -6,7 +6,7 @@ aliases: ["0x7a1adeef01740a24"]
 
 ```c
 // 0x7A1ADEEF01740A24
-Player NETWORK_GET_DESTROYER_OF_NETWORK_ID(Network network);
+Player NETWORK_GET_DESTROYER_OF_NETWORK_ID(Network network, Hash weaponHash);
 ```
 
 Returns the player index of the player that destroyed the network object with the specified network ID. more info..

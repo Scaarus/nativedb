@@ -6,7 +6,7 @@ aliases: ["0xc33ab876a77f8164"]
 
 ```c
 // 0xC33AB876A77F8164
-bool GET_CLOSEST_PED(float Range, bool ScanRandomPeds, bool ScanMissionPeds, bool CheckPlayerPeds, bool ReturnPedsWithScriptedTasks, int ExclusionPedType);
+bool GET_CLOSEST_PED(float Range, bool ScanRandomPeds, bool ScanMissionPeds, Ped ped, bool CheckPlayerPeds, bool ReturnPedsWithScriptedTasks, int ExclusionPedType);
 ```
 
 Trys to get closest random ped to a coord.

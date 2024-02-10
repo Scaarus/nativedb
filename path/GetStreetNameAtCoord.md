@@ -6,7 +6,7 @@ aliases: ["0x2eb41072b4c1e4c0"]
 
 ```c
 // 0x2EB41072B4C1E4C0
-void GET_STREET_NAME_AT_COORD(Vector3 searchCoords);
+void GET_STREET_NAME_AT_COORD(Vector3 searchCoords, int hashName1, int hashName2);
 ```
 
 Finds the two nearest nodes that have a road name set up for them.

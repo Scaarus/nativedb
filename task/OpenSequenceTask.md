@@ -6,7 +6,7 @@ aliases: ["0xe8854a4326b9e12b"]
 
 ```c
 // 0xE8854A4326B9E12B
-void OPEN_SEQUENCE_TASK();
+void OPEN_SEQUENCE_TASK(Sequence sequence);
 ```
 
 Opens a sequence task.

@@ -6,7 +6,7 @@ aliases: ["0x86a652570e5f25dd"]
 
 ```c
 // 0x86A652570E5F25DD
-void REMOVE_BLIP();
+void REMOVE_BLIP(Blip blip);
 ```
 
 Delete radar blip and sets the variable to NULL
