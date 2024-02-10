@@ -14,165 +14,165 @@ This should only be called once CommandCodeWantsScriptToTakeControl returns true
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| -1 | MENU_UNIQUE_ID_INVALID |
-| 0 | ,	MENU_UNIQUE_ID_START |
-| 1 | ,	MENU_UNIQUE_ID_INFO |
-| 2 | ,	MENU_UNIQUE_ID_FRIENDS |
-| 3 | ,	MENU_UNIQUE_ID_GALLERY |
-| 4 | ,	MENU_UNIQUE_ID_SOCIALCLUB |
-| 5 | ,	MENU_UNIQUE_ID_GAME |
-| 6 | ,	MENU_UNIQUE_ID_SETTINGS |
-| 7 | ,	MENU_UNIQUE_ID_PLAYERS |
-| 8 | ,	MENU_UNIQUE_ID_WEAPONS |
-| 9 | ,	MENU_UNIQUE_ID_MEDALS |
-| 10 | ,	MENU_UNIQUE_ID_STATS |
-| 11 | ,	MENU_UNIQUE_ID_AVAILABLE |
-| 12 | ,	MENU_UNIQUE_ID_VAGOS |
-| 13 | ,	MENU_UNIQUE_ID_COPS |
-| 14 | ,	MENU_UNIQUE_ID_LOST |
-| 15 | ,	MENU_UNIQUE_ID_HOME_MISSION |
-| 16 | ,	MENU_UNIQUE_ID_CORONA_SETTINGS |
-| 17 | ,	MENU_UNIQUE_ID_CORONA_INVITE |
-| 18 | ,	MENU_UNIQUE_ID_STORE |
-| 19 | ,	MENU_UNIQUE_ID_HOME_HELP |
-| 20 | ,	MENU_UNIQUE_ID_HOME_BRIEF |
-| 21 | ,	MENU_UNIQUE_ID_HOME_FEED |
-| 22 | ,	MENU_UNIQUE_ID_SETTINGS_AUDIO |
-| 23 | ,	MENU_UNIQUE_ID_SETTINGS_DISPLAY |
-| 24 | ,	MENU_UNIQUE_ID_SETTINGS_CONTROLS |
-| 25 | ,	MENU_UNIQUE_ID_NEW_GAME |
-| 26 | ,	MENU_UNIQUE_ID_LOAD_GAME |
-| 27 | ,	MENU_UNIQUE_ID_SAVE_GAME |
-| 28 | ,	MENU_UNIQUE_ID_HEADER |
-| 29 | ,	MENU_UNIQUE_ID_HEADER_SAVE_GAME |
-| 30 | ,	MENU_UNIQUE_ID_HOME |
-| 31 | ,	MENU_UNIQUE_ID_CREWS |
-| 32 | ,	MENU_UNIQUE_ID_SETTINGS_SAVEGAME |
-| 33 | ,	MENU_UNIQUE_ID_GALLERY_ITEM |
-| 34 | ,	MENU_UNIQUE_ID_FREEMODE |
-| 35 | ,	MENU_UNIQUE_ID_MP_CHAR_1 |
-| 36 | ,	MENU_UNIQUE_ID_MP_CHAR_2 |
-| 37 | ,	MENU_UNIQUE_ID_MP_CHAR_3 |
-| 38 | ,	MENU_UNIQUE_ID_MP_CHAR_4 |
-| 39 | ,	MENU_UNIQUE_ID_MP_CHAR_5 |
-| 40 | ,	MENU_UNIQUE_ID_HEADER_MULTIPLAYER |
-| 41 | ,	MENU_UNIQUE_ID_HEADER_MY_MP |
-| 42 | ,	MENU_UNIQUE_ID_MISSION_CREATOR |
-| 43 | ,	MENU_UNIQUE_ID_GAME_MP |
-| 44 | ,	MENU_UNIQUE_ID_LEAVE_GAME |
-| 45 | ,	MENU_UNIQUE_ID_HEADER_PRE_LOBBY |
-| 46 | ,	MENU_UNIQUE_ID_HEADER_LOBBY |
-| 47 | ,	MENU_UNIQUE_ID_PARTY |
-| 48 | ,	MENU_UNIQUE_ID_LOBBY |
-| 49 | ,	MENU_UNIQUE_ID_PLACEHOLDER |
-| 50 | ,	MENU_UNIQUE_ID_STATS_CATEGORY |
-| 51 | ,	MENU_UNIQUE_ID_SETTINGS_LIST |
-| 52 | ,	MENU_UNIQUE_ID_SAVE_GAME_LIST |
-| 53 | ,	MENU_UNIQUE_ID_MAP_LEGEND |
-| 54 | ,	MENU_UNIQUE_ID_CREWS_CATEGORY |
-| 55 | ,	MENU_UNIQUE_ID_CREWS_FILTER |
-| 56 | ,	MENU_UNIQUE_ID_CREWS_CARD |
-| 57 | ,	MENU_UNIQUE_ID_SPECTATOR |
-| 58 | ,	MENU_UNIQUE_ID_STATS_LISTITEM |
-| 59 | ,	MENU_UNIQUE_ID_CREW_MINE |
-| 60 | ,	MENU_UNIQUE_ID_CREW_ROCKSTAR |
-| 61 | ,	MENU_UNIQUE_ID_CREW_FRIENDS |
-| 62 | ,	MENU_UNIQUE_ID_CREW_INVITES |
-| 63 | ,	MENU_UNIQUE_ID_CREW_LIST |
-| 64 | ,	MENU_UNIQUE_ID_MISSION_CREATOR_CATEGORY |
-| 65 | ,	MENU_UNIQUE_ID_MISSION_CREATOR_LISTITEM |
-| 66 | ,	MENU_UNIQUE_ID_MISSION_CREATOR_STAT |
-| 67 | ,	MENU_UNIQUE_ID_FRIENDS_LIST |
-| 68 | ,	MENU_UNIQUE_ID_FRIENDS_OPTIONS |
-| 69 | ,	MENU_UNIQUE_ID_HEADER_MP_CHARACTER_SELECT |
-| 70 | ,	MENU_UNIQUE_ID_HEADER_MP_CHARACTER_CREATION |
-| 71 | ,	MENU_UNIQUE_ID_CREATION_HERITAGE |
-| 72 | ,	MENU_UNIQUE_ID_CREATION_LIFESTYLE |
-| 73 | ,	MENU_UNIQUE_ID_CREATION_YOU |
-| 74 | ,	MENU_UNIQUE_ID_PARTY_LIST |
-| 75 | ,	MENU_UNIQUE_ID_REPLAY_MISSION |
-| 76 | ,	MENU_UNIQUE_ID_REPLAY_MISSION_LIST |
-| 77 | ,	MENU_UNIQUE_ID_REPLAY_MISSION_ACTIVITY |
-| 78 | ,	MENU_UNIQUE_ID_CREW |
-| 79 | ,	MENU_UNIQUE_ID_CREATION_HERITAGE_LIST |
-| 80 | ,	MENU_UNIQUE_ID_CREATION_LIFESTYLE_LIST |
-| 81 | ,	MENU_UNIQUE_ID_PLAYERS_LIST |
-| 82 | ,	MENU_UNIQUE_ID_PLAYERS_OPTIONS |
-| 83 | ,	MENU_UNIQUE_ID_PLAYERS_OPTIONS_LIST |
-| 84 | ,	MENU_UNIQUE_ID_PARTY_OPTIONS |
-| 85 | ,	MENU_UNIQUE_ID_PARTY_OPTIONS_LIST |
-| 86 | ,	MENU_UNIQUE_ID_CREW_OPTIONS |
-| 87 | ,	MENU_UNIQUE_ID_CREW_OPTIONS_LIST |
-| 88 | ,	MENU_UNIQUE_ID_FRIENDS_OPTIONS_LIST |
-| 89 | ,	MENU_UNIQUE_ID_FRIENDS_MP |
-| 90 | ,	MENU_UNIQUE_ID_TEAM_SELECT |
-| 91 | ,	MENU_UNIQUE_ID_HOME_DIALOG |
-| 92 | ,	MENU_UNIQUE_ID_HEADER_EMPTY |
-| 93 | ,	MENU_UNIQUE_ID_SETTINGS_FEED |
-| 94 | ,	MENU_UNIQUE_ID_GALLERY_OPTIONS |
-| 95 | ,	MENU_UNIQUE_ID_GALLERY_OPTIONS_LIST |
-| 96 | ,	MENU_UNIQUE_ID_BRIGHTNESS_CALIBRATION |
-| 97 | ,	MENU_UNIQUE_ID_HEADER_TEXT_SELECTION |
-| 98 | ,	MENU_UNIQUE_ID_LOBBY_LIST |
-| 99 | ,	MENU_UNIQUE_ID_LOBBY_LIST_ITEM |
-| 100 | ,	MENU_UNIQUE_ID_HEADER_CORONA |
-| 101 | ,	MENU_UNIQUE_ID_HEADER_CORONA_LOBBY |
-| 102 | ,	MENU_UNIQUE_ID_HEADER_CORONA_JOINED_PLAYERS |
-| 103 | ,	MENU_UNIQUE_ID_HEADER_CORONA_INVITE_PLAYERS |
-| 104 | ,	MENU_UNIQUE_ID_HEADER_CORONA_INVITE_FRIENDS |
-| 105 | ,	MENU_UNIQUE_ID_HEADER_CORONA_INVITE_CREWS |
-| 106 | ,	MENU_UNIQUE_ID_CORONA_JOINED_PLAYERS |
-| 107 | ,	MENU_UNIQUE_ID_CORONA_INVITE_PLAYERS |
-| 108 | ,	MENU_UNIQUE_ID_CORONA_INVITE_FRIENDS |
-| 109 | ,	MENU_UNIQUE_ID_CORONA_INVITE_CREWS |
-| 110 | ,	MENU_UNIQUE_ID_SETTINGS_FACEBOOK |
-| 111 | ,	MENU_UNIQUE_ID_HEADER_JOINING_SCREEN |
-| 112 | ,	MENU_UNIQUE_ID_CORONA_SETTINGS_LIST |
-| 113 | ,	MENU_UNIQUE_ID_CORONA_DETAILS_LIST |
-| 114 | ,	MENU_UNIQUE_ID_CORONA_INVITE_LIST |
-| 115 | ,	MENU_UNIQUE_ID_CORONA_JOINED_LIST |
-| 116 | ,	MENU_UNIQUE_ID_HEADER_CORONA_INVITE_MATCHED_PLAYERS |
-| 117 | ,	MENU_UNIQUE_ID_HEADER_CORONA_INVITE_LAST_JOB_PLAYERS |
-| 118 | ,	MENU_UNIQUE_ID_CORONA_INVITE_MATCHED_PLAYERS |
-| 119 | ,	MENU_UNIQUE_ID_CORONA_INVITE_LAST_JOB_PLAYERS |
-| 120 | ,	MENU_UNIQUE_ID_CREW_LEADERBOARDS |
-| 121 | ,	MENU_UNIQUE_ID_HOME_OPEN_JOBS |
-| 122 | ,	MENU_UNIQUE_ID_CREW_REQUEST |
-| 123 | ,	MENU_UNIQUE_ID_HEADER_RACE |
-| 124 | ,	MENU_UNIQUE_ID_RACE_INFO |
-| 125 | ,	MENU_UNIQUE_ID_RACE_INFOLIST |
-| 126 | ,	MENU_UNIQUE_ID_RACE_LOBBYLIST |
-| 127 | ,	MENU_UNIQUE_ID_HEADER_BETTING |
-| 128 | ,	MENU_UNIQUE_ID_BETTING |
-| 129 | ,	MENU_UNIQUE_ID_BETTING_INFOLIST |
-| 130 | ,	MENU_UNIQUE_ID_BETTING_LOBBYLIST |
-| 131 | ,	MENU_UNIQUE_ID_INCEPT_TRIGGER |
-| 132 | ,	MENU_UNIQUE_ID_SETTINGS_SIXAXIS |
-| 133 | ,	MENU_UNIQUE_ID_REPLAY_RANDOM |
-| 134 | ,	MENU_UNIQUE_ID_CUTSCENE_EMPTY |
-| 135 | ,	MENU_UNIQUE_ID_HOME_NEWSWIRE |
-| 136 | ,	MENU_UNIQUE_ID_SETTINGS_CAMERA |
-| 137 | ,	MENU_UNIQUE_ID_SETTINGS_GRAPHICS |
-| 138 | ,	MENU_UNIQUE_ID_SETTINGS_ADVANCED_GFX |
-| 139 | ,	MENU_UNIQUE_ID_SETTINGS_VOICE_CHAT |
-| 140 | ,	MENU_UNIQUE_ID_SETTINGS_MISC_CONTROLS |
-| 141 | ,	MENU_UNIQUE_ID_HELP |
-| 142 | ,	MENU_UNIQUE_ID_MOVIE_EDITOR |
-| 143 | ,	MENU_UNIQUE_ID_EXIT_TO_WINDOWS |
-| 144 | ,	MENU_UNIQUE_ID_HEADER_LANDING_PAGE |
-| 145 | ,	MENU_UNIQUE_ID_SHOW_ACCOUNT_PICKER |
-| 146 | ,	MENU_UNIQUE_ID_SETTINGS_REPLAY |
-| 147 | ,	MENU_UNIQUE_ID_REPLAY_EDITOR |
-| 148 | ,	MENU_UNIQUE_ID_KEYMAP |
-| 149 | ,	MENU_UNIQUE_ID_KEYMAP_LIST |
-| 150 | ,	MENU_UNIQUE_ID_KEYMAP_LISTITEM |
-| 151 | ,	MENU_UNIQUE_ID_SETTINGS_FIRST_PERSON |
-| 152 | ,	MENU_UNIQUE_ID_HEADER_LANDING_KEYMAPPING |
-| 153 | ,	MENU_UNIQUE_ID_PROCESS_SAVEGAME |
-| 154 | ,	MENU_UNIQUE_ID_PROCESS_SAVEGAME_LIST |
-| 155 | ,	MENU_UNIQUE_ID_IMPORT_SAVEGAME |
-| 156 | ,	MENU_UNIQUE_ID_EXIT_TO_MAIN_MENU |
-| 157 | ,	MENU_UNIQUE_ID_CREDITS |
-| 158 | ,	MENU_UNIQUE_ID_LEGAL |
-| 159 | ,	MENU_UNIQUE_ID_CREDITS_LEGAL |
+| -1 | Invalid |
+| 0 | Start |
+| 1 | Info |
+| 2 | Friends |
+| 3 | Gallery |
+| 4 | Socialclub |
+| 5 | Game |
+| 6 | Settings |
+| 7 | Players |
+| 8 | Weapons |
+| 9 | Medals |
+| 10 | Stats |
+| 11 | Available |
+| 12 | Vagos |
+| 13 | Cops |
+| 14 | Lost |
+| 15 | Home Mission |
+| 16 | Corona Settings |
+| 17 | Corona Invite |
+| 18 | Store |
+| 19 | Home Help |
+| 20 | Home Brief |
+| 21 | Home Feed |
+| 22 | Settings Audio |
+| 23 | Settings Display |
+| 24 | Settings Controls |
+| 25 | New Game |
+| 26 | Load Game |
+| 27 | Save Game |
+| 28 | Header |
+| 29 | Header Save Game |
+| 30 | Home |
+| 31 | Crews |
+| 32 | Settings Savegame |
+| 33 | Gallery Item |
+| 34 | Freemode |
+| 35 | Mp Char 1 |
+| 36 | Mp Char 2 |
+| 37 | Mp Char 3 |
+| 38 | Mp Char 4 |
+| 39 | Mp Char 5 |
+| 40 | Header Multiplayer |
+| 41 | Header My Mp |
+| 42 | Mission Creator |
+| 43 | Game Mp |
+| 44 | Leave Game |
+| 45 | Header Pre Lobby |
+| 46 | Header Lobby |
+| 47 | Party |
+| 48 | Lobby |
+| 49 | Placeholder |
+| 50 | Stats Category |
+| 51 | Settings List |
+| 52 | Save Game List |
+| 53 | Map Legend |
+| 54 | Crews Category |
+| 55 | Crews Filter |
+| 56 | Crews Card |
+| 57 | Spectator |
+| 58 | Stats Listitem |
+| 59 | Crew Mine |
+| 60 | Crew Rockstar |
+| 61 | Crew Friends |
+| 62 | Crew Invites |
+| 63 | Crew List |
+| 64 | Mission Creator Category |
+| 65 | Mission Creator Listitem |
+| 66 | Mission Creator Stat |
+| 67 | Friends List |
+| 68 | Friends Options |
+| 69 | Header Mp Character Select |
+| 70 | Header Mp Character Creation |
+| 71 | Creation Heritage |
+| 72 | Creation Lifestyle |
+| 73 | Creation You |
+| 74 | Party List |
+| 75 | Replay Mission |
+| 76 | Replay Mission List |
+| 77 | Replay Mission Activity |
+| 78 | Crew |
+| 79 | Creation Heritage List |
+| 80 | Creation Lifestyle List |
+| 81 | Players List |
+| 82 | Players Options |
+| 83 | Players Options List |
+| 84 | Party Options |
+| 85 | Party Options List |
+| 86 | Crew Options |
+| 87 | Crew Options List |
+| 88 | Friends Options List |
+| 89 | Friends Mp |
+| 90 | Team Select |
+| 91 | Home Dialog |
+| 92 | Header Empty |
+| 93 | Settings Feed |
+| 94 | Gallery Options |
+| 95 | Gallery Options List |
+| 96 | Brightness Calibration |
+| 97 | Header Text Selection |
+| 98 | Lobby List |
+| 99 | Lobby List Item |
+| 100 | Header Corona |
+| 101 | Header Corona Lobby |
+| 102 | Header Corona Joined Players |
+| 103 | Header Corona Invite Players |
+| 104 | Header Corona Invite Friends |
+| 105 | Header Corona Invite Crews |
+| 106 | Corona Joined Players |
+| 107 | Corona Invite Players |
+| 108 | Corona Invite Friends |
+| 109 | Corona Invite Crews |
+| 110 | Settings Facebook |
+| 111 | Header Joining Screen |
+| 112 | Corona Settings List |
+| 113 | Corona Details List |
+| 114 | Corona Invite List |
+| 115 | Corona Joined List |
+| 116 | Header Corona Invite Matched Players |
+| 117 | Header Corona Invite Last Job Players |
+| 118 | Corona Invite Matched Players |
+| 119 | Corona Invite Last Job Players |
+| 120 | Crew Leaderboards |
+| 121 | Home Open Jobs |
+| 122 | Crew Request |
+| 123 | Header Race |
+| 124 | Race Info |
+| 125 | Race Infolist |
+| 126 | Race Lobbylist |
+| 127 | Header Betting |
+| 128 | Betting |
+| 129 | Betting Infolist |
+| 130 | Betting Lobbylist |
+| 131 | Incept Trigger |
+| 132 | Settings Sixaxis |
+| 133 | Replay Random |
+| 134 | Cutscene Empty |
+| 135 | Home Newswire |
+| 136 | Settings Camera |
+| 137 | Settings Graphics |
+| 138 | Settings Advanced Gfx |
+| 139 | Settings Voice Chat |
+| 140 | Settings Misc Controls |
+| 141 | Help |
+| 142 | Movie Editor |
+| 143 | Exit To Windows |
+| 144 | Header Landing Page |
+| 145 | Show Account Picker |
+| 146 | Settings Replay |
+| 147 | Replay Editor |
+| 148 | Keymap |
+| 149 | Keymap List |
+| 150 | Keymap Listitem |
+| 151 | Settings First Person |
+| 152 | Header Landing Keymapping |
+| 153 | Process Savegame |
+| 154 | Process Savegame List |
+| 155 | Import Savegame |
+| 156 | Exit To Main Menu |
+| 157 | Credits |
+| 158 | Legal |
+| 159 | Credits Legal |
 

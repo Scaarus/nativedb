@@ -24,7 +24,7 @@ Adds a cover point in the given position to cover from direction ( in degrees ).
 | Value | Name |
 | --- | --- |
 | 0 | Low |
-| 2 | Toohigh              // > |
+| 2 | Toohigh |
 | 242 | High <Unused |
 
 

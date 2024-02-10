@@ -12,17 +12,17 @@ migrate_save STAT_MIGRATE_SAVEGAME_GET_STATUS();
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 0 | MIGRATE_SAVE_NONE |
-| 1 | ,MIGRATE_SAVE_FAILED_SOURCE_IN_USE |
-| 2 | ,MIGRATE_SAVE_FAILED_ALREADY_DONE |
-| 3 | ,MIGRATE_SAVE_FAILED_IN_PROGRESS |
-| 4 | ,MIGRATE_SAVE_FAILED_UNLOCK_ALREADY_USED |
-| 5 | ,MIGRATE_SAVE_FAILED_INSUFFICIENT_PRIVILEGES |
-| 6 | ,MIGRATE_SAVE_FAILED_CHEATER |
-| 7 | ,MIGRATE_SAVE_FAILED_BANNED |
-| 8 | ,MIGRATE_SAVE_FAILED_MAINTENANCE |
-| 9 | ,MIGRATE_SAVE_FAILED_ACCT_CREATION_DATE |
-| 10 | ,MIGRATE_SAVE_FAILED_ACCT_AGE |
-| 11 | ,MIGRATE_SAVE_ERROR_DEST_ALREADY_DONE |
-| 12 | ,MIGRATE_SAVE_ERROR_TOO_RICH |
+| 0 | None |
+| 1 | Failed Source In Use |
+| 2 | Failed Already Done |
+| 3 | Failed In Progress |
+| 4 | Failed Unlock Already Used |
+| 5 | Failed Insufficient Privileges |
+| 6 | Failed Cheater |
+| 7 | Failed Banned |
+| 8 | Failed Maintenance |
+| 9 | Failed Acct Creation Date |
+| 10 | Failed Acct Age |
+| 11 | Error Dest Already Done |
+| 12 | Error Too Rich |
 
