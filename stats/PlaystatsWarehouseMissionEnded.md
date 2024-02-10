@@ -6,7 +6,7 @@ aliases: ["0x2d7a9b577e72385e"]
 
 ```c
 // 0x2D7A9B577E72385E
-void PLAYSTATS_WAREHOUSE_MISSION_ENDED();
+void PLAYSTATS_WAREHOUSE_MISSION_ENDED(struct_warehouse_mission_ended data);
 ```
 
 Telemetry for Warehouse mission ended

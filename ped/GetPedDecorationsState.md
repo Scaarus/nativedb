@@ -17,5 +17,5 @@ ped_decorations_state GET_PED_DECORATIONS_STATE(Ped ped);
 | 253 | Ready |
 
 
-Get the state of decorations (tattoosdecals) on a ped, if any
+Get the state of decorations (tattoos/decals) on a ped, if any
 

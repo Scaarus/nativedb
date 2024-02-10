@@ -11,5 +11,5 @@ float ACOS();
 
 Caluclates the arccos.
 
-see http:en.wikipedia.orgwikiInverse_trigonometric_function
+see http://en.wikipedia.org/wiki/Inverse_trigonometric_function
 

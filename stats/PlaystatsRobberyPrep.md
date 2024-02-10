@@ -6,7 +6,7 @@ aliases: ["0x1a67dfbf1f5c3835"]
 
 ```c
 // 0x1A67DFBF1F5C3835
-void PLAYSTATS_ROBBERY_PREP();
+void PLAYSTATS_ROBBERY_PREP(struct_robbery_prep data);
 ```
 
 triggers after a Tuner Robbery setup/prep mission has ended

@@ -11,5 +11,5 @@ void SET_AUDIO_SCENE_VARIABLE(string SceneName, string VariableName, float Value
 
 set the value of a named scene-scoped variable
 
-name of the scene, name of the variable to changeadd, values to set the variable to
+name of the scene, name of the variable to change/add, values to set the variable to
 

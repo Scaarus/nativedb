@@ -10,6 +10,7 @@ void ALLOW_AMBIENT_VEHICLES_TO_AVOID_ADVERSE_CONDITIONS(bool Allow);
 ```
 
 Allowdisable ambient vehicles pathing around adverse conditions
+Depricated, this function no longer does anything, left in to not break scripts
 
 
 ## Parameters

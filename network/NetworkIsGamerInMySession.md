@@ -6,7 +6,7 @@ aliases: ["0x0f10b05ddf8d16e9"]
 
 ```c
 // 0x0F10B05DDF8D16E9
-bool NETWORK_IS_GAMER_IN_MY_SESSION();
+bool NETWORK_IS_GAMER_IN_MY_SESSION(gamer_handle gamerHandle);
 ```
 
 Returns TRUE if the player represented by this gamer handle is in the same session

@@ -6,7 +6,7 @@ aliases: ["0x163f8b586bc95f2a"]
 
 ```c
 // 0x163F8B586BC95F2A
-bool GET_COORDS_AND_ROTATION_OF_CLOSEST_OBJECT_OF_TYPE(Vector3 SphereCentre, float fSphereRadius, Hash modelHash, int RotOrder);
+bool GET_COORDS_AND_ROTATION_OF_CLOSEST_OBJECT_OF_TYPE(Vector3 SphereCentre, float fSphereRadius, Hash modelHash, Vector3 ReturnCoords, Vector3 ReturnRotation, int RotOrder);
 ```
 
 ## RotOrder Values:

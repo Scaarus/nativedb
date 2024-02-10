@@ -6,5 +6,5 @@ aliases: ["0x4a595c32f77dff76"]
 
 ```c
 // 0x4A595C32F77DFF76
-bool NETWORK_INVITE_GAMERS_TO_TRANSITION(int nNumGamers);
+bool NETWORK_INVITE_GAMERS_TO_TRANSITION(transition_invite hInvite, int nNumGamers);
 ```

@@ -6,5 +6,5 @@ aliases: ["0xc9001364b4388f22"]
 
 ```c
 // 0xC9001364B4388F22
-void PLAYSTATS_CASINO_THREE_CARD_POKER_LIGHT();
+void PLAYSTATS_CASINO_THREE_CARD_POKER_LIGHT(struct_casinometriclight data);
 ```

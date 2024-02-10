@@ -9,6 +9,8 @@ aliases: ["0x534aeba6e5ed4cab"]
 vehicle_mission GET_ACTIVE_VEHICLE_MISSION_TYPE(Vehicle vehicle);
 ```
 
+All vehicle mission escort types currently return MISSION_ESCORT_REAR
+
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
@@ -38,5 +40,5 @@ vehicle_mission GET_ACTIVE_VEHICLE_MISSION_TYPE(Vehicle vehicle);
 | 23 | Protect 23 |
 
 
-Returns the VEHICLE_MISSION enum of the vehicle mission currently being executed by vehIndex. If not a vehicle, or not currently running any mission, returns MISSION_NONE. NOTES: All vehicle mission escort types currently return MISSION_ESCORT_REAR
+Returns the VEHICLE_MISSION enum of the vehicle mission currently being executed by vehIndex. If not a vehicle, or not currently running any mission, returns MISSION_NONE.
 

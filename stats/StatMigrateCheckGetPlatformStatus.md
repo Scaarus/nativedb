@@ -6,7 +6,7 @@ aliases: ["0xdeaaf77eb3687e97"]
 
 ```c
 // 0xDEAAF77EB3687E97
-migration_status STAT_MIGRATE_CHECK_GET_PLATFORM_STATUS();
+migration_status STAT_MIGRATE_CHECK_GET_PLATFORM_STATUS(struct_available_save_data data);
 ```
 
 ## Return Type Values:

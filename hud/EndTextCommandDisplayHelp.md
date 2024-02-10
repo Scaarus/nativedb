@@ -19,5 +19,5 @@ void END_TEXT_COMMAND_DISPLAY_HELP(int iHelpId, bool DisplayForever, bool PlaySo
 | 1196 | MAX_HELP_TEXT_SLOTS |
 
 
-can specify an OverrideDuration in milliseconds. Use the default of -1 to use the standard time which is based on the number of words
+You can specify an OverrideDuration in milliseconds. Use the default of -1 to use the standard time which is based on the number of words
 

@@ -6,7 +6,7 @@ aliases: ["0xa00efe4082c4056e"]
 
 ```c
 // 0xA00EFE4082C4056E
-bool SC_INBOX_MESSAGE_GET_DATA_INT(int msgIndex, string name);
+bool SC_INBOX_MESSAGE_GET_DATA_INT(int msgIndex, string name, int value);
 ```
 
 Retrieve the given named value of the given type from the message at the given index.
@@ -15,3 +15,4 @@ Retrieve the given named value of the given type from the message at the given i
 ## Parameters
 * **msgIndex**: index of the message in the inbox
 * **name**: name of teh varialbevalue in the message
+* **value**: The value of the variables if found and set

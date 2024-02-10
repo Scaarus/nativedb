@@ -9,7 +9,8 @@ aliases: ["0x13337b38db572509"]
 bool IS_USING_CURSOR(int control);
 ```
 
-Returns true if the cursor CONTROL_ACTIONS are valid (e.g. on a touchpad, the touchpad is actually being touched). NOTES: When this returns false, the values inside the cursor CONTROL_ACTIONS will be zero.
+Returns true if the cursor CONTROL_ACTIONS are valid (e.g. on a touchpad, the touchpad is actually being touched).
+When this returns false, the values inside the cursor CONTROL_ACTIONS will be zero.
 
 ## control Values:
 | Value | Name |

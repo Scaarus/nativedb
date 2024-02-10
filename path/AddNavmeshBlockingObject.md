@@ -9,6 +9,8 @@ aliases: ["0xfcd5c8e06e502f5a"]
 int ADD_NAVMESH_BLOCKING_OBJECT(Vector3 vSizeXYZ, float fHeading, bool Permanent, int iFlags);
 ```
 
+This command will assert if two objects are added at the same XYZ position, this is order to catch duplicates.
+
 ## iFlags Values:
 | Value | Name |
 | --- | --- |

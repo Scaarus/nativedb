@@ -10,6 +10,7 @@ Any* DATADICT_CREATE_ARRAY(Any* parent, string name);
 ```
 
 Adds an array object to the specified dictionary
+This will overwrite any existing entry in the parent dictionary
 
 
 ## Parameters

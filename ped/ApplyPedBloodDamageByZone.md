@@ -34,7 +34,7 @@ Applies new style ped blood damage on a ped by specifying a specific zone and di
 | 170 | Stab A Stab Style Wound (Streches Along The Suppolied Direction) |
 
 
-you can use the widgets in "PedsPed DamageTest Blood by UV" to test u,v values for different zones, etc
+you can use the widgets in "Peds/Ped Damage/Test Blood by UV" to test u,v values for different zones, etc
 
 
 ## Parameters

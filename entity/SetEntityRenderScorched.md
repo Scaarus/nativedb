@@ -11,5 +11,5 @@ void SET_ENTITY_RENDER_SCORCHED(Entity entity, bool RenderScorched);
 
 Use only on peds or cars.
 
-Setup an entity to be rendered as scorchedburned down
+Setup an entity to be rendered as scorched/burned down
 

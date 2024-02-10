@@ -6,7 +6,7 @@ aliases: ["0xde44a00999b2837d"]
 
 ```c
 // 0xDE44A00999B2837D
-void GET_SHOP_PED_QUERY_PROP(int index);
+void GET_SHOP_PED_QUERY_PROP(int index, scrshoppedprop componentItem);
 ```
 
 Used after calling SETUP_SHOP_PED_APPAREL_QUERY with SHOP_PED_PROP, gets the component data for this index

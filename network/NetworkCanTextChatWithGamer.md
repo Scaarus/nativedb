@@ -6,5 +6,5 @@ aliases: ["0xa150a4f065806b1f"]
 
 ```c
 // 0xA150A4F065806B1F
-bool NETWORK_CAN_TEXT_CHAT_WITH_GAMER();
+bool NETWORK_CAN_TEXT_CHAT_WITH_GAMER(gamer_handle hGamer);
 ```

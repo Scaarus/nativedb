@@ -6,7 +6,7 @@ aliases: ["0xbed9f5693f34ed17"]
 
 ```c
 // 0xBED9F5693F34ED17
-bool STAT_COMMUNITY_GET_HISTORY(int Hash, int depth);
+bool STAT_COMMUNITY_GET_HISTORY(int Hash, int depth, float returnData);
 ```
 
 Retrieve the Community (Stock Market) stat history value with id keyHash and history depth equal to depth. Maximum depth is 5.

@@ -6,5 +6,5 @@ aliases: ["0x14eda9ee27bd1626"]
 
 ```c
 // 0x14EDA9EE27BD1626
-void PLAYSTATS_BC_PROTECTION_RACKET();
+void PLAYSTATS_BC_PROTECTION_RACKET(scrbcprotectionracket data);
 ```

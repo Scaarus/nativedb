@@ -6,5 +6,5 @@ aliases: ["0xe5608ca7bc163a5f"]
 
 ```c
 // 0xE5608CA7BC163A5F
-bool NETWORK_ACCESS_TUNABLE_FLOAT(string szContext, string szTunableName);
+bool NETWORK_ACCESS_TUNABLE_FLOAT(string szContext, string szTunableName, float fTunable);
 ```

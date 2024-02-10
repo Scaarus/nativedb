@@ -11,5 +11,5 @@ void REMOVE_PLAYER_HELMET(Player player, bool ForceRemove);
 
 Will remove the players helmet if they have one.
 
-If ForceRemove is set to TRUE, instantly removes helmet in a pop. If set to FALSE, will take it off in the same way that getting onoff bikes do – playing animation etc.
+If ForceRemove is set to TRUE, instantly removes helmet in a pop. If set to FALSE, will take it off in the same way that getting on/off bikes do – playing animation etc.
 

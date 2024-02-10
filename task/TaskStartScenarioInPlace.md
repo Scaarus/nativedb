@@ -11,5 +11,5 @@ void TASK_START_SCENARIO_IN_PLACE(string ScenarioName, int TimeToLeave, bool Pla
 
 Puts the ped into the given scenario immediately.
 
-scenario is chosen fromhttp:10.11.23.14wikiindex.php?title=SCENARIO_STRINGS
+scenario is chosen fromhttp://10.11.23.14/wiki/index.php?title=SCENARIO_STRINGS
 

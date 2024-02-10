@@ -6,5 +6,5 @@ aliases: ["0x203b381133817079"]
 
 ```c
 // 0x203B381133817079
-void PLAYSTATS_PIMENU_HIDE_OPTIONS();
+void PLAYSTATS_PIMENU_HIDE_OPTIONS(scrpimenuhidesettings data);
 ```

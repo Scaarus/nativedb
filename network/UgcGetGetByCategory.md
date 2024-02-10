@@ -6,7 +6,7 @@ aliases: ["0x678bb03c1a3bd51e"]
 
 ```c
 // 0x678BB03C1A3BD51E
-bool UGC_GET_GET_BY_CATEGORY(int nCategory, int nOffset, int nMaxCount, string szContentType);
+bool UGC_GET_GET_BY_CATEGORY(int nCategory, int nOffset, int nMaxCount, string szContentType, int descriptionsId);
 ```
 
 ## nCategory Values:

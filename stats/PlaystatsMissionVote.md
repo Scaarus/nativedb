@@ -6,7 +6,7 @@ aliases: ["0xc03fab2c2f92289b"]
 
 ```c
 // 0xC03FAB2C2F92289B
-void PLAYSTATS_MISSION_VOTE();
+void PLAYSTATS_MISSION_VOTE(struct_mission_vote data);
 ```
 
 triggers after voting on the mission fail alert screen

@@ -20,5 +20,5 @@ Returns the index of the tattoo that matches the faction and hash parameters. Th
 | 19 | Mp Fm |
 
 
-ify a collectionHash of -1 to check all collections
+Specify a collectionHash of -1 to check all collections
 

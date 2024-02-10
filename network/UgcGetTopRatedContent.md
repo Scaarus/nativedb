@@ -6,5 +6,5 @@ aliases: ["0x5324a0e3e4ce3570"]
 
 ```c
 // 0x5324A0E3E4CE3570
-bool UGC_GET_TOP_RATED_CONTENT(int nOffset, int nMaxCount, string szContentType);
+bool UGC_GET_TOP_RATED_CONTENT(int nOffset, int nMaxCount, string szContentType, int descriptionsId);
 ```

@@ -6,8 +6,11 @@ aliases: ["0xae2206545888ae49"]
 
 ```c
 // 0xAE2206545888AE49
-bool LEADERBOARDS2_WRITE_DATA();
+bool LEADERBOARDS2_WRITE_DATA(leaderboardupdatedata in_lbData);
 ```
 
 Update a leaderboard
 
+
+## Parameters
+* **in_lbData**: Leaderboard information after calling this command you should use the commands to setup the column

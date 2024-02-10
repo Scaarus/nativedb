@@ -6,7 +6,7 @@ aliases: ["0x1e8c308fd312c036"]
 
 ```c
 // 0x1E8C308FD312C036
-void INIT_SHOP_PED_COMPONENT();
+void INIT_SHOP_PED_COMPONENT(scrshoppedcomponent componentItem);
 ```
 
 Initialises a scrShopPedComponent to its default values

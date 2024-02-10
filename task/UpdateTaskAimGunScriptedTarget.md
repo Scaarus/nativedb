@@ -11,5 +11,5 @@ void UPDATE_TASK_AIM_GUN_SCRIPTED_TARGET(Ped ped, Vector3 vTargetPosition, bool 
 
 Updates a current scripted gun task with a target
 
-the target or the vector can be nullzero, but one of them needs to valid. if both are valid the vector is used as an offset
+the target or the vector can be null/zero, but one of them needs to valid. if both are valid the vector is used as an offset
 

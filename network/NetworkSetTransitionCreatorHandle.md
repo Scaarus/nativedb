@@ -6,5 +6,5 @@ aliases: ["0xef26739bcd9907d5"]
 
 ```c
 // 0xEF26739BCD9907D5
-void NETWORK_SET_TRANSITION_CREATOR_HANDLE();
+void NETWORK_SET_TRANSITION_CREATOR_HANDLE(gamer_handle gamerHandle);
 ```

@@ -6,7 +6,7 @@ aliases: ["0x7033eefd9b28088e"]
 
 ```c
 // 0x7033EEFD9B28088E
-void SEND_METRIC_GHOSTING_TO_PLAYER();
+void SEND_METRIC_GHOSTING_TO_PLAYER(gamer_handle hGamer);
 ```
 
 PURPOSE Metric sent when "ghosting to player" is activated

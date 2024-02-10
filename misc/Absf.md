@@ -11,5 +11,5 @@ float ABSF(float n);
 
 Checks the absolute value for an float, any negtaives will be returned as positive.
 
-See http:en.wikipedia.orgwikiAbsolute_value
+See http://en.wikipedia.org/wiki/Absolute_value
 

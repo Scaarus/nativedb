@@ -6,7 +6,7 @@ aliases: ["0x7c9c91ab74a0360f"]
 
 ```c
 // 0x7C9C91AB74A0360F
-void GET_HUD_COLOUR(int HudColour);
+void GET_HUD_COLOUR(int HudColour, int red, int green, int blue, int alpha_param);
 ```
 
 Returns the red, green, blue and alpha components (all integers) of the colourID passed in.

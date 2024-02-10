@@ -6,7 +6,7 @@ aliases: ["0x8bdc7bfc57a81e76"]
 
 ```c
 // 0x8BDC7BFC57A81E76
-bool GET_GROUND_Z_AND_NORMAL_FOR_3D_COORD(Vector3 Position);
+bool GET_GROUND_Z_AND_NORMAL_FOR_3D_COORD(Vector3 Position, float ReturnZ, Vector3 ReturnNormal);
 ```
 
 Trys to store the Z coordinate and surface normal of the highest ground below the given point.

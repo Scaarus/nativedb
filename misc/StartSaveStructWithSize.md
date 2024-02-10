@@ -6,7 +6,7 @@ aliases: ["0xbf737600cddbeadd"]
 
 ```c
 // 0xBF737600CDDBEADD
-void START_SAVE_STRUCT_WITH_SIZE(int SizeOfStruct, string pNameOfStructInstance);
+void START_SAVE_STRUCT_WITH_SIZE(struct StructToSave, int SizeOfStruct, string pNameOfStructInstance);
 ```
 
 More Info

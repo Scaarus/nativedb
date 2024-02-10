@@ -6,7 +6,7 @@ aliases: ["0x4ad490ae1536933b"]
 
 ```c
 // 0x4AD490AE1536933B
-bool NETWORK_CHECK_DATA_MANAGER_FOR_HANDLE(int cardType);
+bool NETWORK_CHECK_DATA_MANAGER_FOR_HANDLE(int cardType, gamer_handle gamerHandle);
 ```
 
 Check to see if the data manager is ready to be queried for a specific player.

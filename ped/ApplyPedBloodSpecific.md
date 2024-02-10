@@ -11,7 +11,7 @@ void APPLY_PED_BLOOD_SPECIFIC(Ped ped, int component, float u, float v, float ro
 
 Applies ped blood damage on a ped by specifying a specific zone, direct UV offsets, rotation, scale, and initial Age (for animation effects). You can also force a specified frame to be used instead of a randomly chosen one.
 
-you can use the widgets in "PedsPed DamageTest Blood by UV (Script Params)" to test u,v values for different zones, rotations, scales, etc
+you can use the widgets in "Peds/Ped Damage/Test Blood by UV (Script Params)" to test u,v values for different zones, rotations, scales, etc
 
 
 ## Parameters

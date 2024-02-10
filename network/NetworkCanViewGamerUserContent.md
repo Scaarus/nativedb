@@ -6,5 +6,5 @@ aliases: ["0xb57a49545ba53ce7"]
 
 ```c
 // 0xB57A49545BA53CE7
-bool NETWORK_CAN_VIEW_GAMER_USER_CONTENT();
+bool NETWORK_CAN_VIEW_GAMER_USER_CONTENT(gamer_handle hGamer);
 ```

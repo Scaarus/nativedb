@@ -11,3 +11,6 @@ bool HAS_ACHIEVEMENT_BEEN_PASSED(int AchievementId);
 
 Verify if an achievement has been completed
 
+
+## Parameters
+* **AchievementId**: Id of achievement to award.

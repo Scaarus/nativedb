@@ -6,5 +6,5 @@ aliases: ["0x9120e8dba3d69273"]
 
 ```c
 // 0x9120E8DBA3D69273
-bool LEADERBOARDS_GET_CACHE_DATA_ROW(int id, int rowIndex);
+bool LEADERBOARDS_GET_CACHE_DATA_ROW(int id, int rowIndex, leaderboardcacheddisplaydata info);
 ```

@@ -9,5 +9,5 @@ aliases: ["0xa46b73faa3460ae1"]
 void SET_WEATHER_PTFX_USE_OVERRIDE_SETTINGS(bool useOverrideSettings);
 ```
 
-Makes the current weather/region ptf use the override settings NOTES:
+Makes the current weather/region ptf use the override settings
 

@@ -6,7 +6,7 @@ aliases: ["0xaab11f6c4adbc2c1"]
 
 ```c
 // 0xAAB11F6C4ADBC2C1
-int NETWORK_CLAN_GET_MEMBERSHIP_COUNT();
+int NETWORK_CLAN_GET_MEMBERSHIP_COUNT(gamer_handle gamerHandle);
 ```
 
 Return the number of crews for the gamer.

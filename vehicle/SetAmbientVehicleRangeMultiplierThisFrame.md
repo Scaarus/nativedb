@@ -9,5 +9,5 @@ aliases: ["0x90b6da738a9a25da"]
 void SET_AMBIENT_VEHICLE_RANGE_MULTIPLIER_THIS_FRAME(float RangeMultiplier);
 ```
 
-Applies a multiplier to the default ranges used for creationremoval of vehicles
+Applies a multiplier to the default ranges used for creation/removal of vehicles
 

@@ -6,5 +6,5 @@ aliases: ["0x584770794d758c18"]
 
 ```c
 // 0x584770794D758C18
-bool UGC_GET_CONTENT_CREATOR_GAMER_HANDLE(int nContentIndex);
+bool UGC_GET_CONTENT_CREATOR_GAMER_HANDLE(int nContentIndex, gamer_handle hGamer);
 ```

@@ -6,5 +6,5 @@ aliases: ["0x57dba049e110f217"]
 
 ```c
 // 0x57DBA049E110F217
-bool NETWORK_ARE_HANDLES_THE_SAME();
+bool NETWORK_ARE_HANDLES_THE_SAME(gamer_handle gamerHandle1, gamer_handle gamerHandle2);
 ```

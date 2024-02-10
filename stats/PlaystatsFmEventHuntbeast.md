@@ -6,5 +6,5 @@ aliases: ["0x2cd90358f67d0aa8"]
 
 ```c
 // 0x2CD90358F67D0AA8
-void PLAYSTATS_FM_EVENT_HUNTBEAST();
+void PLAYSTATS_FM_EVENT_HUNTBEAST(scrfmeventambmission_huntbeast data);
 ```

@@ -11,5 +11,5 @@ void SET_PLAYER_SIMULATE_AIMING(Player player, bool SimulateAiming);
 
 Simulate player aiming input. Disabled on input detection.
 
-Enabledisable player simulating aiming.
+Enable/disable player simulating aiming.
 

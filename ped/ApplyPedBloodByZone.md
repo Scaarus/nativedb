@@ -11,7 +11,7 @@ void APPLY_PED_BLOOD_BY_ZONE(Ped ped, int component, float u, float v, string bl
 
 Applies new style ped blood damage on a ped by specifying a specific zone and direct UV offsets. (similar to the APPLY_PED_DECORATION()).
 
-you can use the widgets in "PedsPed DamageTest Blood by UV (Interactive)" to test u,v values for different zones, etc
+you can use the widgets in "Peds/Ped Damage/Test Blood by UV (Interactive)" to test u,v values for different zones, etc
 
 
 ## Parameters

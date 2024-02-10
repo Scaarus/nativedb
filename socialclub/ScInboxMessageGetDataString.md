@@ -6,5 +6,5 @@ aliases: ["0x7572ef42fc6a9b6d"]
 
 ```c
 // 0x7572EF42FC6A9B6D
-bool SC_INBOX_MESSAGE_GET_DATA_STRING(int msgIndex);
+bool SC_INBOX_MESSAGE_GET_DATA_STRING(int msgIndex, text_label_63 value);
 ```

@@ -6,7 +6,7 @@ aliases: ["0xdfcdb14317a9b361"]
 
 ```c
 // 0xDFCDB14317A9B361
-void PLAYSTATS_HEIST4_PREP();
+void PLAYSTATS_HEIST4_PREP(struct_heist4_prep data);
 ```
 
 triggers after scope/setup and prep missions end for the Island Heist

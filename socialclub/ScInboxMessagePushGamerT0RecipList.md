@@ -9,5 +9,6 @@ aliases: ["0xda024bdbd600f44a"]
 void SC_INBOX_MESSAGE_PUSH_GAMER_T0_RECIP_LIST(gamer_handle hGamer);
 ```
 
-Push this gamer into the recipient list used to send INBOX messages NOTE: Call this function a bunch of times to put together the list, then call an INBOX_SEND function. The list is cleared each time the list is used to send a message
+Push this gamer into the recipient list used to send INBOX messages
+Call this function a bunch of times to put together the list, then call an INBOX_SEND function.  The list is cleared each time the list is used to send a message
 

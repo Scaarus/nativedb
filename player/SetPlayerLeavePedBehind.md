@@ -11,5 +11,5 @@ void SET_PLAYER_LEAVE_PED_BEHIND(Player player, bool LeavePedBehind);
 
 To allow script the capability to control whether a player leaves behind a ped or not.
 
-Enabledisable whether a player leaves behind a ped if they leave a session.
+Enable/disable whether a player leaves behind a ped if they leave a session.
 

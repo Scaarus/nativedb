@@ -6,8 +6,9 @@ aliases: ["0x2b51edbefc301339"]
 
 ```c
 // 0x2B51EDBEFC301339
-bool NETWORK_CLAN_CREWINFO_GET_CREWRANKTITLE(int rank);
+bool NETWORK_CLAN_CREWINFO_GET_CREWRANKTITLE(int rank, text_label_63 outValue);
 ```
 
-Get the crew title for the given rank NOTE: This function checks for the title for the EXACT rank, not the closest;
+Get the crew title for the given rank
+This function checks for the title for the EXACT rank, not the closest;
 

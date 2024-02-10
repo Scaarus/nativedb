@@ -11,5 +11,5 @@ void ATTACH_ROPE_TO_ENTITY(Entity entity, Vector3 worldPosition, int componentPa
 
 Attach rope to an entity. Entity needs to be physical.
 
-Pass 0 to componentPart if no parts exist or want to attach the rope to the main objectpart
+Pass 0 to componentPart if no parts exist or want to attach the rope to the main object/part
 

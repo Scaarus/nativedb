@@ -11,5 +11,5 @@ void TASK_START_SCENARIO_AT_POSITION(string ScenarioName, Vector3 vPosition, flo
 
 The ped will move or warp to the position and heading given, then start the scenario passed.
 
-scenario is chosen fromhttp:10.11.23.14wikiindex.php?title=SCENARIO_STRINGS The z coord of vPosition should be the ground position plus the ped's ground to root offset.
+scenario is chosen fromhttp://10.11.23.14/wiki/index.php?title=SCENARIO_STRINGS The z coord of vPosition should be the ground position plus the ped's ground to root offset.
 

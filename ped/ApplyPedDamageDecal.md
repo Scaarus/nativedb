@@ -24,7 +24,7 @@ Applies a ped damage decoration (decal) to the ped, using the data defined in th
 | 166 | Invalid |
 
 
-you can use the widgets in "PedsPed DamageTest Damage Decals by UV (Interactive)" to test u,v values for different zones, etc
+you can use the widgets in "Peds/Ped Damage/Test Damage Decals by UV (Interactive)" to test u,v values for different zones, etc
 
 
 ## Parameters

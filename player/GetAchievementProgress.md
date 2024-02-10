@@ -11,3 +11,6 @@ int GET_ACHIEVEMENT_PROGRESS(int AchievementId);
 
 Get progress of an achievement to the main player
 
+
+## Parameters
+* **AchievementId**: Id of achievement to award.

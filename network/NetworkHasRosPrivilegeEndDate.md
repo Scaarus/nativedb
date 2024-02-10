@@ -6,7 +6,7 @@ aliases: ["0xc22912b1d85f26b1"]
 
 ```c
 // 0xC22912B1D85F26B1
-bool NETWORK_HAS_ROS_PRIVILEGE_END_DATE(int privilegeId);
+bool NETWORK_HAS_ROS_PRIVILEGE_END_DATE(int privilegeId, int isGranted, ugc_date sDate);
 ```
 
 Returns true if the ROS privilege ID has a valid end Date and the time.

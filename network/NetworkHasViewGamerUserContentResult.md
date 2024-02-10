@@ -6,5 +6,5 @@ aliases: ["0xcca4318e1ab03f1f"]
 
 ```c
 // 0xCCA4318E1AB03F1F
-bool NETWORK_HAS_VIEW_GAMER_USER_CONTENT_RESULT();
+bool NETWORK_HAS_VIEW_GAMER_USER_CONTENT_RESULT(gamer_handle hGamer);
 ```

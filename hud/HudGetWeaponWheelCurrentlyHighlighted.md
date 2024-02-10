@@ -9,7 +9,8 @@ aliases: ["0xa48931185f0536fe"]
 Hash HUD_GET_WEAPON_WHEEL_CURRENTLY_HIGHLIGHTED();
 ```
 
-Gets the last weapon displayed on the wheel NOTES: Will continue to work even if the wheel isn't displayed, so check IF IS_HUD_COMPONENT_ACTIVE(NEW_HUD_WEAPON_WHEEL) first
+Gets the last weapon displayed on the wheel
+Will continue to work even if the wheel isn't displayed, so check IF IS_HUD_COMPONENT_ACTIVE(NEW_HUD_WEAPON_WHEEL) first
 
 ## Return Type Values:
 | Value | Name |

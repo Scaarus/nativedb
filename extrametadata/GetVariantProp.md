@@ -6,7 +6,7 @@ aliases: ["0xd81b7f27bc773e66"]
 
 ```c
 // 0xD81B7F27BC773E66
-void GET_VARIANT_PROP(int nameHash, int variantPropIndex);
+void GET_VARIANT_PROP(int nameHash, int variantPropIndex, int variantPropNameHash, int variantPropEnumValue, int variantPropAnchor);
 ```
 
 Get information about the variant prop at the given index for a specific DLC item

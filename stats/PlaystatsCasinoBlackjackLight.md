@@ -6,5 +6,5 @@ aliases: ["0xd5451c7bf151eb6f"]
 
 ```c
 // 0xD5451C7BF151EB6F
-void PLAYSTATS_CASINO_BLACKJACK_LIGHT();
+void PLAYSTATS_CASINO_BLACKJACK_LIGHT(struct_blackjackmetriclight data);
 ```

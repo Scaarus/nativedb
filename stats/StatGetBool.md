@@ -6,7 +6,7 @@ aliases: ["0x11b5e6d2ae73f48e"]
 
 ```c
 // 0x11B5E6D2AE73F48E
-bool STAT_GET_BOOL(int Hash, int playerIndex);
+bool STAT_GET_BOOL(int Hash, bool data, int playerIndex);
 ```
 
 Get the value of an boolean stat.

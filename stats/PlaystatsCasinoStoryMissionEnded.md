@@ -6,7 +6,7 @@ aliases: ["0xfcccac2bd3c1f180"]
 
 ```c
 // 0xFCCCAC2BD3C1F180
-void PLAYSTATS_CASINO_STORY_MISSION_ENDED(string matchId);
+void PLAYSTATS_CASINO_STORY_MISSION_ENDED(struct_casino_story_mission_ended data, string matchId);
 ```
 
 CASINO

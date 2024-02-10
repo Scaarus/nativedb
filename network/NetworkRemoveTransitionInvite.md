@@ -6,5 +6,5 @@ aliases: ["0x7524b431b2e6f7ee"]
 
 ```c
 // 0x7524B431B2E6F7EE
-void NETWORK_REMOVE_TRANSITION_INVITE();
+void NETWORK_REMOVE_TRANSITION_INVITE(gamer_handle hGamer);
 ```

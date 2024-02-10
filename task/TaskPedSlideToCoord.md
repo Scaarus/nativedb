@@ -11,7 +11,7 @@ void TASK_PED_SLIDE_TO_COORD(Ped ped, Vector3 Position, float headingDegrees, fl
 
 Slides a ped to the given coord.
 
-speed in mss will be clamped between 0.
+speed in ms/s will be clamped between 0.
 
 
 ## Parameters

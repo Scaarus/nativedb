@@ -6,7 +6,7 @@ aliases: ["0xc729991a9065376e"]
 
 ```c
 // 0xC729991A9065376E
-void PLAYSTATS_SELL_CONTRABAND_MISSION();
+void PLAYSTATS_SELL_CONTRABAND_MISSION(scrsellcontrabandmission data);
 ```
 
 Send the telemetry information when finishing a Sell Contraband mission

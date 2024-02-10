@@ -11,5 +11,5 @@ void ATTACH_ENTITIES_TO_ROPE(Entity entity, Entity entity, Vector3 worldPosition
 
 Attach two entities to a rope. Entities need to be physical.
 
-Pass 0 to componentPartA and componentPartB if no parts exist or want to attach the rope to the main objectpart
+Pass 0 to componentPartA and componentPartB if no parts exist or want to attach the rope to the main object/part
 

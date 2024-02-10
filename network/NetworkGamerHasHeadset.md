@@ -6,7 +6,7 @@ aliases: ["0xf2fd55cb574bcc55"]
 
 ```c
 // 0xF2FD55CB574BCC55
-bool NETWORK_GAMER_HAS_HEADSET();
+bool NETWORK_GAMER_HAS_HEADSET(gamer_handle hGamer);
 ```
 
 Interactions with voice chat system using a gamer handle

@@ -6,5 +6,5 @@ aliases: ["0x120364de2845daf8"]
 
 ```c
 // 0x120364DE2845DAF8
-int NETWORK_GET_PLATFORM_PARTY_MEMBERS(int sizeOfData);
+int NETWORK_GET_PLATFORM_PARTY_MEMBERS(network_platform_party_desc partyDesc, int sizeOfData);
 ```

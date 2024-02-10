@@ -13,5 +13,5 @@ Requests the peds enter/exit/in vehicle animationsfor this vehicle.
 
 iVehicleRequestFlags can be from the enum VEHICLE_RESOURCE_FLAGS, then can be combined together using "|"
 
-Used to prevent delays for missions peds getting outin to vehicles waiting for anims to load
+Used to prevent delays for missions peds getting out/in to vehicles waiting for anims to load
 

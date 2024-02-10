@@ -6,5 +6,5 @@ aliases: ["0x71c33b22606cd88a"]
 
 ```c
 // 0x71C33B22606CD88A
-bool NETWORK_IS_GAMER_TALKING();
+bool NETWORK_IS_GAMER_TALKING(gamer_handle hGamer);
 ```

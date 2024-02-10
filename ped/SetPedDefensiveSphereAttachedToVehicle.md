@@ -11,5 +11,5 @@ void SET_PED_DEFENSIVE_SPHERE_ATTACHED_TO_VEHICLE(Vehicle vehicle, Vector3 vCent
 
 Attaches a defensive area SPHERE to a vehicle that the ped will stay inside.
 
-bApplyToSecondaryDefensiveArea makes this command be used with the secondaryfallback defensive area instead of the primary one
+bApplyToSecondaryDefensiveArea makes this command be used with the secondary/fallback defensive area instead of the primary one
 

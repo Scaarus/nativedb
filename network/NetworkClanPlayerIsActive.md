@@ -6,7 +6,7 @@ aliases: ["0xb124b57f571d8f18"]
 
 ```c
 // 0xB124B57F571D8F18
-bool NETWORK_CLAN_PLAYER_IS_ACTIVE();
+bool NETWORK_CLAN_PLAYER_IS_ACTIVE(gamer_handle gamerHandle);
 ```
 
 Returns true if the player primary clan is Active.

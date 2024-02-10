@@ -9,5 +9,5 @@ aliases: ["0xf78b803082d4386f"]
 void SET_WEATHER_PTFX_OVERRIDE_CURR_LEVEL(float currLevel);
 ```
 
-Overrides the current weather/region level NOTES:
+Overrides the current weather/region level
 

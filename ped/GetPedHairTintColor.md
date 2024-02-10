@@ -6,7 +6,7 @@ aliases: ["0x4852fc386e2e1bb5"]
 
 ```c
 // 0x4852FC386E2E1BB5
-void GET_PED_HAIR_TINT_COLOR(int tint);
+void GET_PED_HAIR_TINT_COLOR(int tint, int red, int green, int blue);
 ```
 
 Returns rgb of a hair tint color

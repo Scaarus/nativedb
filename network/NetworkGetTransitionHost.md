@@ -6,5 +6,5 @@ aliases: ["0x65042b9774c4435e"]
 
 ```c
 // 0x65042B9774C4435E
-bool NETWORK_GET_TRANSITION_HOST();
+bool NETWORK_GET_TRANSITION_HOST(gamer_handle gamerHandle);
 ```

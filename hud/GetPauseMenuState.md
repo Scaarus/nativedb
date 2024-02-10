@@ -9,7 +9,8 @@ aliases: ["0x272acd84970869c5"]
 pause_menu_state GET_PAUSE_MENU_STATE();
 ```
 
-Returns the current state of the pause menu NOTES: Because 'active' is a relatively fluid term depending on your needs, this function expands IS_PAUSE_MENU_ACTIVE (which effectively just checks == PM_READY)
+Returns the current state of the pause menu
+Because 'active' is a relatively fluid term depending on your needs, this function expands IS_PAUSE_MENU_ACTIVE (which effectively just checks == PM_READY)
 
 ## Return Type Values:
 | Value | Name |

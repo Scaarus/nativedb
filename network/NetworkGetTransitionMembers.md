@@ -6,7 +6,7 @@ aliases: ["0x73b000f7fbc55829"]
 
 ```c
 // 0x73B000F7FBC55829
-int NETWORK_GET_TRANSITION_MEMBERS(int nMaxMembers);
+int NETWORK_GET_TRANSITION_MEMBERS(transition_members hInvite, int nMaxMembers);
 ```
 
 Gets members in the transition session

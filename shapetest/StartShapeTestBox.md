@@ -9,8 +9,6 @@ aliases: ["0xfe466162c4401d18"]
 Shapetest START_SHAPE_TEST_BOX(Vector3 scrVecPos, Vector3 scrVecDims, Vector3 eulerAngles, int RotOrder, int LOSFlags, Entity entity, int Options);
 ```
 
-NOTES:
-
 ## RotOrder Values:
 | Value | Name |
 | --- | --- |

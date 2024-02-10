@@ -9,7 +9,7 @@ aliases: ["0xfb80ab299d2ee1bd"]
 void TOGGLE_SHOW_OPTIONAL_STUNT_JUMP_CAMERA(bool Show);
 ```
 
-enabledisable optional stunt camera
+enable/disable optional stunt camera
 
 
 ## Parameters

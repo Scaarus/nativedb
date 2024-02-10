@@ -13,5 +13,5 @@ Set progress of an achievement to the main player
 
 
 ## Parameters
-* **AchievementId**: 
+* **AchievementId**: Id of achievement to award.
 * **Progress**: Achievement progress

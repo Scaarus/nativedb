@@ -6,7 +6,7 @@ aliases: ["0xbf371cd2b64212fd"]
 
 ```c
 // 0xBF371CD2B64212FD
-void PLAYSTATS_MISSION_ENDED();
+void PLAYSTATS_MISSION_ENDED(struct_mission_end data);
 ```
 
 Telemetry for missions - called at the end.

@@ -6,5 +6,5 @@ aliases: ["0xcfd115b373c0df63"]
 
 ```c
 // 0xCFD115B373C0DF63
-void UGC_GET_CONTENT_UPDATED_DATE(int nContentIndex);
+void UGC_GET_CONTENT_UPDATED_DATE(int nContentIndex, ugc_date sDate);
 ```

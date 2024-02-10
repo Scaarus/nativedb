@@ -9,5 +9,6 @@ aliases: ["0x577599cced639ca2"]
 void SET_ALLOW_COMMA_ON_TEXT_INPUT(bool AllowComma);
 ```
 
-Allow commans to be used in conjuntion with the file name keyboard type. NOTE: Must be set before opening the text input box. Will automatically return to false once the text input box closes.
+Allow commans to be used in conjuntion with the file name keyboard type.
+Must be set before opening the text input box. Will automatically return to false once the text input box closes.
 

@@ -6,7 +6,7 @@ aliases: ["0xacde7185b374177c"]
 
 ```c
 // 0xACDE7185B374177C
-void NETWORK_SPENT_CALL_PLAYER(int amount, bool fromBank, bool fromBankAndWallet);
+void NETWORK_SPENT_CALL_PLAYER(int amount, gamer_handle handle, bool fromBank, bool fromBankAndWallet);
 ```
 
 Player spent money in a call. handle is for the remote player.

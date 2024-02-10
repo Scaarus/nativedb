@@ -6,7 +6,7 @@ aliases: ["0x8d8adb562f09a245"]
 
 ```c
 // 0x8D8ADB562F09A245
-void PLAYSTATS_BW_BOSSONBOSSDEATHMATCH();
+void PLAYSTATS_BW_BOSSONBOSSDEATHMATCH(scrbwbossonbossdeathmatch data);
 ```
 
 Boss work and challenges metrics

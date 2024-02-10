@@ -11,3 +11,6 @@ bool GIVE_ACHIEVEMENT_TO_PLAYER(int AchievementId);
 
 Award an achievement to the main player
 
+
+## Parameters
+* **AchievementId**: Id of achievement to award.

@@ -10,6 +10,7 @@ void NETWORK_SET_RICH_PRESENCE(int id, struct data, int sizeOfData, int numField
 ```
 
 Sets a rich presence in xbox
+ALL FIELDS HAVE TO BE INTS EXAMPLE:  Declare a structure that represents a rich presence: STRUCT STRUCT_INVITE_EVENT INT field_0 INT field_1 ENDSTRUCT  Use the struct as you which: STRUCT_INVITE_EVENT presence_0 presence_0.field_0 = 10 presence_0.field_1 = 11  Set the rich presence: NETWORK_SET_RICH_PRESENCE(0, presence_0, sizeof(presence_0), 2)  On 360 you set only the presence id and the values for the fields in case the presence has fields, for instance, setting the presence Playing Mission A is set by specifying the presence id and the index of the mission A.
 
 ## id Values:
 | Value | Name |

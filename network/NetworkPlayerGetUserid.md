@@ -6,5 +6,5 @@ aliases: ["0x4927fc39cd0869a0"]
 
 ```c
 // 0x4927FC39CD0869A0
-string NETWORK_PLAYER_GET_USERID(Player player);
+string NETWORK_PLAYER_GET_USERID(Player player, gamer_userid userid);
 ```

@@ -6,7 +6,7 @@ aliases: ["0x3f892caf67444ae7"]
 
 ```c
 // 0x3F892CAF67444AE7
-bool CREATE_INCIDENT(Vector3 vLocation, int iNumUnits, float fTime, int iOverrideRelGroupHash, int assassinsLevel);
+bool CREATE_INCIDENT(Vector3 vLocation, int iNumUnits, float fTime, Incident incident, int iOverrideRelGroupHash, int assassinsLevel);
 ```
 
 ## assassinsLevel Values:

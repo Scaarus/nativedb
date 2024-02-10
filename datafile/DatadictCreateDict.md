@@ -10,6 +10,7 @@ Any* DATADICT_CREATE_DICT(Any* parent, string name);
 ```
 
 Adds a new dictionary object to the specified dictionary
+This will overwrite any existing entry in the parent dictionary
 
 
 ## Parameters

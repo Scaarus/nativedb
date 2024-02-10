@@ -6,5 +6,5 @@ aliases: ["0x97a770beef227e2b"]
 
 ```c
 // 0x97A770BEEF227E2B
-bool UGC_GET_MOST_RECENTLY_PLAYED_CONTENT(int nOffset, int nMaxCount, string szContentType);
+bool UGC_GET_MOST_RECENTLY_PLAYED_CONTENT(int nOffset, int nMaxCount, string szContentType, int descriptionsId);
 ```

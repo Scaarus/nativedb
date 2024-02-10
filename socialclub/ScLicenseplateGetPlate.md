@@ -10,4 +10,5 @@ string SC_LICENSEPLATE_GET_PLATE(int token, int index);
 ```
 
 get the current license plate at a given index retrieved for this token
+Use SC_LICENSEPLATE_GET_CHECK_IS_PENDING() and wait for the request to finish.  Once it's finished, use SC_LICENSEPLATE_GET_COUNT() to get the count of license plates retrieved, then iterate using an index to get individual license plates.
 

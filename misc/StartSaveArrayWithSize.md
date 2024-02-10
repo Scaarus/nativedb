@@ -6,7 +6,7 @@ aliases: ["0x60fe567df1b1af9d"]
 
 ```c
 // 0x60FE567DF1B1AF9D
-void START_SAVE_ARRAY_WITH_SIZE(int SizeOfStruct_NotCount, string pNameOfArrayInstance);
+void START_SAVE_ARRAY_WITH_SIZE(struct ArrayToSave, int SizeOfStruct_NotCount, string pNameOfArrayInstance);
 ```
 
 More Info

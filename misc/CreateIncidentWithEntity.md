@@ -6,7 +6,7 @@ aliases: ["0x05983472f0494e60"]
 
 ```c
 // 0x05983472F0494E60
-bool CREATE_INCIDENT_WITH_ENTITY(Entity entity, int iNumUnits, float fTime, int iOverrideRelGroupHash, int assassinsLevel);
+bool CREATE_INCIDENT_WITH_ENTITY(Entity entity, int iNumUnits, float fTime, Incident incident, int iOverrideRelGroupHash, int assassinsLevel);
 ```
 
 ## assassinsLevel Values:

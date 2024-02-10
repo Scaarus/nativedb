@@ -9,5 +9,5 @@ aliases: ["0x9b2bd3773123ea2f"]
 void BLOCK_DISPATCH_SERVICE_RESOURCE_CREATION(bool Block);
 ```
 
-Prevents a particular dispatch service from creating new vehicles but allows existing pedsvehicles to respond
+Prevents a particular dispatch service from creating new vehicles but allows existing peds/vehicles to respond
 

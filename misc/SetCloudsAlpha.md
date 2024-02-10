@@ -9,5 +9,5 @@ aliases: ["0xf36199225d6d8c86"]
 void SET_CLOUDS_ALPHA(float param_alpha);
 ```
 
-NOTES: Set cloud hats alpha. from 0.0 to 1.0.
+Set cloud hats alpha. from 0.0 to 1.0.
 

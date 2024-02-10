@@ -6,10 +6,11 @@ aliases: ["0xff56381874f82086"]
 
 ```c
 // 0xFF56381874F82086
-bool GET_TATTOO_SHOP_DLC_ITEM_DATA(int tattoo_faction, int tattooIndex);
+bool GET_TATTOO_SHOP_DLC_ITEM_DATA(int tattoo_faction, int tattooIndex, stattooshopitemvalues out_Values);
 ```
 
-Get the total number of messages in the inbox available to be processed NOTE: This number may change (bigger or smaller) as we refresh our local inbox
+Get the total number of messages in the inbox available to be processed
+This number may change (bigger or smaller) as we refresh our local inbox
 
 ## tattoo_faction Values:
 | Value | Name |

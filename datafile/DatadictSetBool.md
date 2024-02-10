@@ -10,6 +10,7 @@ void DATADICT_SET_BOOL(Any* dict, string name, bool value);
 ```
 
 Sets a name-value pair in the specified dictionary
+This will overwrite any existing dictionary entry with the same name
 
 
 ## Parameters

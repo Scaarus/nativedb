@@ -6,5 +6,5 @@ aliases: ["0x164c5ff663790845"]
 
 ```c
 // 0x164C5FF663790845
-void PLAYSTATS_FM_EVENT_KINGOFTHECASTLE();
+void PLAYSTATS_FM_EVENT_KINGOFTHECASTLE(scrfmeventambmission_kingofthecastle data);
 ```

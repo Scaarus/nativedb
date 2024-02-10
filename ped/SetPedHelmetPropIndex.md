@@ -11,5 +11,5 @@ void SET_PED_HELMET_PROP_INDEX(Ped ped, int OverwriteHelmetPropIndex, bool Inclu
 
 Sets the helmet prop index to be used instead of default, -1 uses default. This can't be set if the ped has a helmet on already.
 
-In MP this is can only be used for the bikequad helmets bought in a shop.
+In MP this is can only be used for the bike/quad helmets bought in a shop.
 

@@ -6,8 +6,11 @@ aliases: ["0x93054c88e6aa7c44"]
 
 ```c
 // 0x93054C88E6AA7C44
-void PLAYSTATS_NPC_INVITE();
+void PLAYSTATS_NPC_INVITE(text_label_31 npcNameIdentifier);
 ```
 
 Tells the PlayStats that the player has received an invite from a NPC.
 
+
+## Parameters
+* **npcNameIdentifier**: NPC name identifier.

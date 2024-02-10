@@ -1,0 +1,13 @@
+---
+ns: NETWORK
+aliases: ["0x7788dfe15016a182"]
+---
+## NETWORK_IS_SHOWING_SYSTEM_UI_OR_RECENTLY_REQUESTED_UPSELL
+
+```c
+// 0x7788DFE15016A182
+bool NETWORK_IS_SHOWING_SYSTEM_UI_OR_RECENTLY_REQUESTED_UPSELL();
+```
+
+Show them system UI for upgrading your PS+ account
+

@@ -6,8 +6,11 @@ aliases: ["0xb9bb18e2c40142ed"]
 
 ```c
 // 0xB9BB18E2C40142ED
-bool LEADERBOARDS_CACHE_DATA_ROW();
+bool LEADERBOARDS_CACHE_DATA_ROW(leaderboardcacheddisplaydata info);
 ```
 
 Cache leaderboard display data.
 
+
+## Parameters
+* **info**: Row display data that should be cached.

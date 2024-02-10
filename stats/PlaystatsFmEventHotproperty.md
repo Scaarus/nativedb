@@ -6,5 +6,5 @@ aliases: ["0x84dfc579c2fc214c"]
 
 ```c
 // 0x84DFC579C2FC214C
-void PLAYSTATS_FM_EVENT_HOTPROPERTY();
+void PLAYSTATS_FM_EVENT_HOTPROPERTY(scrfmeventambmission_hotproperty data);
 ```

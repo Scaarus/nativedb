@@ -11,5 +11,5 @@ float GET_OBJECT_FRAGMENT_DAMAGE_HEALTH(Object object, bool HealthPercentageByMa
 
 Get the damage health of a fragment heap.
 
-result = (current unbroken groups original groups) or result = (current mass undamaged mass)
+result = (current unbroken groups / original groups) or result = (current mass undamaged mass)
 

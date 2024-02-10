@@ -6,7 +6,7 @@ aliases: ["0x6d793f03a631fe56"]
 
 ```c
 // 0x6D793F03A631FE56
-void GET_SHOP_PED_QUERY_OUTFIT(int index);
+void GET_SHOP_PED_QUERY_OUTFIT(int index, scrshoppedoutfit outfitItem);
 ```
 
 Used after calling SETUP_SHOP_PED_OUTFIT_QUERY, gets the component data for this index

@@ -13,5 +13,5 @@ Sets if the player can enter a vehicle pressing triangle.
 
 ConsideredByPlayerFlag default = true
 
-Passing FALSE to this command will make the player not consider this vehicle when pressing triangle to enter a vehicle. The player will instead pick the next closest vehicle to stealenter.
+Passing FALSE to this command will make the player not consider this vehicle when pressing triangle to enter a vehicle. The player will instead pick the next closest vehicle to steal/enter.
 

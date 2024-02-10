@@ -6,7 +6,7 @@ aliases: ["0x75d3f7a1b0d9b145"]
 
 ```c
 // 0x75D3F7A1B0D9B145
-void GET_PLAYER_PARACHUTE_TINT_INDEX(Player player);
+void GET_PLAYER_PARACHUTE_TINT_INDEX(Player player, int TintIndex);
 ```
 
 Allows script to control the tint index of the parachute

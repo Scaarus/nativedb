@@ -24,5 +24,5 @@ Gives a ped a scripted gun task with a target
 | 278 | Bike |
 
 
-the target or the vector can be nullzero, but one of them needs to valid. if both are valid the vector is used as an offset
+the target or the vector can be null/zero, but one of them needs to valid. if both are valid the vector is used as an offset
 

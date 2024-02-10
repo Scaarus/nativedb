@@ -6,7 +6,7 @@ aliases: ["0xef56dbabd3cd4887"]
 
 ```c
 // 0xEF56DBABD3CD4887
-void GET_PLAYER_PARACHUTE_SMOKE_TRAIL_COLOR(Player player);
+void GET_PLAYER_PARACHUTE_SMOKE_TRAIL_COLOR(Player player, int Red, int Green, int Blue);
 ```
 
 Allows script to control the color of the parachute smoke trails

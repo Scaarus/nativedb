@@ -9,7 +9,8 @@ aliases: ["0x6d0858b8edfd2b7d"]
 void SET_GAMEPLAY_CAM_RELATIVE_PITCH(float pitch, float smoothRate);
 ```
 
-Sets the gameplay camera's pitch relative to the target entity (ped or vehicle.) NOTE: This won't work for vehicles POVs, if you need to change the camera pitch and want the change on vehicle's POVs as well, please use FORCE_CAMERA_RELATIVE_HEADING_AND_PITCH.
+Sets the gameplay camera's pitch relative to the target entity (ped or vehicle.)
+This won't work for vehicles POVs, if you need to change the camera pitch and want the change on vehicle's POVs as well, please use FORCE_CAMERA_RELATIVE_HEADING_AND_PITCH.
 
 
 ## Parameters

@@ -25,12 +25,12 @@ bool IS_ENTRY_POINT_FOR_SEAT_CLEAR(Ped ped, Vehicle vehicle, int Seat, bool Chec
 | 42 | Extra Right 3 |
 
 
-Command to check if the direct access entry point for a seat is clear (ped can enterexit). This is quite expensive, So don't call it too often!
+Command to check if the direct access entry point for a seat is clear (ped can enter/exit). This is quite expensive, So don't call it too often!
 
 
 ## Parameters
 * **ped**: 
 * **vehicle**: 
 * **Seat**: 
-* **CheckSide**: some vehicle seats can be entered from two sides (e.g. bike jetski), if set to true, this checks the entry point corresponding to the LeftSide (set to FALSE to check the right side entry)
+* **CheckSide**: some vehicle seats can be entered from two sides (e.g. bike / jetski), if set to true, this checks the entry point corresponding to the LeftSide (set to FALSE to check the right side entry)
 * **LeftSide**: 
