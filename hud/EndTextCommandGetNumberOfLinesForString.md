@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0x9040dfb09be75706"]
+---
+## END_TEXT_COMMAND_GET_NUMBER_OF_LINES_FOR_STRING
+
+```c
+// 0x9040DFB09BE75706
+int END_TEXT_COMMAND_GET_NUMBER_OF_LINES_FOR_STRING(float DisplayAtX, float DisplayAtY);
+```

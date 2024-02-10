@@ -1,0 +1,10 @@
+---
+ns: STREAMING
+aliases: ["0x41ca5a33160ea4ab"]
+---
+## IS_NETWORK_LOADING_SCENE
+
+```c
+// 0x41CA5A33160EA4AB
+bool IS_NETWORK_LOADING_SCENE();
+```

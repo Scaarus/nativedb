@@ -1,0 +1,10 @@
+---
+ns: PHYSICS
+aliases: ["0xf2d0e6a75cc05597"]
+---
+## ROPE_ARE_TEXTURES_LOADED
+
+```c
+// 0xF2D0E6A75CC05597
+bool ROPE_ARE_TEXTURES_LOADED();
+```

@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xbad8f2a42b844821"]
+---
+## NETWORK_IS_FRIEND_INDEX_ONLINE
+
+```c
+// 0xBAD8F2A42B844821
+bool NETWORK_IS_FRIEND_INDEX_ONLINE(int friendIndex);
+```

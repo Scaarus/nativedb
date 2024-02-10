@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+aliases: ["0x34d23450f028b0bf"]
+---
+## GET_MAXIMUM_NUMBER_OF_PHOTOS
+
+```c
+// 0x34D23450F028B0BF
+int GET_MAXIMUM_NUMBER_OF_PHOTOS();
+```

@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0x6a7f19756f1a9016"]
+---
+## STAT_GET_BLOCK_SAVES
+
+```c
+// 0x6A7F19756F1A9016
+bool STAT_GET_BLOCK_SAVES();
+```

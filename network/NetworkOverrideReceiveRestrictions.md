@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xddf73e2b1fec5ab4"]
+---
+## NETWORK_OVERRIDE_RECEIVE_RESTRICTIONS
+
+```c
+// 0xDDF73E2B1FEC5AB4
+void NETWORK_OVERRIDE_RECEIVE_RESTRICTIONS(Player player, bool Override);
+```

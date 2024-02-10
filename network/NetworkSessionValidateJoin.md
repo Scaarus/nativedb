@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xc19f6c8e7865a6ff"]
+---
+## NETWORK_SESSION_VALIDATE_JOIN
+
+```c
+// 0xC19F6C8E7865A6FF
+void NETWORK_SESSION_VALIDATE_JOIN(bool JoinSuccessful);
+```

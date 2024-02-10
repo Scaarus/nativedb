@@ -1,0 +1,10 @@
+---
+ns: AUDIO
+aliases: ["0x50b196fc9ed6545b"]
+---
+## GET_AUDIBLE_MUSIC_TRACK_TEXT_ID
+
+```c
+// 0x50B196FC9ED6545B
+int GET_AUDIBLE_MUSIC_TRACK_TEXT_ID();
+```

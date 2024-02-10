@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+aliases: ["0xdc54a7af8b3a14ef"]
+---
+## GET_MAXIMUM_NUMBER_OF_CLOUD_PHOTOS
+
+```c
+// 0xDC54A7AF8B3A14EF
+int GET_MAXIMUM_NUMBER_OF_CLOUD_PHOTOS();
+```

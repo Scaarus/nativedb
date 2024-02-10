@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x4164f227d052e293"]
+---
+## NETWORK_GET_FRIEND_DISPLAY_NAME
+
+```c
+// 0x4164F227D052E293
+string NETWORK_GET_FRIEND_DISPLAY_NAME(int friendIndex);
+```

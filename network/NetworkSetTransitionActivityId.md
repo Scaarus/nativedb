@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x30de938b516f0ad2"]
+---
+## NETWORK_SET_TRANSITION_ACTIVITY_ID
+
+```c
+// 0x30DE938B516F0AD2
+void NETWORK_SET_TRANSITION_ACTIVITY_ID(int nActivityID);
+```

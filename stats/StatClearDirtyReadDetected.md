@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0x9b4bd21d69b1e609"]
+---
+## STAT_CLEAR_DIRTY_READ_DETECTED
+
+```c
+// 0x9B4BD21D69B1E609
+void STAT_CLEAR_DIRTY_READ_DETECTED();
+```

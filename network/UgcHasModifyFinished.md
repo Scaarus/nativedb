@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x299ef3c576773506"]
+---
+## UGC_HAS_MODIFY_FINISHED
+
+```c
+// 0x299EF3C576773506
+bool UGC_HAS_MODIFY_FINISHED();
+```

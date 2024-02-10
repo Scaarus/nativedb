@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0x95cf81bd06ee1887"]
+---
+## REMOVE_MULTIPLAYER_WALLET_CASH
+
+```c
+// 0x95CF81BD06EE1887
+void REMOVE_MULTIPLAYER_WALLET_CASH();
+```

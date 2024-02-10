@@ -1,0 +1,10 @@
+---
+ns: STREAMING
+aliases: ["0xb5a4db34fe89b88a"]
+---
+## INIT_CREATOR_BUDGET
+
+```c
+// 0xB5A4DB34FE89B88A
+void INIT_CREATOR_BUDGET();
+```

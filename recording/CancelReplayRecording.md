@@ -1,0 +1,10 @@
+---
+ns: RECORDING
+aliases: ["0x88bb3507ed41a240"]
+---
+## CANCEL_REPLAY_RECORDING
+
+```c
+// 0x88BB3507ED41A240
+void CANCEL_REPLAY_RECORDING();
+```

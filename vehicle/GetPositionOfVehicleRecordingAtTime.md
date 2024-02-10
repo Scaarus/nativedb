@@ -1,0 +1,10 @@
+---
+ns: VEHICLE
+aliases: ["0xd242728aa6f0fba2"]
+---
+## GET_POSITION_OF_VEHICLE_RECORDING_AT_TIME
+
+```c
+// 0xD242728AA6F0FBA2
+Vector3 GET_POSITION_OF_VEHICLE_RECORDING_AT_TIME(float fTime, string pRecordingName);
+```

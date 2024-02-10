@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+aliases: ["0xe35b38a27e8e7179"]
+---
+## ANIMPOSTFX_GET_CURRENT_TIME
+
+```c
+// 0xE35B38A27E8E7179
+float ANIMPOSTFX_GET_CURRENT_TIME(string effectName);
+```

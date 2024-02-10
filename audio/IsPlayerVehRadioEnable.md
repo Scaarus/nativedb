@@ -1,0 +1,10 @@
+---
+ns: AUDIO
+aliases: ["0x5f43d83fd6738741"]
+---
+## IS_PLAYER_VEH_RADIO_ENABLE
+
+```c
+// 0x5F43D83FD6738741
+bool IS_PLAYER_VEH_RADIO_ENABLE();
+```

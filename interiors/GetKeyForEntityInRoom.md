@@ -1,0 +1,10 @@
+---
+ns: INTERIORS
+aliases: ["0x399685db942336bc"]
+---
+## GET_KEY_FOR_ENTITY_IN_ROOM
+
+```c
+// 0x399685DB942336BC
+int GET_KEY_FOR_ENTITY_IN_ROOM(Entity entity);
+```

@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0x94f12abf9c79e339"]
+---
+## PACKED_STAT_GET_INT_STAT_INDEX
+
+```c
+// 0x94F12ABF9C79E339
+int PACKED_STAT_GET_INT_STAT_INDEX(int stat);
+```

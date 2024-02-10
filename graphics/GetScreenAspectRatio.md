@@ -1,0 +1,17 @@
+---
+ns: GRAPHICS
+aliases: ["0xb2ebe8cbc58b90e9"]
+---
+## GET_SCREEN_ASPECT_RATIO
+
+```c
+// 0xB2EBE8CBC58B90E9
+float GET_SCREEN_ASPECT_RATIO();
+```
+
+```
+DEPRECATED
+DEPRECATED
+
+DEPRECATED
+```

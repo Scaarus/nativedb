@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+aliases: ["0xd2209be128b5418c"]
+---
+## ANIMPOSTFX_STOP_AND_FLUSH_REQUESTS
+
+```c
+// 0xD2209BE128B5418C
+void ANIMPOSTFX_STOP_AND_FLUSH_REQUESTS(string effectName);
+```

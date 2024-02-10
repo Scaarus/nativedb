@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x5a6aa44ff8e931e6"]
+---
+## NETWORK_IS_TRANSITION_PRIVATE
+
+```c
+// 0x5A6AA44FF8E931E6
+bool NETWORK_IS_TRANSITION_PRIVATE();
+```

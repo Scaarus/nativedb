@@ -1,0 +1,10 @@
+---
+ns: AUDIO
+aliases: ["0x92d6a88e64a94430"]
+---
+## STOP_SYNCHRONIZED_AUDIO_EVENT
+
+```c
+// 0x92D6A88E64A94430
+bool STOP_SYNCHRONIZED_AUDIO_EVENT(int SceneId);
+```

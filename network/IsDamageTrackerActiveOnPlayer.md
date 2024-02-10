@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xb2092a1eaa7fd45f"]
+---
+## IS_DAMAGE_TRACKER_ACTIVE_ON_PLAYER
+
+```c
+// 0xB2092A1EAA7FD45F
+bool IS_DAMAGE_TRACKER_ACTIVE_ON_PLAYER(Player player);
+```

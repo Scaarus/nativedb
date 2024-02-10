@@ -1,0 +1,10 @@
+---
+ns: MISC
+aliases: ["0xc7db36c24634f52b"]
+---
+## STOP_END_USER_BENCHMARK
+
+```c
+// 0xC7DB36C24634F52B
+void STOP_END_USER_BENCHMARK();
+```

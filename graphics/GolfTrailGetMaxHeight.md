@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+aliases: ["0xa4819f5e23e2ffad"]
+---
+## GOLF_TRAIL_GET_MAX_HEIGHT
+
+```c
+// 0xA4819F5E23E2FFAD
+float GOLF_TRAIL_GET_MAX_HEIGHT();
+```

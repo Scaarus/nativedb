@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0xc7c6789aa1cfedd0"]
+---
+## REMOVE_MULTIPLAYER_BANK_CASH
+
+```c
+// 0xC7C6789AA1CFEDD0
+void REMOVE_MULTIPLAYER_BANK_CASH();
+```

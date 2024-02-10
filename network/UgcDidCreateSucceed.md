@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x24e4e51fc16305f9"]
+---
+## UGC_DID_CREATE_SUCCEED
+
+```c
+// 0x24E4E51FC16305F9
+bool UGC_DID_CREATE_SUCCEED();
+```

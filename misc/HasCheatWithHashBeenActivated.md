@@ -1,0 +1,14 @@
+---
+ns: MISC
+aliases: ["0x071e2a839de82d90"]
+---
+## HAS_CHEAT_WITH_HASH_BEEN_ACTIVATED
+
+```c
+// 0x071E2A839DE82D90
+bool HAS_CHEAT_WITH_HASH_BEEN_ACTIVATED(int hashOfCheatString, int lengthOfCheatString);
+```
+
+```
+Instead of doing HAS_CHEAT_BEEN_ACTIVATED("YURD21X") it would be more efficent to do HAS_CHEAT_WITH_HASH_BEEN_ACTIVATED( HASH("YURD21X"), GET_LENGTH_OF_LITERAL_STRING("YURD21X")) or even HAS_CHEAT_WITH_HASH_BEEN_ACTIVATED( HASH("YURD21X"), 7)
+```

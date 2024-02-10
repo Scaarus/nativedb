@@ -1,0 +1,10 @@
+---
+ns: STREAMING
+aliases: ["0x0bc3144deb678666"]
+---
+## ADD_MODEL_TO_CREATOR_BUDGET
+
+```c
+// 0x0BC3144DEB678666
+bool ADD_MODEL_TO_CREATOR_BUDGET(Hash modelHash);
+```

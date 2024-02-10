@@ -1,0 +1,14 @@
+---
+ns: PLAYER
+aliases: ["0x290d248e25815ae8"]
+---
+## CLEAR_PLAYER_RESERVE_PARACHUTE_MODEL_OVERRIDE
+
+```c
+// 0x290D248E25815AE8
+void CLEAR_PLAYER_RESERVE_PARACHUTE_MODEL_OVERRIDE(Player player);
+```
+
+```
+An override for the reserve parachute model. clears the call to SET_PLAYER_RESERVE_PARACHUTE_MODEL_OVERRIDE.
+```

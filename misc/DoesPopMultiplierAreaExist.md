@@ -1,0 +1,10 @@
+---
+ns: MISC
+aliases: ["0x1327e2fe9746baee"]
+---
+## DOES_POP_MULTIPLIER_AREA_EXIST
+
+```c
+// 0x1327E2FE9746BAEE
+bool DOES_POP_MULTIPLIER_AREA_EXIST(int index);
+```

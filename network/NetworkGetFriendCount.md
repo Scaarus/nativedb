@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x203f1cfd823b27a4"]
+---
+## NETWORK_GET_FRIEND_COUNT
+
+```c
+// 0x203F1CFD823B27A4
+int NETWORK_GET_FRIEND_COUNT();
+```

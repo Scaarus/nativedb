@@ -1,0 +1,10 @@
+---
+ns: PHYSICS
+aliases: ["0x9b9039dbf2d258c1"]
+---
+## ROPE_LOAD_TEXTURES
+
+```c
+// 0x9B9039DBF2D258C1
+void ROPE_LOAD_TEXTURES();
+```

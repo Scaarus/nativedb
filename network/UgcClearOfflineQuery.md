@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x61a885d3f7cfee9a"]
+---
+## UGC_CLEAR_OFFLINE_QUERY
+
+```c
+// 0x61A885D3F7CFEE9A
+void UGC_CLEAR_OFFLINE_QUERY();
+```

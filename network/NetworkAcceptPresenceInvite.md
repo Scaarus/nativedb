@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xfa91550df9318b22"]
+---
+## NETWORK_ACCEPT_PRESENCE_INVITE
+
+```c
+// 0xFA91550DF9318B22
+bool NETWORK_ACCEPT_PRESENCE_INVITE(int nInviteIndex);
+```

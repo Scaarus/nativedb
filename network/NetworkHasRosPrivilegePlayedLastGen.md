@@ -1,0 +1,14 @@
+---
+ns: NETWORK
+aliases: ["0x593570c289a77688"]
+---
+## NETWORK_HAS_ROS_PRIVILEGE_PLAYED_LAST_GEN
+
+```c
+// 0x593570C289A77688
+bool NETWORK_HAS_ROS_PRIVILEGE_PLAYED_LAST_GEN();
+```
+
+```
+Returns true if the ROS privilege RLROS_PRIVILEGEID_PLAYED_LAST_GEN is granted.
+```

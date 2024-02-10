@@ -1,0 +1,10 @@
+---
+ns: RECORDING
+aliases: ["0x13b350b8ad0eee10"]
+---
+## REPLAY_CANCEL_EVENT
+
+```c
+// 0x13B350B8AD0EEE10
+void REPLAY_CANCEL_EVENT();
+```

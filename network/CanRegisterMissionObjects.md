@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x800dd4721a8b008b"]
+---
+## CAN_REGISTER_MISSION_OBJECTS
+
+```c
+// 0x800DD4721A8B008B
+bool CAN_REGISTER_MISSION_OBJECTS(int NumObjectsToRegister);
+```

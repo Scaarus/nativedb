@@ -1,0 +1,53 @@
+---
+ns: TASK
+aliases: ["0xc20e50aa46d09ca8"]
+---
+## TASK_ENTER_VEHICLE
+
+```c
+// 0xC20E50AA46D09CA8
+void TASK_ENTER_VEHICLE(Vehicle vehicle, int Time, int seat, float MoveBlendRatio, int iFlags, string OverridenClipSet);
+```
+
+```
+Tells a ped to enter a vehicle.
+
+Possible values for seat:
+| Index | Name |
+| --- | --- |
+| -2 | Any Passenger |
+| -1 | Driver |
+| 0 | Front Right |
+| 35 | Back Left Back Left |
+| 36 | Back Right Back Right |
+| 37 | Extra Left 1 |
+| 38 | Extra Right 1 |
+| 39 | Extra Left 2 |
+| 40 | Extra Right 2 |
+| 41 | Extra Left 3 |
+| 42 | Extra Right 3 |
+
+
+Possible values for iFlags:
+| Index | Name |
+| --- | --- |
+| 1 | Resume If Interrupted |
+| 2 | Warp Entry Point |
+| 8 | Jack Anyone |
+| 16 | Warp Ped |
+| 64 | Dont Wait For Vehicle To Stop |
+| 256 | Dont Close Door |
+| 512 | Warp If Door Is Blocked |
+| 4096 | Jump Out |
+| 65536 | Dont Default Warp If Door Blocked |
+| 131072 | Use Left Entry |
+| 262144 | Use Right Entry |
+| 524288 | Just Pull Ped Out |
+| 1048576 | Block Seat Shuffling |
+| 4194304 | Warp If Shuffle Link Is Blocked |
+| 8388608 | Dont Jack Anyone |
+| 16777216 | Wait For Entry Point To Be Clear |
+
+
+If Time = -1 the ped will never warp into the vehicle. VEHICLE_SEAT is in generic.sch
+```

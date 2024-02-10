@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xa1607996431332df"]
+---
+## IS_NETWORK_ID_OWNED_BY_PARTICIPANT
+
+```c
+// 0xA1607996431332DF
+bool IS_NETWORK_ID_OWNED_BY_PARTICIPANT(Network network);
+```

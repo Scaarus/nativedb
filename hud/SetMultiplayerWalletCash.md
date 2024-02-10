@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0xc2d15bef167e27bc"]
+---
+## SET_MULTIPLAYER_WALLET_CASH
+
+```c
+// 0xC2D15BEF167E27BC
+void SET_MULTIPLAYER_WALLET_CASH();
+```

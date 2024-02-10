@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x39917e1b4cb0f911"]
+---
+## NETWORK_MARK_AS_WAITING_ASYNC
+
+```c
+// 0x39917E1B4CB0F911
+void NETWORK_MARK_AS_WAITING_ASYNC(bool IsWaitingAsync);
+```

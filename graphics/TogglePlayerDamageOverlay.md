@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+aliases: ["0xe63d7c6eececb66b"]
+---
+## TOGGLE_PLAYER_DAMAGE_OVERLAY
+
+```c
+// 0xE63D7C6EECECB66B
+void TOGGLE_PLAYER_DAMAGE_OVERLAY(bool Enable);
+```

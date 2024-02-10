@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x520f3282a53d26b7"]
+---
+## NETWORK_IS_TRANSITION_BUSY
+
+```c
+// 0x520F3282A53D26B7
+bool NETWORK_IS_TRANSITION_BUSY();
+```

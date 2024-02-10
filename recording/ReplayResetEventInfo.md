@@ -1,0 +1,10 @@
+---
+ns: RECORDING
+aliases: ["0xf854439efbb3b583"]
+---
+## REPLAY_RESET_EVENT_INFO
+
+```c
+// 0xF854439EFBB3B583
+void REPLAY_RESET_EVENT_INFO();
+```

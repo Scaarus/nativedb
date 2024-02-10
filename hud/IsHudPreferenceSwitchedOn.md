@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0x1930dfa731813ec4"]
+---
+## IS_HUD_PREFERENCE_SWITCHED_ON
+
+```c
+// 0x1930DFA731813EC4
+bool IS_HUD_PREFERENCE_SWITCHED_ON();
+```

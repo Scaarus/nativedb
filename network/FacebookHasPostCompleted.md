@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x62b9fec9a11f10ef"]
+---
+## FACEBOOK_HAS_POST_COMPLETED
+
+```c
+// 0x62B9FEC9A11F10EF
+bool FACEBOOK_HAS_POST_COMPLETED();
+```

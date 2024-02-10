@@ -1,0 +1,10 @@
+---
+ns: VEHICLE
+aliases: ["0x1bbac99c0bc53656"]
+---
+## VEHICLE_SET_ENABLE_RAMP_CAR_SIDE_IMPULSE
+
+```c
+// 0x1BBAC99C0BC53656
+void VEHICLE_SET_ENABLE_RAMP_CAR_SIDE_IMPULSE(bool TakeDamage);
+```

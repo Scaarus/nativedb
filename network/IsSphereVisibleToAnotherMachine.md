@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xd82cf8e64c8729d8"]
+---
+## IS_SPHERE_VISIBLE_TO_ANOTHER_MACHINE
+
+```c
+// 0xD82CF8E64C8729D8
+bool IS_SPHERE_VISIBLE_TO_ANOTHER_MACHINE(Vector3 Pos, float Radius);
+```

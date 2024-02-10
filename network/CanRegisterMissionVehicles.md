@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x7277f1f2e085ee74"]
+---
+## CAN_REGISTER_MISSION_VEHICLES
+
+```c
+// 0x7277F1F2E085EE74
+bool CAN_REGISTER_MISSION_VEHICLES(int NumVehiclesToRegister);
+```

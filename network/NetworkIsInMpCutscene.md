@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x6cc27c9fa2040220"]
+---
+## NETWORK_IS_IN_MP_CUTSCENE
+
+```c
+// 0x6CC27C9FA2040220
+bool NETWORK_IS_IN_MP_CUTSCENE();
+```

@@ -1,0 +1,10 @@
+---
+ns: MISC
+aliases: ["0x437138b6a830166a"]
+---
+## RESET_END_USER_BENCHMARK
+
+```c
+// 0x437138B6A830166A
+void RESET_END_USER_BENCHMARK();
+```

@@ -1,0 +1,10 @@
+---
+ns: AUDIO
+aliases: ["0x8b2fd4560e55dd2d"]
+---
+## PLAY_SYNCHRONIZED_AUDIO_EVENT
+
+```c
+// 0x8B2FD4560E55DD2D
+bool PLAY_SYNCHRONIZED_AUDIO_EVENT(int SceneId);
+```

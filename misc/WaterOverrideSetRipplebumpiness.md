@@ -1,0 +1,10 @@
+---
+ns: MISC
+aliases: ["0x7c9c0b1eeb1f9072"]
+---
+## WATER_OVERRIDE_SET_RIPPLEBUMPINESS
+
+```c
+// 0x7C9C0B1EEB1F9072
+void WATER_OVERRIDE_SET_RIPPLEBUMPINESS(float value);
+```

@@ -1,0 +1,10 @@
+---
+ns: MISC
+aliases: ["0x171bafb3c60389f4"]
+---
+## DOES_POP_MULTIPLIER_SPHERE_EXIST
+
+```c
+// 0x171BAFB3C60389F4
+bool DOES_POP_MULTIPLIER_SPHERE_EXIST(int index);
+```

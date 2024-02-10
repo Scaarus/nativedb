@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xf0210268db0974b1"]
+---
+## NETWORK_REMOVE_PRESENCE_INVITE
+
+```c
+// 0xF0210268DB0974B1
+bool NETWORK_REMOVE_PRESENCE_INVITE(int nInviteIndex);
+```

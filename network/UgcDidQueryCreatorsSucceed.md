@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x4d02279c83be69fe"]
+---
+## UGC_DID_QUERY_CREATORS_SUCCEED
+
+```c
+// 0x4D02279C83BE69FE
+bool UGC_DID_QUERY_CREATORS_SUCCEED();
+```

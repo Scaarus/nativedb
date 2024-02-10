@@ -1,0 +1,14 @@
+---
+ns: SCRIPT
+aliases: ["0x2c83a9da6bffc4f9"]
+---
+## GET_NUMBER_OF_THREADS_RUNNING_THE_SCRIPT_WITH_THIS_HASH
+
+```c
+// 0x2C83A9DA6BFFC4F9
+int GET_NUMBER_OF_THREADS_RUNNING_THE_SCRIPT_WITH_THIS_HASH(int HashOfScriptName);
+```
+
+```
+Replacement for GET_NUMBER_OF_THREADS_RUNNING_THIS_SCRIPT. Should be faster.
+```

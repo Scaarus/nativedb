@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0xb1d2bb1e1631f5b1"]
+---
+## STAT_COMMUNITY_SYNCH_IS_PENDING
+
+```c
+// 0xB1D2BB1E1631F5B1
+bool STAT_COMMUNITY_SYNCH_IS_PENDING();
+```

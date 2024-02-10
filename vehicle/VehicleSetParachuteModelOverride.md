@@ -1,0 +1,14 @@
+---
+ns: VEHICLE
+aliases: ["0x4d610c6b56031351"]
+---
+## VEHICLE_SET_PARACHUTE_MODEL_OVERRIDE
+
+```c
+// 0x4D610C6B56031351
+void VEHICLE_SET_PARACHUTE_MODEL_OVERRIDE();
+```
+
+```
+sets the parachute model to use
+```

@@ -1,0 +1,10 @@
+---
+ns: RECORDING
+aliases: ["0x81cbae94390f9f89"]
+---
+## REPLAY_STOP_EVENT
+
+```c
+// 0x81CBAE94390F9F89
+void REPLAY_STOP_EVENT();
+```

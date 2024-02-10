@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x63f9ee203c3619f2"]
+---
+## NETWORK_IS_PLAYER_IN_MP_CUTSCENE
+
+```c
+// 0x63F9EE203C3619F2
+bool NETWORK_IS_PLAYER_IN_MP_CUTSCENE(Player player);
+```

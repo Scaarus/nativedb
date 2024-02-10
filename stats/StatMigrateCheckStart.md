@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0xc6e0e2616a7576bb"]
+---
+## STAT_MIGRATE_CHECK_START
+
+```c
+// 0xC6E0E2616A7576BB
+bool STAT_MIGRATE_CHECK_START();
+```

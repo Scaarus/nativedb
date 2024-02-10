@@ -1,0 +1,10 @@
+---
+ns: MISC
+aliases: ["0x1312f4b242609ce3"]
+---
+## IS_POP_MULTIPLIER_AREA_NETWORKED
+
+```c
+// 0x1312F4B242609CE3
+bool IS_POP_MULTIPLIER_AREA_NETWORKED(int index);
+```

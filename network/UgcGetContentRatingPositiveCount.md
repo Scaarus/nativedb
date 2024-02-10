@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x87e5c46c187fe0ae"]
+---
+## UGC_GET_CONTENT_RATING_POSITIVE_COUNT
+
+```c
+// 0x87E5C46C187FE0AE
+int UGC_GET_CONTENT_RATING_POSITIVE_COUNT(int nContentIndex, bool Xv);
+```

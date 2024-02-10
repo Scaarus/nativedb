@@ -1,0 +1,10 @@
+---
+ns: AUDIO
+aliases: ["0x6d28dc1671e334fd"]
+---
+## IS_GAME_IN_CONTROL_OF_MUSIC
+
+```c
+// 0x6D28DC1671E334FD
+bool IS_GAME_IN_CONTROL_OF_MUSIC();
+```

@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0x56176892826a4fe8"]
+---
+## GET_AI_PED_VEHICLE_BLIP_INDEX
+
+```c
+// 0x56176892826A4FE8
+Blip GET_AI_PED_VEHICLE_BLIP_INDEX(Ped ped);
+```

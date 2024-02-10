@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x769951e2455e2eb5"]
+---
+## UGC_GET_CONTENT_TOTAL
+
+```c
+// 0x769951E2455E2EB5
+int UGC_GET_CONTENT_TOTAL();
+```

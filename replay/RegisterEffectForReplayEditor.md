@@ -1,0 +1,10 @@
+---
+ns: REPLAY
+aliases: ["0x7e2bd3ef6c205f09"]
+---
+## REGISTER_EFFECT_FOR_REPLAY_EDITOR
+
+```c
+// 0x7E2BD3EF6C205F09
+void REGISTER_EFFECT_FOR_REPLAY_EDITOR(bool UseShallowDOF);
+```

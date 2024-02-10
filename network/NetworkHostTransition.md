@@ -1,0 +1,31 @@
+---
+ns: NETWORK
+aliases: ["0xa60bb5ce242bb254"]
+---
+## NETWORK_HOST_TRANSITION
+
+```c
+// 0xA60BB5CE242BB254
+bool NETWORK_HOST_TRANSITION(int nGameMode, int nMaxPlayers, int nActivityType, int nActivityID, bool IsPrivate, bool IsOpen, bool FromMatchmaking, int nActivityIsland, int nContentCreator, int nHostFlags);
+```
+
+```
+Host a transition session
+
+Possible values for nActivityIsland:
+| Index | Name |
+| --- | --- |
+| -1 | Invalid |
+| 0 | General |
+| 232 | Specific |
+| 233 | Playlist |
+| 234 | Event |
+| 235 | Tournament |
+
+
+Possible values for nContentCreator:
+| Index | Name |
+| --- | --- |
+| 0 | Rockstar Created |
+| 1 | User Created |
+```

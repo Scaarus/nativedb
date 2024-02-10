@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xa75e2b6733da5142"]
+---
+## FACEBOOK_DID_POST_SUCCEED
+
+```c
+// 0xA75E2B6733DA5142
+bool FACEBOOK_DID_POST_SUCCEED();
+```

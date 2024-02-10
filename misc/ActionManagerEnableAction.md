@@ -1,0 +1,10 @@
+---
+ns: MISC
+aliases: ["0xa6a12939f16d85be"]
+---
+## ACTION_MANAGER_ENABLE_ACTION
+
+```c
+// 0xA6A12939F16D85BE
+void ACTION_MANAGER_ENABLE_ACTION(bool Enable);
+```

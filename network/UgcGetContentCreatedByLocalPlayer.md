@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x8c8d2739ba44af0f"]
+---
+## UGC_GET_CONTENT_CREATED_BY_LOCAL_PLAYER
+
+```c
+// 0x8C8D2739BA44AF0F
+bool UGC_GET_CONTENT_CREATED_BY_LOCAL_PLAYER(int nContentIndex);
+```

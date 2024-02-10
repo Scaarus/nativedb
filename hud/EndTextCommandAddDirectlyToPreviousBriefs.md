@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0xcfdbdf5ae59ba0f4"]
+---
+## END_TEXT_COMMAND_ADD_DIRECTLY_TO_PREVIOUS_BRIEFS
+
+```c
+// 0xCFDBDF5AE59BA0F4
+void END_TEXT_COMMAND_ADD_DIRECTLY_TO_PREVIOUS_BRIEFS(bool UsesUnderscore);
+```

@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0x9eb6522ea68f22fe"]
+---
+## IS_RADAR_PREFERENCE_SWITCHED_ON
+
+```c
+// 0x9EB6522EA68F22FE
+bool IS_RADAR_PREFERENCE_SWITCHED_ON();
+```

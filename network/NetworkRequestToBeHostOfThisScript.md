@@ -1,0 +1,14 @@
+---
+ns: NETWORK
+aliases: ["0x741a3d8380319a81"]
+---
+## NETWORK_REQUEST_TO_BE_HOST_OF_THIS_SCRIPT
+
+```c
+// 0x741A3D8380319A81
+void NETWORK_REQUEST_TO_BE_HOST_OF_THIS_SCRIPT();
+```
+
+```
+Requests that the local player becomes the host of the script *** PLEASE DO NOT ABUSE THIS, WE MUST ALWAYS TRY AND ALLOW MIGRATION WHENEVER POSSIBLE!! **
+```

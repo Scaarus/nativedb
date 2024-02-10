@@ -1,0 +1,10 @@
+---
+ns: STREAMING
+aliases: ["0xcce26000e9a6fad7"]
+---
+## SHUTDOWN_CREATOR_BUDGET
+
+```c
+// 0xCCE26000E9A6FAD7
+void SHUTDOWN_CREATOR_BUDGET();
+```

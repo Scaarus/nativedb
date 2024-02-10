@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0x9c51349be6cdfe2c"]
+---
+## LEADERBOARDS_GET_CACHE_EXISTS
+
+```c
+// 0x9C51349BE6CDFE2C
+bool LEADERBOARDS_GET_CACHE_EXISTS(int id);
+```

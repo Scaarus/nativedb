@@ -1,0 +1,14 @@
+---
+ns: NETWORK
+aliases: ["0x5b4f04f19376a0ba"]
+---
+## NETWORK_GET_PRIMARY_CLAN_DATA_SUCCESS
+
+```c
+// 0x5B4F04F19376A0BA
+bool NETWORK_GET_PRIMARY_CLAN_DATA_SUCCESS();
+```
+
+```
+Returns TRUE if data retrieval with NETWORK_GET_PRIMARY_CLAN_DATA_START has been successfull.
+```

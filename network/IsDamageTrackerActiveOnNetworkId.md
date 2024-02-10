@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x6e192e33ad436366"]
+---
+## IS_DAMAGE_TRACKER_ACTIVE_ON_NETWORK_ID
+
+```c
+// 0x6E192E33AD436366
+bool IS_DAMAGE_TRACKER_ACTIVE_ON_NETWORK_ID(Network network);
+```

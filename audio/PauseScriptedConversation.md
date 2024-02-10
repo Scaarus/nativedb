@@ -1,0 +1,10 @@
+---
+ns: AUDIO
+aliases: ["0x8530ad776cd72b12"]
+---
+## PAUSE_SCRIPTED_CONVERSATION
+
+```c
+// 0x8530AD776CD72B12
+void PAUSE_SCRIPTED_CONVERSATION(bool FinishCurrentLine);
+```

@@ -1,0 +1,14 @@
+---
+ns: HUD
+aliases: ["0xe67c6dfd386ea5e7"]
+---
+## ALLOW_DISPLAY_OF_MULTIPLAYER_CASH_TEXT
+
+```c
+// 0xE67C6DFD386EA5E7
+void ALLOW_DISPLAY_OF_MULTIPLAYER_CASH_TEXT(bool Allow);
+```
+
+```
+~> NetworkMultiplayer commands
+```

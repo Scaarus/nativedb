@@ -1,0 +1,10 @@
+---
+ns: HUD
+aliases: ["0xdd21b55df695cd0a"]
+---
+## SET_MULTIPLAYER_BANK_CASH
+
+```c
+// 0xDD21B55DF695CD0A
+void SET_MULTIPLAYER_BANK_CASH();
+```

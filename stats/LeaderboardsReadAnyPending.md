@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0xa31fd15197b192bd"]
+---
+## LEADERBOARDS_READ_ANY_PENDING
+
+```c
+// 0xA31FD15197B192BD
+bool LEADERBOARDS_READ_ANY_PENDING();
+```

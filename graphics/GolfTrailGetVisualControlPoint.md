@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+aliases: ["0xa4664972a9b8f8ba"]
+---
+## GOLF_TRAIL_GET_VISUAL_CONTROL_POINT
+
+```c
+// 0xA4664972A9B8F8BA
+Vector3 GOLF_TRAIL_GET_VISUAL_CONTROL_POINT(int controlPointIndex);
+```

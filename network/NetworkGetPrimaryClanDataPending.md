@@ -1,0 +1,14 @@
+---
+ns: NETWORK
+aliases: ["0xb5074db804e28ce7"]
+---
+## NETWORK_GET_PRIMARY_CLAN_DATA_PENDING
+
+```c
+// 0xB5074DB804E28CE7
+bool NETWORK_GET_PRIMARY_CLAN_DATA_PENDING();
+```
+
+```
+Returns TRUE if data retrieval with NETWORK_GET_PRIMARY_CLAN_DATA_START is pending.
+```
