@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x8806cebfabd3ce05"]
+---
+## NETWORK_GET_PRESENCE_INVITE_IS_TOURNAMENT
+
+```c
+// 0x8806CEBFABD3CE05
+bool NETWORK_GET_PRESENCE_INVITE_IS_TOURNAMENT(int nInviteIndex);
+```

@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x5a34cd9c3c5bec44"]
+---
+## UGC_RELEASE_CACHED_DESCRIPTION
+
+```c
+// 0x5A34CD9C3C5BEC44
+bool UGC_RELEASE_CACHED_DESCRIPTION(int nHash);
+```

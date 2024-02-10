@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x3054f114121c21ea"]
+---
+## UGC_GET_CONTENT_IS_PUBLISHED
+
+```c
+// 0x3054F114121C21EA
+bool UGC_GET_CONTENT_IS_PUBLISHED(int nContentIndex);
+```

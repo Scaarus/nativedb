@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x68049aeff83d8f0a"]
+---
+## NETWORK_IS_IN_TRANSITION
+
+```c
+// 0x68049AEFF83D8F0A
+bool NETWORK_IS_IN_TRANSITION();
+```

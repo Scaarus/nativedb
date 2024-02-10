@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xaeab987727c5a8a4"]
+---
+## UGC_GET_CONTENT_IS_USING_SC_NICKNAME
+
+```c
+// 0xAEAB987727C5A8A4
+bool UGC_GET_CONTENT_IS_USING_SC_NICKNAME(int nContentIndex);
+```

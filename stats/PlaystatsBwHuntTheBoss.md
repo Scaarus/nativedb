@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0x88087ee1f28024ae"]
+---
+## PLAYSTATS_BW_HUNT_THE_BOSS
+
+```c
+// 0x88087EE1F28024AE
+void PLAYSTATS_BW_HUNT_THE_BOSS();
+```

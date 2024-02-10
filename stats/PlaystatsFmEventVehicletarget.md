@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0xbfafdb5faaa5c5ab"]
+---
+## PLAYSTATS_FM_EVENT_VEHICLETARGET
+
+```c
+// 0xBFAFDB5FAAA5C5AB
+void PLAYSTATS_FM_EVENT_VEHICLETARGET();
+```

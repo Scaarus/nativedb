@@ -1,0 +1,13 @@
+---
+ns: NETWORK
+aliases: ["0x9747292807126eda"]
+---
+## NETWORK_IS_MULTIPLAYER_DISABLED
+
+```c
+// 0x9747292807126EDA
+bool NETWORK_IS_MULTIPLAYER_DISABLED();
+```
+
+Return TRUE if multiplayer disabled. Call after NETWORK_CAN_ENTER_MULTIPLAYER
+

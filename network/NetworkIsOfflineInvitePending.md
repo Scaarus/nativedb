@@ -1,0 +1,13 @@
+---
+ns: NETWORK
+aliases: ["0x74698374c45701d2"]
+---
+## NETWORK_IS_OFFLINE_INVITE_PENDING
+
+```c
+// 0x74698374C45701D2
+bool NETWORK_IS_OFFLINE_INVITE_PENDING();
+```
+
+Offline pending invites query
+

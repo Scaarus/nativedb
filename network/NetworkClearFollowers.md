@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x058f43ec59a8631a"]
+---
+## NETWORK_CLEAR_FOLLOWERS
+
+```c
+// 0x058F43EC59A8631A
+void NETWORK_CLEAR_FOLLOWERS();
+```

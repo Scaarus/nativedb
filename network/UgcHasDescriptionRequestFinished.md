@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xebfa8d50addc54c4"]
+---
+## UGC_HAS_DESCRIPTION_REQUEST_FINISHED
+
+```c
+// 0xEBFA8D50ADDC54C4
+bool UGC_HAS_DESCRIPTION_REQUEST_FINISHED(int nHash);
+```

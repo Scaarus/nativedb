@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xc88156ebb786f8d5"]
+---
+## NETWORK_ACTION_FOLLOW_INVITE
+
+```c
+// 0xC88156EBB786F8D5
+bool NETWORK_ACTION_FOLLOW_INVITE();
+```

@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0x14eda9ee27bd1626"]
+---
+## PLAYSTATS_BC_PROTECTION_RACKET
+
+```c
+// 0x14EDA9EE27BD1626
+void PLAYSTATS_BC_PROTECTION_RACKET();
+```

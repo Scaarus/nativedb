@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x4962cc4aa2f345b7"]
+---
+## NETWORK_GET_PRESENCE_INVITE_INVITER
+
+```c
+// 0x4962CC4AA2F345B7
+string NETWORK_GET_PRESENCE_INVITE_INVITER(int nInviteIndex);
+```

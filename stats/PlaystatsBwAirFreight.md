@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0xf06a6f41cb445443"]
+---
+## PLAYSTATS_BW_AIR_FREIGHT
+
+```c
+// 0xF06A6F41CB445443
+void PLAYSTATS_BW_AIR_FREIGHT();
+```

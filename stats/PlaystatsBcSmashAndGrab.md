@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0x06eaf70ae066441e"]
+---
+## PLAYSTATS_BC_SMASH_AND_GRAB
+
+```c
+// 0x06EAF70AE066441E
+void PLAYSTATS_BC_SMASH_AND_GRAB();
+```

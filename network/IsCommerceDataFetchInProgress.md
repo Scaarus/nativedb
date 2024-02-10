@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x1d4dc17c38feaff0"]
+---
+## IS_COMMERCE_DATA_FETCH_IN_PROGRESS
+
+```c
+// 0x1D4DC17C38FEAFF0
+bool IS_COMMERCE_DATA_FETCH_IN_PROGRESS();
+```

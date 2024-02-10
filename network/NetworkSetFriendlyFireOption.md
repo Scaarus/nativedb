@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xf808475fa571d823"]
+---
+## NETWORK_SET_FRIENDLY_FIRE_OPTION
+
+```c
+// 0xF808475FA571D823
+void NETWORK_SET_FRIENDLY_FIRE_OPTION(bool friendlyFire);
+```

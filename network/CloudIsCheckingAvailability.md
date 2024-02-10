@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xc7abac5de675ee3b"]
+---
+## CLOUD_IS_CHECKING_AVAILABILITY
+
+```c
+// 0xC7ABAC5DE675EE3B
+bool CLOUD_IS_CHECKING_AVAILABILITY();
+```

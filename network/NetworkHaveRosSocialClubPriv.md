@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x606e4d3e3cccf3eb"]
+---
+## NETWORK_HAVE_ROS_SOCIAL_CLUB_PRIV
+
+```c
+// 0x606E4D3E3CCCF3EB
+bool NETWORK_HAVE_ROS_SOCIAL_CLUB_PRIV();
+```

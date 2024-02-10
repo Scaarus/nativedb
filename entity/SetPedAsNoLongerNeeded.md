@@ -1,0 +1,10 @@
+---
+ns: ENTITY
+aliases: ["0x2595dd4236549ce3"]
+---
+## SET_PED_AS_NO_LONGER_NEEDED
+
+```c
+// 0x2595DD4236549CE3
+void SET_PED_AS_NO_LONGER_NEEDED();
+```

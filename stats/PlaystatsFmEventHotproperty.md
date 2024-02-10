@@ -1,0 +1,10 @@
+---
+ns: STATS
+aliases: ["0x84dfc579c2fc214c"]
+---
+## PLAYSTATS_FM_EVENT_HOTPROPERTY
+
+```c
+// 0x84DFC579C2FC214C
+void PLAYSTATS_FM_EVENT_HOTPROPERTY();
+```

@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0x8020a73847e0ca7d"]
+---
+## NETWORK_HAVE_ROS_BANNED_PRIV
+
+```c
+// 0x8020A73847E0CA7D
+bool NETWORK_HAVE_ROS_BANNED_PRIV();
+```

@@ -1,0 +1,10 @@
+---
+ns: INTERIORS
+aliases: ["0xb365fc0c4e27ffa7"]
+---
+## CLEAR_ROOM_FOR_ENTITY
+
+```c
+// 0xB365FC0C4E27FFA7
+void CLEAR_ROOM_FOR_ENTITY();
+```

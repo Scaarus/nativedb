@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+aliases: ["0xc87e740d9f3872cc"]
+---
+## UGC_WAS_QUERY_FORCE_CANCELLED
+
+```c
+// 0xC87E740D9F3872CC
+bool UGC_WAS_QUERY_FORCE_CANCELLED();
+```
