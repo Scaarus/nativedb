@@ -9,11 +9,10 @@ aliases: ["0xc59872a5134879c7"]
 void SET_SUBMARINE_CRUSH_DEPTHS(Vehicle vehicle, bool EnableCrushDamage, float VisibleDamageDepth, float AirLeakDepth, float CrushDepth);
 ```
 
-```
 All depths should be negative values.
 
 Needs to be called every frame or it will be reset to the current global defaults.
-```
+
 
 ## Parameters
 * **vehicle**: 

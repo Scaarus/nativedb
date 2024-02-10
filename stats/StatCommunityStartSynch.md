@@ -9,6 +9,5 @@ aliases: ["0x5a556b229a169402"]
 bool STAT_COMMUNITY_START_SYNCH();
 ```
 
-```
 Community stats - start synch operation, check if the operation is pending and if the operation has succeeded.
-```
+

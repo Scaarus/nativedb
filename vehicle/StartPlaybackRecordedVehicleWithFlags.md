@@ -9,11 +9,10 @@ aliases: ["0x7d80fd645d4da346"]
 void START_PLAYBACK_RECORDED_VEHICLE_WITH_FLAGS(Vehicle vehicle, int FileNumber, string pRecordingName, int iFlags, int delayInMillisecondsToRevertIfSwitchedToAI, int Mode);
 ```
 
-```
 Starts the playback for a recorded vehicle
 
-Possible values for Mode:
-| Index | Name |
+## Mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -50,4 +49,4 @@ Possible values for Mode:
 
 
 Flags can be from the enum VEHICLE_RECORDING_PLAYBACK_FLAGS, then can be combined together using "|" delayInMillisecondsToRevertIfSwitchedToAI is used to specify how long the vehicle will wait before reverting back to a normal recording. IF 0 is specified (the default) the car will never revert back
-```
+

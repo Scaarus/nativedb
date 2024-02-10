@@ -9,6 +9,5 @@ aliases: ["0xfca9373ef340ac0a"]
 string GET_ONLINE_VERSION();
 ```
 
-```
 Returns string of the online version
-```
+

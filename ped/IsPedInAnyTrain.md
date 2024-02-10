@@ -9,6 +9,5 @@ aliases: ["0x6f972c1ab75a1ed0"]
 bool IS_PED_IN_ANY_TRAIN(Ped ped);
 ```
 
-```
 Checks that the ped is in a train model.
-```
+

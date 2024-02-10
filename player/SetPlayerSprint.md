@@ -9,6 +9,5 @@ aliases: ["0xa01b8075d8b92df4"]
 void SET_PLAYER_SPRINT(bool DisableSprint);
 ```
 
-```
 Sets if the player can sprint.
-```
+

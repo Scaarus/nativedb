@@ -9,6 +9,5 @@ aliases: ["0x49c32d60007afa47"]
 bool IS_PLAYER_CONTROL_ON();
 ```
 
-```
 Checks if the players control is on.
-```
+

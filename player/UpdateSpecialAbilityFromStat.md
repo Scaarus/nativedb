@@ -9,6 +9,5 @@ aliases: ["0xffee8fa29ab9a18e"]
 void UPDATE_SPECIAL_ABILITY_FROM_STAT(Player player, int abilitySlot);
 ```
 
-```
 Use after setting the special ability value through the stat variable
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x3a3d5568af297cd5"]
 bool CLOUD_DID_REQUEST_SUCCEED(int nRequestID);
 ```
 
-```
 Checks if a cloud request was successful (only valid for one frame)
-```
+

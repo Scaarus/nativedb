@@ -9,6 +9,5 @@ aliases: ["0x7ff548385680673f"]
 void REMOVE_SCRIPT_FIRE(Fire fire);
 ```
 
-```
 Removes a script fire, call only once per fire.
-```
+

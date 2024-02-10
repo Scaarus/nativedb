@@ -9,11 +9,10 @@ aliases: ["0xdedf1c8bd47c2200"]
 int GET_VEHICLE_CLASS_FROM_NAME(Hash modelHash);
 ```
 
-```
 Returns the class of the specified vehicle
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Compact |
 | 287 | Sedan |
@@ -38,4 +37,4 @@ Possible return values:
 | 306 | Commercial |
 | 307 | Rail |
 | 308 | Open Wheel |
-```
+

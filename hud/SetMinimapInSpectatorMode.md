@@ -9,6 +9,5 @@ aliases: ["0x1a5cd7752dd28cd3"]
 void SET_MINIMAP_IN_SPECTATOR_MODE(bool OnOff, Ped ped);
 ```
 
-```
 sets the minimap into spector mode, passing in a ped index (or off)
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x8c338e0263e4fd19"]
 void TASK_CHAT_TO_PED(Ped ped, int ChatFlags, Vector3 vOptionalGoToPosition, float fOptionalHeading, float fIdleTime);
 ```
 
-```
 Tells the ped to chat to a ped (see wiki)
 
-Possible values for ChatFlags:
-| Index | Name |
+## ChatFlags Values:
+| Value | Name |
 | --- | --- |
 | 1 | Is Initiator |
 | 2 | Do Quick Chat |
@@ -25,4 +24,4 @@ Possible values for ChatFlags:
 
 
 vOptionalGoToPosition, fOptionalHeading and fIdleTime are only used if CF_GO_TO_SPECIFIC_POS and CF_USE_CUSTOM_HEADING are set fIdleTime specifies an extra wait period after an anim has finished, calls to IS_CHATTING_PED_PLAYING_ANIM will return false during this period
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xcea04d83135264cc"]
 void SET_PED_ARMOUR(Ped ped, int Armour);
 ```
 
-```
 Sets the peds armour
-```
+

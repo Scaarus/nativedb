@@ -9,6 +9,5 @@ aliases: ["0x5db8010ee71fdef2"]
 void SET_VEHICLE_FORCE_REVERSE_WARNING(Vehicle vehicle, bool ForceReverseWarning);
 ```
 
-```
 Force the reversing beep to be active, even though the vehicle may not be in reverse gear (nb. the beep will not actually play unless the vehicle is also moving backwards)
-```
+

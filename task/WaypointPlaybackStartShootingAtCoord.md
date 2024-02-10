@@ -9,9 +9,8 @@ aliases: ["0x057a25cfcc9db671"]
 void WAYPOINT_PLAYBACK_START_SHOOTING_AT_COORD(Ped ped, Vector3 vTargetCoords, bool RunAndGun, int FiringPatternHash);
 ```
 
-```
-Possible values for FiringPatternHash:
-| Index | Name |
+## FiringPatternHash Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 16 | 1 Burst Uses Firing Type Default As It'S No Longer A Valid Type |
@@ -19,4 +18,4 @@ Possible values for FiringPatternHash:
 | 18 | Random Bursts Fire Random Bursts For The Time, Can Change The Frequency Using Set Ped Shoot Rate |
 | 19 | Clip Uses Firing Type Default As It'S No Longer A Valid Type |
 | 20 | Continuous Fires At The Maximum Rate For The Duration, Reloading If The Clips Empty |
-```
+

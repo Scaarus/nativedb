@@ -9,6 +9,5 @@ aliases: ["0xb13c14f66a00d047"]
 void SET_CAM_FOV(Camera camera, float FOV);
 ```
 
-```
 Set the camera's field of view (in degrees.)
-```
+

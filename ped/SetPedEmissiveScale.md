@@ -9,6 +9,5 @@ aliases: ["0x4e90d746056e273d"]
 void SET_PED_EMISSIVE_SCALE(Ped ped, float scale);
 ```
 
-```
 Sets ped emissive scale
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xd3dbce61a490be02"]
 void TASK_LEAVE_VEHICLE(Vehicle vehicle, int iFlags);
 ```
 
-```
 Tells a ped to leave a vehicle
 
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 1 | Resume If Interrupted |
 | 2 | Warp Entry Point |
@@ -31,4 +30,4 @@ Possible values for iFlags:
 | 4194304 | Warp If Shuffle Link Is Blocked |
 | 8388608 | Dont Jack Anyone |
 | 16777216 | Wait For Entry Point To Be Clear |
-```
+

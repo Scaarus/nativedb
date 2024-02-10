@@ -9,6 +9,5 @@ aliases: ["0x651d3228960d08af"]
 void LINK_STATIC_EMITTER_TO_ENTITY(string EmitterName, Entity entity);
 ```
 
-```
 Link a static emitter to the given entity
-```
+

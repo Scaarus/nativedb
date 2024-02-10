@@ -9,6 +9,5 @@ aliases: ["0x5991a01434ce9677"]
 bool ARE_WINGS_OF_PLANE_INTACT(Vehicle vehicle);
 ```
 
-```
 Checks if a wings of plane are intact
-```
+

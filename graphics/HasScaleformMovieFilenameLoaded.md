@@ -9,8 +9,7 @@ aliases: ["0x0c1c5d756fb5f337"]
 bool HAS_SCALEFORM_MOVIE_FILENAME_LOADED(string filename);
 ```
 
-```
 returns true or false on whether the movie has fully loaded or not
 
 to check if a movie has streamed in yet
-```
+

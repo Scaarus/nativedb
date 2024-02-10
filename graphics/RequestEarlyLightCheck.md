@@ -9,6 +9,5 @@ aliases: ["0x98edf76a7271e4f2"]
 void REQUEST_EARLY_LIGHT_CHECK();
 ```
 
-```
 Request an early visibility check for shadowed lights.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xda1f1b7be1a8766f"]
 void SET_PED_ALLOWED_TO_DUCK(Ped ped, bool AllowedToDuckFlag);
 ```
 
-```
 Sets if the ped is allowed to duck.
-```
+

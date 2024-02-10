@@ -9,6 +9,5 @@ aliases: ["0xd9d0e694c8282c96"]
 float GET_CAM_SPLINE_NODE_PHASE(Camera camera);
 ```
 
-```
 Gets the phase of spline cam between the current node and its next one. Return phase will be between be 0.0 and 1.0
-```
+

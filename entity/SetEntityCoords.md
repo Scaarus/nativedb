@@ -9,11 +9,10 @@ aliases: ["0x06843da7060a026b"]
 void SET_ENTITY_COORDS(Entity entity, Vector3 NewPosition, bool DoDeadCheck, bool KeepTasks, bool KeepIK, bool DoWarp);
 ```
 
-```
 Sets the entity's coords (peds add an -1m offset from the peds origin).
 
 If you want to set the coords of a ped in a vehicle, use SET_PED_COORDS_KEEP_VEHICLE. If you set the z component of VecNewCoors to INVALID_WORLD_Z this command to automatically find the ground z for your entity if there is collision.
-```
+
 
 ## Parameters
 * **entity**: 

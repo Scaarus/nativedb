@@ -9,6 +9,5 @@ aliases: ["0xc219887ca3e65c41"]
 int GET_PLAYER_PARACHUTE_MODEL_OVERRIDE(Player player);
 ```
 
-```
 Gets overriden parachute modelname hash. Returns 0 if invalid.
-```
+

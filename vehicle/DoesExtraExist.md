@@ -9,6 +9,5 @@ aliases: ["0x1262d55792428154"]
 bool DOES_EXTRA_EXIST(int Extra);
 ```
 
-```
 does the specified extra exist
-```
+

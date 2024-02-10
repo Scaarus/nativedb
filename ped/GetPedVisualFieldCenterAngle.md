@@ -9,6 +9,5 @@ aliases: ["0xef2c71a32cad5fbd"]
 float GET_PED_VISUAL_FIELD_CENTER_ANGLE(Ped ped);
 ```
 
-```
 Retrieves the central angle
-```
+

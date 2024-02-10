@@ -9,6 +9,5 @@ aliases: ["0x4e72bbdbca58a3db"]
 int GET_STREAM_PLAY_TIME();
 ```
 
-```
 Current stream play time.
-```
+

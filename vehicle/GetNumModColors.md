@@ -9,11 +9,10 @@ aliases: ["0xa551be18c11a476d"]
 int GET_NUM_MOD_COLORS(int colorType, bool ase);
 ```
 
-```
 Returns the number of available color for a specific color type. More...
 
-Possible values for colorType:
-| Index | Name |
+## colorType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Metallic |
 | 277 | Classic |
@@ -26,4 +25,4 @@ Possible values for colorType:
 
 
 If base is false it willr eturn the index of the specular color index. This only applies for MCT_PEARLESCENT, the rest have only one index
-```
+

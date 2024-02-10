@@ -9,6 +9,5 @@ aliases: ["0x33f2e3fe70eaae1d"]
 int GET_NUM_MOD_KITS(Vehicle vehicle);
 ```
 
-```
 Checks if the vehicle has a search light.
-```
+

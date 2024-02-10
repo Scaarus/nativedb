@@ -9,6 +9,5 @@ aliases: ["0x971da0055324d033"]
 void SET_OBJECT_TINT_INDEX(Object object, int TintIndex);
 ```
 
-```
 Sets the tint index on an object
-```
+

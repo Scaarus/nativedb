@@ -9,6 +9,5 @@ aliases: ["0xd3c2e180a40f031e"]
 bool IS_CUTSCENE_PLAYING();
 ```
 
-```
 Checks if the cutscene is playing.
-```
+

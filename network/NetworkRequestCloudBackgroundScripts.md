@@ -9,6 +9,5 @@ aliases: ["0x924426bffd82e915"]
 bool NETWORK_REQUEST_CLOUD_BACKGROUND_SCRIPTS();
 ```
 
-```
 Requests the background scripts
-```
+

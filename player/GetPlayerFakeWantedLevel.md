@@ -9,6 +9,5 @@ aliases: ["0x56105e599cab0efa"]
 int GET_PLAYER_FAKE_WANTED_LEVEL(Player player);
 ```
 
-```
 Get the fake wanted level for a player
-```
+

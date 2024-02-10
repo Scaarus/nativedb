@@ -9,6 +9,5 @@ aliases: ["0x968f270e39141eca"]
 void REMOVE_MULTIPLAYER_HUD_CASH();
 ```
 
-```
 removes both bank and wallet cash
-```
+

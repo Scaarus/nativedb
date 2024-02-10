@@ -9,6 +9,5 @@ aliases: ["0x552369f549563ad5"]
 void DISTANT_COP_CAR_SIRENS(bool play);
 ```
 
-```
 Plays/stop a fake distant siren sound.
-```
+

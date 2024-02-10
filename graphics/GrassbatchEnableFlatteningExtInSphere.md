@@ -9,6 +9,5 @@ aliases: ["0xaae9be70ec7c69ab"]
 void GRASSBATCH_ENABLE_FLATTENING_EXT_IN_SPHERE(Vector3 center, float radius, Vector3 lookVec, float groundZ);
 ```
 
-```
 Flattens Grass Batches
-```
+

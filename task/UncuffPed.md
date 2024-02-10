@@ -9,6 +9,5 @@ aliases: ["0x67406f2c8f87fc4f"]
 void UNCUFF_PED(Ped ped);
 ```
 
-```
 Forcibly uncuffs the given ped
-```
+

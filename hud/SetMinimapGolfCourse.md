@@ -9,11 +9,10 @@ aliases: ["0x71bdb63dbaf8da59"]
 void SET_MINIMAP_GOLF_COURSE(int iGolfCourseHole);
 ```
 
-```
 sets the minimap to show the golf course and be in "golf course mode"
 
-Possible values for iGolfCourseHole:
-| Index | Name |
+## iGolfCourseHole Values:
+| Value | Name |
 | --- | --- |
 | 1 | 1 |
 | 883 | 2 |
@@ -25,4 +24,4 @@ Possible values for iGolfCourseHole:
 | 889 | 8 |
 | 890 | 9 |
 | 891 | All |
-```
+

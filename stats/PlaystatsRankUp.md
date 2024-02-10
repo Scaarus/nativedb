@@ -9,6 +9,5 @@ aliases: ["0xc7f2de41d102bfb4"]
 void PLAYSTATS_RANK_UP(int rank);
 ```
 
-```
 Tells the PlayStats that the player has just ranked UP.
-```
+

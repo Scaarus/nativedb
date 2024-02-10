@@ -9,6 +9,5 @@ aliases: ["0x61767f73eaceed21"]
 bool WAS_PED_KNOCKED_OUT(Ped ped);
 ```
 
-```
 Checks if a ped was knocked out from regular melee
-```
+

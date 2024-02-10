@@ -9,6 +9,5 @@ aliases: ["0xf9f2922717b819ec"]
 bool STAT_IS_PLAYER_VEHICLE_ABOVE_OCEAN();
 ```
 
-```
 PURPOSE Get the current flying altitude
-```
+

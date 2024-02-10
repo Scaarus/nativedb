@@ -9,6 +9,5 @@ aliases: ["0x3f7325574e41b44d"]
 void SET_PED_HELMET_VISOR_PROP_INDICES(Ped ped, bool VisorUp, int HelmetVisorUpPropId, int HelmetVisorDownPropId);
 ```
 
-```
 Sets up prop ID for helmet versions with visor up and down, and sets if current equipped version has visor up or down
-```
+

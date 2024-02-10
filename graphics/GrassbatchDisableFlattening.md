@@ -9,6 +9,5 @@ aliases: ["0x302c91ab2d477f7e"]
 void GRASSBATCH_DISABLE_FLATTENING();
 ```
 
-```
 Enables procedural objects creation
-```
+

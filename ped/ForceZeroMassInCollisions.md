@@ -9,6 +9,5 @@ aliases: ["0xd33daa36272177c4"]
 void FORCE_ZERO_MASS_IN_COLLISIONS(Ped ped);
 ```
 
-```
 Sets the ped to have zero mass when colliding with anything. This value is reset at the end of each frame
-```
+

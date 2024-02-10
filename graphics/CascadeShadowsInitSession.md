@@ -9,6 +9,5 @@ aliases: ["0x03fc694ae06c5a20"]
 void CASCADE_SHADOWS_INIT_SESSION();
 ```
 
-```
 Call this command at the end of cutscenes to reset the effect of any calls to CASCADE_SHADOWS_xxx script commands
-```
+

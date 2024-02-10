@@ -9,6 +9,5 @@ aliases: ["0x2513dfb0fb8400fe"]
 void SET_TEXT_OUTLINE();
 ```
 
-```
 Draws an outline round the entire text
-```
+

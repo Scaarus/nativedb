@@ -9,6 +9,5 @@ aliases: ["0xc158d28142a34608"]
 void STOP_PED_WEAPON_FIRING_WHEN_DROPPED(Ped ped);
 ```
 
-```
 Stops a peds weapon firing when dropped
-```
+

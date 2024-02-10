@@ -9,6 +9,5 @@ aliases: ["0x34616828cd07f1a1"]
 bool IS_PED_SHOOTING(Ped ped);
 ```
 
-```
 Checks that a ped is shooting
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x238db2a2c23ee9ef"]
 bool IS_PLAYER_WANTED_LEVEL_GREATER(int WantedLevel);
 ```
 
-```
 Checks if the wanted level is less than a certain value.
-```
+

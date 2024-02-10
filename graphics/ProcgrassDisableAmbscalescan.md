@@ -9,6 +9,5 @@ aliases: ["0x0218ba067d249dea"]
 void PROCGRASS_DISABLE_AMBSCALESCAN();
 ```
 
-```
 Enables ambient scale scans for proc grass (used for perf reasons only)
-```
+

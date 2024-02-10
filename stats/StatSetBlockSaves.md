@@ -9,6 +9,5 @@ aliases: ["0xf434a10ba01c37d0"]
 void STAT_SET_BLOCK_SAVES(bool locksaves);
 ```
 
-```
 Call this to block any saves requests. This is needed when the user chooses to go into mp game without saving.
-```
+

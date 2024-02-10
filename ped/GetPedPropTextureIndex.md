@@ -9,11 +9,10 @@ aliases: ["0xe131a28626f81ab2"]
 int GET_PED_PROP_TEXTURE_INDEX(int Position);
 ```
 
-```
 Gets the texture index of the prop.
 
-Possible values for Position:
-| Index | Name |
+## Position Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 131 | Eyes |
@@ -24,4 +23,4 @@ Possible values for Position:
 | 136 | Left Wrist |
 | 137 | Right Wrist |
 | 138 | Hip |
-```
+

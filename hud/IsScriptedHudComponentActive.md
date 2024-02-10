@@ -9,11 +9,10 @@ aliases: ["0xdd100eb17a94ff65"]
 bool IS_SCRIPTED_HUD_COMPONENT_ACTIVE(int hudComponent);
 ```
 
-```
 returns whether a scripted hud component is active/loaded
 
-Possible values for hudComponent:
-| Index | Name |
+## hudComponent Values:
+| Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |
 | 20 | Drugs Purse 02 |
@@ -36,4 +35,4 @@ Possible values for hudComponent:
 | 37 | Player Switch Alert |
 | 38 | Mp Rank Bar |
 | 39 | Director Mode |
-```
+

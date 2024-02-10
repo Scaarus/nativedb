@@ -9,6 +9,5 @@ aliases: ["0x700569dba175a77c"]
 int SC_LICENSEPLATE_GET_COUNT(int token);
 ```
 
-```
 get the current count of license plates retrieved for this token
-```
+

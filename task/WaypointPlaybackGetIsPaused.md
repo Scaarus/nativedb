@@ -9,6 +9,5 @@ aliases: ["0x701375a7d43f01cb"]
 bool WAYPOINT_PLAYBACK_GET_IS_PAUSED(Ped ped);
 ```
 
-```
 Retrieves the pause status
-```
+

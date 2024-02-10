@@ -9,6 +9,5 @@ aliases: ["0x7f2c4cdf2e82df4c"]
 bool STAT_CLOUD_SLOT_LOAD_FAILED(int slot);
 ```
 
-```
 Returns TRUE if the load operation FAILED. failurecode is set with the failure type.
-```
+

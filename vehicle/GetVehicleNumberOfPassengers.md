@@ -9,6 +9,5 @@ aliases: ["0x24cb2137731ffe89"]
 int GET_VEHICLE_NUMBER_OF_PASSENGERS(Vehicle vehicle, bool IncludeDriversSeat, bool IncludeDeadPeds);
 ```
 
-```
 get the number of passengers in a vehicle.
-```
+

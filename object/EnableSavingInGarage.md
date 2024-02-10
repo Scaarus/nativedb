@@ -9,6 +9,5 @@ aliases: ["0xf2e1a7133dd356a6"]
 void ENABLE_SAVING_IN_GARAGE(int garageHash, bool enable);
 ```
 
-```
 Enables/Disables saving in the garage
-```
+

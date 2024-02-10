@@ -9,6 +9,5 @@ aliases: ["0x703cc7f60cbb2b57"]
 void ACTIVITY_FEED_ACTION_START_WITH_COMMAND_LINE_ADD(string commandLineString);
 ```
 
-```
 Adds a command line command to existing command line
-```
+

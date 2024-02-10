@@ -9,6 +9,5 @@ aliases: ["0x4c61b39930d045da"]
 bool CLOUD_HAS_REQUEST_COMPLETED(int nRequestID);
 ```
 
-```
 Checks if a cloud request has completed
-```
+

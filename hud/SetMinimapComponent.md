@@ -9,11 +9,10 @@ aliases: ["0x75a9a10948d1dea6"]
 bool SET_MINIMAP_COMPONENT(int iComponentId, bool OnOff, int color);
 ```
 
-```
 Sets a component on the minimap on/off - returns false if component is not valid
 
-Possible values for iComponentId:
-| Index | Name |
+## iComponentId Values:
+| Value | Name |
 | --- | --- |
 | 0 | Runway 1 |
 | 892 | Runway 2 Countryside |
@@ -36,8 +35,8 @@ Possible values for iComponentId:
 | 909 | King Hill 13 |
 
 
-Possible values for color:
-| Index | Name |
+## color Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -274,4 +273,4 @@ Possible values for color:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xae8ce82a4219ac8c"]
 float GET_HELI_TAIL_ROTOR_HEALTH(Vehicle vehicle);
 ```
 
-```
 Returns the health of the heli tail rotor
-```
+

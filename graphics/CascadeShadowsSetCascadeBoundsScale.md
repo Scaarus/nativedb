@@ -9,6 +9,5 @@ aliases: ["0x5f0f3f56635809ef"]
 void CASCADE_SHADOWS_SET_CASCADE_BOUNDS_SCALE(float scale);
 ```
 
-```
 call this to scale the cascade sizes/distances
-```
+

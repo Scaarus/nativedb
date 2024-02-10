@@ -9,9 +9,8 @@ aliases: ["0x0cf6cc51aa18f0f8"]
 bool NETWORK_CHECK_PRIVILEGES(int nLocalGamerIndex, int nPrivilegeTypeBitfield, bool AttempResolution);
 ```
 
-```
 Begin a check through the platform API to see if the specified local user has the specified privileges set.
-```
+
 
 ## Parameters
 * **nLocalGamerIndex**: Index of the local gamer we want to check privileges for

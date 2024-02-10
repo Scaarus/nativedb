@@ -9,6 +9,5 @@ aliases: ["0x9afeff481a85ab2e"]
 void SET_PED_COORDS_KEEP_VEHICLE(Ped ped, Vector3 NewPosition);
 ```
 
-```
 Moves a ped and his vehicle
-```
+

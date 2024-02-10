@@ -9,9 +9,8 @@ aliases: ["0x66972397e0757e7a"]
 void RECORD_GREATEST_MOMENT(int greatestMoment, int startTime, int duration);
 ```
 
-```
-Possible values for greatestMoment:
-| Index | Name |
+## greatestMoment Values:
+| Value | Name |
 | --- | --- |
 | 0 | FIVE_START_CRIMINAL |
 | 5 | CHAIN_REACTION |
@@ -31,7 +30,7 @@ Possible values for greatestMoment:
 
 
 Record a greatest moment
-```
+
 
 ## Parameters
 * **greatestMoment**: the greatest moment to record.

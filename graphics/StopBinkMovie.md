@@ -9,6 +9,5 @@ aliases: ["0x63606a61de68898a"]
 void STOP_BINK_MOVIE(int MovieId);
 ```
 
-```
 Stops a movie playing
-```
+

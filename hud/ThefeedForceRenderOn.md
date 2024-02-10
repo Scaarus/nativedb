@@ -9,7 +9,6 @@ aliases: ["0xa13c11e1b5c06bfc"]
 void THEFEED_FORCE_RENDER_ON();
 ```
 
-```
 Forces the feed to render all the time.
 none
-```
+

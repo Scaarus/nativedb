@@ -9,6 +9,5 @@ aliases: ["0xa4718a1419d18151"]
 void STOP_STREAM();
 ```
 
-```
 Stops a stream that is being played by the script
-```
+

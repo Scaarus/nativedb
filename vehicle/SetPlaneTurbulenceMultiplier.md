@@ -9,9 +9,8 @@ aliases: ["0xad2d28a1afdff131"]
 void SET_PLANE_TURBULENCE_MULTIPLIER(Vehicle vehicle, float bVal);
 ```
 
-```
 Allow script to control the turbulence scale
-```
+
 
 ## Parameters
 * **vehicle**: 

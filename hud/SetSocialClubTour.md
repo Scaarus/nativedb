@@ -9,6 +9,5 @@ aliases: ["0x9e778248d6685fe0"]
 void SET_SOCIAL_CLUB_TOUR(string tour);
 ```
 
-```
 Sets the tour to start out in the SC welcome page.
-```
+

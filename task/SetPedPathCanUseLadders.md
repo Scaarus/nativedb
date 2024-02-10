@@ -9,6 +9,5 @@ aliases: ["0x77a5b103c87f476e"]
 void SET_PED_PATH_CAN_USE_LADDERS(Ped ped, bool UseLadders);
 ```
 
-```
 Sets if a peds path finding can use ladders.
-```
+

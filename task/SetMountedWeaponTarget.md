@@ -9,9 +9,8 @@ aliases: ["0xccd892192c6d2bb9"]
 void SET_MOUNTED_WEAPON_TARGET(Ped ped, Vehicle vehicle, Vector3 Position, int VehicleTaskMode, bool IgnoreTargetVehDeadCheck);
 ```
 
-```
-Possible values for VehicleTaskMode:
-| Index | Name |
+## VehicleTaskMode Values:
+| Value | Name |
 | --- | --- |
 | 0 | Player |
 | 1 | Idle |
@@ -22,4 +21,4 @@ Possible values for VehicleTaskMode:
 
 
 Used to update a mounted weapon task (instead of constantly clearing and creating a new task) and to update the position
-```
+

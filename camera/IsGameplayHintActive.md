@@ -9,6 +9,5 @@ aliases: ["0xe520ff1ad2785b40"]
 bool IS_GAMEPLAY_HINT_ACTIVE();
 ```
 
-```
 Returns true if a hint is running.
-```
+

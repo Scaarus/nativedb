@@ -9,6 +9,5 @@ aliases: ["0xa5edc40ef369b48d"]
 Player GET_PLAYER_INDEX();
 ```
 
-```
 Gets the player index for the main player.
-```
+

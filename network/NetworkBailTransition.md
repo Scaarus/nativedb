@@ -9,6 +9,5 @@ aliases: ["0xeaa572036990cd1b"]
 void NETWORK_BAIL_TRANSITION(int nContext, int nParam1, int nParam2);
 ```
 
-```
 Rain of fire. Leave nothing behind. Affects transition only. Freemode untouched.
-```
+

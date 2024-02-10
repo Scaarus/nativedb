@@ -9,6 +9,5 @@ aliases: ["0xdddf64c91bfcf0aa"]
 bool NETWORK_IS_FINDING_GAMERS();
 ```
 
-```
 Track find gamer requests
-```
+

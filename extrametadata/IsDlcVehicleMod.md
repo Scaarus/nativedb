@@ -9,6 +9,5 @@ aliases: ["0x0564b9ff9631b82c"]
 bool IS_DLC_VEHICLE_MOD(int identifierHash);
 ```
 
-```
 Returns TRUE if the vehicle mod with the identifier hash is a DLC mod
-```
+

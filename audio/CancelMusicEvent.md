@@ -9,6 +9,5 @@ aliases: ["0x5b17a90291133da5"]
 bool CANCEL_MUSIC_EVENT(string eventName);
 ```
 
-```
 Cancels the specified music event.
-```
+

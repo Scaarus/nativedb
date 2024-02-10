@@ -9,9 +9,8 @@ aliases: ["0x44cd1f493db2a0a6"]
 void SET_VEHICLE_WEAPON_RESTRICTED_AMMO(int VehicleWeaponIndex, int AmmoCount);
 ```
 
-```
 Sets a limited number of ammo for a particular vehicle weapon index on a script vehicle.
-```
+
 
 ## Parameters
 * **VehicleWeaponIndex**: Between 0 and 3, corresponds to each weapon slot in the vehicle's handling.meta.

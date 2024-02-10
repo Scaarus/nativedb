@@ -9,6 +9,5 @@ aliases: ["0x16469284db8c62b5"]
 void SET_TRAIN_CRUISE_SPEED(Vehicle vehicle, float NewTrainCruiseSpeed);
 ```
 
-```
 Set the train cruise speed
-```
+

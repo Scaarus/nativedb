@@ -9,6 +9,5 @@ aliases: ["0x129466ed55140f8d"]
 void SET_FORCE_FOOTSTEP_UPDATE(Ped ped, bool val);
 ```
 
-```
 force the footstep system update for the given ped.
-```
+

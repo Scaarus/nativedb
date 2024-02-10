@@ -9,6 +9,5 @@ aliases: ["0x17fca7199a530203"]
 bool DISABLE_CINEMATIC_SLOW_MO_THIS_UPDATE();
 ```
 
-```
 Disables the cinematic slow mo for an update.
-```
+

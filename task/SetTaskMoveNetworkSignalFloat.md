@@ -9,6 +9,5 @@ aliases: ["0xd5bb4025ae449a4e"]
 void SET_TASK_MOVE_NETWORK_SIGNAL_FLOAT(Ped ped, string signalName, float fSignal);
 ```
 
-```
 Sets the MoVE signal to the passed value
-```
+

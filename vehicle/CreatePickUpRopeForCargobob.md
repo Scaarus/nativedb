@@ -9,12 +9,11 @@ aliases: ["0x7beb0c7a235f6f3b"]
 void CREATE_PICK_UP_ROPE_FOR_CARGOBOB(Vehicle vehicle, int pickupType);
 ```
 
-```
 Generate the pick up rope for cargobob
 
-Possible values for pickupType:
-| Index | Name |
+## pickupType Values:
+| Value | Name |
 | --- | --- |
 | 309 | Hook |
 | 310 | Magnet |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xaae7ce1d63167423"]
 void SET_MOUSE_CURSOR_THIS_FRAME();
 ```
 
-```
 sets the mouse pointer to be active this frame
-```
+

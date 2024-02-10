@@ -9,6 +9,5 @@ aliases: ["0xd8122c407663b995"]
 bool SC_TRANSITION_NEWS_SHOW_NEXT_ITEM();
 ```
 
-```
 Loads and shows the next news item
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xb3eca65c7317f174"]
 float GET_PICKUP_GENERATION_RANGE_MULTIPLIER();
 ```
 
-```
 Returns the multiplier set on the enemy pickup drop range
-```
+

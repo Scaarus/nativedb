@@ -9,6 +9,5 @@ aliases: ["0x049e937f18f4020c"]
 bool IS_PED_IN_CURRENT_CONVERSATION(Ped ped);
 ```
 
-```
 Checks if ped is in currently playing conversation.
-```
+

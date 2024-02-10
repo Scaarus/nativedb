@@ -9,6 +9,5 @@ aliases: ["0xa43d5c6fe51adbef"]
 void SET_OVERRIDE_WEATHER(string Weather);
 ```
 
-```
 Sets a weather override for network games. This will fix the weather until CLEAR_OVERRIDE_WEATHER is called.
-```
+

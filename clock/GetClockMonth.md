@@ -9,11 +9,10 @@ aliases: ["0xbbc72712e80257a1"]
 month_of_year GET_CLOCK_MONTH();
 ```
 
-```
 gets the current month (0 is January, 11 is December)
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | JANUARY |
 | 4 | FEBRUARY |
@@ -27,4 +26,4 @@ Possible return values:
 | 12 | OCTOBER |
 | 13 | NOVEMBER |
 | 14 | DECEMBER |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa34cb6e6f0df4a0b"]
 int LEADERBOARDS_READ_CLEAR_ALL();
 ```
 
-```
 PURPOSE Clear all leaderboard read's done.
-```
+

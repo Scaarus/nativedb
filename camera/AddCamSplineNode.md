@@ -9,11 +9,10 @@ aliases: ["0x8609c75ec438fb3b"]
 void ADD_CAM_SPLINE_NODE(Camera camera, Vector3 vPos, Vector3 vRot, int iDuration, int Flags, int RotOrder);
 ```
 
-```
 Appends a simple node on to a spline camera.
 
-Possible values for Flags:
-| Index | Name |
+## Flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Flags |
 | 1 | Smooth Rot |
@@ -23,8 +22,8 @@ Possible values for Flags:
 | 16 | Ease Inout |
 
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -33,7 +32,7 @@ Possible values for RotOrder:
 | 4 | Zxy |
 | 5 | Zyx |
 | 6 | Max |
-```
+
 
 ## Parameters
 * **camera**: 

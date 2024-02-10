@@ -9,9 +9,8 @@ aliases: ["0x5a0a3d1a186a5508"]
 ugc_error UGC_GET_MODIFY_RESULT();
 ```
 
-```
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Unexpected Result |
 | 0 | None |
@@ -32,4 +31,4 @@ Possible return values:
 | 124 | Notallowed Profane |
 | 125 | Notallowed Reservedword |
 | 126 | Outofrange Contenttype |
-```
+

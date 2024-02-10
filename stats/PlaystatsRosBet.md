@@ -9,6 +9,5 @@ aliases: ["0x121fb4dddc2d5291"]
 void PLAYSTATS_ROS_BET(int amount, int activity, int playerIndex, float commission);
 ```
 
-```
 Tells the PlayStats that a bet has been done by the local player.
-```
+

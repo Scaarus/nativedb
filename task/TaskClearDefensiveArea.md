@@ -9,6 +9,5 @@ aliases: ["0x95a6c46a31d1917d"]
 void TASK_CLEAR_DEFENSIVE_AREA(Ped ped);
 ```
 
-```
 Clears out the peds defensive area
-```
+

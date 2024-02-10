@@ -9,6 +9,5 @@ aliases: ["0xa3f3564a5b3646c0"]
 bool IS_MOBILE_PHONE_TO_PED_EAR();
 ```
 
-```
 Returns true if the given ped has a mobile phone to their ear
-```
+

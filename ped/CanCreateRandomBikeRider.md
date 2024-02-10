@@ -9,6 +9,5 @@ aliases: ["0xeaceeda81751915c"]
 bool CAN_CREATE_RANDOM_BIKE_RIDER();
 ```
 
-```
 Returns true if there's an available ped model to be spawned as a bike rider (i.e. has a helmet)
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x098760c7461724cd"]
 void PLAYSTATS_STARTED_SESSION_IN_OFFLINEMODE();
 ```
 
-```
 Tells the PlayStats that the player has started a session in OFFLINE MODE.
-```
+

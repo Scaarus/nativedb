@@ -9,6 +9,5 @@ aliases: ["0xb1b1ea596344dfab"]
 bool IS_ITEMSET_VALID(Itemset itemset);
 ```
 
-```
 Check if a given item set is valid (has been created and not destroyed).
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xec5f66e459af3bb2"]
 bool IS_PED_ON_SPECIFIC_VEHICLE(Ped ped, Vehicle vehicle);
 ```
 
-```
 Returns true if the ped is current on (it's ground physical) a specific vehicle. Example:Standing on the back of a truck or bonnet.
-```
+

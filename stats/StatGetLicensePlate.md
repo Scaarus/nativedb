@@ -9,6 +9,5 @@ aliases: ["0x5473d4195058b2e4"]
 string STAT_GET_LICENSE_PLATE();
 ```
 
-```
 Get the value of a License Plate.
-```
+

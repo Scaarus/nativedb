@@ -9,6 +9,5 @@ aliases: ["0x7167371e8ad747f7"]
 void SET_CHECKPOINT_RGBA(Checkpoint checkpoint, int colR, int colG, int colB, int colA);
 ```
 
-```
 sets the rgba of a checkpoint
-```
+

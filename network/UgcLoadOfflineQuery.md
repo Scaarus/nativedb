@@ -9,11 +9,10 @@ aliases: ["0x5cae833b0ee0c500"]
 bool UGC_LOAD_OFFLINE_QUERY(int nCategory);
 ```
 
-```
 Offline query data loading
 
-Possible values for nCategory:
-| Index | Name |
+## nCategory Values:
+| Value | Name |
 | --- | --- |
 | 103 | None |
 | 104 | Rockstar Created |
@@ -22,4 +21,4 @@ Possible values for nCategory:
 | 107 | Rockstar Verified Candidate |
 | 108 | Rockstar Community |
 | 109 | Rockstar Community Candidate |
-```
+

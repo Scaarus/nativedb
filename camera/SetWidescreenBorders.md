@@ -9,11 +9,10 @@ aliases: ["0xdcd4ea924f42d01a"]
 void SET_WIDESCREEN_BORDERS(bool Set, int Duration);
 ```
 
-```
 Requests to display borders that make the screen look widescreen OR wider in running on a widescreen telly.
 
 Along with this hud scrolls off etc... to give a clean screen
-```
+
 
 ## Parameters
 * **Set**: 

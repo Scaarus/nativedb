@@ -9,11 +9,10 @@ aliases: ["0x8605af0de8b3a5ac"]
 void TASK_AIM_GUN_SCRIPTED_WITH_TARGET(Ped ped, Vector3 vTargetPosition, int AimGunTaskType, bool DisableGunBlocking, bool ForceAim);
 ```
 
-```
 Gives a ped a scripted gun task with a target
 
-Possible values for AimGunTaskType:
-| Index | Name |
+## AimGunTaskType Values:
+| Value | Name |
 | --- | --- |
 | 271 | On Crate |
 | 272 | Hanging Upside Down |
@@ -26,4 +25,4 @@ Possible values for AimGunTaskType:
 
 
 the target or the vector can be nullzero, but one of them needs to valid. if both are valid the vector is used as an offset
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x3548536485dd792b"]
 void ASSISTED_MOVEMENT_REMOVE_ROUTE(string RouteName);
 ```
 
-```
 Requests the specified assisted-movement route to be inactive
-```
+

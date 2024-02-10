@@ -9,13 +9,12 @@ aliases: ["0x4cf5f55dac3280a0"]
 void TASK_COMBAT_HATED_TARGETS_IN_AREA(Vector3 vPosition, float fRange, int Flags);
 ```
 
-```
 Tells the ped to combat all hated targets in the area.
 
-Possible values for Flags:
-| Index | Name |
+## Flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 67108864 | Prevent Changing Target |
 | 134217728 | Disable Aim Intro |
-```
+

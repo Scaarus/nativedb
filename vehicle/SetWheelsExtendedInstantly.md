@@ -9,7 +9,6 @@ aliases: ["0xf660602546d27ba8"]
 void SET_WHEELS_EXTENDED_INSTANTLY();
 ```
 
-```
 Info:
 PURPOSE sets the wheels to be extended instantly
-```
+

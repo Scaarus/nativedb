@@ -9,6 +9,5 @@ aliases: ["0x01f6594b923b9251"]
 void SET_PED_RAGDOLL_FORCE_FALL();
 ```
 
-```
 Forces the given ragdolling ped to fall over
-```
+

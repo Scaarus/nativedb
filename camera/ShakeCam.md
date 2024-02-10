@@ -9,11 +9,10 @@ aliases: ["0x6a25241c340d3822"]
 void SHAKE_CAM(Camera camera, string ShakeName, float fAmplitudeScalar);
 ```
 
-```
 Apply a predefined shake to the camera.
 
 Valid shake names are as
-```
+
 
 ## Parameters
 * **camera**: 

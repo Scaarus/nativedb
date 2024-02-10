@@ -9,6 +9,5 @@ aliases: ["0x1087bc8ec540daeb"]
 void SET_DONT_PROCESS_VEHICLE_GLASS(Vehicle vehicle, bool val);
 ```
 
-```
 Stops vehicle glass from being processed - should enable this for vehicles with window protectors (see url:bugstar:3491749)
-```
+

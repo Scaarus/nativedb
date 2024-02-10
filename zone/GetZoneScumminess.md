@@ -9,6 +9,5 @@ aliases: ["0x5f7b268d15ba0739"]
 int GET_ZONE_SCUMMINESS(int zoneId);
 ```
 
-```
 Get the scumminess level of a specific zone. Return value in SCUMMINESS_LEVEL enum
-```
+

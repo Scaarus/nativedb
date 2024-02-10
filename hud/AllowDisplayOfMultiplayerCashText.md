@@ -9,6 +9,5 @@ aliases: ["0xe67c6dfd386ea5e7"]
 void ALLOW_DISPLAY_OF_MULTIPLAYER_CASH_TEXT(bool Allow);
 ```
 
-```
 ~> NetworkMultiplayer commands
-```
+

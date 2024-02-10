@@ -9,6 +9,5 @@ aliases: ["0xefabc7722293da7c"]
 void ADJUST_NEXT_POS_SIZE_AS_NORMALIZED_16_9();
 ```
 
-```
 Tells code to treat the next drawn Scaleform movie position and size values as normalized 16:9
-```
+

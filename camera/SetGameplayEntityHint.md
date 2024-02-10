@@ -9,11 +9,10 @@ aliases: ["0x189e955a8313e298"]
 void SET_GAMEPLAY_ENTITY_HINT(Vector3 Offset, bool RelativeOffset, int iDwellTime, int iInterpTo, int iInterpFrom);
 ```
 
-```
 Sets the gameplay to hint a coord.
 
 iDwellTime = how long cam looks at the entity. RelativeOffset : The offset is relative to the entity.
-```
+
 
 ## Parameters
 * **Offset**: 

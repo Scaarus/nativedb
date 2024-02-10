@@ -9,6 +9,5 @@ aliases: ["0xaff47709f1d5dcce"]
 float STAT_GET_CURRENT_SKYDIVING_DISTANCE();
 ```
 
-```
 PURPOSE Get the current skydiving distance
-```
+

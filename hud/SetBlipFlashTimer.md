@@ -9,6 +9,5 @@ aliases: ["0xd3cd6fd297ae87cc"]
 void SET_BLIP_FLASH_TIMER(Blip blip, int timeInMilliseconds);
 ```
 
-```
 time a blip will flash for, then it automatically stops flashing by code
-```
+

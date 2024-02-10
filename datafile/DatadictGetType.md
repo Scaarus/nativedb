@@ -9,11 +9,10 @@ aliases: ["0x031c55ed33227371"]
 datafile_type DATADICT_GET_TYPE(Any* dict, string name);
 ```
 
-```
 Gets the data type for the data corresponding to a name in the dictionary
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Bool |
@@ -23,7 +22,7 @@ Possible return values:
 | 5 | Vec3 |
 | 6 | Dict |
 | 7 | Array |
-```
+
 
 ## Parameters
 * **dict**: The dictionary object

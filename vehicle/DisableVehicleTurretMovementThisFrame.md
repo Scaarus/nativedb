@@ -9,8 +9,7 @@ aliases: ["0x32caedf24a583345"]
 void DISABLE_VEHICLE_TURRET_MOVEMENT_THIS_FRAME(Vehicle vehicle);
 ```
 
-```
 Disables a tank or heli's turret movement
 
 Sets a vehicle's turret speed on a per-frame basis
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5a47b3b5e63e94c6"]
 int GET_ENTITY_ALPHA(Entity entity);
 ```
 
-```
 Return the alpha of an entity
-```
+

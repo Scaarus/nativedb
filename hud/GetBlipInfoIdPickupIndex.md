@@ -9,6 +9,5 @@ aliases: ["0x9b6786e4c03dd382"]
 Pickup GET_BLIP_INFO_ID_PICKUP_INDEX(Blip blip);
 ```
 
-```
 Report if seen
-```
+

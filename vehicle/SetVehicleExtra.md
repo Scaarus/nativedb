@@ -9,6 +9,5 @@ aliases: ["0x7ee3a3c5e4a40cc9"]
 void SET_VEHICLE_EXTRA(int Extra, bool TurnOff);
 ```
 
-```
 Sets a vehcile extra
-```
+

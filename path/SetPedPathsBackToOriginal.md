@@ -9,11 +9,10 @@ aliases: ["0xe04b48f2cc926253"]
 void SET_PED_PATHS_BACK_TO_ORIGINAL(Vector3 PositionMin, Vector3 PositionMax, bool ForceAbortCurrentPath);
 ```
 
-```
 Sets all ped nodes back to their original state. (as per the map data)
 
 It is not cool to call a SET_PED_PATHS_IN_AREA(true) to undo a SET_PED_PATHS_IN_AREA(false) because the nodes that were originally off would now be on.
-```
+
 
 ## Parameters
 * **PositionMin**: 

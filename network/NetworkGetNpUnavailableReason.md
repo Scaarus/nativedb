@@ -9,11 +9,10 @@ aliases: ["0x74fb3e29e6d10fa9"]
 np_unavailability_reason NETWORK_GET_NP_UNAVAILABLE_REASON();
 ```
 
-```
 Returns the reason why the NP service is unavailable. Will return REASON_INVALID if this function is called when Np is available and will assert
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 238 | Other |
@@ -22,4 +21,4 @@ Possible return values:
 | 241 | Signed Out |
 | 242 | Age |
 | 243 | Connection |
-```
+

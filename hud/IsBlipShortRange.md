@@ -9,6 +9,5 @@ aliases: ["0xda5f8727eb75b926"]
 bool IS_BLIP_SHORT_RANGE(Blip blip);
 ```
 
-```
 Returns whether blip is short range or not
-```
+

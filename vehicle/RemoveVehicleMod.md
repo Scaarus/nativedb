@@ -9,11 +9,10 @@ aliases: ["0x92d619e420858204"]
 void REMOVE_VEHICLE_MOD(Vehicle vehicle, int modSlot);
 ```
 
-```
 Clears the specified slot from any mods
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -64,4 +63,4 @@ Possible values for modSlot:
 | 249 | Door L |
 | 250 | Door R |
 | 251 | Livery |
-```
+

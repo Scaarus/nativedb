@@ -9,6 +9,5 @@ aliases: ["0x2a74e1d5f2f00eec"]
 bool IS_PED_GETTING_UP(Ped ped);
 ```
 
-```
 Checks if a ped is getting up.
-```
+

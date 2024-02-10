@@ -9,6 +9,5 @@ aliases: ["0x7ea2b6af97eca6ed"]
 bool IS_FRONTEND_FADING();
 ```
 
-```
 Only returns FALSE if no frontend fade is running
-```
+

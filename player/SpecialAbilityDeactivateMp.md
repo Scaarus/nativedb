@@ -9,6 +9,5 @@ aliases: ["0x17f7471eaca78290"]
 void SPECIAL_ABILITY_DEACTIVATE_MP(Player player, int abilitySlot);
 ```
 
-```
 Deactivate the player's special ability in MP
-```
+

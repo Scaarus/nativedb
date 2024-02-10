@@ -9,11 +9,10 @@ aliases: ["0xd1b0f412f109ea5d"]
 void SET_CAM_SPLINE_SMOOTHING_STYLE(Camera camera, int SmoothingStyle);
 ```
 
-```
 Sets the smoothing style of the spline camera at the spline nodes.
 
-Possible values for SmoothingStyle:
-| Index | Name |
+## SmoothingStyle Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Smooth |
 | 1 | Slow In Smooth |
@@ -44,4 +43,4 @@ Possible values for SmoothingStyle:
 
 
 CAM_SPLINE_NO_SMOOTHING = 0, No smoothing just moves at a constant rate CAM_SPLINE_SLOW_IN = 1, Decelerates when approaching a node CAM_SPLINE_SLOW_OUT =2, Accelerates slowly when leaving a node CAM_SPLINE_SLOW_IN_OUT =3 Decelerates when approaching a node and accelerates slowly when leaving a node
-```
+

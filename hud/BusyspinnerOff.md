@@ -9,7 +9,6 @@ aliases: ["0x10d373323e5b9c0d"]
 void BUSYSPINNER_OFF();
 ```
 
-```
 Turns the busy spinner off.
 None
-```
+

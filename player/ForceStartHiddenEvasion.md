@@ -9,6 +9,5 @@ aliases: ["0xad73ce5a09e42d12"]
 void FORCE_START_HIDDEN_EVASION();
 ```
 
-```
 Can be used at any point that police "know" where the player is to force hidden evasion to start (i.e. flashing stars, cops use vision cones)
-```
+

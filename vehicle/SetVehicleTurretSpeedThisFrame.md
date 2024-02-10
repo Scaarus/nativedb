@@ -9,8 +9,7 @@ aliases: ["0x1093408b4b9d1146"]
 void SET_VEHICLE_TURRET_SPEED_THIS_FRAME(Vehicle vehicle, float TurretSpeed);
 ```
 
-```
 Sets a tank or heli's turret speed
 
 Sets a vehicle's turret speed on a per-frame basis
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x93c8b64deb84728c"]
 Entity GET_PED_SOURCE_OF_DEATH(Ped ped);
 ```
 
-```
 Retrieves the index of the entity that killed the ped.
-```
+

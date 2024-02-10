@@ -9,11 +9,10 @@ aliases: ["0xf2bfa0430f0a0fcb"]
 void SET_VEHICLE_DOOR_CONTROL(Vehicle vehicle, int DoorNumber, int DoorStatus, float AngleRatio);
 ```
 
-```
 Sets a vehicles door to a new state.
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -24,8 +23,8 @@ Possible values for DoorNumber:
 | 64 | Boot |
 
 
-Possible values for DoorStatus:
-| Index | Name |
+## DoorStatus Values:
+| Value | Name |
 | --- | --- |
 | 0 | Intact |
 | 141 | Swinging Free 1 |
@@ -36,4 +35,4 @@ Possible values for DoorStatus:
 
 
 SC_DOOR_LIST and DOOR_DAMAGE are in commands_vehicle.sch fAngleRatio should be between (0.0=shut 1.0=open ) or use -1.0 to ignore.
-```
+

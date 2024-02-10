@@ -9,6 +9,5 @@ aliases: ["0x5c707a667df8b9fa"]
 void NETWORK_SET_ANTAGONISTIC_TO_PLAYER(bool IsAntagonisticTo, Player player);
 ```
 
-```
 Set the localplayer antagonistic to. pedIndex - . If the index is -1 the it only sets the antagonistic flag.
-```
+

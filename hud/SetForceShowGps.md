@@ -9,6 +9,5 @@ aliases: ["0x2790f4b17d098e26"]
 void SET_FORCE_SHOW_GPS(bool OnOff);
 ```
 
-```
 Force the GPS to show. Useful when spectating players driving in vehicles.
-```
+

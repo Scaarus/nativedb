@@ -9,6 +9,5 @@ aliases: ["0x2e0bf682cc778d49"]
 bool NETWORK_HAS_BONE_BEEN_HIT_BY_KILLER(int bone);
 ```
 
-```
 Returns true if a certain body part of the local Player has been damaged by the player that made that was awarded the fatal blow.
-```
+

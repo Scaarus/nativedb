@@ -9,6 +9,5 @@ aliases: ["0xbc3cca5844452b06"]
 void SET_LIGHTS_CUTOFF_DISTANCE_TWEAK(float dist);
 ```
 
-```
 sets the cutoff distance tweak for lights
-```
+

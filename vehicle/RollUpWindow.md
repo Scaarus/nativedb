@@ -9,11 +9,10 @@ aliases: ["0x602e548f46e24d59"]
 void ROLL_UP_WINDOW(Vehicle vehicle, int WindowNumber);
 ```
 
-```
 Rolls up a given vehicle window. NB - it only snaps the window up. Probably want to do this off-screen.
 
-Possible values for WindowNumber:
-| Index | Name |
+## WindowNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Ow Front Left |
 | 66 | Ow Front Right |
@@ -23,4 +22,4 @@ Possible values for WindowNumber:
 | 70 | Ow Middle Right |
 | 71 | Screen Front |
 | 72 | Screen Rear |
-```
+

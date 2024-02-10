@@ -9,6 +9,5 @@ aliases: ["0x4172393e6be1fece"]
 void TASK_PUT_PED_DIRECTLY_INTO_COVER(Vector3 vCoverPos, int Time, bool CanPeekAndAim, float BlendInDuration, bool ForceInitialFacingDirection, bool ForceFaceLeft, Coverpoint coverpoint, bool DoEntryAnim);
 ```
 
-```
 Puts the ped directly into cover at the nearest point to the position specified.
-```
+

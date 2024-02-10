@@ -9,8 +9,7 @@ aliases: ["0x7ec6f9a478a6a512"]
 void CLEAR_SCENARIO_SPAWN_HISTORY();
 ```
 
-```
 Clears all scenario spawn history, including chain histories for deleted peds.
 
 PARAM NOTES
-```
+

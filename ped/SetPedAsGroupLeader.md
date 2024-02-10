@@ -9,8 +9,7 @@ aliases: ["0x2a7819605465fbce"]
 void SET_PED_AS_GROUP_LEADER(Ped ped, Group group);
 ```
 
-```
 Set the ped as a group leader.
 
 The player is group leader of the players gropu and cannot be set leader of another gropu
-```
+

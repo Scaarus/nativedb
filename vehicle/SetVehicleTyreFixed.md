@@ -9,11 +9,10 @@ aliases: ["0x6e13fc662b882d1d"]
 void SET_VEHICLE_TYRE_FIXED(Vehicle vehicle, int WheelNumber);
 ```
 
-```
 Fixes a vehicles burts tyre
 
-Possible values for WheelNumber:
-| Index | Name |
+## WheelNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Car Front Left |
 | 52 | Car Front Right |
@@ -23,4 +22,4 @@ Possible values for WheelNumber:
 | 56 | Car Rear Right |
 | 57 | Bike Front |
 | 58 | Bike Rear |
-```
+

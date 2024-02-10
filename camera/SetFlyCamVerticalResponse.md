@@ -9,6 +9,5 @@ aliases: ["0xe827b9382cfb41ba"]
 void SET_FLY_CAM_VERTICAL_RESPONSE(Camera camera, float maxSpeed, float maxAcceleration, float maxDeceleration);
 ```
 
-```
 Sets the acceleration, deceleration and speed limits for vertical translation of the specified scripted fly camera.
-```
+

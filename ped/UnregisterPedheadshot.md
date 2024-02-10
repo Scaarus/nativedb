@@ -9,6 +9,5 @@ aliases: ["0x96b1361d9b24c2ff"]
 void UNREGISTER_PEDHEADSHOT(int id);
 ```
 
-```
 Releases headshot associated to a ped
-```
+

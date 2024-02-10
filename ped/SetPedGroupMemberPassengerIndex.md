@@ -9,11 +9,10 @@ aliases: ["0x0bddb8d9ec6bcf3c"]
 void SET_PED_GROUP_MEMBER_PASSENGER_INDEX(Ped ped, int seat);
 ```
 
-```
 Sets the vehicle seat the gang member will occupy.
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -26,4 +25,4 @@ Possible values for seat:
 | 40 | Extra Right 2 |
 | 41 | Extra Left 3 |
 | 42 | Extra Right 3 |
-```
+

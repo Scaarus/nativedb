@@ -9,6 +9,5 @@ aliases: ["0xabdabf4e1edecbfa"]
 void ALLOW_DAMAGE_EVENTS_FOR_NON_NETWORKED_OBJECTS(bool allow);
 ```
 
-```
 When set, non networked objects will trigger damage events also NOTES:
-```
+

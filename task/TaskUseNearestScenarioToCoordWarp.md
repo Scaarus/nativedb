@@ -9,8 +9,7 @@ aliases: ["0x58e2e0f23f6b76c3"]
 void TASK_USE_NEAREST_SCENARIO_TO_COORD_WARP(Vector3 vPosition, float fRange, int iTimeToLeaveMS);
 ```
 
-```
 Warps the ped into the cloeset scenario to the pos.
 
 Make sure the scenario point or objects its attached to is loaded at the time.
-```
+

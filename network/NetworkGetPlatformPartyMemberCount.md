@@ -9,6 +9,5 @@ aliases: ["0x01abce5e7cbda196"]
 int NETWORK_GET_PLATFORM_PARTY_MEMBER_COUNT();
 ```
 
-```
 Details of the current party members
-```
+

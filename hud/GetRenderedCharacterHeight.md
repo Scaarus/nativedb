@@ -9,9 +9,8 @@ aliases: ["0xdb88a37483346780"]
 float GET_RENDERED_CHARACTER_HEIGHT(float TextYScale, int TextFont);
 ```
 
-```
-Possible values for TextFont:
-| Index | Name |
+## TextFont Values:
+| Value | Name |
 | --- | --- |
 | 0 | Standard |
 | 988 | Cursive |
@@ -22,4 +21,4 @@ Possible values for TextFont:
 | 993 | Condensed Not Gamername |
 | 994 | Style Pricedown |
 | 995 | Style Taxi |
-```
+

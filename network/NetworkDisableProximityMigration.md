@@ -9,6 +9,5 @@ aliases: ["0x407091cf6037118e"]
 void NETWORK_DISABLE_PROXIMITY_MIGRATION(Network network);
 ```
 
-```
 Prevents the entity dynamically migrating to nearby players, it can still migrate by other means. You need to call this every frame while you need it disabled
-```
+

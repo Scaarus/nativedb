@@ -9,6 +9,5 @@ aliases: ["0x32cac93c9de73d32"]
 float STAT_GET_CURRENT_DRIVING_REVERSE_DISTANCE();
 ```
 
-```
 PURPOSE Get the current distance driven in reverse
-```
+

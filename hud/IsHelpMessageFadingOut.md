@@ -9,6 +9,5 @@ aliases: ["0x327edeeeac55c369"]
 bool IS_HELP_MESSAGE_FADING_OUT();
 ```
 
-```
 Checks if a help message is in the process of fading out.
-```
+

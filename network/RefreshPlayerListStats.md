@@ -9,11 +9,10 @@ aliases: ["0xe26ccff8094d8c74"]
 bool REFRESH_PLAYER_LIST_STATS(int type);
 ```
 
-```
 Checks for when the playerlist changes, and triggers for the new stats to be grabbed. Returns true when the Player List is up to date.
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | 100 | Last Job |
 | 250 | Joined |
@@ -22,4 +21,4 @@ Possible values for type:
 | 253 | Matched Players |
 | 254 | Corona Playlist |
 | 255 | Directory |
-```
+

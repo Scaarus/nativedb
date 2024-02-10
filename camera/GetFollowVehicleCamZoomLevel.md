@@ -9,11 +9,10 @@ aliases: ["0xee82280ab767b690"]
 vehicle_zoom_level GET_FOLLOW_VEHICLE_CAM_ZOOM_LEVEL();
 ```
 
-```
 Gets the global zoom level used by all follow-vehicle and vehicle-aim cameras.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | VEHICLE_ZOOM_LEVEL_BAD |
 | 50 | VEHICLE_ZOOM_LEVEL_NEAR |
@@ -25,4 +24,4 @@ Possible return values:
 
 
 Deprecated! Please now use GET_FOLLOW_VEHICLE_CAM_VIEW_MODE
-```
+

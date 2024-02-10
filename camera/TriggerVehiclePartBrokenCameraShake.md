@@ -9,9 +9,8 @@ aliases: ["0x5d96cfb59da076a0"]
 void TRIGGER_VEHICLE_PART_BROKEN_CAMERA_SHAKE(Entity entity, int vehiclePart, float amplitude);
 ```
 
-```
 trigger a camera shake bespokely tuned to match the the specified vehicle part position relative to the camera.
-```
+
 
 ## Parameters
 * **entity**: 

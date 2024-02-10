@@ -9,11 +9,10 @@ aliases: ["0xbf25eb89375a37ad"]
 void SET_RELATIONSHIP_BETWEEN_GROUPS(int RelationshipType, Hash relGroup, Hash otherRelGroup);
 ```
 
-```
 Set the relationship between rel groups.
 
-Possible values for RelationshipType:
-| Index | Name |
+## RelationshipType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Respect |
 | 119 | Like 1 |
@@ -28,4 +27,4 @@ Possible values for RelationshipType:
 RELATIONSHIP_TYPE is am enum list in commands_ped.sch, REL_GROUP_HASH is an enum list in generic.sch
 
 To get 2 rel groups to hate each other, set the relationship for both grps
-```
+

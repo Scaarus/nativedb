@@ -9,6 +9,5 @@ aliases: ["0x9133955f1a2da957"]
 void SET_MINIMAP_IN_PROLOGUE(bool Active);
 ```
 
-```
 sets the map to show the prologue map
-```
+

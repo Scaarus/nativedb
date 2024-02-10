@@ -9,6 +9,5 @@ aliases: ["0x70d2cc8a542a973c"]
 void PLAY_BINK_MOVIE(int MovieId);
 ```
 
-```
 Plays a loaded movie
-```
+

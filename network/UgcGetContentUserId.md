@@ -9,6 +9,5 @@ aliases: ["0xcd67ad041a394c9c"]
 string UGC_GET_CONTENT_USER_ID(int nContentIndex);
 ```
 
-```
 Access to content properties
-```
+

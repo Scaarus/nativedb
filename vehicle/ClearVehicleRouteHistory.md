@@ -9,6 +9,5 @@ aliases: ["0x6d6af961b72728ae"]
 void CLEAR_VEHICLE_ROUTE_HISTORY(Vehicle vehicle);
 ```
 
-```
 Clear's a vehicle's route history
-```
+

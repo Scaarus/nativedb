@@ -9,11 +9,10 @@ aliases: ["0xe825f6b6cea7671d"]
 bool IS_PED_COMPONENT_VARIATION_VALID(Ped ped, int ComponentNumber, int DrawableNumber, int TextureNumber);
 ```
 
-```
 Checks if given variation is valid.
 
-Possible values for ComponentNumber:
-| Index | Name |
+## ComponentNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -27,4 +26,4 @@ Possible values for ComponentNumber:
 | 147 | Special2 Pv Comp Task |
 | 148 | Decl ? |
 | 149 | Jbib |
-```
+

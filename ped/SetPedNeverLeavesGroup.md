@@ -9,6 +9,5 @@ aliases: ["0x3dbfc55d5c9bb447"]
 void SET_PED_NEVER_LEAVES_GROUP(Ped ped, bool NeverLeavesGroupFlag);
 ```
 
-```
 Set the ped doens't leave the group if the leader is too far away
-```
+

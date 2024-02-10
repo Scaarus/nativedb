@@ -9,6 +9,5 @@ aliases: ["0xbbf327ded94e4deb"]
 void SET_CURRENT_PLAYER_TCMODIFIER(string CurrentModifierName);
 ```
 
-```
 Forces the current player modifier, will set next and current to CurrentModifierName
-```
+

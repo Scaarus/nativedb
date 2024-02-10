@@ -9,6 +9,5 @@ aliases: ["0x8aba6af54b942b95"]
 void SET_VEHICLE_UNDRIVEABLE(Vehicle vehicle, bool UnDriveableFlag);
 ```
 
-```
 Sets the vehicle to be undriveable (but still enterable).
-```
+

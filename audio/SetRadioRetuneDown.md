@@ -9,6 +9,5 @@ aliases: ["0xdd6bcf9e94425df9"]
 void SET_RADIO_RETUNE_DOWN();
 ```
 
-```
 Sets the radio to tune down
-```
+

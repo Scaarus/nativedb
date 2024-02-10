@@ -9,6 +9,5 @@ aliases: ["0x768ff8961ba904d6"]
 bool IS_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_READY(Scaleform_Return scaleform_return);
 ```
 
-```
 checks whether the return ID is ready to use yet
-```
+

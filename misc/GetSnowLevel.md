@@ -9,6 +9,5 @@ aliases: ["0xc5868a966e5be3ae"]
 float GET_SNOW_LEVEL();
 ```
 
-```
 Gets the current snow level (0.0 -> 1.0)
-```
+

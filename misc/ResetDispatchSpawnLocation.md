@@ -9,6 +9,5 @@ aliases: ["0x5896f2bd5683a4e1"]
 void RESET_DISPATCH_SPAWN_LOCATION();
 ```
 
-```
 Resets the spawn location for the dispatch services.
-```
+

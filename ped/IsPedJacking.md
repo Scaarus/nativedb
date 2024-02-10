@@ -9,6 +9,5 @@ aliases: ["0x4ae4ff911dfb61da"]
 bool IS_PED_JACKING(Ped ped);
 ```
 
-```
 Checks if the ped is in the process of dragging another ped from a vehicle.
-```
+

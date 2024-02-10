@@ -9,11 +9,10 @@ aliases: ["0xd972e4bd7aeb235f"]
 day_of_week GET_CLOCK_DAY_OF_WEEK();
 ```
 
-```
 gets the current day of the week (0 is sunday, 6 is saturday)
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | SUNDAY |
 | 15 | MONDAY |
@@ -22,4 +21,4 @@ Possible return values:
 | 18 | THURSDAY |
 | 19 | FRIDAY |
 | 20 | SATURDAY |
-```
+

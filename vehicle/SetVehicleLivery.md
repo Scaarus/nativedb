@@ -9,6 +9,5 @@ aliases: ["0x60bf608f1b8cd1b6"]
 void SET_VEHICLE_LIVERY(Vehicle vehicle, int LiveryID);
 ```
 
-```
 Set the livery of the vehicle
-```
+

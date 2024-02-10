@@ -9,6 +9,5 @@ aliases: ["0xccf71cbddf5b6cb9"]
 void REMOVE_DECALS_FROM_OBJECT(Object object);
 ```
 
-```
 Removes all decals on a particular object
-```
+

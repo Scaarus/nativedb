@@ -9,19 +9,18 @@ aliases: ["0x1cea6bfdf248e5d9"]
 bool IS_CONTROL_ENABLED(int control, int action);
 ```
 
-```
 Return true if the control is disabled.
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
 
 
-Possible values for action:
-| Index | Name |
+## action Values:
+| Value | Name |
 | --- | --- |
 | 0 | INPUT_NEXT_CAMERA |
 | 3 | INPUT_LOOK_LR |
@@ -387,4 +386,4 @@ Possible values for action:
 | 363 | INPUT_EAT_SNACK |
 | 364 | INPUT_USE_ARMOR |
 | 365 | MAX_INPUTS |
-```
+

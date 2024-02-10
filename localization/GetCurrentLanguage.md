@@ -9,11 +9,10 @@ aliases: ["0x2bdd44cc428a7eae"]
 language_type GET_CURRENT_LANGUAGE();
 ```
 
-```
 Used to check the language/region of the current player
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Undefined |
 | 0 | English |
@@ -32,4 +31,4 @@ Possible return values:
 
 
 Returns the selected language of the player profile
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x8ef6b7ac68e2f01b"]
 void CLEAR_PED_LAST_DAMAGE_BONE(Ped ped);
 ```
 
-```
 Reset the
-```
+

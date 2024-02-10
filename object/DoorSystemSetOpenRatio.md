@@ -9,6 +9,5 @@ aliases: ["0xb6e6fba95c7324ac"]
 void DOOR_SYSTEM_SET_OPEN_RATIO(int doorEnumHash, float fOpenRatio, bool network, bool flushState);
 ```
 
-```
 Get opening ratio to lock the door at (i.e. 1.0 to lock open)
-```
+

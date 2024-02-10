@@ -9,11 +9,10 @@ aliases: ["0xca4ac3eaae46ec7b"]
 lock_state GET_VEHICLE_INDIVIDUAL_DOOR_LOCK_STATUS(Vehicle vehicle, int DoorIndex);
 ```
 
-```
 Gets the door lock status for given door index.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 24 | Unlocked 1 |
@@ -26,4 +25,4 @@ Possible return values:
 | 31 | Locked But Boot Unlocked 8 |
 | 32 | Locked No Passengers 9 |
 | 33 | Cannot Enter 10 |
-```
+

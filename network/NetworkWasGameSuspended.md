@@ -9,6 +9,5 @@ aliases: ["0x4237e822315d8ba9"]
 bool NETWORK_WAS_GAME_SUSPENDED();
 ```
 
-```
 Returns if the game was suspended (true between suspend / resume events)
-```
+

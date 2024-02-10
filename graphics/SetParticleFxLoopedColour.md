@@ -9,6 +9,5 @@ aliases: ["0x7f8f65877f88783b"]
 void SET_PARTICLE_FX_LOOPED_COLOUR(int ptfxId, float colR, float colG, float colB, bool localOnly);
 ```
 
-```
 Sets the colour tint of a previously started looped particle effect
-```
+

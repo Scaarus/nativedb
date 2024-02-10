@@ -9,6 +9,5 @@ aliases: ["0xfdd179eaf45b556c"]
 int GET_WANTED_LEVEL_THRESHOLD();
 ```
 
-```
 Gets the threshold for a specified wanted level
-```
+

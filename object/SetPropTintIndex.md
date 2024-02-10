@@ -9,6 +9,5 @@ aliases: ["0x31574b1b41268673"]
 void SET_PROP_TINT_INDEX(Object object, int TintIndex);
 ```
 
-```
 Sets the tint index on an prop object (e.g. parachute)
-```
+

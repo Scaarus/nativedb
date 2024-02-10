@@ -9,9 +9,8 @@ aliases: ["0xa091a5e44f0072e5"]
 bool NETWORK_DO_TRANSITION_QUICKMATCH_ASYNC(int nGameMode, int nMaxPlayers, int nActivityType, int nActivityID, int nMmFlags, int nActivityIsland);
 ```
 
-```
-Possible values for nActivityIsland:
-| Index | Name |
+## nActivityIsland Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | General |
@@ -19,4 +18,4 @@ Possible values for nActivityIsland:
 | 233 | Playlist |
 | 234 | Event |
 | 235 | Tournament |
-```
+

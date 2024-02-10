@@ -9,11 +9,10 @@ aliases: ["0x72dd432f3cdfc0ee"]
 void TRIGGER_SONAR_BLIP(Vector3 Position, float fNoiseRange, int Colour);
 ```
 
-```
 triggers a one-off self-removing sonar blip on the minimap
 
-Possible values for Colour:
-| Index | Name |
+## Colour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,4 +249,4 @@ Possible values for Colour:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

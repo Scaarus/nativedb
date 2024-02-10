@@ -9,6 +9,5 @@ aliases: ["0x2982bf73f66e9ddc"]
 void SET_TV_VOLUME(float vol);
 ```
 
-```
 Sets the TV Volume in decibels
-```
+

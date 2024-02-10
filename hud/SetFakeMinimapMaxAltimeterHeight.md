@@ -9,11 +9,10 @@ aliases: ["0xd201f3ff917a506d"]
 void SET_FAKE_MINIMAP_MAX_ALTIMETER_HEIGHT(float fMaxHeight, bool ColourAltimeterArea, int hudColor);
 ```
 
-```
 sets a fake max height for the minimap altimeter
 
-Possible values for hudColor:
-| Index | Name |
+## hudColor Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,7 +249,7 @@ Possible values for hudColor:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+
 
 ## Parameters
 * **fMaxHeight**: 

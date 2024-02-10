@@ -9,6 +9,5 @@ aliases: ["0xf133bbbe91e1691f"]
 bool IS_MOVE_BLEND_RATIO_WALKING(float MoveBlendRatio);
 ```
 
-```
 Returns true if the passed in move blend ratio is in the appropriate range
-```
+

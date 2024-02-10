@@ -9,6 +9,5 @@ aliases: ["0xaf42195a42c63bba"]
 bool IS_WARNING_MESSAGE_READY_FOR_CONTROL();
 ```
 
-```
 this should be checked before script try to call BEGIN_SCALEFORM_MOVIE_METHOD_ON_WARNING_MESSAGE
-```
+

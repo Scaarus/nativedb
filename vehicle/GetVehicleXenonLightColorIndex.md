@@ -9,6 +9,5 @@ aliases: ["0x3dff319a831e0cdb"]
 int GET_VEHICLE_XENON_LIGHT_COLOR_INDEX(Vehicle vehicle);
 ```
 
-```
 Get Xenon light index for the vehicle (0xFF is invalid)
-```
+

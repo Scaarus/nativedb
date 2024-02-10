@@ -9,6 +9,5 @@ aliases: ["0x7f06937b0cdcbc1a"]
 void SET_SNOW(float SnowVal);
 ```
 
-```
 Sets the snow value (between 0.0 and 1.0) - set to less than 0.0 to clear
-```
+

@@ -9,8 +9,7 @@ aliases: ["0xcc33fa791322b9d9"]
 void CLEAR_PRINTS();
 ```
 
-```
 Clears the print queue that may have been built up so far.
 
 Handy if a lot of text is about to be printed by you whilst there still is some unimportant stuff left.
-```
+

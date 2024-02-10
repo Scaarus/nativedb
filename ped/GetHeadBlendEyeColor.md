@@ -9,6 +9,5 @@ aliases: ["0x76bba2cee66d47e9"]
 int GET_HEAD_BLEND_EYE_COLOR(Ped ped);
 ```
 
-```
 Gets the specified eye color index on the given ped
-```
+

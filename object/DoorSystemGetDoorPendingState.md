@@ -9,11 +9,10 @@ aliases: ["0x4bc2854478f3a749"]
 door_state_enum DOOR_SYSTEM_GET_DOOR_PENDING_STATE(int doorEnumHash);
 ```
 
-```
 Get the pending state of a door managed by the door system
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Unlocked |
@@ -23,4 +22,4 @@ Possible return values:
 | 4 | Force Locked This Frame |
 | 5 | Force Open This Frame |
 | 6 | Force Closed This Frame |
-```
+

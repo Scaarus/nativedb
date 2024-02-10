@@ -9,8 +9,7 @@ aliases: ["0x2c4a1590abf43e8b"]
 void SET_VEHICLE_WILL_TELL_OTHERS_TO_HURRY(Vehicle vehicle, bool TellOthersToHurry);
 ```
 
-```
 Makes this vehicle cause ambient vehicles that get in its way to hurry away. Does not affect mission vehicles
 
 This is a reset flag, it must be called each frame
-```
+

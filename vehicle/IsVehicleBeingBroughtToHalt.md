@@ -9,6 +9,5 @@ aliases: ["0xc69bb1d832a710ef"]
 bool IS_VEHICLE_BEING_BROUGHT_TO_HALT(Vehicle vehicle);
 ```
 
-```
 Checks if a vehicle is being brought to a halt
-```
+

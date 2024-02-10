@@ -9,6 +9,5 @@ aliases: ["0x7085228842b13a67"]
 bool IS_PEDHEADSHOT_READY(int id);
 ```
 
-```
 returns whether the headshot texture is ready to be used
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x89049dd63c08b5d1"]
 void PLAY_STREAM_FROM_PED(Ped ped);
 ```
 
-```
 Plays a preloaded stream back from a specified ped.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc531ee8a1145a149"]
 bool IS_DOOR_CLOSED(int doorEnumHash);
 ```
 
-```
 Returns true if the door is closed
-```
+

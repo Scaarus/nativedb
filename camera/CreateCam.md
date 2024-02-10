@@ -9,8 +9,7 @@ aliases: ["0xc3981dce61d9e13f"]
 Camera CREATE_CAM(string CameraName, bool StartActivated);
 ```
 
-```
 Create a camera of a given name.
 
 Valid camera names are as
-```
+

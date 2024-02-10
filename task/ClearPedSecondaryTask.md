@@ -9,6 +9,5 @@ aliases: ["0x176cecf6f920d707"]
 void CLEAR_PED_SECONDARY_TASK();
 ```
 
-```
 Clears any secondary anims playing on the ped.
-```
+

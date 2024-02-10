@@ -9,6 +9,5 @@ aliases: ["0xff1bed81bfdc0fe0"]
 void SET_EXPLOSIVE_MELEE_THIS_FRAME(Player player);
 ```
 
-```
 Set the player has explosive melee this frame
-```
+

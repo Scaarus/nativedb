@@ -9,9 +9,8 @@ aliases: ["0x3fa00d4f4641bfae"]
 void TASK_STOP_PHONE_GESTURE_ANIMATION(Ped ped, float fBlendOutOverride);
 ```
 
-```
 Stops a player phone animation
-```
+
 
 ## Parameters
 * **ped**: 

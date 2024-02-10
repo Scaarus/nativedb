@@ -9,6 +9,5 @@ aliases: ["0x88a741e44a2b3495"]
 bool IS_IPL_ACTIVE(string IplName);
 ```
 
-```
 return if IPL is active (will stream when in range)
-```
+

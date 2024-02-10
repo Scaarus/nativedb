@@ -9,11 +9,10 @@ aliases: ["0xe495d1ef4c91fd20"]
 Hash GET_VEHICLE_CAUSE_OF_DESTRUCTION(Vehicle vehicle);
 ```
 
-```
 Gets the cause of destruction for the vehicle
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONTYPE_INVALID |
 | 1 | WEAPONTYPE_UNARMED |
@@ -344,4 +343,4 @@ Possible return values:
 | 326 | WEAPONTYPE_DLC_VEHICLE_TORPEDO |
 | 327 | WEAPONTYPE_DLC_VEHICLE_SPYCARGUN |
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
-```
+

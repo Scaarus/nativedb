@@ -9,6 +9,5 @@ aliases: ["0xb9cf1f793a9f1bf1"]
 bool GET_IS_USING_FPS_THIRD_PERSON_COVER();
 ```
 
-```
 Returns if we are using third perspon cover in FPS Mode.
-```
+

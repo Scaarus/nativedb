@@ -9,6 +9,5 @@ aliases: ["0xd01005d2ba2eb778"]
 void ACTIVATE_AUDIO_SLOWMO_MODE(string mode);
 ```
 
-```
 Activates the named slowmo mode.
-```
+

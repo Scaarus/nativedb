@@ -9,6 +9,5 @@ aliases: ["0x3d34e80eed4ae3be"]
 bool IS_ROCKET_BOOST_ACTIVE();
 ```
 
-```
 returns true if a vehicle is rocket boosting
-```
+

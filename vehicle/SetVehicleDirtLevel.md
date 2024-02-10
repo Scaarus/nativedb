@@ -9,6 +9,5 @@ aliases: ["0x79d3b596fe44ee8b"]
 void SET_VEHICLE_DIRT_LEVEL(Vehicle vehicle, float DirtLevel);
 ```
 
-```
 Sets the vehicles dirt level 0.0 (clean) to 15.0 (dirty).
-```
+

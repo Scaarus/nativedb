@@ -9,6 +9,5 @@ aliases: ["0xa7e4e2d361c2627f"]
 void SET_WAYPOINT_OFF();
 ```
 
-```
 Switches off the waypoint blip if it is active
-```
+

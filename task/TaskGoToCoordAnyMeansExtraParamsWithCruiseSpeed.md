@@ -9,11 +9,10 @@ aliases: ["0xb8ecd61f531a7b02"]
 void TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS_WITH_CRUISE_SPEED(Vector3 Position, float MoveBlendRatio, Vehicle vehicle, bool UseLongRangeVehiclePathing, int DrivingFlags, float MaxRangeToShootTargets, float fExtraVehToTargetDistToPreferVeh, float fDriveStraightLineDistance, int iExtraFlags, float fCruiseSpeed, float fTargetArriveDist);
 ```
 
-```
 Tells a ped to go to a coord by any means.
 
-Possible values for DrivingFlags:
-| Index | Name |
+## DrivingFlags Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -49,8 +48,8 @@ Possible values for DrivingFlags:
 | 1073741824 | F Forcejoininroaddirection |
 
 
-Possible values for iExtraFlags:
-| Index | Name |
+## iExtraFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Ignore Vehicle Health |
@@ -63,7 +62,7 @@ Possible values for iExtraFlags:
 
 
 As above but has an extra param to set initial cruise speed of vehicle. fCruise
-```
+
 
 ## Parameters
 * **Position**: 

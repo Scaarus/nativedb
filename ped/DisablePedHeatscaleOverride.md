@@ -9,6 +9,5 @@ aliases: ["0x600048c60d5c2c51"]
 void DISABLE_PED_HEATSCALE_OVERRIDE(Ped ped);
 ```
 
-```
 Disables current heat scale override
-```
+

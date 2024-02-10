@@ -9,6 +9,5 @@ aliases: ["0x70fda869f3317ea9"]
 bool IS_GAMEPLAY_CAM_LOOKING_BEHIND();
 ```
 
-```
 Returns true if the active gameplay camera is looking behind.
-```
+

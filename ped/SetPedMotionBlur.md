@@ -9,6 +9,5 @@ aliases: ["0x0a986918b102b448"]
 void SET_PED_MOTION_BLUR(Ped ped, bool MotionBlur);
 ```
 
-```
 Set if motion blur is on or off - used in sky diving
-```
+

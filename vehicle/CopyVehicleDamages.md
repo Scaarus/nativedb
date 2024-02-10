@@ -9,8 +9,7 @@ aliases: ["0xe44a982368a4af23"]
 void COPY_VEHICLE_DAMAGES(Vehicle vehicle, Vehicle vehicle);
 ```
 
-```
 copy damages and move decals from one vehicle to another
 
 Vehicle have to be different
-```
+

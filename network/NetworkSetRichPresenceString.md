@@ -9,11 +9,10 @@ aliases: ["0x3e200c2bcf4164eb"]
 void NETWORK_SET_RICH_PRESENCE_STRING(int id, string presence);
 ```
 
-```
 Sets a rich presence string in PS3.
 
-Possible values for id:
-| Index | Name |
+## id Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pres 0 |
 | 1 | Pres 1 |
@@ -27,4 +26,4 @@ Possible values for id:
 | 9 | Pres 9 |
 | 10 | Pres 10 |
 | 11 | Count |
-```
+

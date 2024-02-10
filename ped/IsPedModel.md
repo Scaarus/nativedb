@@ -9,6 +9,5 @@ aliases: ["0xc9d55b1a358a5bf7"]
 bool IS_PED_MODEL(Ped ped, Hash modelHash);
 ```
 
-```
 Checks the ped a specific modle
-```
+

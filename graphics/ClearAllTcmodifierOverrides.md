@@ -9,6 +9,5 @@ aliases: ["0x15e33297c3e8dc60"]
 void CLEAR_ALL_TCMODIFIER_OVERRIDES(string modifier);
 ```
 
-```
 Remove all existing TC modifier overrides.
-```
+

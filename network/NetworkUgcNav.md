@@ -9,6 +9,5 @@ aliases: ["0xc1447451ddb512f0"]
 void NETWORK_UGC_NAV(int feature, int location);
 ```
 
-```
 UGC UI METRIC
-```
+

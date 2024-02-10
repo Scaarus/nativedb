@@ -9,8 +9,7 @@ aliases: ["0xc6796a8ffa375e53"]
 void END_SCALEFORM_MOVIE_METHOD();
 ```
 
-```
 returns nothing
 
 end of an actionscript method called on a scaleform movie
-```
+

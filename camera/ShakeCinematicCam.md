@@ -9,11 +9,10 @@ aliases: ["0xdce214d9ed58f3cf"]
 void SHAKE_CINEMATIC_CAM(string ShakeName, float fAmplitudeScalar);
 ```
 
-```
 Apply a predefined shake to the rendered result of the active cinematic camera.
 
 Valid shake names are as
-```
+
 
 ## Parameters
 * **ShakeName**: 

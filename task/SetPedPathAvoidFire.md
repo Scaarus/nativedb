@@ -9,6 +9,5 @@ aliases: ["0x4455517b28441e60"]
 void SET_PED_PATH_AVOID_FIRE(Ped ped, bool Avoid);
 ```
 
-```
 Sets if a peds path finding avoid fires
-```
+

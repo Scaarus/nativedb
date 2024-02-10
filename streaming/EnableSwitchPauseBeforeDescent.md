@@ -9,6 +9,5 @@ aliases: ["0xd4793dff3af2abcd"]
 void ENABLE_SWITCH_PAUSE_BEFORE_DESCENT();
 ```
 
-```
 sets the "pause before descent flag" - only permitted when waiting for input destination
-```
+

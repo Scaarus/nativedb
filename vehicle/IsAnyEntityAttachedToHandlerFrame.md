@@ -9,6 +9,5 @@ aliases: ["0x62ca17b74c435651"]
 bool IS_ANY_ENTITY_ATTACHED_TO_HANDLER_FRAME(Vehicle vehicle);
 ```
 
-```
 Determines whether any object is attached to the handler's frame.
-```
+

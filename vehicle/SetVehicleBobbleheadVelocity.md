@@ -9,6 +9,5 @@ aliases: ["0x870b8b7a766615c8"]
 void SET_VEHICLE_BOBBLEHEAD_VELOCITY();
 ```
 
-```
 Sets the velocity of the bobble head in the player's vehicle
-```
+

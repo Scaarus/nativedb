@@ -9,6 +9,5 @@ aliases: ["0xeb3dac2c86001e5e"]
 bool GET_TOGGLE_PAUSED_RENDERPHASES_STATUS();
 ```
 
-```
 Get the status of the render phase pause.
-```
+

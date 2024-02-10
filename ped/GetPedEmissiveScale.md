@@ -9,6 +9,5 @@ aliases: ["0x1461b28a06717d68"]
 float GET_PED_EMISSIVE_SCALE(Ped ped);
 ```
 
-```
 Gets ped emissive scale
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x1636d7fc127b10d2"]
 void SEETHROUGH_SET_HIGHLIGHT_NOISE(float param);
 ```
 
-```
 SeeThrough Effect : Set the amount of image noise added to the highlights
-```
+

@@ -9,8 +9,7 @@ aliases: ["0xbabec9e69a91c57b"]
 void NETWORK_SET_VOICE_ACTIVE(bool IsVoiceActive);
 ```
 
-```
 Applies to all chat (lobby / in game).
 
 Enables disables voice
-```
+

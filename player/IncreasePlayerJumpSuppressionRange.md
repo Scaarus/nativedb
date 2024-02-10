@@ -9,6 +9,5 @@ aliases: ["0x9edd76e87d5d51ba"]
 void INCREASE_PLAYER_JUMP_SUPPRESSION_RANGE(Player player);
 ```
 
-```
 Sets a reset flag to more easily prevent player from jumping if a climb point is nearby.
-```
+

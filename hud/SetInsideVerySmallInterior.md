@@ -9,6 +9,5 @@ aliases: ["0x504dfe62a1692296"]
 void SET_INSIDE_VERY_SMALL_INTERIOR(bool VerySmallInterior);
 ```
 
-```
 flags the current interior as very small. Zooms in REALLY close.
-```
+

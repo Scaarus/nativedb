@@ -9,6 +9,5 @@ aliases: ["0x77168d722c58b2fc"]
 void SET_PARTICLE_FX_NON_LOOPED_ALPHA(float colA);
 ```
 
-```
 Sets the alpha tint of the next non looped particle effect
-```
+

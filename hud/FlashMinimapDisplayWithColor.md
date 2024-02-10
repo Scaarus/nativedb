@@ -9,9 +9,8 @@ aliases: ["0x6b1de27ee78e6a19"]
 void FLASH_MINIMAP_DISPLAY_WITH_COLOR(int eFlashColour);
 ```
 
-```
-Possible values for eFlashColour:
-| Index | Name |
+## eFlashColour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -251,4 +250,4 @@ Possible values for eFlashColour:
 
 
 flashes the minimap display using the color specified
-```
+

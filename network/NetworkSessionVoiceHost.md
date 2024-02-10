@@ -9,6 +9,5 @@ aliases: ["0x9c1556705f864230"]
 bool NETWORK_SESSION_VOICE_HOST();
 ```
 
-```
 Host a voice session
-```
+

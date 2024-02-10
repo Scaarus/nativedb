@@ -9,6 +9,5 @@ aliases: ["0x48af36444b965238"]
 bool IS_PC_VERSION();
 ```
 
-```
 Returns TRUE when running with the PC executable
-```
+

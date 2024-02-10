@@ -9,6 +9,5 @@ aliases: ["0x162f9d995753dc19"]
 float GET_FINAL_RENDERED_CAM_MOTION_BLUR_STRENGTH();
 ```
 
-```
 Gets the motion blur strength of the final rendered cam.
-```
+

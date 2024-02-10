@@ -9,6 +9,5 @@ aliases: ["0xa761d4ac6115623d"]
 bool STAT_STOP_RECORD_STAT();
 ```
 
-```
 PURPOSE Stop recording a stat started with the above command. NOTES -
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa6f312fcce9c1dfe"]
 void RESET_PLAYER_STAMINA();
 ```
 
-```
 Reset Player stamina to its maximun value.
-```
+

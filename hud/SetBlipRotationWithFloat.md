@@ -9,6 +9,5 @@ aliases: ["0xa8b6afdac320ac87"]
 void SET_BLIP_ROTATION_WITH_FLOAT(Blip blip, float fDegrees);
 ```
 
-```
 Same as SET_BLIP_ROTATION, but with floating point accuracy!
-```
+

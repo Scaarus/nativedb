@@ -9,6 +9,5 @@ aliases: ["0xd8295af639fd9cb8"]
 void SWITCH_TO_MULTI_SECONDPART(Ped ped);
 ```
 
-```
 pan and descend to the destination ped during player switch (when going from SP to MP)
-```
+

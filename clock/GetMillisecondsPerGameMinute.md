@@ -9,6 +9,5 @@ aliases: ["0x2f8b4d1c595b11db"]
 int GET_MILLISECONDS_PER_GAME_MINUTE();
 ```
 
-```
 returns the number of real world milliseconds in one game minute
-```
+

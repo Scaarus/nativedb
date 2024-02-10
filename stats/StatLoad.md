@@ -9,6 +9,5 @@ aliases: ["0xa651443f437b1ce6"]
 bool STAT_LOAD(int slot);
 ```
 
-```
 Request load.
-```
+

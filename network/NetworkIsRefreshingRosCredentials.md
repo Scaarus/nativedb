@@ -9,6 +9,5 @@ aliases: ["0x8d11e61a4abf49cc"]
 bool NETWORK_IS_REFRESHING_ROS_CREDENTIALS();
 ```
 
-```
 Returns TRUE if we're refreshing the ROS credentials for the local player
-```
+

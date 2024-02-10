@@ -9,6 +9,5 @@ aliases: ["0xd8515f5fea14cb3f"]
 Object NET_TO_OBJ(Network network);
 ```
 
-```
 get net id for onj
-```
+

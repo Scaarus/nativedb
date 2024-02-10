@@ -9,6 +9,5 @@ aliases: ["0x708bdd8cd795b043"]
 bool HAS_CUTSCENE_CUT_THIS_FRAME();
 ```
 
-```
 Check whether the cutscene has cut this frame.
-```
+

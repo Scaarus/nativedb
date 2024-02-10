@@ -9,6 +9,5 @@ aliases: ["0xbb8ea16ecbc976c4"]
 inbox_msg_type SC_INBOX_GET_MESSAGE_TYPE_AT_INDEX(int msgIndex);
 ```
 
-```
 Get's the 'type' of message at the given index.
-```
+

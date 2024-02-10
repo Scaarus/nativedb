@@ -9,6 +9,5 @@ aliases: ["0xe532f5d78798daab"]
 void SET_MODEL_AS_NO_LONGER_NEEDED(Hash modelHash);
 ```
 
-```
 Tell streaming that this script no longer needs this model
-```
+

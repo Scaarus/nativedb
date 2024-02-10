@@ -9,6 +9,5 @@ aliases: ["0x2c8cbfe1ea5fc631"]
 int GET_VEHICLE_NUM_OF_BROKEN_LOOSEN_PARTS(Vehicle vehicle);
 ```
 
-```
 Gets the number of loosen parts from the given vehicle, include any knocked open doors, bonnets or bouncy bumpers
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x8c4f3bf23b6237db"]
 Object CREATE_PARACHUTE_BAG_OBJECT(Ped ped, bool Attach, bool ClearVariation);
 ```
 
-```
 Does a parachute model switch between variation and prop.
 
 pedIndex
-```
+
 
 ## Parameters
 * **ped**: 

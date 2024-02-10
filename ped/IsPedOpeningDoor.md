@@ -9,6 +9,5 @@ aliases: ["0x26af0e8e30bd2a2c"]
 bool IS_PED_OPENING_DOOR(Ped ped);
 ```
 
-```
 Returns true if the ped is currently running the open door task
-```
+

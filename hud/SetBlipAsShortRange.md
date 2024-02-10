@@ -9,6 +9,5 @@ aliases: ["0xbe8be4fe60e27b72"]
 void SET_BLIP_AS_SHORT_RANGE(Blip blip, bool OnOff);
 ```
 
-```
 set a blip as short range - on off
-```
+

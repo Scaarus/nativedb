@@ -9,8 +9,7 @@ aliases: ["0x2a8f319b392e7b3f"]
 void SET_TRAILER_INVERSE_MASS_SCALE(Vehicle vehicle, float InvMassScale);
 ```
 
-```
 Sets the inverse mass scales on the trailer constraints
 
 Pass in the trailer
-```
+

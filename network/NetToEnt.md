@@ -9,6 +9,5 @@ aliases: ["0xbffeab45a9a9094a"]
 Entity NET_TO_ENT(Network network);
 ```
 
-```
 get net id for entity
-```
+

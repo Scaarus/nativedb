@@ -9,6 +9,5 @@ aliases: ["0x2e2f4240b3f24647"]
 void SET_PED_CAN_TELEPORT_TO_GROUP_LEADER(Ped ped, Group group, bool Enabled);
 ```
 
-```
 Sets a ped to teleport to the group leader if normal pathing fails.
-```
+

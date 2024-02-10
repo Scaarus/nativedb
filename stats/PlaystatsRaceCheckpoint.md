@@ -9,6 +9,5 @@ aliases: ["0x9c375c315099dde4"]
 void PLAYSTATS_RACE_CHECKPOINT(int vehicleId);
 ```
 
-```
 Tells the PlayStats that a race checkpoint has been reached.
-```
+

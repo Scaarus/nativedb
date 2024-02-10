@@ -9,6 +9,5 @@ aliases: ["0xf9800aa1a771b000"]
 bool WAS_PED_KILLED_BY_STEALTH(Ped ped);
 ```
 
-```
 Checks if a ped was killed by stealth.
-```
+

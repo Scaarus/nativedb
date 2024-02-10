@@ -9,6 +9,5 @@ aliases: ["0xb99c4e4d9499df29"]
 void RESET_GLOBAL_ACTIONSCRIPT_FLAG(int iIndex);
 ```
 
-```
 resets the value of a global flag
-```
+

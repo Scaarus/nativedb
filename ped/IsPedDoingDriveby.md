@@ -9,6 +9,5 @@ aliases: ["0xb2c086cc1bf8f2bf"]
 bool IS_PED_DOING_DRIVEBY(Ped ped);
 ```
 
-```
 Checks if the ped is currently performing the driveby task
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x5e3cf89c6bcca67d"]
 Camera CREATE_CAMERA(int Camera, bool StartActivated);
 ```
 
-```
 Create a camera of a given name.
 
-Possible values for Camera:
-| Index | Name |
+## Camera Values:
+| Value | Name |
 | --- | --- |
 | 65 | Scripted |
 | 66 | Scripted Fly An In-Game Fly Camera Designed For Use In The Mission Creator |
@@ -27,4 +26,4 @@ Possible values for Camera:
 
 
 StartActivated sets if the camera starts acive
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa06509a691d12be4"]
 bool NETWORK_JOIN_GROUP_ACTIVITY();
 ```
 
-```
 Group activity functions
-```
+

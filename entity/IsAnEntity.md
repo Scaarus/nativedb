@@ -9,6 +9,5 @@ aliases: ["0x731ec8a916bd11a1"]
 bool IS_AN_ENTITY(Item item);
 ```
 
-```
 Check if an item is an entity (can be converted to an ENTITY_INDEX).
-```
+

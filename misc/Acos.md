@@ -9,8 +9,7 @@ aliases: ["0x1d08b970013c34b6"]
 float ACOS();
 ```
 
-```
 Caluclates the arccos.
 
 see http:en.wikipedia.orgwikiInverse_trigonometric_function
-```
+

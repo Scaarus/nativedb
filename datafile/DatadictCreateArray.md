@@ -9,9 +9,8 @@ aliases: ["0x5b11728527ca6e5f"]
 Any* DATADICT_CREATE_ARRAY(Any* parent, string name);
 ```
 
-```
 Adds an array object to the specified dictionary
-```
+
 
 ## Parameters
 * **parent**: The dictionary object

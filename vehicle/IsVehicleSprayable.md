@@ -9,6 +9,5 @@ aliases: ["0x8d474c8faeff6cde"]
 bool IS_VEHICLE_SPRAYABLE(Vehicle vehicle);
 ```
 
-```
 Checks if a vehicle can be repsrayed
-```
+

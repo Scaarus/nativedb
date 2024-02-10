@@ -9,6 +9,5 @@ aliases: ["0x1dd1f58f493f1da5"]
 bool IS_WAYPOINT_ACTIVE();
 ```
 
-```
 Returns whether a waypoint blip is currently active
-```
+

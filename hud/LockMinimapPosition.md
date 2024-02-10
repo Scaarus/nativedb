@@ -9,6 +9,5 @@ aliases: ["0x1279e861a329e73f"]
 void LOCK_MINIMAP_POSITION(float fPosX, float fPosY);
 ```
 
-```
 locks the minimap position to a world coord
-```
+

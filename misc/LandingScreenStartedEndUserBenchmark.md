@@ -9,6 +9,5 @@ aliases: ["0x3bbbd13e5041a79e"]
 bool LANDING_SCREEN_STARTED_END_USER_BENCHMARK();
 ```
 
-```
 Returns whether the Landing Screen Launched the Benchmark Tests
-```
+

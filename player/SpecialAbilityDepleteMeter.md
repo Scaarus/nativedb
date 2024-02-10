@@ -9,6 +9,5 @@ aliases: ["0x1d506dbbbc51e64b"]
 void SPECIAL_ABILITY_DEPLETE_METER(Player player, bool ignoreActive, int abilitySlot);
 ```
 
-```
 Depletes the player special ability meter.
-```
+

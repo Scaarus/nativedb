@@ -9,6 +9,5 @@ aliases: ["0x7792424aa0eac32e"]
 void CLEAR_DYNAMIC_PAUSE_MENU_ERROR_MESSAGE();
 ```
 
-```
 Clears the dynamic pause menu error message (warning screen)
-```
+

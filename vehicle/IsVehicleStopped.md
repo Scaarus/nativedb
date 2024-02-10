@@ -9,6 +9,5 @@ aliases: ["0x5721b434ad84d57a"]
 bool IS_VEHICLE_STOPPED(Vehicle vehicle);
 ```
 
-```
 Checks that the vehicle is stopped
-```
+

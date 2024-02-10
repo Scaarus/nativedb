@@ -9,6 +9,5 @@ aliases: ["0x9e23b1777a927dad"]
 string GET_TIME_AS_STRING(int Time);
 ```
 
-```
 Return time formatted in h:mm:ss.ms
-```
+

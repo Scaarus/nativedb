@@ -9,6 +9,5 @@ aliases: ["0x621873ece1178967"]
 void SET_ENTITY_COORDS_WITHOUT_PLANTS_RESET(Entity entity, Vector3 NewPosition, bool DoDeadCheck, bool KeepTasks, bool KeepIK, bool DoWarp);
 ```
 
-```
 Works exactly like SET_ENTITY_COORDS() but doesn't reset procedural grass (useful for spectator camera views, etc.)
-```
+

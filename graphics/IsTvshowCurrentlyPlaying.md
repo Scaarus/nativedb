@@ -9,6 +9,5 @@ aliases: ["0x0ad973ca1e077b60"]
 bool IS_TVSHOW_CURRENTLY_PLAYING(int nameHash);
 ```
 
-```
 Returns whether the currently playing TV show is this one
-```
+

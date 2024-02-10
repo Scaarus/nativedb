@@ -9,6 +9,5 @@ aliases: ["0x55ecf4d13d9903b0"]
 void SET_NEXT_RADIO_TRACK(string RadioStationName, string category, string contextName, string trackIndex);
 ```
 
-```
 Forces the next track on a radio station. The track will played following the currently playing track
-```
+

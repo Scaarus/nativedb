@@ -9,6 +9,5 @@ aliases: ["0x05b7a89bd78797fc"]
 Interior_Instance GET_INTERIOR_AT_COORDS_WITH_TYPE(string Name);
 ```
 
-```
 Get interior of required type closest to given co-ordinates
-```
+

@@ -9,8 +9,7 @@ aliases: ["0x24da7d7667fd7b09"]
 string GET_CONTENT_TO_LOAD();
 ```
 
-```
 this is used by the LiveArea on PS4
 
 Gets the content name to load when the game is launched.
-```
+

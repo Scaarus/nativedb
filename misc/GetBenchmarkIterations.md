@@ -9,6 +9,5 @@ aliases: ["0x4750fc27570311ec"]
 int GET_BENCHMARK_ITERATIONS();
 ```
 
-```
 Returns the -benchmarkItterations number, or -1 if unspecified.
-```
+

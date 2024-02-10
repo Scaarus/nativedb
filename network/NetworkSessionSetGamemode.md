@@ -9,6 +9,5 @@ aliases: ["0x600f8cb31c7aab6e"]
 void NETWORK_SESSION_SET_GAMEMODE(int nGameMode);
 ```
 
-```
 Indicates to code what game-mode we'll be using
-```
+

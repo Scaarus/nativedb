@@ -9,6 +9,5 @@ aliases: ["0x889329c80fe5963c"]
 void SET_ALLOW_ABILITY_BAR(bool TurnOn);
 ```
 
-```
 Sets if we allow the ability bar to be used. This locks the visibility to false when turned off.
-```
+

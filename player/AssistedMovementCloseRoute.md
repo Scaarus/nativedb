@@ -9,6 +9,5 @@ aliases: ["0xaebf081ffc0a0e5e"]
 void ASSISTED_MOVEMENT_CLOSE_ROUTE();
 ```
 
-```
 Closes the Assisted Movement route which is currently being edited
-```
+

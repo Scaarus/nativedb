@@ -9,6 +9,5 @@ aliases: ["0x9cb5ce07a3968d5a"]
 void SPECIAL_ABILITY_DEACTIVATE_FAST(Player player, int abilitySlot);
 ```
 
-```
 Deactivates the player's special ability immediately without applying the fadeout fx
-```
+

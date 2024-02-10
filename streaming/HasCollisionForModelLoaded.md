@@ -9,6 +9,5 @@ aliases: ["0x22cca434e368f03a"]
 bool HAS_COLLISION_FOR_MODEL_LOADED(Hash modelHash);
 ```
 
-```
 Returns TRUE if the collision for this model is in memory
-```
+

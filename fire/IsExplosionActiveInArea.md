@@ -9,11 +9,10 @@ aliases: ["0x6070104b699b2ef4"]
 bool IS_EXPLOSION_ACTIVE_IN_AREA(int ExplosionTag, Vector3 PosMin, Vector3 PosMax);
 ```
 
-```
 Checks if an explosion is active ( i.e. the delay is 0 ) in a area.
 
-Possible values for ExplosionTag:
-| Index | Name |
+## ExplosionTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Dontcare |
 | 0 | Grenade |
@@ -100,4 +99,4 @@ Possible values for ExplosionTag:
 | 81 | Script Missile Large |
 | 82 | Submarine Big |
 | 83 | Emplauncher Emp |
-```
+

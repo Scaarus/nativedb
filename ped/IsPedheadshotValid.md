@@ -9,6 +9,5 @@ aliases: ["0xa0a9668f158129a2"]
 bool IS_PEDHEADSHOT_VALID(int id);
 ```
 
-```
 returns whether the PEDHEADSHOT_ID is a valid one
-```
+

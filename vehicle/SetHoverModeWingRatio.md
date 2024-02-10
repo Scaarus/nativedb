@@ -9,6 +9,5 @@ aliases: ["0x70a252f60a3e036b"]
 void SET_HOVER_MODE_WING_RATIO(float WingRatio);
 ```
 
-```
 Sets wing ratio on vehicles with a hover mode
-```
+

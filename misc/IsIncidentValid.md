@@ -9,6 +9,5 @@ aliases: ["0xc8bc6461e629beaa"]
 bool IS_INCIDENT_VALID();
 ```
 
-```
 Returns if the given incident is still valid
-```
+

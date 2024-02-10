@@ -9,6 +9,5 @@ aliases: ["0x5b91b229243351a8"]
 void SET_INVERT_VEHICLE_CONTROLS(bool InvertControls);
 ```
 
-```
 Sets whether to invert the vehicle controls
-```
+

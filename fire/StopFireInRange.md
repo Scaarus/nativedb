@@ -9,6 +9,5 @@ aliases: ["0x056a8a219b8e829f"]
 void STOP_FIRE_IN_RANGE(float fRadius);
 ```
 
-```
 Extinguishes fires within the specified radius
-```
+

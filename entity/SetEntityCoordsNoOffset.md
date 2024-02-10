@@ -9,11 +9,10 @@ aliases: ["0x239a3351ac1da385"]
 void SET_ENTITY_COORDS_NO_OFFSET(Entity entity, Vector3 NewPosition, bool KeepTasks, bool KeepIK, bool DoWarp);
 ```
 
-```
 Sets the entity's coords without adding the offset.
 
 If you set the z component of VecNewCoors to INVALID_WORLD_Z this command to automatically find the ground z for your entity if there is collision.
-```
+
 
 ## Parameters
 * **entity**: 

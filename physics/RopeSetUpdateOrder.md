@@ -9,6 +9,5 @@ aliases: ["0xdc57a637a20006ed"]
 void ROPE_SET_UPDATE_ORDER(int iUpdateOrder);
 ```
 
-```
 Set update order of a rope ( i.e. when in the frame the physics update is called )
-```
+

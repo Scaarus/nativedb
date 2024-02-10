@@ -9,6 +9,5 @@ aliases: ["0x641f272b52e2f0f8"]
 void ALLOW_PORTABLE_PICKUP_TO_MIGRATE_TO_NON_PARTICIPANTS(Object object, bool Allow);
 ```
 
-```
 Sets a portable pickup to persist after converting to ambient
-```
+

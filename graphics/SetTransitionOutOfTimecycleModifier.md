@@ -9,6 +9,5 @@ aliases: ["0x1cba05ae7bd7ee05"]
 void SET_TRANSITION_OUT_OF_TIMECYCLE_MODIFIER(float time);
 ```
 
-```
 Start a transition out of the currently active script modifier.
-```
+

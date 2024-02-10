@@ -9,6 +9,5 @@ aliases: ["0x25fc3e33a31ad0c9"]
 void CASCADE_SHADOWS_SET_SCREEN_SIZE_CHECK_ENABLED(bool Enable);
 ```
 
-```
 call this to enable or disable the screen size check used when visibility testing entities for cascaded shadows
-```
+

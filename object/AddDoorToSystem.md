@@ -9,9 +9,8 @@ aliases: ["0x6f8838d03d1dc226"]
 void ADD_DOOR_TO_SYSTEM(int doorEnumHash, Hash modelHash, Vector3 vecPos, bool useOldOverrides, bool network, bool permanent);
 ```
 
-```
 Add script defined door to native door system
-```
+
 
 ## Parameters
 * **doorEnumHash**: 

@@ -9,6 +9,5 @@ aliases: ["0x9222f300bf8354fe"]
 void REGISTER_HATED_TARGETS_AROUND_PED(float Radius);
 ```
 
-```
 Registers the all hated peds near the ped and within the radius as threats, these targets will now be attacked when the ped is in TaskCombat
-```
+

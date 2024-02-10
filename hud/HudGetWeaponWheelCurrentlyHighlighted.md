@@ -9,11 +9,10 @@ aliases: ["0xa48931185f0536fe"]
 Hash HUD_GET_WEAPON_WHEEL_CURRENTLY_HIGHLIGHTED();
 ```
 
-```
 Gets the last weapon displayed on the wheel NOTES: Will continue to work even if the wheel isn't displayed, so check IF IS_HUD_COMPONENT_ACTIVE(NEW_HUD_WEAPON_WHEEL) first
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONTYPE_INVALID |
 | 1 | WEAPONTYPE_UNARMED |
@@ -344,4 +343,4 @@ Possible return values:
 | 326 | WEAPONTYPE_DLC_VEHICLE_TORPEDO |
 | 327 | WEAPONTYPE_DLC_VEHICLE_SPYCARGUN |
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
-```
+

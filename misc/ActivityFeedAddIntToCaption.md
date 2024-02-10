@@ -9,6 +9,5 @@ aliases: ["0x97e7e2c04245115b"]
 void ACTIVITY_FEED_ADD_INT_TO_CAPTION(int SubValue);
 ```
 
-```
 Adds a int value to the main caption ...using ~1~
-```
+

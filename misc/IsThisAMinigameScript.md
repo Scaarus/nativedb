@@ -9,8 +9,7 @@ aliases: ["0x7b30f65d7b710098"]
 bool IS_THIS_A_MINIGAME_SCRIPT();
 ```
 
-```
 Checks that this is a mingame script.
 
 It is possible for more than one minigame script to be running at the same time.
-```
+

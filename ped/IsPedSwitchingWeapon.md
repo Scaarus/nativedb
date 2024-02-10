@@ -9,6 +9,5 @@ aliases: ["0x3795688a307e1eb6"]
 bool IS_PED_SWITCHING_WEAPON(Ped ped);
 ```
 
-```
 Check if a ped is switching weapon
-```
+

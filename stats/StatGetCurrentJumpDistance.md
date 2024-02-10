@@ -9,6 +9,5 @@ aliases: ["0x9ec8858184cd253a"]
 float STAT_GET_CURRENT_JUMP_DISTANCE();
 ```
 
-```
 PURPOSE Get the current value of the jump distance
-```
+

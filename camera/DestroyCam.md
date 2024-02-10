@@ -9,9 +9,8 @@ aliases: ["0x865908c81a2c22e9"]
 void DESTROY_CAM(Camera camera, bool ShouldApplyAcrossAllThreads);
 ```
 
-```
 Destroy a single script-controlled camera.
-```
+
 
 ## Parameters
 * **camera**: 

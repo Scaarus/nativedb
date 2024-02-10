@@ -9,6 +9,5 @@ aliases: ["0x7c0a893088881d57"]
 bool HAS_CUTSCENE_FINISHED();
 ```
 
-```
 Checks if the cutscene has finished playing. To be removed use IS_CUTSCENE_PLAYING.
-```
+

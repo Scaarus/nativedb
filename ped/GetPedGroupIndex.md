@@ -9,6 +9,5 @@ aliases: ["0xf162e133b4e7a675"]
 Group GET_PED_GROUP_INDEX(Ped ped);
 ```
 
-```
 Get the group index form the ped.
-```
+

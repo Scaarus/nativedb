@@ -9,11 +9,10 @@ aliases: ["0xdb41d07a45a6d4b7"]
 int GET_DEFAULT_AMMO_FOR_WEAPON_PICKUP(int WeaponPickupType);
 ```
 
-```
 Returns the standard ammo you receive when collecting a weapon of the given type
 
-Possible values for WeaponPickupType:
-| Index | Name |
+## WeaponPickupType Values:
+| Value | Name |
 | --- | --- |
 | 0 | PICKUP_HEALTH_STANDARD |
 | 1 | PICKUP_ARMOUR_STANDARD |
@@ -201,4 +200,4 @@ Possible values for WeaponPickupType:
 | 183 | PICKUP_WEAPON_DLC_METALDETECTOR |
 | 184 | PICKUP_WEAPON_DLC_TACTICALRIFLE |
 | 185 | PICKUP_WEAPON_DLC_PRECISIONRIFLE |
-```
+

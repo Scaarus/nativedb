@@ -9,6 +9,5 @@ aliases: ["0xbac038f7459ae5ae"]
 Vector3 GET_CAM_COORD(Camera camera);
 ```
 
-```
 Get the camera's position
-```
+

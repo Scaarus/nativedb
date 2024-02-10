@@ -9,9 +9,8 @@ aliases: ["0x6058665d72302d3f"]
 void PLAYSTATS_CHEAT_APPLIED(string cheatString);
 ```
 
-```
 Metric set when the player sets a cheat.
-```
+
 
 ## Parameters
 * **cheatString**: String that uniquelly identifies the cheat.

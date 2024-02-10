@@ -9,6 +9,5 @@ aliases: ["0xfa932de350266ef8"]
 void USE_SIREN_AS_HORN(Vehicle vehicle, bool sirenAsHorn);
 ```
 
-```
 sirenAsHorn -> true will use a more sireny horn if the vehicle has got a siren, false will use a normal horn
-```
+

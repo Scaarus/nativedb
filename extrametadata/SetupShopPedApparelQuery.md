@@ -9,9 +9,8 @@ aliases: ["0x50f457823ce6eb5f"]
 int SETUP_SHOP_PED_APPAREL_QUERY(int character, int shop, int locate, int apparelType);
 ```
 
-```
 Sets up a query of the scrShopPedComponent or scrShopPedProp (eShopPedApparel) based on the character, shop and location
-```
+
 
 ## Parameters
 * **character**: 

@@ -9,6 +9,5 @@ aliases: ["0x58a39be597ce99cd"]
 void CANCEL_ONSCREEN_KEYBOARD();
 ```
 
-```
 Cancels the onscreen keyboard
-```
+

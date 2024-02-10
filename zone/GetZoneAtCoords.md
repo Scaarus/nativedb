@@ -9,6 +9,5 @@ aliases: ["0x27040c25de6cb2f4"]
 int GET_ZONE_AT_COORDS(Vector3 Position);
 ```
 
-```
 Returns zone id of zone at supplied coordinates
-```
+

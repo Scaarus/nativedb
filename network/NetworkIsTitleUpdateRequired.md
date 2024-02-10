@@ -9,6 +9,5 @@ aliases: ["0x6fb7bb3607d27fa2"]
 bool NETWORK_IS_TITLE_UPDATE_REQUIRED();
 ```
 
-```
 Checks if title update is required
-```
+

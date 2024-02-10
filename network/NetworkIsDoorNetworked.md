@@ -9,6 +9,5 @@ aliases: ["0xc01e93fac20c3346"]
 bool NETWORK_IS_DOOR_NETWORKED(int doorEnumHash);
 ```
 
-```
 Returns true if the door with the specified door hash is networked
-```
+

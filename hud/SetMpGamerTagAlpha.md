@@ -9,11 +9,10 @@ aliases: ["0xd48fe545cd46f857"]
 void SET_MP_GAMER_TAG_ALPHA(int iPlayerNum, int iTag, int iAlpha);
 ```
 
-```
 sets the alpha of a gamer tag component
 
-Possible values for iTag:
-| Index | Name |
+## iTag Values:
+| Value | Name |
 | --- | --- |
 | 0 | Gamer Name |
 | 913 | Crew Tag |
@@ -45,4 +44,4 @@ Possible values for iTag:
 | 939 | Mc Role Prospect |
 | 940 | Transmitter |
 | 941 | Bomb |
-```
+

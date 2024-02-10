@@ -9,6 +9,5 @@ aliases: ["0x061cb768363d6424"]
 void SET_ALLOW_LOCKON_TO_PED_IF_FRIENDLY(Ped ped, bool LockOn);
 ```
 
-```
 Sets if a ped can be targetted.
-```
+

@@ -9,8 +9,7 @@ aliases: ["0xcb7cc0d58405ad41"]
 void SET_RADAR_ZOOM_TO_DISTANCE(float fDistance);
 ```
 
-```
 zooms in/out to a distance in metres
 
 Must be called every frame - keeps it locked to a blip
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc142be3bb9ce125f"]
 void DISABLE_PLAYER_VEHICLE_REWARDS(Player player);
 ```
 
-```
 Disabled vehicle rewards when entering a vehicle (e.g. player is given a shotgun when entering a police vehicle).
-```
+

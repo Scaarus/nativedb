@@ -9,6 +9,5 @@ aliases: ["0x164ecbb3cf750cb0"]
 void SET_TRACKED_POINT_INFO(int queryIdx, Vector3 center, float radius);
 ```
 
-```
 Set position and radius information for a previously created tracked point.
-```
+

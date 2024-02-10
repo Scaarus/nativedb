@@ -9,6 +9,5 @@ aliases: ["0x6d3465a73092f0e6"]
 void DISABLE_FRONTEND_THIS_FRAME();
 ```
 
-```
 disables frontend menus this frame
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xaa5a7ece2aa8fe70"]
 void SET_PED_DESIRED_HEADING(Ped ped, float DesiredHeading);
 ```
 
-```
 Sets the heading the Ped will try to turn too.
-```
+

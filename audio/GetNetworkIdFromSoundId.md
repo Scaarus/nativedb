@@ -9,6 +9,5 @@ aliases: ["0x2de3f0a134ffbc0d"]
 int GET_NETWORK_ID_FROM_SOUND_ID(int SoundId);
 ```
 
-```
 Convert from sound ID to network sound ID
-```
+

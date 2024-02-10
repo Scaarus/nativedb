@@ -9,13 +9,12 @@ aliases: ["0xcb0360efefb2580d"]
 void CLEAR_CONTROL_LIGHT_EFFECT(int control);
 ```
 
-```
 Clears any set colors on a light device.
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
-```
+

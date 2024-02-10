@@ -9,6 +9,5 @@ aliases: ["0x8f993d26e0ca5e8e"]
 void SET_THIRD_PERSON_CAM_RELATIVE_HEADING_LIMITS_THIS_UPDATE(float minRelativeHeading, float maxRelativeHeading);
 ```
 
-```
 Forces the active third person camera using the specified heading limits for this update. (only)
-```
+

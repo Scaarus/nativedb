@@ -9,11 +9,10 @@ aliases: ["0x497420e022796b3f"]
 language_type LOCALIZATION_GET_SYSTEM_LANGUAGE();
 ```
 
-```
 Used to check the language/region of the system
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Undefined |
 | 0 | English |
@@ -32,4 +31,4 @@ Possible return values:
 
 
 Returns the current system language
-```
+

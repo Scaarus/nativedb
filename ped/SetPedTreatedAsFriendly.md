@@ -9,6 +9,5 @@ aliases: ["0x0f62619393661d6e"]
 void SET_PED_TREATED_AS_FRIENDLY(Ped ped, bool enable, bool LocalOnly);
 ```
 
-```
 This sets the ped to be treated as if it was in a friendly relationship with everyone. Stops the ped from being damaged, targeted, locked on or being shot at. Can't be set on players, only peds.
-```
+

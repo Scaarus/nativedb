@@ -9,6 +9,5 @@ aliases: ["0x80ecbc0c856d3b0b"]
 void CASCADE_SHADOWS_ENABLE_ENTITY_TRACKER(bool scale);
 ```
 
-```
 call this to enable or disable the entity tracer which puts the first cascade at the players position.
-```
+

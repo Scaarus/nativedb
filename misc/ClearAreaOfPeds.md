@@ -9,9 +9,8 @@ aliases: ["0xbe31fd6ce464ac59"]
 void CLEAR_AREA_OF_PEDS(Vector3 CentrePosition, float Radius, bool Broadcast);
 ```
 
-```
 Clears all non-mission peds within the defined sphere.
-```
+
 
 ## Parameters
 * **CentrePosition**: 

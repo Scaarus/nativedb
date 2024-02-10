@@ -9,9 +9,8 @@ aliases: ["0xf92099527db8e2a7"]
 void SUPPRESS_PICKUP_REWARD_TYPE(bool ClearPreviousFlags);
 ```
 
-```
 Means of turning on suppression pickup flags individually
-```
+
 
 ## Parameters
 * **ClearPreviousFlags**: Whether or not you want all previously set flags to be cleared before setting the new flag.

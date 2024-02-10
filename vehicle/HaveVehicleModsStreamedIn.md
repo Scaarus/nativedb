@@ -9,6 +9,5 @@ aliases: ["0x9a83f5f9963775ef"]
 bool HAVE_VEHICLE_MODS_STREAMED_IN(Vehicle vehicle);
 ```
 
-```
 Returns true when all previously set mods have finished streaming in
-```
+

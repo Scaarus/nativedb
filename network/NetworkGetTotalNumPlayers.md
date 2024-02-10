@@ -9,6 +9,5 @@ aliases: ["0xcf61d4b4702ee9eb"]
 int NETWORK_GET_TOTAL_NUM_PLAYERS();
 ```
 
-```
 Returns the total number of players involved in the network game (ie everyone we are currently connected to)
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x2fbf47b1b36d36f9"]
 void NETWORK_SESSION_CANCEL_INVITE();
 ```
 
-```
 Cancels the pending invite. Required if the player will not be joining a confirmed invite.
-```
+

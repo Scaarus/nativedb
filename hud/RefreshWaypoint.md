@@ -9,6 +9,5 @@ aliases: ["0x81fa173f170560d1"]
 void REFRESH_WAYPOINT();
 ```
 
-```
 Refreshes any waypoints - should be called when player SWITCHES characters
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x17330ebf2f2124a8"]
 void RESET_GHOST_ALPHA();
 ```
 
-```
 Resets the alpha used for ghosting back to the code default.
-```
+

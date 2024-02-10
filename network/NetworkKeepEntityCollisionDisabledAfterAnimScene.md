@@ -9,8 +9,7 @@ aliases: ["0x17c9e241111a674d"]
 void NETWORK_KEEP_ENTITY_COLLISION_DISABLED_AFTER_ANIM_SCENE(Entity entity, bool keepCollisionDisabled);
 ```
 
-```
 Has to be called on all machines
 
 Stops the Cutscene anim manager from enabling the collision of the entity
-```
+

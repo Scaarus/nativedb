@@ -9,11 +9,10 @@ aliases: ["0xb3924ecd70e095dc"]
 int GET_VEHICLE_MOD_VARIATION(Vehicle vehicle, int modSlot);
 ```
 
-```
 Returns the current mod variation on the given slot, 0 if none active
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -64,7 +63,7 @@ Possible values for modSlot:
 | 249 | Door L |
 | 250 | Door R |
 | 251 | Livery |
-```
+
 
 ## Parameters
 * **vehicle**: vehicle entity index

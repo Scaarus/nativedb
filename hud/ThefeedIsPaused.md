@@ -9,7 +9,6 @@ aliases: ["0xa9cbfd40b3fa3010"]
 bool THEFEED_IS_PAUSED();
 ```
 
-```
 returns whether it is paused or not
 none
-```
+

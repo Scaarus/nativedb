@@ -9,6 +9,5 @@ aliases: ["0xad464f2e18836bfc"]
 bool IS_MISSION_TRAIN(Vehicle vehicle);
 ```
 
-```
 Returns true if the train is a mission train
-```
+

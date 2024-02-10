@@ -9,6 +9,5 @@ aliases: ["0x13ad665062541a7e"]
 void OVERRIDE_TREVOR_RAGE(string context);
 ```
 
-```
 Override Trevor's rage context with a different one
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x952f06beecd775cc"]
 void SET_PED_VEHICLE_FORCED_SEAT_USAGE(Ped ped, Vehicle vehicle, int iSlot, int iFlags, int seat);
 ```
 
-```
 Force a ped to use front or rear seats for a particular vehicle, if no vehicle is specified, it is assumed this is to be applied for any vehicle this has the potential to cause conflicts with other slots, if wanting to apply a setting for all vehicles, script should call CLEAR_ALL_PED_VEHICLE_FORCED_SEAT_USAGE beforehand
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -29,4 +28,4 @@ Possible values for seat:
 
 
 iSlot is an index into an array of config data for a particular vehicle max of 3 slots (0-2), iFlags is a bitset see enum VEHICLE_ENTRY_CONFIG_FLAGS
-```
+

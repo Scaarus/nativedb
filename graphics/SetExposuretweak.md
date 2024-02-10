@@ -9,6 +9,5 @@ aliases: ["0xef398beee4ef45f9"]
 void SET_EXPOSURETWEAK(bool onOff);
 ```
 
-```
 Turn exposure tweak effect on/off
-```
+

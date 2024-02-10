@@ -9,6 +9,5 @@ aliases: ["0xb4bbfd9cd8b3922b"]
 void REMOVE_PORTAL_SETTINGS_OVERRIDE(string PortalSettingsName);
 ```
 
-```
 For events like cars driving through windows, allows script to unocclude that window
-```
+

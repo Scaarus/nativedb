@@ -9,6 +9,5 @@ aliases: ["0xa097ab275061fb21"]
 bool IS_MUSIC_ONESHOT_PLAYING();
 ```
 
-```
 Returns TRUE if a one shot is currently playingprepared
-```
+

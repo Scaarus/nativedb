@@ -9,6 +9,5 @@ aliases: ["0x9ac92eed5e4793ab"]
 void UNHINT_SCRIPT_AUDIO_BANK();
 ```
 
-```
 Unloads all audio banks requested by this script.
-```
+

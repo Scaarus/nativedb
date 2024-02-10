@@ -9,9 +9,8 @@ aliases: ["0x39bbf623fc803eac"]
 void SET_COLOUR_OF_NEXT_TEXT_COMPONENT(int NextColour);
 ```
 
-```
-Possible values for NextColour:
-| Index | Name |
+## NextColour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -248,4 +247,4 @@ Possible values for NextColour:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

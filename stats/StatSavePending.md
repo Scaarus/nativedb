@@ -9,6 +9,5 @@ aliases: ["0x7d3a583856f2c5ac"]
 bool STAT_SAVE_PENDING();
 ```
 
-```
 Returns TRUE if a savegame SAVE operation is in progress.
-```
+

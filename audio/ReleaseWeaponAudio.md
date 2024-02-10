@@ -9,6 +9,5 @@ aliases: ["0xce4ac0439f607045"]
 void RELEASE_WEAPON_AUDIO();
 ```
 
-```
 Release weapon audio
-```
+

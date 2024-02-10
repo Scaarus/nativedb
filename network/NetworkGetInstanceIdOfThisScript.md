@@ -9,6 +9,5 @@ aliases: ["0x638a3a81733086db"]
 int NETWORK_GET_INSTANCE_ID_OF_THIS_SCRIPT();
 ```
 
-```
 Returns the instance id of the calling script. Returns -1 if there is none.
-```
+

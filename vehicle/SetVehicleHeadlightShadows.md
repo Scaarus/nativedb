@@ -9,11 +9,10 @@ aliases: ["0x1fd09e7390a74d54"]
 void SET_VEHICLE_HEADLIGHT_SHADOWS(Vehicle vehicle, int flags);
 ```
 
-```
 Sets the vehicle headlight shadow flags. see ENUM VEHICLE_HEADLIGHT_SHADOW_FLAGS, for valid values
 
-Possible values for flags:
-| Index | Name |
+## flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | NO_HEADLIGHT_SHADOWS |
 | 1 | HEADLIGHTS_CAST_DYNAMIC_SHADOWS |
@@ -22,4 +21,4 @@ Possible values for flags:
 
 
 SET_VEHICLE_HEADLIGHT_SHADOWS is in commands_vehicle.sch
-```
+

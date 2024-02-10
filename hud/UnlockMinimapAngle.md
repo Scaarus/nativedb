@@ -9,6 +9,5 @@ aliases: ["0x8183455e16c42e3a"]
 void UNLOCK_MINIMAP_ANGLE();
 ```
 
-```
 unlocks the minimap so it rotates with the camera angle again as normal
-```
+

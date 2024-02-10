@@ -9,6 +9,5 @@ aliases: ["0xdc518000e39dae1f"]
 void DELETE_STUNT_JUMP();
 ```
 
-```
 Deletes a stunt jump given its id.
-```
+

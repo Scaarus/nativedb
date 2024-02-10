@@ -9,11 +9,10 @@ aliases: ["0xd6429a016084f1a5"]
 pickup_type GET_PICKUP_TYPE_FROM_WEAPON_HASH(Hash weaponHash);
 ```
 
-```
 Returns the pickup type from a weapon type.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | PICKUP_HEALTH_STANDARD |
 | 1 | PICKUP_ARMOUR_STANDARD |
@@ -201,4 +200,4 @@ Possible return values:
 | 183 | PICKUP_WEAPON_DLC_METALDETECTOR |
 | 184 | PICKUP_WEAPON_DLC_TACTICALRIFLE |
 | 185 | PICKUP_WEAPON_DLC_PRECISIONRIFLE |
-```
+

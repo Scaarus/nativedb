@@ -9,11 +9,10 @@ aliases: ["0xbb40dd2270b65366"]
 Ped GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seat, bool ConsiderPedUsingSeat);
 ```
 
-```
 Gets the ped in a vehicle seat.
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -29,4 +28,4 @@ Possible values for seat:
 
 
 Cannont use VS_ANY_PASSENGER
-```
+

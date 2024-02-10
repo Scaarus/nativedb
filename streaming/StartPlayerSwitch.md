@@ -9,11 +9,10 @@ aliases: ["0xfaa23f2cba159d67"]
 void START_PLAYER_SWITCH(Ped ped, Ped ped, int flags, int type);
 ```
 
-```
 starts a player switching sequence
 
-Possible values for flags:
-| Index | Name |
+## flags Values:
+| Value | Name |
 | --- | --- |
 | 1 | Skip Intro |
 | 2 | Skip Outro |
@@ -33,8 +32,8 @@ Possible values for flags:
 | 32768 | Delay Ascent Fx |
 
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Auto |
 | 18 | Long |
@@ -45,4 +44,4 @@ Possible values for type:
 flags specifies a number of control options as per enum SWITCH_FLAGS
 
 starts player switch
-```
+

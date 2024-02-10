@@ -9,6 +9,5 @@ aliases: ["0xf49abc20d8552257"]
 void NETWORK_SESSION_SET_UNIQUE_CREW_LIMIT(int nUniqueCrewLimit);
 ```
 
-```
 Setup a unique crew limit. Passing 0 turns this feature off. Default is 0.
-```
+

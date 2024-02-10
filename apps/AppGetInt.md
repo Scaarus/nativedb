@@ -9,6 +9,5 @@ aliases: ["0xd3a58a12c77d9d4b"]
 int APP_GET_INT(string name);
 ```
 
-```
 Get a named integer from the fetched data block
-```
+

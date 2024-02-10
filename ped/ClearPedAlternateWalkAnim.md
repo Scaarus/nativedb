@@ -9,11 +9,10 @@ aliases: ["0x8844bbfce30aa9e9"]
 void CLEAR_PED_ALTERNATE_WALK_ANIM(Ped ped, float blendDelta);
 ```
 
-```
 MAkes the ped go back to using its original walk anim.
 
 Specifies a new walking animation to use when the ped is walking around
-```
+
 
 ## Parameters
 * **ped**: 

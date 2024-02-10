@@ -9,6 +9,5 @@ aliases: ["0x9641588dab93b4b5"]
 void SET_LIGHT_OVERRIDE_MAX_INTENSITY_SCALE(float MaxIntensityScale);
 ```
 
-```
 Scales Maximum Intensity for Light Override (glow for pickups)
-```
+

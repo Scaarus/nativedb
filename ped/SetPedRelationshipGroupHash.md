@@ -9,8 +9,7 @@ aliases: ["0xc80a74ac829ddd92"]
 void SET_PED_RELATIONSHIP_GROUP_HASH(Hash relGroup);
 ```
 
-```
 Sets a ped into a relationship group.
 
 Sets the peds relationship group to the one passed
-```
+

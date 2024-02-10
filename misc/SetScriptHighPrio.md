@@ -9,6 +9,5 @@ aliases: ["0x65d2ebb47e1cec21"]
 void SET_SCRIPT_HIGH_PRIO(bool HighPrio);
 ```
 
-```
 Toggles high prio on/off for streaming reuqests coming from this script
-```
+

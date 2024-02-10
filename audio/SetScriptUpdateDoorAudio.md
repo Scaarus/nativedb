@@ -9,6 +9,5 @@ aliases: ["0x06c0023bed16dd6b"]
 void SET_SCRIPT_UPDATE_DOOR_AUDIO(int doorEnumHash, bool update);
 ```
 
-```
 Script enables the audio door update
-```
+

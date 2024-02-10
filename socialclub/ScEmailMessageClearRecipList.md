@@ -9,6 +9,5 @@ aliases: ["0x55df6db45179236e"]
 void SC_EMAIL_MESSAGE_CLEAR_RECIP_LIST();
 ```
 
-```
 Clears the recipient list used to send email messages
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x2708fc083123f9ff"]
 void CUSTOM_MINIMAP_CLEAR_BLIPS();
 ```
 
-```
 starts rendering of custom minimap for UI screens
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x35eec6c2bc821a71"]
 void PLAYSTATS_SWITCH_PASSIVE_MODE(bool value, int source, int ghostedTo, int endReason);
 ```
 
-```
 Metric to be sent when the player switches the passive mode on or off
-```
+

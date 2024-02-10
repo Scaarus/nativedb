@@ -9,6 +9,5 @@ aliases: ["0xd10282b6e3751ba0"]
 float GET_CITY_DENSITY();
 ```
 
-```
 Returns the city density settings (0.0f->1.0f)
-```
+

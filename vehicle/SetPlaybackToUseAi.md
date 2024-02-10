@@ -9,11 +9,10 @@ aliases: ["0xa549c3b37ea28131"]
 void SET_PLAYBACK_TO_USE_AI(Vehicle vehicle, int Mode);
 ```
 
-```
 Stes a vehicle recording for a certain vehicle from being exact to be using AI.
 
-Possible values for Mode:
-| Index | Name |
+## Mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -50,4 +49,4 @@ Possible values for Mode:
 
 
 After this command is called the car will use ai to try and stay close to the original recording
-```
+

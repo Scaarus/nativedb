@@ -9,6 +9,5 @@ aliases: ["0xcd183314f7cd2e57"]
 int GET_WEAPON_OBJECT_TINT_INDEX(Object object);
 ```
 
-```
 Get the tint values for a weapon object, returns -1 if fails
-```
+

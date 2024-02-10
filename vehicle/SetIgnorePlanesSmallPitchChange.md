@@ -9,6 +9,5 @@ aliases: ["0x8664170ef165c4a6"]
 void SET_IGNORE_PLANES_SMALL_PITCH_CHANGE(Vehicle vehicle, bool IgnorePitching);
 ```
 
-```
 Sets planes flag to ignore small pitch differences
-```
+

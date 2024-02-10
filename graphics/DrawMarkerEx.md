@@ -9,9 +9,8 @@ aliases: ["0xe82728f0de75d13a"]
 void DRAW_MARKER_EX(int MarkerType, Vector3 scrVecPosition, Vector3 scrVecDirection, Vector3 scrVecRotation, Vector3 scrVecScale, int colR, int colG, int colB, int colA, bool ounce, bool faceCam, int RotOrder, bool rotate, string txdName, string texName, bool invert, bool usePreAlphaDepth, bool matchEntityRotOrder);
 ```
 
-```
-Possible values for MarkerType:
-| Index | Name |
+## MarkerType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Cone |
 | 1 | Cylinder |
@@ -60,8 +59,8 @@ Possible values for MarkerType:
 | 44 | Pit Lane |
 
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -70,4 +69,4 @@ Possible values for RotOrder:
 | 4 | Zxy |
 | 5 | Zyx |
 | 6 | Max |
-```
+

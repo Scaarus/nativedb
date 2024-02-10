@@ -9,6 +9,5 @@ aliases: ["0x21115bcd6e44656a"]
 void SET_VEHICLE_ACTIVE_FOR_PED_NAVIGATION(Vehicle vehicle, bool isActive);
 ```
 
-```
 Mark the vehicle being active for the ped navigation
-```
+

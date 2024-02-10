@@ -9,6 +9,5 @@ aliases: ["0xbb03c38dd3fb7ffd"]
 void SET_PED_AS_COP(Ped ped, bool SetRelationshipGroup);
 ```
 
-```
 Will setup a ped so that they are treated as a cop
-```
+

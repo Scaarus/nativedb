@@ -9,6 +9,5 @@ aliases: ["0xb4ab419e0d86acae"]
 void NETWORK_SESSION_CHANGE_SLOTS(int nPublicSlots, int nPrivateSlots);
 ```
 
-```
 Change session slots
-```
+

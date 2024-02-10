@@ -9,6 +9,5 @@ aliases: ["0x0cf54f20de43879c"]
 void SET_SAVEGAME_LIST_UNIQUE_ID(int iUniqueId);
 ```
 
-```
 Use to notify savegame frontend which save game is highlighted while in the load game menu
-```
+

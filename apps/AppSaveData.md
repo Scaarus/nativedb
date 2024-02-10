@@ -9,6 +9,5 @@ aliases: ["0x95c5d356cda6e85f"]
 void APP_SAVE_DATA();
 ```
 
-```
 Writes the current app block to the cloud
-```
+

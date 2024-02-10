@@ -9,6 +9,5 @@ aliases: ["0xa0ad167e4b39d9a2"]
 bool GET_POINT_AREA_OVERLAP(Vector3 A1, Vector3 A2, float AWidth, Vector3 B1, Vector3 B2, float BWidth);
 ```
 
-```
 Do two given point areas overlap?
-```
+

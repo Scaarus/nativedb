@@ -9,6 +9,5 @@ aliases: ["0x11d1e53a726891fe"]
 bool IS_PICKUP_WEAPON_OBJECT_VALID(Object object);
 ```
 
-```
 Returns true if the weapon object of the pickup is valid.
-```
+

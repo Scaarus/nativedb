@@ -9,6 +9,5 @@ aliases: ["0xc6dc823253fbb366"]
 bool LOBBY_AUTO_MULTIPLAYER_RANDOM_JOB();
 ```
 
-```
 Returns TRUE If the game has requested a random job be started
-```
+

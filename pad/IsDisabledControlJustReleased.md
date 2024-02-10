@@ -9,19 +9,18 @@ aliases: ["0x305c8dcd79da8b0f"]
 bool IS_DISABLED_CONTROL_JUST_RELEASED(int control, int action);
 ```
 
-```
 Return if controller button related to an action has just been release up even if the control is disabled.
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
 
 
-Possible values for action:
-| Index | Name |
+## action Values:
+| Value | Name |
 | --- | --- |
 | 0 | INPUT_NEXT_CAMERA |
 | 3 | INPUT_LOOK_LR |
@@ -387,4 +386,4 @@ Possible values for action:
 | 363 | INPUT_EAT_SNACK |
 | 364 | INPUT_USE_ARMOR |
 | 365 | MAX_INPUTS |
-```
+

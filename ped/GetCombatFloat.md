@@ -9,11 +9,10 @@ aliases: ["0x52dff8a10508090a"]
 float GET_COMBAT_FLOAT(Ped ped, int combatAttribute);
 ```
 
-```
 This function will get the value of any of the enum driven combat float attributes
 
-Possible values for combatAttribute:
-| Index | Name |
+## combatAttribute Values:
+| Value | Name |
 | --- | --- |
 | 204 | CCF_BLIND_FIRE_CHANCE Chance to blind fire from cover, range is 0.0-1.0 (default is 0.05 for civilians, law doesn't blind fire) |
 | 205 | CCF_BURST_DURATION_IN_COVER How long each burst from cover should last (default is 2.0) |
@@ -45,4 +44,4 @@ Possible values for combatAttribute:
 
 
 See COMBAT_ATTRIBUTE_FLOATS for information on the default values of each combat float
-```
+

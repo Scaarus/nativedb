@@ -9,6 +9,5 @@ aliases: ["0xf54bb7b61036f335"]
 void RESET_PED_AUDIO_FLAGS(Ped ped);
 ```
 
-```
 Resets ped audio flags.
-```
+

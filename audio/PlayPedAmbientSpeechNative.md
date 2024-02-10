@@ -9,9 +9,8 @@ aliases: ["0x8e04fedd28d42462"]
 void PLAY_PED_AMBIENT_SPEECH_NATIVE(Ped ped, string Context, string Params, bool SyncOverNetwork);
 ```
 
-```
 Plays a line of a ped's ambient dialogue.
-```
+
 
 ## Parameters
 * **ped**: 

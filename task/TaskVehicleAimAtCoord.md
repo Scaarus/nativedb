@@ -9,6 +9,5 @@ aliases: ["0x447c1e9ef844bc0f"]
 void TASK_VEHICLE_AIM_AT_COORD(Ped ped, Vector3 vPosition);
 ```
 
-```
 The ped will aim from a vehicle at the coord passed. Using: Driveby weapons Vehicle mounted weapons Depending on what is currently selected in their inventory. SEE ALSO TASK_VEHICLE_AIM_AT_PED
-```
+

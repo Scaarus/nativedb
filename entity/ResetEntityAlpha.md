@@ -9,6 +9,5 @@ aliases: ["0x9b1e824ffbb7027a"]
 void RESET_ENTITY_ALPHA(Entity entity);
 ```
 
-```
 Revert entity alpha override.
-```
+

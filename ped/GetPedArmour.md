@@ -9,6 +9,5 @@ aliases: ["0x9483af821605b1d8"]
 int GET_PED_ARMOUR(Ped ped);
 ```
 
-```
 Get the peds current armour.
-```
+

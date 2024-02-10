@@ -9,6 +9,5 @@ aliases: ["0x5afeedd9bb2899d7"]
 void SET_VEHICLE_PROVIDES_COVER(Vehicle vehicle, bool ProvidesCoverFlag);
 ```
 
-```
 Sets if a vehicle provides cover
-```
+

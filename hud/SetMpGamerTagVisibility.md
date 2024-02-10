@@ -9,11 +9,10 @@ aliases: ["0x63bb75abedc1f6a0"]
 void SET_MP_GAMER_TAG_VISIBILITY(int iPlayerNum, int iTag, bool Visible, bool EvenInCars);
 ```
 
-```
 switches on/off parts of a players head tag
 
-Possible values for iTag:
-| Index | Name |
+## iTag Values:
+| Value | Name |
 | --- | --- |
 | 0 | Gamer Name |
 | 913 | Crew Tag |
@@ -45,4 +44,4 @@ Possible values for iTag:
 | 939 | Mc Role Prospect |
 | 940 | Transmitter |
 | 941 | Bomb |
-```
+

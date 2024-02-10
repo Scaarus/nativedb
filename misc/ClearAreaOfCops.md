@@ -9,9 +9,8 @@ aliases: ["0x04f8fc8fcf58f88d"]
 void CLEAR_AREA_OF_COPS(Vector3 CentrePosition, float Radius, bool Broadcast);
 ```
 
-```
 Clears all non-mission cops within the defined sphere.
-```
+
 
 ## Parameters
 * **CentrePosition**: 

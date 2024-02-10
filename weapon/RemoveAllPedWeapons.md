@@ -9,6 +9,5 @@ aliases: ["0xf25df915fa38c5f3"]
 void REMOVE_ALL_PED_WEAPONS(Ped ped, bool DeadCheck);
 ```
 
-```
 Remove all weapons a character has
-```
+

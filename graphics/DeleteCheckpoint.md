@@ -9,6 +9,5 @@ aliases: ["0xf5ed37f54cd4d52e"]
 void DELETE_CHECKPOINT(Checkpoint checkpoint);
 ```
 
-```
 Removes a checkpoint
-```
+

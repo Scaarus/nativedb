@@ -9,11 +9,10 @@ aliases: ["0x92f0da1e27db96dc"]
 void THEFEED_SET_BACKGROUND_COLOR_FOR_NEXT_POST(int color);
 ```
 
-```
 Sets the RGBA background color for the next feed post
 
-Possible values for color:
-| Index | Name |
+## color Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,7 +249,7 @@ Possible values for color:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+
 
 ## Parameters
 * **color**: The color to set the post background

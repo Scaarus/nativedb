@@ -9,8 +9,7 @@ aliases: ["0xdcfe42068fe0135a"]
 bool CONTROL_MOUNTED_WEAPON();
 ```
 
-```
 Tells the driver of a vehicle to control the mounted vehicle and target a coord, ped or vehicle.
 
 Use to control the direction of a mounted vehicle weapon and still maintain the ability to control the vehicle. PARAM NOTS:
-```
+

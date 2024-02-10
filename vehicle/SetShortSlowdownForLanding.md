@@ -9,6 +9,5 @@ aliases: ["0x107a473d7a6647a9"]
 void SET_SHORT_SLOWDOWN_FOR_LANDING(Vehicle vehicle);
 ```
 
-```
 hack - fix landing task not working
-```
+

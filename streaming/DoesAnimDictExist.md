@@ -9,6 +9,5 @@ aliases: ["0x2da49c3b79856961"]
 bool DOES_ANIM_DICT_EXIST(string animSetName);
 ```
 
-```
 Return if an animation dictionary exists...
-```
+

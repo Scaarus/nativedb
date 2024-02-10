@@ -9,11 +9,10 @@ aliases: ["0x0b4df1fa60c0e664"]
 void SHOW_HUD_COMPONENT_THIS_FRAME(int hudComponent);
 ```
 
-```
 shows the hud component for 1 frame
 
-Possible values for hudComponent:
-| Index | Name |
+## hudComponent Values:
+| Value | Name |
 | --- | --- |
 | 0 | Weapon Icon |
 | 1 | Wanted Stars |
@@ -35,4 +34,4 @@ Possible values for hudComponent:
 | 17 | Feed |
 | 18 | Weapon Wheel |
 | 19 | Weapon Wheel Stats |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x25cb5a9f37bfd063"]
 bool NETWORK_HAVE_ONLINE_PRIVILEGES();
 ```
 
-```
 Returns true if the local player has online privileges.
-```
+

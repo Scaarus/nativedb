@@ -9,6 +9,5 @@ aliases: ["0x92922a607497b14d"]
 int GET_NUMBER_OF_VEHICLE_DOORS(Vehicle vehicle);
 ```
 
-```
 Get the number of doors of the given vehicle
-```
+

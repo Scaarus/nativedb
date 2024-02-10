@@ -9,6 +9,5 @@ aliases: ["0x243296a510b562b6"]
 void HIDE_HUDMARKERS_THIS_FRAME();
 ```
 
-```
 Hides all Hud Markers this frame
-```
+

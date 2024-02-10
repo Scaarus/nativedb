@@ -9,6 +9,5 @@ aliases: ["0x065d2aacad8cf7a4"]
 float GET_WEAPON_TIME_BETWEEN_SHOTS(Hash weaponHash);
 ```
 
-```
 Get the time between shots of a weapon
-```
+

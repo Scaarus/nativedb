@@ -9,6 +9,5 @@ aliases: ["0x5fe1df3342db7dba"]
 void APP_CLEAR_BLOCK();
 ```
 
-```
 Clears the current blocks data
-```
+

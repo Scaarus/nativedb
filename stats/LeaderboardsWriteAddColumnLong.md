@@ -9,9 +9,8 @@ aliases: ["0x2e65248609523599"]
 void LEADERBOARDS_WRITE_ADD_COLUMN_LONG(int fieldId, int value_a, int value_b);
 ```
 
-```
-Possible values for fieldId:
-| Index | Name |
+## fieldId Values:
+| Value | Name |
 | --- | --- |
 | -1 | Servertime |
 | 0 | Invalid |
@@ -255,7 +254,7 @@ Possible values for fieldId:
 | 246 | Freemode Arena Career Num Matches |
 | 247 | Freemode Arena Career Rank Id |
 | 248 | Freemode Arena Career Vehicle Id |
-```
+
 
 ## Parameters
 * **fieldId**: 

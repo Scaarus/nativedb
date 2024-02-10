@@ -9,6 +9,5 @@ aliases: ["0xcd536c4d33dcc900"]
 void PLAY_END_CREDITS_MUSIC(bool Active);
 ```
 
-```
 Sets the end of credits to play.
-```
+

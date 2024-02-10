@@ -9,9 +9,8 @@ aliases: ["0x2f074c904d85129e"]
 void SET_COP_PERCEPTION_OVERRIDES(float fSeeingRange, float fSeeingRangePeripheral, float fHearingRange, float fMinAzimuthAngle, float fMaxAzimuthAngle, float fCentreOfGazeMaxAngle, float fRearViewSeeingRangeOverride);
 ```
 
-```
 Allows script to override the cop perception parameters. This affects all code-spawned, non-mission cops. Parameters will not be overridden if left at their default values (these are the standard values already used by cops). NOTE: This command must be called every frame!
-```
+
 
 ## Parameters
 * **fSeeingRange**: how far away a ped can identify the ped (default on

@@ -9,6 +9,5 @@ aliases: ["0xd2b32be3fc1626c6"]
 void CLOSE_SOCIAL_CLUB_MENU();
 ```
 
-```
 closes the social club menu
-```
+

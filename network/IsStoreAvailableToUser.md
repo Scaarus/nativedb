@@ -9,8 +9,7 @@ aliases: ["0x883d79c4071e18b3"]
 bool IS_STORE_AVAILABLE_TO_USER();
 ```
 
-```
 None
 
 Retrieves if this user has permissions to use the store
-```
+

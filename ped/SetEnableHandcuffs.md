@@ -9,6 +9,5 @@ aliases: ["0xdf1af8b5d56542fa"]
 void SET_ENABLE_HANDCUFFS(Ped ped, bool Enable);
 ```
 
-```
 Set whether hands should be cuffed when ragdolling
-```
+

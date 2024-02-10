@@ -9,6 +9,5 @@ aliases: ["0x95eb5e34f821babe"]
 bool OVERRIDE_PED_CREW_LOGO_TEXTURE(Ped ped, string pTextureDictionaryName, string pTextureName);
 ```
 
-```
 overrides ped's crew logo with given texture taken from given texture dictionary
-```
+

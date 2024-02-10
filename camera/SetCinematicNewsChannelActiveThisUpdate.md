@@ -9,6 +9,5 @@ aliases: ["0xdc9da9e8789f5246"]
 void SET_CINEMATIC_NEWS_CHANNEL_ACTIVE_THIS_UPDATE();
 ```
 
-```
 Sets the cinematic news channel to be active for this update.
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x8935624f8c5592cc"]
 string GET_MOD_TEXT_LABEL(Vehicle vehicle, int modSlot, int modIndex);
 ```
 
-```
 Returns the mod name text label
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -64,4 +63,4 @@ Possible values for modSlot:
 | 249 | Door L |
 | 250 | Door R |
 | 251 | Livery |
-```
+

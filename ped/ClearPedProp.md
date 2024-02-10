@@ -9,11 +9,10 @@ aliases: ["0x0943e5b8e078e76e"]
 void CLEAR_PED_PROP(int Position);
 ```
 
-```
 Clear the prop slot for the given ped at the given position.
 
-Possible values for Position:
-| Index | Name |
+## Position Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 131 | Eyes |
@@ -24,4 +23,4 @@ Possible values for Position:
 | 136 | Left Wrist |
 | 137 | Right Wrist |
 | 138 | Hip |
-```
+

@@ -9,8 +9,7 @@ aliases: ["0x192547247864dfdd"]
 void SET_VEHICLE_CAN_LEAK_PETROL(Vehicle vehicle, bool Val);
 ```
 
-```
 Allow a MISSION vehicle to leak petrol
 
 Sets whether a vehicle can leak petrol
-```
+

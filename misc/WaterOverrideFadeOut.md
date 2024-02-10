@@ -9,6 +9,5 @@ aliases: ["0xc3c221addde31a11"]
 void WATER_OVERRIDE_FADE_OUT(float time);
 ```
 
-```
 Fade out a previously setup water override over time seconds.
-```
+

@@ -9,8 +9,7 @@ aliases: ["0xb8721407ee9c3ff6"]
 void ADD_TACTICAL_NAV_MESH_POINT(Vector3 vPosition);
 ```
 
-```
 Adds a tactical nav mesh point
 
 Adds a tactical nav mesh point
-```
+

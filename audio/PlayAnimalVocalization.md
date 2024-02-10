@@ -9,11 +9,10 @@ aliases: ["0xee066c7006c49c0a"]
 void PLAY_ANIMAL_VOCALIZATION(Ped ped, int animalType, string context);
 ```
 
-```
 Sets the ped to sound angry.
 
-Possible values for animalType:
-| Index | Name |
+## animalType Values:
+| Value | Name |
 | --- | --- |
 | -1 | Animal None |
 | 75 | Animal Boar |
@@ -22,4 +21,4 @@ Possible values for animalType:
 | 78 | Animal Dog Rottweiler |
 | 79 | Animal Horse |
 | 80 | Num Animals |
-```
+

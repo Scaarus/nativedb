@@ -9,6 +9,5 @@ aliases: ["0xbe4390cb40b3e627"]
 void THEFEED_REMOVE_ITEM();
 ```
 
-```
 Removed an item from the feed.
-```
+

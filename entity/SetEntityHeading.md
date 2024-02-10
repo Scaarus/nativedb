@@ -9,6 +9,5 @@ aliases: ["0x8e2530aa8ada980e"]
 void SET_ENTITY_HEADING(Entity entity, float NewHeading);
 ```
 
-```
 Sets the entity's heading in degrees.
-```
+

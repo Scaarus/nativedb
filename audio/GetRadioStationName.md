@@ -9,6 +9,5 @@ aliases: ["0xb28eca15046ca8b9"]
 string GET_RADIO_STATION_NAME(int StationIndex);
 ```
 
-```
 Gets the name of the radio station with the specified index. This serves as the text label.
-```
+

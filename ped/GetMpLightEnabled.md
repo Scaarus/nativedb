@@ -9,6 +9,5 @@ aliases: ["0x88274c11cf0d866d"]
 bool GET_MP_LIGHT_ENABLED(Ped ped);
 ```
 
-```
 Gets status of MP ped light
-```
+

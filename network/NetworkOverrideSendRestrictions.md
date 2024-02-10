@@ -9,6 +9,5 @@ aliases: ["0x97dd4c5944cc2e6a"]
 void NETWORK_OVERRIDE_SEND_RESTRICTIONS(Player player, bool Override);
 ```
 
-```
 Enables / disables sending or receiving only
-```
+

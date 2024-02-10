@@ -9,11 +9,10 @@ aliases: ["0xab0f816885b0e483"]
 bool IS_EXPLOSION_IN_SPHERE(int ExplosionTag, Vector3 CentrePos, float Radius);
 ```
 
-```
 Checks if an explosion is in a sphere area.
 
-Possible values for ExplosionTag:
-| Index | Name |
+## ExplosionTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Dontcare |
 | 0 | Grenade |
@@ -100,4 +99,4 @@ Possible values for ExplosionTag:
 | 81 | Script Missile Large |
 | 82 | Submarine Big |
 | 83 | Emplauncher Emp |
-```
+

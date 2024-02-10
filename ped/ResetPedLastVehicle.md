@@ -9,6 +9,5 @@ aliases: ["0xbb8de8cf6a8dd8bb"]
 void RESET_PED_LAST_VEHICLE(Ped ped);
 ```
 
-```
 Resets the ped's "last vehicle," so they will no longer consider it as the vehicle they just left. Use this to prevent car stolen events from affecting the ped in some circumstances.
-```
+

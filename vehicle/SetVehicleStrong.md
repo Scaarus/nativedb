@@ -9,6 +9,5 @@ aliases: ["0x3e8c8727991a8a0b"]
 void SET_VEHICLE_STRONG(Vehicle vehicle, bool StrongFlag);
 ```
 
-```
 Sets the vehicle so it only takes 25% of the normal damage when hit.
-```
+

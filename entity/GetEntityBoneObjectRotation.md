@@ -9,6 +9,5 @@ aliases: ["0xbd8d32550e5cebfe"]
 Vector3 GET_ENTITY_BONE_OBJECT_ROTATION(Entity entity, int BoneIndex);
 ```
 
-```
 Returns the rotation, in object space, of the bone within the entity
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc912af078af19212"]
 bool IS_SCRIPT_GLOBAL_SHAKING();
 ```
 
-```
 Is a scripted camera global shake active?
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xd1871251f3b5acd7"]
 bool IS_PED_RUNNING_MELEE_TASK();
 ```
 
-```
 Returns true if the ped is running the melee task
-```
+

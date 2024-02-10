@@ -9,9 +9,8 @@ aliases: ["0xc90621d8a0ceecf2"]
 bool IS_CAM_PLAYING_ANIM(Camera camera, string AnimName, string AnimDictName);
 ```
 
-```
 Returns TRUE if the camera is currently playing the specified animation.
-```
+
 
 ## Parameters
 * **camera**: 

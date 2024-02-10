@@ -9,6 +9,5 @@ aliases: ["0x46818d79b1f7499a"]
 Blip ADD_BLIP_FOR_RADIUS(Vector3 Position, float fSize);
 ```
 
-```
 Add Radar blip for a radius
-```
+

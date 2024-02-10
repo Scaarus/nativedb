@@ -9,6 +9,5 @@ aliases: ["0x39e72bc99e6360cb"]
 void CLOSE_SEQUENCE_TASK(Sequence sequence);
 ```
 
-```
 Closes an opened sequnce task.
-```
+

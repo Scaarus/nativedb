@@ -9,11 +9,10 @@ aliases: ["0x90a38e9838e0a8c1"]
 int GET_VEHICLE_MOD_MODIFIER_VALUE(Vehicle vehicle, int modSlot, int modIndex);
 ```
 
-```
 Returns the modifier value for the specified mod
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -64,4 +63,4 @@ Possible values for modSlot:
 | 249 | Door L |
 | 250 | Door R |
 | 251 | Livery |
-```
+

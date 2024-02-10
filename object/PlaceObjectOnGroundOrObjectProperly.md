@@ -9,6 +9,5 @@ aliases: ["0xd76eeef746057fd6"]
 bool PLACE_OBJECT_ON_GROUND_OR_OBJECT_PROPERLY(Object object);
 ```
 
-```
 Basically the same as the above function but will also test objects as well as the ground
-```
+

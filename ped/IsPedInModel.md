@@ -9,6 +9,5 @@ aliases: ["0x796d90efb19aa332"]
 bool IS_PED_IN_MODEL(Ped ped, Hash modelHash);
 ```
 
-```
 Checks the ped is in the specified model.
-```
+

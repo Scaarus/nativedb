@@ -9,6 +9,5 @@ aliases: ["0xaf514cabe74cbf15"]
 void REQUEST_VEHICLE_RECORDING(int FileNumber, string pRecordingName);
 ```
 
-```
 Request a vehicle recording file.
-```
+

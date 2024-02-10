@@ -9,11 +9,10 @@ aliases: ["0x593feae1f73392d4"]
 frontend_menu_screen GET_SCREEN_CODE_WANTS_SCRIPT_TO_CONTROL();
 ```
 
-```
 This should only be called once CommandCodeWantsScriptToTakeControl returns true and will give the id of the screen code wants script to populate
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | MENU_UNIQUE_ID_INVALID |
 | 0 | ,	MENU_UNIQUE_ID_START |
@@ -176,4 +175,4 @@ Possible return values:
 | 157 | ,	MENU_UNIQUE_ID_CREDITS |
 | 158 | ,	MENU_UNIQUE_ID_LEGAL |
 | 159 | ,	MENU_UNIQUE_ID_CREDITS_LEGAL |
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xbd2a8ec3af4de7db"]
 void TASK_USE_MOBILE_PHONE(bool UsePhone, int PhoneMode);
 ```
 
-```
 Tells the ped to use a mobile phone.
 
-Possible values for PhoneMode:
-| Index | Name |
+## PhoneMode Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 279 | Tocall |
@@ -23,4 +22,4 @@ Possible values for PhoneMode:
 
 
 when called with FALSE, this command cannot be used in a sequence. If you want to use this as part of an AI sequence, consider using TASK_USE_MOBILE_PHONE_TIMED.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x1d5f595ccae2e238"]
 void SET_ENTITY_ICON_COLOR(Entity entity, int r, int g, int b, int a);
 ```
 
-```
 The color of the entities' icon
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5dbf05db5926d089"]
 void SET_SKIDMARK_RANGE_SCALE(float scale);
 ```
 
-```
 Sets the range scale used for the wheel skidmarks (set to 1.0 for authored range)
-```
+

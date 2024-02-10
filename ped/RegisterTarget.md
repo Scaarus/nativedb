@@ -9,6 +9,5 @@ aliases: ["0x2f25d9aefa34fba2"]
 void REGISTER_TARGET(Ped ped);
 ```
 
-```
 Registers the passed target as a threat, this target will now be attacked when the ped is in TaskCombat
-```
+

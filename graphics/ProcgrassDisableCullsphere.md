@@ -9,6 +9,5 @@ aliases: ["0x649c97d52332341a"]
 void PROCGRASS_DISABLE_CULLSPHERE(int idx);
 ```
 
-```
 Disables global culling sphere to reject procedural grass and procedural objects
-```
+

@@ -9,7 +9,6 @@ aliases: ["0x15cfa549788d35ef"]
 void THEFEED_SHOW();
 ```
 
-```
 Resume showing the feed
 none
-```
+

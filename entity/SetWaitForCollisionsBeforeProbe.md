@@ -9,6 +9,5 @@ aliases: ["0xdc6f8601faf2e893"]
 void SET_WAIT_FOR_COLLISIONS_BEFORE_PROBE(Entity entity, bool Wait);
 ```
 
-```
 Set flag to indicate if generated as part of user content
-```
+

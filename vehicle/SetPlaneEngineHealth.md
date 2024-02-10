@@ -9,6 +9,5 @@ aliases: ["0x2a86a0475b6a1434"]
 void SET_PLANE_ENGINE_HEALTH(Vehicle vehicle, float health);
 ```
 
-```
 the same as the above function but it allows the engine health on planes to be set higher than the max health
-```
+

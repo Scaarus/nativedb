@@ -9,8 +9,7 @@ aliases: ["0x44a0870b7e92d7c0"]
 void SET_ENTITY_ALPHA(Entity entity, int alpha_param, bool UseSmoothAlpha);
 ```
 
-```
 bUseSmoothAlpha is not supported on Peds and Vehicles.
 
 Setup an entity to be rendered with alpha,
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xd8e694757bcea8e9"]
 void DELETE_WAYPOINTS_FROM_THIS_PLAYER();
 ```
 
-```
 Switches off the waypoint if it is locally owned
-```
+

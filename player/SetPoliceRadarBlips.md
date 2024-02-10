@@ -9,6 +9,5 @@ aliases: ["0x43286d561b72b8bf"]
 void SET_POLICE_RADAR_BLIPS();
 ```
 
-```
 Sets if police blips are displayed on the radar.
-```
+

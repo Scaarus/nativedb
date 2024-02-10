@@ -9,6 +9,5 @@ aliases: ["0x459fd2c8d0ab78bc"]
 int GET_TIMECYCLE_TRANSITION_MODIFIER_INDEX();
 ```
 
-```
 returns the currently set timecycle modifier's index, or -1 if none is set. This index is purely unformative.
-```
+

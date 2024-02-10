@@ -9,6 +9,5 @@ aliases: ["0x372ef6699146a1e4"]
 bool IS_OBJECT_ENTIRELY_INSIDE_GARAGE(int GarageHash, Entity entity, float margin, int boxIndex);
 ```
 
-```
 Returns TRUE if the entity is entirely inside the garage.
-```
+

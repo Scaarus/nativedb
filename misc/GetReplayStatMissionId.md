@@ -9,6 +9,5 @@ aliases: ["0x5b1f2e327b6b6fe1"]
 int GET_REPLAY_STAT_MISSION_ID();
 ```
 
-```
 At the start of a new session, you can call this command if the script detects that a mission replay savegame has just loaded and HAVE_REPLAY_STATS_BEEN_STORED() has returned TRUE
-```
+

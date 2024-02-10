@@ -9,11 +9,10 @@ aliases: ["0x262b14f48d29de80"]
 void SET_PED_COMPONENT_VARIATION(Ped ped, int ComponentNumber, int NewDrawableNumber, int NewTextureNumber, int NewPaletteNumber);
 ```
 
-```
 Sets the drawable, texture and palette for the specified ped component.
 
-Possible values for ComponentNumber:
-| Index | Name |
+## ComponentNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -30,4 +29,4 @@ Possible values for ComponentNumber:
 
 
 This command sets the drawable and texture for one component of the ped's model. Each ped model can have several drawables for each component. Each drawable can have several textures. You should check that the new drawable index is within range for the component (body part) for the ped's model (using GET_NUMBER_OF_CHAR_DRAWABLE_VARIATIONS. The new texture index should be within range for the new drawable (can be checked using GET_NUMBER_OF_CHAR_TEXTURE_VARIATIONS). ComponentNumber is taken from PED_COMPONENT in "commands_ped.sch"
-```
+

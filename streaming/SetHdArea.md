@@ -9,6 +9,5 @@ aliases: ["0xb85f26619073e775"]
 void SET_HD_AREA(Vector3 position, float radius);
 ```
 
-```
 Sets a sphere where all assets will have their HD assets triggered
-```
+

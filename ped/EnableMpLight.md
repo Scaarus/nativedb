@@ -9,6 +9,5 @@ aliases: ["0xee2476b9ee4a094f"]
 void ENABLE_MP_LIGHT(Ped ped, bool Enable);
 ```
 
-```
 Enables/Disables MP ped light
-```
+

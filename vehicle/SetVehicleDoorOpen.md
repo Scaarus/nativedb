@@ -9,11 +9,10 @@ aliases: ["0x7c65dac73c35c862"]
 void SET_VEHICLE_DOOR_OPEN(Vehicle vehicle, int DoorNumber, bool SwingFree, bool Instant);
 ```
 
-```
 Opens a vehicle door.
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -25,4 +24,4 @@ Possible values for DoorNumber:
 
 
 SC_DOOR_LIST is in commands_vehicle.sch
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa72bc0b675b1519e"]
 bool IS_ORBIS_VERSION();
 ```
 
-```
 Returns TRUE when running with the Orbis executable
-```
+

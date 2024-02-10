@@ -9,6 +9,5 @@ aliases: ["0x810b5fcc52ec7ff0"]
 void PLAYSTATS_MASTER_CONTROL(int accessed, int iExit, int missionType, int missionName);
 ```
 
-```
 triggers when the player exits the MCT, tracking the actions taken
-```
+

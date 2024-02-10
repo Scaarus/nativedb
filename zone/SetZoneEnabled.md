@@ -9,6 +9,5 @@ aliases: ["0xba5eceea120e5611"]
 void SET_ZONE_ENABLED(int zoneId, bool Enabled);
 ```
 
-```
 Enable/Disable a specific zone
-```
+

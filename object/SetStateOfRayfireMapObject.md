@@ -9,11 +9,10 @@ aliases: ["0x5c29f698d404c5e1"]
 void SET_STATE_OF_RAYFIRE_MAP_OBJECT(Rayfire rayfire, int state);
 ```
 
-```
 Set the state of the map object if found.
 
-Possible values for state:
-| Index | Name |
+## state Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Init |
@@ -35,4 +34,4 @@ Possible values for state:
 
 
 To set a ray fire object up for the map. If you find the named ray fire object Set its state to RFMO_STATE_PRIMING Check that its primed. When primed Set its state to CE_STATE_START_ANIM Note: script can only set the following rayfire states: RFMO_STATE_STARTING RFMO_STATE_PRIMING RFMO_STATE_START_ANIM RFMO_STATE_ENDING RFMO_STATE_RESET RFMO_STATE_PAUSED RFMO_STATE_RESUME
-```
+

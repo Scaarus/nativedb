@@ -9,6 +9,5 @@ aliases: ["0x5aa3f878a178c4fc"]
 float GET_BOAT_VEHICLE_MODEL_AGILITY(Hash modelHash);
 ```
 
-```
 get the agility of boats.
-```
+

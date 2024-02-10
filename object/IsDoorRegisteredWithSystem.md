@@ -9,6 +9,5 @@ aliases: ["0xc153c43ea202c8c1"]
 bool IS_DOOR_REGISTERED_WITH_SYSTEM(int doorEnumHash);
 ```
 
-```
 Returns true if the door has been added to the door system
-```
+

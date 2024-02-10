@@ -9,6 +9,5 @@ aliases: ["0x3cdc1e622cce0356"]
 void OVERRIDE_VEH_HORN(Vehicle vehicle);
 ```
 
-```
 Overrides the current vehicle horn
-```
+

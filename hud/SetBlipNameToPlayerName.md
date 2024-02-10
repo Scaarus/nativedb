@@ -9,6 +9,5 @@ aliases: ["0x127de7b20c60a6a3"]
 void SET_BLIP_NAME_TO_PLAYER_NAME(Blip blip, Player player);
 ```
 
-```
 Change Radar blip name to name of this player
-```
+

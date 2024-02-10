@@ -9,6 +9,5 @@ aliases: ["0xf4435d66a8e2905e"]
 bool NETWORK_IS_SESSION_BUSY();
 ```
 
-```
 Returns TRUE when the session is processing some operation
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xd38c4a6d047c019d"]
 int NETWORK_GET_NUMBER_BODY_TRACKER_HITS();
 ```
 
-```
 Returns the total number of body parts hit in the player;
-```
+

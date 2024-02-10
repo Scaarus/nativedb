@@ -9,9 +9,8 @@ aliases: ["0xbdecf64367884ac3"]
 void STOP_CAM_SHAKING(Camera camera, bool StopImmediately);
 ```
 
-```
 Stop the camera shaking.
-```
+
 
 ## Parameters
 * **camera**: 

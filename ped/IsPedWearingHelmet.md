@@ -9,6 +9,5 @@ aliases: ["0xf33bdfe19b309b19"]
 bool IS_PED_WEARING_HELMET(Ped ped);
 ```
 
-```
 Does the ped have a helmet
-```
+

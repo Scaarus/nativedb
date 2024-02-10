@@ -9,6 +9,5 @@ aliases: ["0x3655f544cd30f0b5"]
 int GET_ROPE_VERTEX_COUNT();
 ```
 
-```
 Return rope's vertex count.
-```
+

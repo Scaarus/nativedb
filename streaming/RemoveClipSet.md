@@ -9,6 +9,5 @@ aliases: ["0x01f73a131c18cd94"]
 void REMOVE_CLIP_SET(string animSetName);
 ```
 
-```
 Tell streaming that this script no longer needs this clip set streamed in
-```
+

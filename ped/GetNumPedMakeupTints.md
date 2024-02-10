@@ -9,6 +9,5 @@ aliases: ["0xd1f7ca1535d22818"]
 int GET_NUM_PED_MAKEUP_TINTS();
 ```
 
-```
 Returns the total number of available makeup overlay tints
-```
+

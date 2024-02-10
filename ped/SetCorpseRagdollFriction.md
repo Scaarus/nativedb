@@ -9,6 +9,5 @@ aliases: ["0x2735233a786b1bef"]
 void SET_CORPSE_RAGDOLL_FRICTION(Ped ped, float friction);
 ```
 
-```
 Sets the friction of corpse ragdolls
-```
+

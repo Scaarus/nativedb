@@ -9,6 +9,5 @@ aliases: ["0x7e6946f68a38b74f"]
 bool STAT_CLOUD_SLOT_SAVE_FAILED(int slot);
 ```
 
-```
 Returns TRUE if the save operation FAILED. If -1 it will return TRUE if any save failed.
-```
+

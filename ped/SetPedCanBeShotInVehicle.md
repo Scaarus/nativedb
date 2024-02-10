@@ -9,6 +9,5 @@ aliases: ["0xc7ef1ba83230ba07"]
 void SET_PED_CAN_BE_SHOT_IN_VEHICLE(Ped ped, bool CanBeShotInVehicleFlag);
 ```
 
-```
 Sets if a character can be killed while in a vehicle
-```
+

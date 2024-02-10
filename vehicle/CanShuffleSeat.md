@@ -9,9 +9,8 @@ aliases: ["0x30785d90c956bf35"]
 bool CAN_SHUFFLE_SEAT(Vehicle vehicle, int Seat);
 ```
 
-```
-Possible values for Seat:
-| Index | Name |
+## Seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -27,4 +26,4 @@ Possible values for Seat:
 
 
 Command to check if a ped could shuffle from this seat. This is a bit expensive,
-```
+

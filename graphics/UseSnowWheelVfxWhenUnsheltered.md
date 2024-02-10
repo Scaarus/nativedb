@@ -9,6 +9,5 @@ aliases: ["0x4cc7f0fea5283fe0"]
 void USE_SNOW_WHEEL_VFX_WHEN_UNSHELTERED(bool enable);
 ```
 
-```
 When the car is unsheltered all wheel effects will use the snow vfx group
-```
+

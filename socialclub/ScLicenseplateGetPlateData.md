@@ -9,6 +9,5 @@ aliases: ["0x2e89990ddff670c3"]
 string SC_LICENSEPLATE_GET_PLATE_DATA(int token, int index);
 ```
 
-```
 get the current license plate data at a given index retrieved for this token.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x2472622ce1f2d45f"]
 void ADD_PED_AMMO_BY_TYPE(Ped ped, Hash ammoHash, int AmmoAmount);
 ```
 
-```
 Adds the ammo amount based on type. If an item of the type doesn't exist, one will be created.
-```
+

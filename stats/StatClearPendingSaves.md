@@ -9,6 +9,5 @@ aliases: ["0xa8733668d1047b51"]
 void STAT_CLEAR_PENDING_SAVES(int slot);
 ```
 
-```
 Clear pending SAVES. If -1 it will clear all.
-```
+

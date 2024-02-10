@@ -9,6 +9,5 @@ aliases: ["0x66b59cffd78467af"]
 bool NETWORK_HAVE_SCS_PRIVATE_MSG_PRIV();
 ```
 
-```
 PURPOSE ROS privilege checks
-```
+

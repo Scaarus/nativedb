@@ -9,11 +9,10 @@ aliases: ["0xbeb3d46bb7f043c0"]
 void CLEAR_TV_CHANNEL_PLAYLIST(int iChannel);
 ```
 
-```
 Clears any playlist from the passed channel
 
-Possible values for iChannel:
-| Index | Name |
+## iChannel Values:
+| Value | Name |
 | --- | --- |
 | -1 | None |
 | 0 | 1 |
@@ -21,4 +20,4 @@ Possible values for iChannel:
 | 14 | Special |
 | 15 | Script Only For Use In Lester1. If You Don'T Know Why You Want To Use This Channel, You Don'T Want To Use This Channel. |
 | 16 | 3 Requested For Use In Arcades In Mpheist3 |
-```
+

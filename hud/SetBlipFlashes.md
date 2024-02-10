@@ -9,6 +9,5 @@ aliases: ["0xb14552383d39ce3e"]
 void SET_BLIP_FLASHES(Blip blip, bool OnOff);
 ```
 
-```
 Flash a radar blip
-```
+

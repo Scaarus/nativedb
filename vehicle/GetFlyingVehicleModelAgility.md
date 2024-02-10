@@ -9,6 +9,5 @@ aliases: ["0xc6ad107ddc9054cc"]
 float GET_FLYING_VEHICLE_MODEL_AGILITY(Hash modelHash);
 ```
 
-```
 Get the agility of planes and heli's
-```
+

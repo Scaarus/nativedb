@@ -9,6 +9,5 @@ aliases: ["0x4e5c93bd0c32fbf8"]
 void RESERVE_NETWORK_MISSION_OBJECTS(int NumObjectsToReserve);
 ```
 
-```
 Reserves space in the population pool for the given number of objects. This space will also be reserved in the population pools of nearby players not running this script
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xb8e181e559464527"]
 bool IS_VEHICLE_DOOR_DAMAGED(Vehicle vehicle, int DoorNumber);
 ```
 
-```
 Checks if the vehicle door is intact
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -22,4 +21,4 @@ Possible values for DoorNumber:
 | 62 | Rear Right |
 | 63 | Bonnet |
 | 64 | Boot |
-```
+

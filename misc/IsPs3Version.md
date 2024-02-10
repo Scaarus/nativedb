@@ -9,6 +9,5 @@ aliases: ["0xcca1072c29d096c2"]
 bool IS_PS3_VERSION();
 ```
 
-```
 Returns TRUE when running with the PS3 executable
-```
+

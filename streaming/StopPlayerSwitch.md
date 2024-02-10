@@ -9,8 +9,7 @@ aliases: ["0x95c0a5bbdc189aa1"]
 void STOP_PLAYER_SWITCH();
 ```
 
-```
 ends the currently active player switch. camera and focus will revert to whatever the current player ped is.
 
 abandons currently running player switch
-```
+

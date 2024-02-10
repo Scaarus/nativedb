@@ -9,6 +9,5 @@ aliases: ["0x476ae72c1d19d1a8"]
 void SET_PED_DROPS_WEAPONS_WHEN_DEAD(Ped ped, bool DropsWeaponsFlag);
 ```
 
-```
 Sets whether a character drops his weapons as pickups when he dies
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x729b5f1efbc0aaee"]
 hud_colours GET_BLIP_HUD_COLOUR(Blip blip);
 ```
 
-```
 Returns the HUD colour of the blip (HUD_COLOURS)
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,4 +249,4 @@ Possible return values:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

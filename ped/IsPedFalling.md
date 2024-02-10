@@ -9,6 +9,5 @@ aliases: ["0xfb92a102f1c4dfa3"]
 bool IS_PED_FALLING(Ped ped);
 ```
 
-```
 Return if a ped is currently falling.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xdc80a4c2f18a2b64"]
 void SET_PLAYER_PARACHUTE_PACK_MODEL_OVERRIDE(Player player, int ModelNameHash);
 ```
 
-```
 An override for parachute pack model.
-```
+

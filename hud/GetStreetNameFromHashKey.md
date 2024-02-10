@@ -9,6 +9,5 @@ aliases: ["0xd0ef8a959b8a4cb9"]
 string GET_STREET_NAME_FROM_HASH_KEY(int HashKeyOfStreetName);
 ```
 
-```
 Rowan needs this for a line of text in multiplayer "Return to <streetname>"
-```
+

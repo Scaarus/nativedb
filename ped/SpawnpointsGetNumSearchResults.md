@@ -9,6 +9,5 @@ aliases: ["0xa635c11b8c44afc2"]
 int SPAWNPOINTS_GET_NUM_SEARCH_RESULTS();
 ```
 
-```
 If a search has completed, returns the number of results found
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x4ba4e2553afedc2c"]
 Vehicle GET_BLIP_INFO_ID_ENTITY_INDEX(Blip blip);
 ```
 
-```
 Report if seen
-```
+

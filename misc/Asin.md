@@ -9,8 +9,7 @@ aliases: ["0xc843060b5765dce7"]
 float ASIN();
 ```
 
-```
 Caluclates the arcsin.
 
 see http:en.wikipedia.orgwikiInverse_trigonometric_function
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x0299fa38396a4940"]
 void SET_PLAYER_TEAM(int Team);
 ```
 
-```
 Set the players current team.
-```
+

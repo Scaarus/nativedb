@@ -9,11 +9,10 @@ aliases: ["0x9304881d6f6537ea"]
 void REQUEST_SCALEFORM_SCRIPT_HUD_MOVIE(int iComponentId);
 ```
 
-```
 Requests that a scaleform script hud movie is streamed in
 
-Possible values for iComponentId:
-| Index | Name |
+## iComponentId Values:
+| Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |
 | 20 | Drugs Purse 02 |
@@ -39,4 +38,4 @@ Possible values for iComponentId:
 
 
 Requests that a scaleform script hud movie is streamed in
-```
+

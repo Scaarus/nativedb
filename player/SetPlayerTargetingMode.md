@@ -9,14 +9,13 @@ aliases: ["0xb1906895227793f3"]
 void SET_PLAYER_TARGETING_MODE(int TargetMode);
 ```
 
-```
 set targeting mode (0 = hardlock, 1 = softlock, 2 = freeaim).
 
-Possible values for TargetMode:
-| Index | Name |
+## TargetMode Values:
+| Value | Name |
 | --- | --- |
 | 0 | Gta Traditional |
 | 62 | Assisted Aim |
 | 63 | Assisted Freeaim |
 | 64 | Freeaim |
-```
+

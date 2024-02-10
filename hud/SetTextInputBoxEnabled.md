@@ -9,6 +9,5 @@ aliases: ["0x1185a8087587322c"]
 void SET_TEXT_INPUT_BOX_ENABLED(bool Enabled);
 ```
 
-```
 Enabled/Disable the PC Text Input Box (i.e. Cheat Entry Box)
-```
+

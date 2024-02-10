@@ -9,6 +9,5 @@ aliases: ["0xba8d65c1c65702e5"]
 void FORCE_OFF_WANTED_STAR_FLASH(bool ShouldForceOff);
 ```
 
-```
 ` Force the wanted star flash off (url:bugstar:2071172)
-```
+

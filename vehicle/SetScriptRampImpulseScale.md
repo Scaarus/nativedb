@@ -9,6 +9,5 @@ aliases: ["0xefc13b1ce30d755d"]
 void SET_SCRIPT_RAMP_IMPULSE_SCALE(float impulseScale);
 ```
 
-```
 Sets how much to scale the impulse applied to vehicles hit by the ramp car
-```
+

@@ -9,9 +9,8 @@ aliases: ["0xf0e4ba16d1db546c"]
 void DISABLE_VEHCILE_DYNAMIC_AMBIENT_SCALES(Vehicle vehicle, int iNaturalAmbientScale, int iArtificialAmbientscale);
 ```
 
-```
 Disable the dynamic update of the ambient scales on a vehicle
-```
+
 
 ## Parameters
 * **vehicle**: 

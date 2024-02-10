@@ -9,6 +9,5 @@ aliases: ["0x11d862a3e977a9ef"]
 bool ARE_ALL_VEHICLE_WINDOWS_INTACT(Vehicle vehicle);
 ```
 
-```
 Returns true if all windows exist and are not smashed, false otherwise.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x544810ed9db6bbe6"]
 bool HAS_LOADED_MP_DATA_SET();
 ```
 
-```
 Query whether the audio has loaded the MP data set
-```
+

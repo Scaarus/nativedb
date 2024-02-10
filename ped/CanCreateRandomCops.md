@@ -9,6 +9,5 @@ aliases: ["0x5ee2caff7f17770d"]
 bool CAN_CREATE_RANDOM_COPS();
 ```
 
-```
 Checks if random cops are allowed
-```
+

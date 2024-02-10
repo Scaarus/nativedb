@@ -9,6 +9,5 @@ aliases: ["0x57a3bddad8e5aa0a"]
 int PARTICIPANT_ID_TO_INT();
 ```
 
-```
 Returns the local player's participant id as an int
-```
+

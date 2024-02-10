@@ -9,6 +9,5 @@ aliases: ["0x953da1e1b12c0491"]
 void SET_VEHICLE_DEFORMATION_FIXED(Vehicle vehicle);
 ```
 
-```
 Fixes deformation damages only, scratch, health and broken part will stay broken
-```
+

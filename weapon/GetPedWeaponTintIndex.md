@@ -9,6 +9,5 @@ aliases: ["0x2b9eedc07bd06b9f"]
 int GET_PED_WEAPON_TINT_INDEX(Ped ped, Hash weaponHash);
 ```
 
-```
 Get a ped's tint index for the specified weapon, returns -1 if fails
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x710311adf0e20730"]
 void ACTIVATE_PHYSICS();
 ```
 
-```
 Activate entity physics
-```
+

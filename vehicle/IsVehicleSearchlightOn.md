@@ -9,6 +9,5 @@ aliases: ["0xc0f97fce55094987"]
 bool IS_VEHICLE_SEARCHLIGHT_ON(Vehicle vehicle);
 ```
 
-```
 Checks if the specified vehicles searchlight is currently on
-```
+

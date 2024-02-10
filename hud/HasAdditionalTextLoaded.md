@@ -9,11 +9,10 @@ aliases: ["0x02245fe4bed318b8"]
 bool HAS_ADDITIONAL_TEXT_LOADED(int SlotNumber);
 ```
 
-```
 Checks that the text for the slot has loaded.
 
-Possible values for SlotNumber:
-| Index | Name |
+## SlotNumber Values:
+| Value | Name |
 | --- | --- |
 | 1002 | MISSION_TEXT_SLOT |
 | 1003 | PHONE_TEXT_SLOT |
@@ -38,4 +37,4 @@ Possible values for SlotNumber:
 | 1022 | DLC_MISSION_DIALOGUE_TEXT_SLOT2 |
 | 1023 | CREDITS_TEXT_SLOT |
 | 1024 | NUM_ADDITIONAL_TEXT_SLOTS |
-```
+

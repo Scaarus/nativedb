@@ -9,6 +9,5 @@ aliases: ["0x61631f5df50d1c34"]
 void SET_CONVERSATION_AUDIO_PLACEHOLDER(bool isPlaceholder);
 ```
 
-```
 Used to determine whether conversation should use robot speech or not
-```
+

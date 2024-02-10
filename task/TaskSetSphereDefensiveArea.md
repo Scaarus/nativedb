@@ -9,6 +9,5 @@ aliases: ["0x933c06518b52a9a4"]
 void TASK_SET_SPHERE_DEFENSIVE_AREA(Ped ped, Vector3 vCentre, float fRadius);
 ```
 
-```
 Sets the peds sphere defensive area through a task so it can be used in a sequence
-```
+

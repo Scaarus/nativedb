@@ -9,6 +9,5 @@ aliases: ["0x20fe7fdfeead38c0"]
 void HIDE_MINIMAP_INTERIOR_MAP_THIS_FRAME();
 ```
 
-```
 hides the interior minimap map this frame
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x8b4ffc790ca131ef"]
 bool NETWORK_TRANSITION_START(int nTransitionType, int nContextParam1, int nContextParam2, int nContextParam3);
 ```
 
-```
 ~> TRANSITION TRACKING FUNCTIONS We have 10 stage slots (so, 0-9)
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xaf754f20eb5cd51a"]
 bool IS_MINIMAP_RENDERING();
 ```
 
-```
 Returns whether the radar is currently rendering or not
-```
+

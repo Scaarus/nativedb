@@ -9,11 +9,10 @@ aliases: ["0x9a987297ed8bd838"]
 void SUPPRESS_CRIME_THIS_FRAME(int crimeToReport);
 ```
 
-```
 Can be use to disable all instances of a crime type on this frame
 
-Possible values for crimeToReport:
-| Index | Name |
+## crimeToReport Values:
+| Value | Name |
 | --- | --- |
 | 0 | CRIME_NONE |
 | 9 | CRIME_POSSESSION_GUN |
@@ -67,4 +66,4 @@ Possible values for crimeToReport:
 | 57 | CRIME_JACK_DEAD_PED |
 | 58 | CRIME_CHAIN_EXPLOSION |
 | 59 | MAX_CRIMES |
-```
+

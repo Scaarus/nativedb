@@ -9,6 +9,5 @@ aliases: ["0x3442775428fd2daa"]
 void NETWORK_SESSION_LEAVE_SINGLE_PLAYER();
 ```
 
-```
 Leave a single player session.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa352c1b864cafd33"]
 void RESTORE_PLAYER_STAMINA(float fPercent);
 ```
 
-```
 Restores a percentage of the player's stamina.
-```
+

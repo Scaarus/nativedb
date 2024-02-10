@@ -9,6 +9,5 @@ aliases: ["0x5ce62918f8d703c7"]
 void TERRAINGRID_SET_COLOURS(int lowR, int lowG, int lowB, int lowA, int midR, int midG, int midB, int midA, int highR, int highG, int highB, int highA);
 ```
 
-```
 Sets the colour mapping for the grid - only needs to be called once
-```
+

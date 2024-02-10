@@ -9,6 +9,5 @@ aliases: ["0x745711a75ab09277"]
 void SET_FRONTEND_ACTIVE(bool Active);
 ```
 
-```
 Sets the frontend active state
-```
+

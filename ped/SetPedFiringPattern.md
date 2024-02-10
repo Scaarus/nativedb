@@ -9,11 +9,10 @@ aliases: ["0x9ac577f5a12ad8a9"]
 void SET_PED_FIRING_PATTERN(Ped ped, int FiringPatternHash);
 ```
 
-```
 Sets the peds default firing pattern (some tasks will over write this due to specific behaviors like blind fire)
 
-Possible values for FiringPatternHash:
-| Index | Name |
+## FiringPatternHash Values:
+| Value | Name |
 | --- | --- |
 | -1857128337 | Burst Fire Heli |
 | -1842093953 | Tampa Mortar |
@@ -28,4 +27,4 @@ Possible values for FiringPatternHash:
 
 
 Needs a vlid firing pattern hash, will assert with an invalid one
-```
+

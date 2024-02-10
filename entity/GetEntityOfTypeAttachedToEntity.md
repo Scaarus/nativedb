@@ -9,6 +9,5 @@ aliases: ["0x1f922734e259bd26"]
 Entity GET_ENTITY_OF_TYPE_ATTACHED_TO_ENTITY(Entity entity, Hash modelHash);
 ```
 
-```
 Gets the entity index of any entity of the given model type that is attached to teh parent entity
-```
+

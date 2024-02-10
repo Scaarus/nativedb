@@ -9,13 +9,12 @@ aliases: ["0x8290252fff36acb5"]
 void SET_CONTROL_LIGHT_EFFECT_COLOR(int control, int red, int green, int blue);
 ```
 
-```
 Sets a light device to a constant color (if there is one).
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
-```
+

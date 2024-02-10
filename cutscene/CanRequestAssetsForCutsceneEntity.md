@@ -9,6 +9,5 @@ aliases: ["0xb56bbbcc2955d9cb"]
 bool CAN_REQUEST_ASSETS_FOR_CUTSCENE_ENTITY();
 ```
 
-```
 Check that you can request the component variation
-```
+

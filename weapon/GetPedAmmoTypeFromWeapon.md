@@ -9,11 +9,10 @@ aliases: ["0x7fead38b326b9f74"]
 Hash GET_PED_AMMO_TYPE_FROM_WEAPON(Ped ped, Hash weaponHash);
 ```
 
-```
 Returns the ammo type for the given weapon (considering any overrides by clip component, etc.)
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Invalid |
 | 329 | Pistol |
@@ -87,4 +86,4 @@ Possible return values:
 | 397 | Dlc Smg Rubber |
 | 398 | Dlc Emplauncher |
 | 399 | Dlc Fertilizercan |
-```
+

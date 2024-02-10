@@ -9,6 +9,5 @@ aliases: ["0xe1c8709406f2c41c"]
 void RESET_PAUSED_RENDERPHASES();
 ```
 
-```
 Reset rendering of everything except PostFX back to ON. This unfreeze every thing and nuke the current's stack state back to 0.
-```
+

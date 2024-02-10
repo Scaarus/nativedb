@@ -9,6 +9,5 @@ aliases: ["0xa660faf550eb37e5"]
 void SET_PED_CLOTH_PRONE(Ped ped, bool val);
 ```
 
-```
 Set cloth attached to ped in prone state (on/off)
-```
+

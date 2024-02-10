@@ -9,6 +9,5 @@ aliases: ["0x51669f7d1fb53d9f"]
 void SET_CINEMATIC_BUTTON_ACTIVE(bool Enable);
 ```
 
-```
 Script can disable/enable the cinematic button
-```
+

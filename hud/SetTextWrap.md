@@ -9,6 +9,5 @@ aliases: ["0x63145d9c883a1a70"]
 void SET_TEXT_WRAP(float TextWrapStartX, float TextWrapEndX);
 ```
 
-```
 Sets points where text will wrap round and displayed on a new line.
-```
+

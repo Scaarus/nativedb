@@ -9,8 +9,7 @@ aliases: ["0x1b1e2a40a65b8521"]
 void SET_AI_WEAPON_DAMAGE_MODIFIER(float Modifier);
 ```
 
-```
 Applies a damage modifier when ai is inflicting weapon damage
 
 This function will change the ai weapon damage multiplier
-```
+

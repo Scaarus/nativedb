@@ -9,6 +9,5 @@ aliases: ["0x7aa5b4ce533c858b"]
 void CLEAR_GPS_RACE_TRACK();
 ```
 
-```
 Removes a trace track gps route
-```
+

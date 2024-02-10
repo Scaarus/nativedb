@@ -9,6 +9,5 @@ aliases: ["0x3e45765f3fbb582f"]
 void SET_VEH_HAS_NORMAL_RADIO(Vehicle vehicle);
 ```
 
-```
 Tells the vehicle to use a normal radio (instead of an emergency services radio, MP only radio, or other radio type)
-```
+

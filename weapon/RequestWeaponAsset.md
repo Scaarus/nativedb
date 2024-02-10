@@ -9,11 +9,10 @@ aliases: ["0x5443438f033e29c3"]
 void REQUEST_WEAPON_ASSET(Hash weaponHash, int iWeaponResourceFlags, int ExtraWeaponComponentFlags);
 ```
 
-```
 Request streaming to load a weapon asset
 
-Possible values for ExtraWeaponComponentFlags:
-| Index | Name |
+## ExtraWeaponComponentFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Flash |
@@ -21,7 +20,7 @@ Possible values for ExtraWeaponComponentFlags:
 | 4 | Supp |
 | 8 | Sclip2 |
 | 16 | Grip |
-```
+
 
 ## Parameters
 * **weaponHash**: 

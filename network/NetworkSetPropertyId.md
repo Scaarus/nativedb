@@ -9,6 +9,5 @@ aliases: ["0x1775961c2fbbcb5c"]
 void NETWORK_SET_PROPERTY_ID(int nPropertyID);
 ```
 
-```
 Sets the player property ID.
-```
+

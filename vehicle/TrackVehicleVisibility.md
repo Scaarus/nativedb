@@ -9,6 +9,5 @@ aliases: ["0x64473aefdcf47dca"]
 void TRACK_VEHICLE_VISIBILITY(Vehicle vehicle);
 ```
 
-```
 Request visibility tracking for a vehicle
-```
+

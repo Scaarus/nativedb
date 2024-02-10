@@ -9,9 +9,8 @@ aliases: ["0x67b2c79aa7ff5738"]
 void SET_VEHICLE_IS_STOLEN(Vehicle vehicle, bool IsStolen);
 ```
 
-```
 Toggle whether a vehicle is considered stolen
-```
+
 
 ## Parameters
 * **vehicle**: 

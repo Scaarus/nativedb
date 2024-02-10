@@ -9,6 +9,5 @@ aliases: ["0xbc5115a5a939dd15"]
 bool IS_INTERIOR_DISABLED();
 ```
 
-```
 return true if the given interior is disabled
-```
+

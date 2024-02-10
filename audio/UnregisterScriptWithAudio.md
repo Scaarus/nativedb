@@ -9,8 +9,7 @@ aliases: ["0xa8638be228d4751a"]
 void UNREGISTER_SCRIPT_WITH_AUDIO();
 ```
 
-```
 Unregisters a script with audio.
 
 Doesn't need to be called in your cleanup, as TERMINATE_THIS_SCRIPT will take care of it.
-```
+

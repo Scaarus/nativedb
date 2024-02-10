@@ -9,7 +9,6 @@ aliases: ["0xb695e2cd0a2da9ee"]
 void THEFEED_REPORT_LOGO_OFF();
 ```
 
-```
 Reports the logo is off ( Restores the feed to it's default position/behaviour )
 none
-```
+

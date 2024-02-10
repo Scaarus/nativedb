@@ -9,11 +9,10 @@ aliases: ["0x15c86013127ce63f"]
 void TASK_BOAT_MISSION(Vehicle vehicle, Vehicle vehicle, Ped ped, Vector3 Position, int Mission, float CruiseSpeed, int mode, float TargetReachedDist, int BoatFlags);
 ```
 
-```
 Gives the boat a mission.
 
-Possible values for Mission:
-| Index | Name |
+## Mission Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Cruise 1 |
@@ -41,8 +40,8 @@ Possible values for Mission:
 | 23 | Protect 23 |
 
 
-Possible values for mode:
-| Index | Name |
+## mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -78,8 +77,8 @@ Possible values for mode:
 | 1073741824 | F Forcejoininroaddirection |
 
 
-Possible values for BoatFlags:
-| Index | Name |
+## BoatFlags Values:
+| Value | Name |
 | --- | --- |
 | 1 | Stopatend |
 | 2 | Stopatshore |
@@ -98,4 +97,4 @@ Possible values for BoatFlags:
 
 
 VEHICLE_INDEX VehicleIndex (The actual plane that will be flown) VEHICLE_INDEX TargetVehicleIndex (If a target vehicle needs to be specified it is done here) PED_INDEX TargetPedIndex (If a target ped needs to be specified it is done here) FLOAT TargetX, TargetY, TargetZ (specify targetcoordinates here in needed.) VEHICLE_MISSION Mission (Mission to be exectuted. ie MISSION_GOTO, MISSION_ATTACK, MISSION_FOLLOW) in commands_vehicle.sch X:\GTA\gta_rage_scripts\include\commands_vehicle.sch FLOAT CruiseSpeed (in ms) FLOAT TargetReachedDist (distance (in meters) at which plane thinks it's arrived.) ALSO used as the hover distance for MISSION_ATTACK and MISSION_CIRCLE INT BoatFlags
-```
+

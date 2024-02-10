@@ -9,6 +9,5 @@ aliases: ["0x1a8e2c8b9cf4549c"]
 void ADD_TCMODIFIER_OVERRIDE(string modifier, string override);
 ```
 
-```
 Temporary replace TC modifier "modifier" with TC Modifier "override"
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x58bb377bec7cd5f4"]
 void SET_VEHICLE_CONVERSATIONS_PERSIST(bool AllowUpsideDown, bool AllowOnFire);
 ```
 
-```
 Set vehicles conversations carry on even if the vehicle is on fire or upsidedown.
-```
+

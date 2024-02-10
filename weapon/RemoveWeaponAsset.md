@@ -9,6 +9,5 @@ aliases: ["0xaa08ef13f341c8fc"]
 void REMOVE_WEAPON_ASSET(Hash weaponHash);
 ```
 
-```
 Tell streaming that this script no longer needs this weapon asset
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x44a113dd6ffc48d1"]
 bool SET_FOLLOW_PED_CAM_THIS_UPDATE(string CameraName, int InterpolationDuration);
 ```
 
-```
 Overrides the follow-ped camera on this update only. Returns TRUE if successful.
 
 Can be safely called at any time, but will only have a visible effect when a follow-ped gameplay camera is rendering.
-```
+
 
 ## Parameters
 * **CameraName**: The name of the custom camera to be used. This command will assert and return FALSE if this name is not valid.

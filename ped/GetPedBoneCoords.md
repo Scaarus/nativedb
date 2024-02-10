@@ -9,11 +9,10 @@ aliases: ["0x17c07fc640e86b4e"]
 Vector3 GET_PED_BONE_COORDS(Ped ped, int bone, Vector3 vecOffset);
 ```
 
-```
 Gets the coord of the peds bone
 
-Possible values for bone:
-| Index | Name |
+## bone Values:
+| Value | Name |
 | --- | --- |
 | -1 | Null |
 | 0 | Root |
@@ -75,4 +74,4 @@ Possible values for bone:
 
 
 Check that WAS_PED_SKELETON_UPDATED returns TRUE before calling this function
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xf87683cdf73c3f6e"]
 void SET_BLIP_ROTATION(Blip blip, int iDegrees);
 ```
 
-```
 Change Radar blip rotation
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x36c6984c3ed0c911"]
 void SET_PED_SCUBA_GEAR_VARIATION(Ped ped);
 ```
 
-```
 Sets the scuba gear variation
-```
+

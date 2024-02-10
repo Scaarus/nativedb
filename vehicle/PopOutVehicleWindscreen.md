@@ -9,6 +9,5 @@ aliases: ["0x6d645d59fb5f5ad3"]
 void POP_OUT_VEHICLE_WINDSCREEN(Vehicle vehicle);
 ```
 
-```
 Pops the windscreen out of the vehicle
-```
+

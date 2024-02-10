@@ -9,14 +9,13 @@ aliases: ["0x1f0b79228e461ec9"]
 bool IS_ENTITY_PLAYING_ANIM(string AnimDictName, string AnimName, int type);
 ```
 
-```
 Checks if the entity is currently playing the animation.
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | 1 | Script |
 | 2 | Synced Scene |
 | 3 | Default |
 | 4 | Code |
-```
+

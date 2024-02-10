@@ -9,6 +9,5 @@ aliases: ["0x44f28f86433b10a9"]
 bool IS_PREV_WEATHER_TYPE(string Weather);
 ```
 
-```
 Checks if the previous weather type (the one we are currently interpolating from) is the same as the string passed
-```
+

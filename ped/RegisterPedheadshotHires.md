@@ -9,6 +9,5 @@ aliases: ["0xba8805a1108a2515"]
 int REGISTER_PEDHEADSHOT_HIRES(Ped ped);
 ```
 
-```
 Registers a ped to have its headshot taken
-```
+

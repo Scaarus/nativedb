@@ -9,8 +9,7 @@ aliases: ["0xeb1774df12bb9f12"]
 void STOP_SAVE_STRUCT();
 ```
 
-```
 More Info
 
 Each START_SAVE_STRUCT should be matched by a STOP_SAVE_STRUCT after you have called REGISTER_..._TO_SAVE for each member variable that you want to save. You can save STRUCTs within STRUCTs.
-```
+

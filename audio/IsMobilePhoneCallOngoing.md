@@ -9,6 +9,5 @@ aliases: ["0x7497d2ce2c30d24c"]
 bool IS_MOBILE_PHONE_CALL_ONGOING();
 ```
 
-```
 CHecks if a mobile phone call is currently happening.
-```
+

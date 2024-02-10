@@ -9,8 +9,7 @@ aliases: ["0x2f794a877add4c92"]
 void STOP_ALL_ALARMS(bool instantStop);
 ```
 
-```
 Stop all alarms playing
 
 instantStop -> Whether to kill the alarm instantly, or to let the audio system turn it off when it becomes inaudible
-```
+

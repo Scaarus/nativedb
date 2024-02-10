@@ -9,6 +9,5 @@ aliases: ["0x5ba68a0840d546ac"]
 bool HAS_VEHICLE_PETROLTANK_SET_ON_FIRE_BY_ENTITY(Entity entity);
 ```
 
-```
 Returns TRUE if entity with id 'entityIndex' has set vehicle on fire.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa178472ebb8ae60d"]
 void SET_HELI_BLADES_FULL_SPEED(Vehicle vehicle);
 ```
 
-```
 Sets the helli blades to full speed
-```
+

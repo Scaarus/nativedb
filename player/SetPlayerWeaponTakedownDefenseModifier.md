@@ -9,8 +9,7 @@ aliases: ["0x31e90b8873a4cd3b"]
 void SET_PLAYER_WEAPON_TAKEDOWN_DEFENSE_MODIFIER(Player player, float Modifier);
 ```
 
-```
 Applies a modifier to the player damage when receiving a weapon takedown
 
 This function will change the given players defense multiplier against armed weapon takedowns, potentially making it non-lethal
-```
+

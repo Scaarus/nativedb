@@ -9,6 +9,5 @@ aliases: ["0xd45dc2893621e1fe"]
 float GET_ENTITY_PITCH(Entity entity);
 ```
 
-```
 Gets the the pitch of the entity in degrees.
-```
+

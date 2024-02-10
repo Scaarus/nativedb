@@ -9,6 +9,5 @@ aliases: ["0xca7d9b86eca7481b"]
 bool HAS_PTFX_ASSET_LOADED();
 ```
 
-```
 Query if the particle asset associated with this script has loaded
-```
+

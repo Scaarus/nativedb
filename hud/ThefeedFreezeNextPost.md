@@ -9,6 +9,5 @@ aliases: ["0xfdec055ab549e328"]
 void THEFEED_FREEZE_NEXT_POST();
 ```
 
-```
 Freezes the next post on screen until THEFEED_CLEAR_FROZEN_POST is called
-```
+

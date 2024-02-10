@@ -9,6 +9,5 @@ aliases: ["0xe7d267ec6ca966c3"]
 int GET_INTERIOR_FROM_PRIMARY_VIEW();
 ```
 
-```
 Get the interior associated with the primary viewport (current main game camera)
-```
+

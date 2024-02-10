@@ -9,11 +9,10 @@ aliases: ["0xea47fe3719165b94"]
 void TASK_PLAY_ANIM(Ped ped, string pAnimDictName, float fBlendInDelta, float fBlendOutDelta, int nTimeToPlay, int AnimFlags, float startPhase, bool phaseControlled, int ikFlags, bool AllowOverrideCloneUpdate);
 ```
 
-```
 Plays a anim task on a ped.
 
-Possible values for AnimFlags:
-| Index | Name |
+## AnimFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Looping |
@@ -49,8 +48,8 @@ Possible values for AnimFlags:
 | 1073741824 | Use Full Blending |
 
 
-Possible values for ikFlags:
-| Index | Name |
+## ikFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Disable Leg Ik |
@@ -72,7 +71,7 @@ Possible values for ikFlags:
 Flags:The flags parameter is made by combining any of the following flags using the or key which looks like this | Including a flag is like setting it to true Omitting a flag is like setting it to false See the definition of ENUM ANIMATION_FLAGS (above) for more information on the anim flags bAllowOverrideCloneUpdate is used in MP and has this
 
 Plays an anim on the specified ped
-```
+
 
 ## Parameters
 * **ped**: 

@@ -9,11 +9,10 @@ aliases: ["0x9454528df15d657a"]
 void TASK_VEHICLE_MISSION_PED_TARGET(Vehicle vehicle, Ped ped, int Mission, float CruiseSpeed, int mode, float TargetReachedDist, float StraightLineDist, bool DriveAgainstTraffic);
 ```
 
-```
 Tells a ped in a vehicle to target another ped in a vehicle.
 
-Possible values for Mission:
-| Index | Name |
+## Mission Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Cruise 1 |
@@ -41,8 +40,8 @@ Possible values for Mission:
 | 23 | Protect 23 |
 
 
-Possible values for mode:
-| Index | Name |
+## mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -79,4 +78,4 @@ Possible values for mode:
 
 
 INT TargetReached (the distance at which the ai thinks the target has been reached and the car stops) FLOAT StraightLineDist (the distance at which the ai switches to heading for the target directly instead of following the nodes) (just like in sa) To pick default values (recommended) both parameters can be passed in as -1. Use TASK_CAR_MISSION_PED_TARGET to target another ped instead of a vehicle. The task status is the same as that for TASK_CAR_MISSION, i.e. use GET_SCRIPT_TASK_STATUS(a_ped, SCRIPT_TASK_CAR_MISSION, my_status) to check for both commands. TASK_CAR_MISSION_NOT_AGAINST_TRAFFIC does exaclt the same apart from the fact it won't allow cars to drive against the flow of traffic. TASK_CAR_MISSION does allow cars to drive agains the flow of traffic. DriveAgainstTraffic being true allows the car to drive on the opposite side of the road into incoming traffic
-```
+

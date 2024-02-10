@@ -9,6 +9,5 @@ aliases: ["0x33506883545ac0df"]
 void FORCE_SUBMARINE_SURFACE_MODE(Vehicle vehicle, bool ForceSurface);
 ```
 
-```
 Forces a submarine to sit higher out of the water like it does automatically when there is no driver.
-```
+

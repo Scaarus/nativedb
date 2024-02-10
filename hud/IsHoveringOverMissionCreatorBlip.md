@@ -9,6 +9,5 @@ aliases: ["0x4167efe0527d706e"]
 bool IS_HOVERING_OVER_MISSION_CREATOR_BLIP();
 ```
 
-```
 Returns whether the map cursor if currently over a "mission creator" blip
-```
+

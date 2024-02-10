@@ -9,8 +9,7 @@ aliases: ["0x4e9021c1fcdd507a"]
 void SET_PLAYER_STEALTH_PERCEPTION_MODIFIER(Player player, float StealthPerceptionModifier);
 ```
 
-```
 Modify how easy AI can see the player when stealthed
 
 Modify how easy AI can see the player when stealthed
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x9ab9c1cfc8862dfb"]
 void DATAFILE_DELETE(int datafileIndex);
 ```
 
-```
 Deletes the datafile object in the given slot
-```
+

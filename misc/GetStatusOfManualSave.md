@@ -9,13 +9,12 @@ aliases: ["0x397baa01068baa96"]
 savegame_operation_status GET_STATUS_OF_MANUAL_SAVE();
 ```
 
-```
 Returns the status of the manual save that is launched by SET_SAVE_MENU_ACTIVE()
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 66 | Succeeded |
 | 67 | In Progress |
 | 68 | Failed |
-```
+

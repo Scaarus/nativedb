@@ -9,6 +9,5 @@ aliases: ["0x1aa8a837d2169d94"]
 void SET_VEHICLE_HAS_UNBREAKABLE_LIGHTS(Vehicle vehicle, bool UnbreakableLightFlag);
 ```
 
-```
 Sets if the vehicle's light can be broken.
-```
+

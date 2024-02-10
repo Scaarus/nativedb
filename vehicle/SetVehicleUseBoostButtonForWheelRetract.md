@@ -9,6 +9,5 @@ aliases: ["0x41290b40fa63e6da"]
 void SET_VEHICLE_USE_BOOST_BUTTON_FOR_WHEEL_RETRACT();
 ```
 
-```
 Sets whether the boost button (L3 on PS4) is used to retract the wheels
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xbc7be5abc0879f74"]
 bool CAN_USE_WEAPON_ON_PARACHUTE(Hash weaponHash);
 ```
 
-```
 Check if a particular weapon can be used when parachuting
-```
+

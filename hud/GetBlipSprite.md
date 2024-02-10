@@ -9,11 +9,10 @@ aliases: ["0x1fc877464a04fc4f"]
 int GET_BLIP_SPRITE(Blip blip);
 ```
 
-```
 Change sprite for Radar blip
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | RADAR_TRACE_INVALID |
 | 0 | RADAR_TRACE_POLICE_PLANE_MOVE |
@@ -851,4 +850,4 @@ Possible return values:
 | 832 | RADAR_TRACE_WAREHOUSE_JUGGALO |
 | 833 | RADAR_TRACE_WAREHOUSE_JUGGALO_DAX |
 | 834 | MAX_RADAR_TRACES |
-```
+

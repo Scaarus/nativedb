@@ -9,6 +9,5 @@ aliases: ["0xcef214315d276fd1"]
 void FLAG_PLAYER_CONTEXT_IN_TOURNAMENT(bool InTournament);
 ```
 
-```
 Sets the flag for the "InTournament" context
-```
+

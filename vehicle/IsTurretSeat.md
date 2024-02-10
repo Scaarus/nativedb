@@ -9,11 +9,10 @@ aliases: ["0xe33ffa906ce74880"]
 bool IS_TURRET_SEAT(Vehicle vehicle, int seat);
 ```
 
-```
 Returns if the seat has a turret (one the ped holds) associated with it
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -26,4 +25,4 @@ Possible values for seat:
 | 40 | Extra Right 2 |
 | 41 | Extra Left 3 |
 | 42 | Extra Right 3 |
-```
+

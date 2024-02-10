@@ -9,11 +9,10 @@ aliases: ["0x04a355e041e004e6"]
 int GET_PED_TEXTURE_VARIATION(Ped ped, int ComponentNumber);
 ```
 
-```
 Gets the index of the current texture variation for the specified ped component (part of the body)
 
-Possible values for ComponentNumber:
-| Index | Name |
+## ComponentNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -30,4 +29,4 @@ Possible values for ComponentNumber:
 
 
 Each ped model can have several drawables for each component. Each drawable can have several textures.
-```
+

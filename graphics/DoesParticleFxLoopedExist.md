@@ -9,6 +9,5 @@ aliases: ["0x74afef0d2e1e409b"]
 bool DOES_PARTICLE_FX_LOOPED_EXIST(int ptfxId);
 ```
 
-```
 Queries whether a particle effect exists
-```
+

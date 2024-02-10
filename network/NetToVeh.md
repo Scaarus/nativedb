@@ -9,6 +9,5 @@ aliases: ["0x367b936610ba360c"]
 Vehicle NET_TO_VEH(Network network);
 ```
 
-```
 get net id for car
-```
+

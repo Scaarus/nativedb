@@ -9,6 +9,5 @@ aliases: ["0x95e8f73dc65efb9c"]
 bool IS_PLAYER_CLIMBING();
 ```
 
-```
 Checks if the player is climbing.
-```
+

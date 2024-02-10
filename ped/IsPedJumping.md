@@ -9,6 +9,5 @@ aliases: ["0xcedabc5900a0bf97"]
 bool IS_PED_JUMPING(Ped ped);
 ```
 
-```
 Return if a ped is currently jumping.
-```
+

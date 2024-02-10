@@ -9,6 +9,5 @@ aliases: ["0xc90d2dcacd56184c"]
 void SET_SCRIPT_AS_NO_LONGER_NEEDED(string scriptname);
 ```
 
-```
 Tell the code that this script can safely be removed from memory once there are no instances of it running
-```
+

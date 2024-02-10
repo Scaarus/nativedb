@@ -9,6 +9,5 @@ aliases: ["0xf6201b4daf662a9d"]
 bool IS_XBOX360_VERSION();
 ```
 
-```
 Returns TRUE when running with the XBox360 executable
-```
+

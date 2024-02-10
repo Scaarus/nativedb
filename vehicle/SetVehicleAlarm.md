@@ -9,6 +9,5 @@ aliases: ["0xcde5e70c1ddb954c"]
 void SET_VEHICLE_ALARM(Vehicle vehicle, bool AlarmSet);
 ```
 
-```
 Sets the vehicle alarm status.
-```
+

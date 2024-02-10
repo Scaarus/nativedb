@@ -9,6 +9,5 @@ aliases: ["0x1121bfa1a1a522a8"]
 bool FORCE_SONAR_BLIPS_THIS_FRAME();
 ```
 
-```
 Force sonar blips to draw this frame
-```
+

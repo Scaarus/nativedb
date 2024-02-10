@@ -9,6 +9,5 @@ aliases: ["0xea7f0ad7e9ba676f"]
 void DISABLE_GAMEPLAY_CAM_ALTITUDE_FOV_SCALING_THIS_UPDATE();
 ```
 
-```
 Disables the scaling of gameplay camera field of view at high altitudes this update (only.) This setting automatically resets for safety.
-```
+

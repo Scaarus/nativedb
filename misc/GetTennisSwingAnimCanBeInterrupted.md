@@ -9,6 +9,5 @@ aliases: ["0x19bfed045c647c49"]
 bool GET_TENNIS_SWING_ANIM_CAN_BE_INTERRUPTED(Ped ped);
 ```
 
-```
 If the swing anim has reached the interruptible point.
-```
+

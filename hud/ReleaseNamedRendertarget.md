@@ -9,6 +9,5 @@ aliases: ["0xe9f6ffe837354dd4"]
 bool RELEASE_NAMED_RENDERTARGET(string name);
 ```
 
-```
 Release a named render target. It returns true render target has been released.
-```
+

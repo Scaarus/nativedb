@@ -9,8 +9,7 @@ aliases: ["0xa1caddcd98415a41"]
 void STOP_ALARM(string alarmName, bool instantStop);
 ```
 
-```
 Returns TRUE if a one shot is currently playingprepared
 
 instantStop -> Whether to kill the alarm instantly, or to let the audio system turn it off when it becomes inaudible
-```
+

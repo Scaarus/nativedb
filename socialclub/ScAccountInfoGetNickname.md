@@ -9,6 +9,5 @@ aliases: ["0x198d161f458ecc7f"]
 string SC_ACCOUNT_INFO_GET_NICKNAME();
 ```
 
-```
 Retrieve local player social club account nickname
-```
+

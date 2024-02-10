@@ -9,6 +9,5 @@ aliases: ["0x5b8ed3db018927b1"]
 void NETWORK_SESSION_VOICE_SET_TIMEOUT(int nTimeout);
 ```
 
-```
 Sets the timeout time for a response to be made in voice session
-```
+

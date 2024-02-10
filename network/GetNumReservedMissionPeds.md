@@ -9,14 +9,13 @@ aliases: ["0x1f13d5ae5cb17e17"]
 int GET_NUM_RESERVED_MISSION_PEDS(bool ForAllScripts, int reservationType);
 ```
 
-```
-Possible values for reservationType:
-| Index | Name |
+## reservationType Values:
+| Value | Name |
 | --- | --- |
 | 0 | All |
 | 236 | Local Only |
 | 237 | Global Only |
-```
+
 
 ## Parameters
 * **ForAllScripts**: if true, returns the totla number of reservations for all running scripts, if false, it returns the reservation for this script

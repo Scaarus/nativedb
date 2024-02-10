@@ -9,11 +9,10 @@ aliases: ["0x195aeeb13cefe2ee"]
 void TASK_VEHICLE_GOTO_NAVMESH(Ped ped, Vehicle vehicle, Vector3 Position, float CruiseSpeed, int Mode, float TargetReachedDist);
 ```
 
-```
 INFO
 
-Possible values for Mode:
-| Index | Name |
+## Mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -50,4 +49,4 @@ Possible values for Mode:
 
 
 Same as the params in TASK_VEHICLE_MISSION PURPOSE; Tells the specified vehicle to navigate somewhere using the navmesh, as opposed to the road network
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x68f8be6af5cdf8a6"]
 void GIVE_LOADOUT_TO_PED(Ped ped, Hash loadoutHash);
 ```
 
-```
 Give the specified ped the set of weapons defined in the specified loadout
-```
+

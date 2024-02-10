@@ -9,6 +9,5 @@ aliases: ["0x08c2d6c52a3104bb"]
 int GET_PLAYER_SWITCH_INTERP_OUT_DURATION();
 ```
 
-```
 returns the duration of any interpolation out of an establishing shot, in milliseconds, or 0 if invalid
-```
+

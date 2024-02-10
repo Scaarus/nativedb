@@ -9,9 +9,8 @@ aliases: ["0xab3caa6b422164da"]
 bool NETWORK_CAN_SPEND_MONEY(int amount, bool fromBank, bool fromBankAndWallet, bool fromWalletAndBank, int character, bool evcOnly);
 ```
 
-```
 Call this command to make sure that the call to spend cash will succeedd.
-```
+
 
 ## Parameters
 * **amount**: cash amount must be > 0.

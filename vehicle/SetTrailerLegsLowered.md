@@ -9,6 +9,5 @@ aliases: ["0x878c75c09fbdb942"]
 void SET_TRAILER_LEGS_LOWERED(Vehicle vehicle);
 ```
 
-```
 Instantly lowers the trailers legs
-```
+

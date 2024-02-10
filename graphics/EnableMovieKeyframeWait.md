@@ -9,6 +9,5 @@ aliases: ["0x74c180030fde4b69"]
 void ENABLE_MOVIE_KEYFRAME_WAIT(bool OnOff);
 ```
 
-```
 Force movie switches to be close to a keyframe
-```
+

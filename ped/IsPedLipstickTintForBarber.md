@@ -9,6 +9,5 @@ aliases: ["0x0525a2c2562f3cd4"]
 bool IS_PED_LIPSTICK_TINT_FOR_BARBER(int tint);
 ```
 
-```
 Returns if the specified tint is available for lipstick in the barber shop
-```
+

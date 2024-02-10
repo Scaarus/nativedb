@@ -9,11 +9,10 @@ aliases: ["0xc20e50aa46d09ca8"]
 void TASK_ENTER_VEHICLE(Vehicle vehicle, int Time, int seat, float MoveBlendRatio, int iFlags, string OverridenClipSet);
 ```
 
-```
 Tells a ped to enter a vehicle.
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -28,8 +27,8 @@ Possible values for seat:
 | 42 | Extra Right 3 |
 
 
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 1 | Resume If Interrupted |
 | 2 | Warp Entry Point |
@@ -50,4 +49,4 @@ Possible values for iFlags:
 
 
 If Time = -1 the ped will never warp into the vehicle. VEHICLE_SEAT is in generic.sch
-```
+

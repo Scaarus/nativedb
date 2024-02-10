@@ -9,6 +9,5 @@ aliases: ["0x157f93b036700462"]
 bool IS_RADAR_HIDDEN();
 ```
 
-```
 Returns whether the radar is hidden or not
-```
+

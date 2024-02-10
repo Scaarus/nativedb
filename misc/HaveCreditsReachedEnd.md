@@ -9,6 +9,5 @@ aliases: ["0x075f1d57402c93ba"]
 bool HAVE_CREDITS_REACHED_END();
 ```
 
-```
 returns whether the credits have reached the end
-```
+

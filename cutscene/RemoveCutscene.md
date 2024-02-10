@@ -9,6 +9,5 @@ aliases: ["0x440af51a3462b86f"]
 void REMOVE_CUTSCENE();
 ```
 
-```
 Releases a streamed scene, only need to call this if the scene hasnt started but you want to release it.
-```
+

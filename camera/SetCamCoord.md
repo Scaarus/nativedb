@@ -9,6 +9,5 @@ aliases: ["0x4d41783fb745e42e"]
 void SET_CAM_COORD(Camera camera, Vector3 NewPosition);
 ```
 
-```
 Set the camera's position.
-```
+

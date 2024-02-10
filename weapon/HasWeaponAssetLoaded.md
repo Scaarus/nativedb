@@ -9,6 +9,5 @@ aliases: ["0x36e353271f0e90ee"]
 bool HAS_WEAPON_ASSET_LOADED(Hash weaponHash);
 ```
 
-```
 Return if a weapon asset is in memory
-```
+

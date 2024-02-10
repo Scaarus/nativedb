@@ -9,6 +9,5 @@ aliases: ["0x84fd40f56075e816"]
 void SET_CAR_HIGH_SPEED_BUMP_SEVERITY_MULTIPLIER(float multiplier);
 ```
 
-```
 Set high speed bump movement multiplier, 1.0 = full, 0.0 = disabled
-```
+

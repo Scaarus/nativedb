@@ -9,6 +9,5 @@ aliases: ["0x820e9892a77e97cd"]
 void SET_PED_CAN_PLAY_IN_CAR_IDLES(Ped ped, bool val);
 ```
 
-```
 Enable or disable in-car idle animations
-```
+

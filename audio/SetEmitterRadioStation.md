@@ -9,6 +9,5 @@ aliases: ["0xacf57305b12af907"]
 void SET_EMITTER_RADIO_STATION(string EmitterName, string RadioStationName);
 ```
 
-```
 Retunes a named static emitter to the specified station
-```
+

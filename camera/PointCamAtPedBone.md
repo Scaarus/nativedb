@@ -9,11 +9,10 @@ aliases: ["0x68b2b5f33ba63c41"]
 void POINT_CAM_AT_PED_BONE(Camera camera, Ped ped, int BoneTag, Vector3 vecOffset, bool OffsetIsRelative);
 ```
 
-```
 Points the camera at a ped's bone.
 
-Possible values for BoneTag:
-| Index | Name |
+## BoneTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Null |
 | 0 | Root |
@@ -72,7 +71,7 @@ Possible values for BoneTag:
 | 64112 | R Finger21 |
 | 64113 | R Finger22 |
 | 64729 | L Clavicle |
-```
+
 
 ## Parameters
 * **camera**: 

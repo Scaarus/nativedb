@@ -9,6 +9,5 @@ aliases: ["0x6d0de6a7b5da71f8"]
 string GET_PLAYER_NAME();
 ```
 
-```
 Returns the name of the player.
-```
+

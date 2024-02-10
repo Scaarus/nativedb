@@ -9,13 +9,12 @@ aliases: ["0x7679cc1bcebe3d4c"]
 void SET_FLOATING_HELP_TEXT_SCREEN_POSITION(int id, float fPosX, float fPosY);
 ```
 
-```
 sets the floating help text position on screen
 
-Possible values for id:
-| Index | Name |
+## id Values:
+| Value | Name |
 | --- | --- |
 | 0 | FLOATING_HELP_TEXT_ID_1 |
 | 857 | FLOATING_HELP_TEXT_ID_2 |
 | 858 | MAX_FLOATING_HELP_TEXT_IDS |
-```
+

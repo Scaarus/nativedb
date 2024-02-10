@@ -9,6 +9,5 @@ aliases: ["0xa0948ab42d7ba0de"]
 bool IS_THIS_MODEL_A_PLANE(Hash modelHash);
 ```
 
-```
 Checks that vehicle model is a plane model
-```
+

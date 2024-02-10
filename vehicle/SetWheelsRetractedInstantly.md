@@ -9,6 +9,5 @@ aliases: ["0x5335be58c083e74e"]
 void SET_WHEELS_RETRACTED_INSTANTLY();
 ```
 
-```
 PURPOSE sets the wheels to be retracted instantly
-```
+

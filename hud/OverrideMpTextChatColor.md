@@ -9,11 +9,10 @@ aliases: ["0xf47e567b3630dd12"]
 void OVERRIDE_MP_TEXT_CHAT_COLOR(bool OnOff, int hudColor);
 ```
 
-```
 Overrides the MP Text Chat color - pass in TRUE and the hudcolor, or just pass in FALSE to turn off
 
-Possible values for hudColor:
-| Index | Name |
+## hudColor Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,4 +249,4 @@ Possible values for hudColor:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc8b46d7727d864aa"]
 void ENABLE_LASER_SIGHT_RENDERING();
 ```
 
-```
 Toggles the rendering of the laser sights on weapons
-```
+

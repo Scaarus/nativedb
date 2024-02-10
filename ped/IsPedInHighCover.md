@@ -9,6 +9,5 @@ aliases: ["0x6a03bf943d767c93"]
 bool IS_PED_IN_HIGH_COVER(Ped ped);
 ```
 
-```
 Checks if the ped is currently in high cover, will return false if in low cover. This will also return false and assert if the ped is not in cover at all, so you should call IS_PED_IN_COVER first.
-```
+

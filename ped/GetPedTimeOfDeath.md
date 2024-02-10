@@ -9,6 +9,5 @@ aliases: ["0x1e98817b311ae98a"]
 int GET_PED_TIME_OF_DEATH(Ped ped);
 ```
 
-```
 Retrieves the time of death for the ped.
-```
+

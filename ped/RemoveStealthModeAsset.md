@@ -9,6 +9,5 @@ aliases: ["0x9219857d21f0e842"]
 void REMOVE_STEALTH_MODE_ASSET(string StealthMode);
 ```
 
-```
 Removes the reference to the stealth mode assets
-```
+

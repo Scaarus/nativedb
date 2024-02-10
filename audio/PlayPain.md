@@ -9,11 +9,10 @@ aliases: ["0xbc9ae166038a5cec"]
 void PLAY_PAIN(Ped ped, int DamageReason, float RawDamage, bool SyncOverNetwork);
 ```
 
-```
 Plays a pain sound from the ped
 
-Possible values for DamageReason:
-| Index | Name |
+## DamageReason Values:
+| Value | Name |
 | --- | --- |
 | 81 | Default |
 | 82 | Falling |
@@ -49,7 +48,7 @@ Possible values for DamageReason:
 | 112 | Melee Small Grunt |
 | 113 | Melee Large Grunt |
 | 114 | Post Fall Grunt Low |
-```
+
 
 ## Parameters
 * **ped**: 

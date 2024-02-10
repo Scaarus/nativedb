@@ -9,6 +9,5 @@ aliases: ["0xb088e9a47ae6edd5"]
 void SET_DISABLE_SUPERDUMMY(Vehicle vehicle, bool disabled);
 ```
 
-```
 Disable the SuperDummy LOD mode for the given vehicle.
-```
+

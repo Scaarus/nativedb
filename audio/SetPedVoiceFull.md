@@ -9,6 +9,5 @@ aliases: ["0x40cf0d12d142a9e8"]
 void SET_PED_VOICE_FULL(Ped ped);
 ```
 
-```
 Sets a ped has a full range of
-```
+

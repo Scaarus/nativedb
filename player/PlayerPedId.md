@@ -9,6 +9,5 @@ aliases: ["0xd80958fc74e988a6"]
 Ped PLAYER_PED_ID();
 ```
 
-```
 Gets the player index for the main player.
-```
+

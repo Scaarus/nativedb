@@ -9,6 +9,5 @@ aliases: ["0x8410c5e0cd847b9d"]
 void CLEAR_FAKE_CONE_ARRAY();
 ```
 
-```
 Clears the fake cone array. Used to ensure it is clean before doing anything with fake cones.
-```
+

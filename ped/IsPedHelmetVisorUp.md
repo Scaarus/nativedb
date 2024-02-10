@@ -9,6 +9,5 @@ aliases: ["0xb9496ce47546db2c"]
 bool IS_PED_HELMET_VISOR_UP(Ped ped);
 ```
 
-```
 Returns true if ped helmet visor is up
-```
+

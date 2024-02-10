@@ -9,6 +9,5 @@ aliases: ["0x9a2c8064b6c1e41a"]
 bool SC_INBOX_MESSAGE_DO_APPLY(int mgsIndex);
 ```
 
-```
 Most Inbox messages have custom handlers in code. Use this function to trigger it on the given message
-```
+

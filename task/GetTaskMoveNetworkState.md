@@ -9,6 +9,5 @@ aliases: ["0x717e4d1f2048376d"]
 string GET_TASK_MOVE_NETWORK_STATE(Ped ped);
 ```
 
-```
 Returns the current state
-```
+

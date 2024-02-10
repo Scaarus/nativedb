@@ -9,6 +9,5 @@ aliases: ["0xd53f3a29bce2580e"]
 int GET_VEHICLE_HORN_SOUND_INDEX(Vehicle vehicle);
 ```
 
-```
 Get the horn sound index being used by the given vehicle
-```
+

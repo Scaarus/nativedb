@@ -9,6 +9,5 @@ aliases: ["0xb9efd5c25018725a"]
 void SET_AUDIO_FLAG(string flagName, bool enabled);
 ```
 
-```
 Generic interface to toggle audio functionality, with auto-reset on script termination and support for multiple script threads
-```
+

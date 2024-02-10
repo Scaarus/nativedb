@@ -9,6 +9,5 @@ aliases: ["0x4fbacce3b4138ee8"]
 bool IS_PED_BEING_STUNNED(Ped ped, Hash weaponHash);
 ```
 
-```
 Returns whether or not the designated ped is currently being stunned
-```
+

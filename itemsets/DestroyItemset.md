@@ -9,8 +9,7 @@ aliases: ["0xde18220b1c183eda"]
 void DESTROY_ITEMSET(Itemset itemset);
 ```
 
-```
 Destroy a set.
 
 The set members are unaffected, not destroyed by this command.
-```
+

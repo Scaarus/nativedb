@@ -9,6 +9,5 @@ aliases: ["0x6b76dc1f3ae6e6a3"]
 void SET_ENTITY_HEALTH(Entity entity, int NewHealth, Entity entity);
 ```
 
-```
 Sets the entity's current health.
-```
+

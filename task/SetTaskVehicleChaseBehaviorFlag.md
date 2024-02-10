@@ -9,11 +9,10 @@ aliases: ["0xcc665aac360d31e7"]
 void SET_TASK_VEHICLE_CHASE_BEHAVIOR_FLAG(Ped ped, int nFlag, bool Value);
 ```
 
-```
 Sets a behavior flag when chasing a vehicle.
 
-Possible values for nFlag:
-| Index | Name |
+## nFlag Values:
+| Value | Name |
 | --- | --- |
 | 1 | Cant Block |
 | 2 | Cant Block From Pursue |
@@ -28,4 +27,4 @@ Possible values for nFlag:
 
 
 Sets a behavior flag when chasing a vehicle. The ped must be running TASK_VEHICLE_CHASE.
-```
+

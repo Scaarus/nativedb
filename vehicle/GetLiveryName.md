@@ -9,6 +9,5 @@ aliases: ["0xb4c7a93837c91a1f"]
 string GET_LIVERY_NAME(Vehicle vehicle, int livery);
 ```
 
-```
 Returns the specified livery name
-```
+

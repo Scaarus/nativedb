@@ -9,6 +9,5 @@ aliases: ["0xff1b8b4aa1c25dc8"]
 void REMOVE_WAYPOINT_RECORDING(string RecordingName);
 ```
 
-```
 Removes the named recording
-```
+

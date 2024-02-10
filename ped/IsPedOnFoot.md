@@ -9,6 +9,5 @@ aliases: ["0x01fee67db37f59b2"]
 bool IS_PED_ON_FOOT(Ped ped);
 ```
 
-```
 Checks that ped is on foot (not in a vehicle)
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xae287c923d891715"]
 void REMOVE_COVER_POINT();
 ```
 
-```
 Removes a script added cover point.
-```
+

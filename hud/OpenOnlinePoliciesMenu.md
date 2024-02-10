@@ -9,6 +9,5 @@ aliases: ["0x805d7cbb36fd6c4c"]
 void OPEN_ONLINE_POLICIES_MENU();
 ```
 
-```
 Opens the Online Policies Menu
-```
+

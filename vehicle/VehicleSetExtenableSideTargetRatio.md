@@ -9,6 +9,5 @@ aliases: ["0xf3b0e0aed097a3f5"]
 int VEHICLE_SET_EXTENABLE_SIDE_TARGET_RATIO(float TargetRatio);
 ```
 
-```
 sets the target ratio for the extendable sides
-```
+

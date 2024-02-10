@@ -9,6 +9,5 @@ aliases: ["0x2f9a292ad0a3bd89"]
 void SUPPRESS_SHOCKING_EVENTS_NEXT_FRAME();
 ```
 
-```
 Prevents shocking events from being added to the world next frame.
-```
+

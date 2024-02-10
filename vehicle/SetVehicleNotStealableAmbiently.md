@@ -9,6 +9,5 @@ aliases: ["0xab04325045427aae"]
 void SET_VEHICLE_NOT_STEALABLE_AMBIENTLY(Vehicle vehicle, bool Stealable);
 ```
 
-```
 Sets a vehicle so that it can't be stealable by an ambient ped.
-```
+

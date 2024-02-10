@@ -9,6 +9,5 @@ aliases: ["0x01a358d9128b7a86"]
 int GET_CURRENT_WEBPAGE_ID();
 ```
 
-```
 gets the current webpage id (web page rather than site)
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xf6df6e90de7df90f"]
 void SET_OBJECT_PHYSICS_PARAMS(Object object, float fMass, float fGravityFactor, Vector3 TranslationalDamping, Vector3 RotationalDamping, float fCollisionMargin, float fMaxAngularSpeed, float fBuoyancyFactor);
 ```
 
-```
 Set physics parameters on this instance of an object.
 
 Any param set to -1.0 will be ignored, and will remain as defaults. Specifying mass = -1.0 will reset the mass back to the object's default value
-```
+
 
 ## Parameters
 * **object**: 

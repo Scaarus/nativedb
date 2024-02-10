@@ -9,11 +9,10 @@ aliases: ["0xc32779c16fceecd9"]
 void SET_IK_TARGET(Ped ped, int IKPart, Entity entity, int TargetBone, Vector3 TargetOffset, int Flags, int BlendInTimeMS, int BlendOutTimeMS);
 ```
 
-```
 Sets the IK target for a given IK part belonging to the ped. The IK target will only be valid for one update, so it needs to be set for as long as it is needed (to avoid IK targets not being cleared and getting stuck enabled).
 
-Possible values for IKPart:
-| Index | Name |
+## IKPart Values:
+| Value | Name |
 | --- | --- |
 | 0 | Invalid |
 | 176 | Head |
@@ -24,8 +23,8 @@ Possible values for IKPart:
 | 181 | Leg Right |
 
 
-Possible values for Flags:
-| Index | Name |
+## Flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Arm Target Wrt Handbone |
@@ -35,7 +34,7 @@ Possible values for Flags:
 | 16 | Ik Tag Mode Allow |
 | 32 | Ik Tag Mode Block |
 | 64 | Arm Use Orientation |
-```
+
 
 ## Parameters
 * **ped**: 

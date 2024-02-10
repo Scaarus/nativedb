@@ -9,6 +9,5 @@ aliases: ["0x5e1460624d194a38"]
 void SET_USE_ISLAND_MAP(bool UseIslandMap);
 ```
 
-```
 hides the interior minimap map this frame
-```
+

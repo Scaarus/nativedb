@@ -9,6 +9,5 @@ aliases: ["0x5a039bb0bca604b6"]
 Blip ADD_BLIP_FOR_COORD(Vector3 Position);
 ```
 
-```
 Add Radar blip at coordinate
-```
+

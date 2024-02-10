@@ -9,6 +9,5 @@ aliases: ["0xa86478c6958735c5"]
 bool IS_HUD_HIDDEN();
 ```
 
-```
 Returns whether the hud is hidden or not
-```
+

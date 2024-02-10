@@ -9,18 +9,17 @@ aliases: ["0x9a2d0fb2e7852392"]
 bool PLAY_CAM_ANIM(Camera camera, string AnimName, string AnimDictName, Vector3 vOriginPosition, Vector3 vOriginRotation, int AnimFlags, int RotOrder);
 ```
 
-```
 Play a camera animation on the specified camera. Note that the animation must already be loaded prior to calling this command.
 
-Possible values for AnimFlags:
-| Index | Name |
+## AnimFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Looping |
 
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -29,7 +28,7 @@ Possible values for RotOrder:
 | 4 | Zxy |
 | 5 | Zyx |
 | 6 | Max |
-```
+
 
 ## Parameters
 * **camera**: 

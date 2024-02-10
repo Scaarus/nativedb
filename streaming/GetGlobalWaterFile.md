@@ -9,6 +9,5 @@ aliases: ["0xf741bd853611592d"]
 int GET_GLOBAL_WATER_FILE();
 ```
 
-```
 returns currently active water file: 0=main V map, 1=Island Heist DLC
-```
+

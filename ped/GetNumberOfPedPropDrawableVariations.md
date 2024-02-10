@@ -9,11 +9,10 @@ aliases: ["0x5faf9754e789fb47"]
 int GET_NUMBER_OF_PED_PROP_DRAWABLE_VARIATIONS(Ped ped, int PropPosition);
 ```
 
-```
 Gets the total number of different prop drawables for the specified prop
 
-Possible values for PropPosition:
-| Index | Name |
+## PropPosition Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 131 | Eyes |
@@ -24,4 +23,4 @@ Possible values for PropPosition:
 | 136 | Left Wrist |
 | 137 | Right Wrist |
 | 138 | Hip |
-```
+

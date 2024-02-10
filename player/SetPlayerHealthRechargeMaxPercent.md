@@ -9,11 +9,10 @@ aliases: ["0xc388a0f065f5bc34"]
 void SET_PLAYER_HEALTH_RECHARGE_MAX_PERCENT(Player player, float Percent);
 ```
 
-```
 Allows the script to modify the max percentage that a player's health can recharge to
 
 This function alters the maximum percentage that a player's health can recharge to
-```
+
 
 ## Parameters
 * **player**: 

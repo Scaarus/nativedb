@@ -9,6 +9,5 @@ aliases: ["0xd05a3241b9a86f19"]
 void SET_ENTITY_FLAG_SUPPRESS_SHADOW(Entity entity, bool Flag);
 ```
 
-```
 Sets the SUPPRESS_SHADOW flag in the entity, if true then the entity won't cast a shadow
-```
+

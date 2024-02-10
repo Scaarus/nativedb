@@ -9,6 +9,5 @@ aliases: ["0x393bd2275ceb7793"]
 float GET_LIGHT_OVERRIDE_MAX_INTENSITY_SCALE();
 ```
 
-```
 Return Maximum Intensity Scale for Light Override (glow for pickups)
-```
+

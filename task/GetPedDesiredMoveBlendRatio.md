@@ -9,6 +9,5 @@ aliases: ["0x8517d4a6ca8513ed"]
 float GET_PED_DESIRED_MOVE_BLEND_RATIO();
 ```
 
-```
 Gets peds current move blend ratio.
-```
+

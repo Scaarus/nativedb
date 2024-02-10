@@ -9,11 +9,10 @@ aliases: ["0x90d0622866e80445"]
 void PLAYSTATS_QUICKFIX_TOOL(int anElement, string ItemName);
 ```
 
-```
 Metric set to cover the quick fix tool.
 
-Possible values for anElement:
-| Index | Name |
+## anElement Values:
+| Value | Name |
 | --- | --- |
 | 0 |  |
-```
+

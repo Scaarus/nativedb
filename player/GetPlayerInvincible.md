@@ -9,6 +9,5 @@ aliases: ["0xb721981b2b939e07"]
 bool GET_PLAYER_INVINCIBLE(Player player);
 ```
 
-```
 Gets if the player is invincible to all damage types.
-```
+

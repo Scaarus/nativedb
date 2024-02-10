@@ -9,6 +9,5 @@ aliases: ["0x92fc0eedfac04a14"]
 void PLAYSTATS_HEIST3_HACK(int type, int playthroughId, int minigame, bool won, int iStep, int iTime);
 ```
 
-```
 triggers at the end of the hacking minigames added in Casino Heist
-```
+

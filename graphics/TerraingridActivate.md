@@ -9,6 +9,5 @@ aliases: ["0xa356990e161c9e65"]
 void TERRAINGRID_ACTIVATE(bool Enable);
 ```
 
-```
 Enables/disables the terrain grid render
-```
+

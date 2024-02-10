@@ -9,6 +9,5 @@ aliases: ["0x3c788e7f6438754d"]
 void SET_CHECKPOINT_DIRECTION(Checkpoint checkpoint, Vector3 scrVecPointAt);
 ```
 
-```
 sets a new look at position on a checkpoint
-```
+

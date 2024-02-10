@@ -9,6 +9,5 @@ aliases: ["0xe50384acc2c3db74"]
 string STAT_GET_STRING(int Hash, int playerIndex);
 ```
 
-```
 Get the value of an String stat.
-```
+

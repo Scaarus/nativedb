@@ -9,6 +9,5 @@ aliases: ["0x66a49d021870fe88"]
 void CLOSE_SAFEHOUSE_GARAGES();
 ```
 
-```
 Closes all the safe house garages. This will store all the vehilces in safe houses.
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x5a6ffa2433e2f14c"]
 bool NETWORK_START_RESPAWN_SEARCH_FOR_PLAYER(Player player, Vector3 vSearchPos, float fSearchRadius, Vector3 vFaceTowardsPos, int iFlags);
 ```
 
-```
 This command initiates a search for spawn coordinates using the navmesh, using a spherical volume
 
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 2 | Ignore Target Heading |
@@ -27,7 +26,7 @@ Possible values for iFlags:
 | 512 | Prefer Enemy Ai Farther |
 | 1024 | Prefer Friendly Ai Closer |
 | 2048 | Prefer Randomness |
-```
+
 
 ## Parameters
 * **player**: 

@@ -9,6 +9,5 @@ aliases: ["0x31125fd509d9043f"]
 void ACTIVITY_FEED_ADD_SUBSTRING_TO_CAPTION(string SubString);
 ```
 
-```
 Adds a substring from gametext to the main caption ...using ~a~ ...which gets translated
-```
+

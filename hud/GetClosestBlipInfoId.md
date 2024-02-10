@@ -9,6 +9,5 @@ aliases: ["0xd484bf71050ca1ee"]
 Blip GET_CLOSEST_BLIP_INFO_ID(int iBlipSprite);
 ```
 
-```
 returns the blip of sprite iBlipSprite closest to the player.
-```
+

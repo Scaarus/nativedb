@@ -9,6 +9,5 @@ aliases: ["0xdf729e8d20cf7327"]
 int GET_BLIP_COLOUR(Blip blip);
 ```
 
-```
 Returns the colour of the blip
-```
+

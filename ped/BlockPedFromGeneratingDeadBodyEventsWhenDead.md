@@ -9,6 +9,5 @@ aliases: ["0xe43a13c9e4cccbcf"]
 void BLOCK_PED_FROM_GENERATING_DEAD_BODY_EVENTS_WHEN_DEAD(Ped ped, bool Block);
 ```
 
-```
 If set to TRUE this ped will no longer generate shocking events when dead.
-```
+

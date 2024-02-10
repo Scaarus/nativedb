@@ -9,6 +9,5 @@ aliases: ["0x02165d55000219ac"]
 int GET_VEHICLE_DEFAULT_HORN(Vehicle vehicle);
 ```
 
-```
 Return the horn sound hash
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x5e29243fb56fc6d4"]
 void CLEAR_RELATIONSHIP_BETWEEN_GROUPS(int RelationshipType, Hash relGroup, Hash otherRelGroup);
 ```
 
-```
 Removes the relationship between rel groups.
 
-Possible values for RelationshipType:
-| Index | Name |
+## RelationshipType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Respect |
 | 119 | Like 1 |
@@ -26,4 +25,4 @@ Possible values for RelationshipType:
 
 
 RELATIONSHIP_TYPE is am enum list in commands_ped.sch, REL_GROUP_HASH is an enum list in generic.sch
-```
+

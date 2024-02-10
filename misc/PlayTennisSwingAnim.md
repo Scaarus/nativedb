@@ -9,6 +9,5 @@ aliases: ["0xe266ed23311f24d4"]
 void PLAY_TENNIS_SWING_ANIM(Ped ped, string pAnimDictName, float startPhase, float playRate, bool slowBlend);
 ```
 
-```
 Play tennis swing animation
-```
+

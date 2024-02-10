@@ -9,6 +9,5 @@ aliases: ["0xd2e6822dbfd6c8bd"]
 bool IS_VEHICLE_EXTRA_TURNED_ON(int Extra);
 ```
 
-```
 Checks if a vehicle extra is turned on.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x6fd7816a36615f48"]
 void KNOCK_OFF_PED_PROP(bool Damaged, bool Hats, bool Glasses, bool Helmets);
 ```
 
-```
 knock off ped prop to the ground
-```
+

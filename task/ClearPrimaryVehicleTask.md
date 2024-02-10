@@ -9,6 +9,5 @@ aliases: ["0xdbbc7a2432524127"]
 void CLEAR_PRIMARY_VEHICLE_TASK(Vehicle vehicle);
 ```
 
-```
 Removes primary task for this vehicle
-```
+

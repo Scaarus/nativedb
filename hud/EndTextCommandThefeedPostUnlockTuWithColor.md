@@ -9,11 +9,10 @@ aliases: ["0x7ae0589093a2e088"]
 int END_TEXT_COMMAND_THEFEED_POST_UNLOCK_TU_WITH_COLOR(string sTitleString, int iconType, string sFullBodyString, bool IsImportant, int eTitleColour, bool TitleIsLiteral);
 ```
 
-```
 Displays the unlock component (TITLE UPDATE)
 
-Possible values for eTitleColour:
-| Index | Name |
+## eTitleColour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,7 +249,7 @@ Possible values for eTitleColour:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+
 
 ## Parameters
 * **sTitleString**: unlock title (i.e. "New Weapon")

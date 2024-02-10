@@ -9,9 +9,8 @@ aliases: ["0x01c7b9b38428aeb6"]
 void CLEAR_AREA_OF_VEHICLES(Vector3 CentrePosition, bool LeaveCarGenCars, bool CheckViewFrustum, bool IfWrecked, bool IfAbandoned, bool Broadcast, bool IfEngineOnFire, bool KeepScriptTrains);
 ```
 
-```
 Clears all non-mission vehicles within the defined sphere.
-```
+
 
 ## Parameters
 * **CentrePosition**: 

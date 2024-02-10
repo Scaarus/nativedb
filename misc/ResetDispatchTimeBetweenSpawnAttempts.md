@@ -9,9 +9,8 @@ aliases: ["0xeb2db0cad13154b3"]
 void RESET_DISPATCH_TIME_BETWEEN_SPAWN_ATTEMPTS(int dispatchType);
 ```
 
-```
-Possible values for dispatchType:
-| Index | Name |
+## dispatchType Values:
+| Value | Name |
 | --- | --- |
 | 1 | Police Automobile |
 | 41 | Police Helicopter |
@@ -32,4 +31,4 @@ Possible values for dispatchType:
 
 
 Resets the time between spawn attempts for the dispatch service.
-```
+

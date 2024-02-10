@@ -9,6 +9,5 @@ aliases: ["0x4e929e7a5796fd26"]
 bool IS_MP_GAMER_TAG_ACTIVE(int iPlayerNum);
 ```
 
-```
 returns whether the gamer tag is now active or not, and therefore can have the commands below called on it
-```
+

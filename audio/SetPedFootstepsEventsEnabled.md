@@ -9,6 +9,5 @@ aliases: ["0x0653b735bfbdfe87"]
 void SET_PED_FOOTSTEPS_EVENTS_ENABLED(Ped ped, bool enabed);
 ```
 
-```
 Set footstep events enabled on a given ped
-```
+

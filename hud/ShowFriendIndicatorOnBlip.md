@@ -9,6 +9,5 @@ aliases: ["0x23c3eb807312f01a"]
 void SHOW_FRIEND_INDICATOR_ON_BLIP(Blip blip, bool Show);
 ```
 
-```
 Shows the MP friend indicator on this blip
-```
+

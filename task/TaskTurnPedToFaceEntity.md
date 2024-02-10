@@ -9,6 +9,5 @@ aliases: ["0x5ad23d40115353ac"]
 void TASK_TURN_PED_TO_FACE_ENTITY(Entity entity, int Time);
 ```
 
-```
 Tells a ped to face an entity.
-```
+

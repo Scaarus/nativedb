@@ -9,6 +9,5 @@ aliases: ["0x338d2e3477711050"]
 void CLEAR_OVERRIDE_WEATHER();
 ```
 
-```
 Stop overridding the global weather (reverts to current global type)
-```
+

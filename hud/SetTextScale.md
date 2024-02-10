@@ -9,6 +9,5 @@ aliases: ["0x07c837f9a01c34c9"]
 void SET_TEXT_SCALE(float TextXScale, float TextYScale);
 ```
 
-```
 Sets the text scale by using a multiplier. 1.0 = normal / 2.0 = double
-```
+

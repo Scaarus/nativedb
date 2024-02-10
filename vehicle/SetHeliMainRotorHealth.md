@@ -9,6 +9,5 @@ aliases: ["0x4056ea1105f5abd7"]
 void SET_HELI_MAIN_ROTOR_HEALTH(Vehicle vehicle, float rotorHealth);
 ```
 
-```
 set the health of the heli main rotor
-```
+

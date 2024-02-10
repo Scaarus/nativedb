@@ -9,6 +9,5 @@ aliases: ["0xe28e54788ce8f12d"]
 int GET_PLAYER_WANTED_LEVEL();
 ```
 
-```
 Gets the players wanted level.
-```
+

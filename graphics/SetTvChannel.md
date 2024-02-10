@@ -9,11 +9,10 @@ aliases: ["0xbaabbb23eb6e484e"]
 void SET_TV_CHANNEL(int iChannel);
 ```
 
-```
 turns the TV on by setting a channel that isn't TVCHANNELTYPE_CHANNEL_NONE (which will turn it off)
 
-Possible values for iChannel:
-| Index | Name |
+## iChannel Values:
+| Value | Name |
 | --- | --- |
 | -1 | None |
 | 0 | 1 |
@@ -21,4 +20,4 @@ Possible values for iChannel:
 | 14 | Special |
 | 15 | Script Only For Use In Lester1. If You Don'T Know Why You Want To Use This Channel, You Don'T Want To Use This Channel. |
 | 16 | 3 Requested For Use In Arcades In Mpheist3 |
-```
+

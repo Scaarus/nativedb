@@ -9,8 +9,7 @@ aliases: ["0x9a8d700a51cb7b0d"]
 Vector3 GET_ENTITY_SPEED_VECTOR(Entity entity, bool LocalResult);
 ```
 
-```
 Get velocity vector of an entity. More info
 
 bLocalResult gives the result in local coordinates to the entity (x=right, y=forward, z=up)
-```
+

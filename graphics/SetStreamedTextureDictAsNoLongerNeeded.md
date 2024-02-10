@@ -9,6 +9,5 @@ aliases: ["0xbe2caccf5a8aa805"]
 void SET_STREAMED_TEXTURE_DICT_AS_NO_LONGER_NEEDED(string TxdName);
 ```
 
-```
 Unloads a streamed testure
-```
+

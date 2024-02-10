@@ -9,6 +9,5 @@ aliases: ["0xfec9a3b1820f3331"]
 bool IS_USING_PED_SCUBA_GEAR_VARIATION(Ped ped);
 ```
 
-```
 Is this ped using scuba gear variation?
-```
+

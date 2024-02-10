@@ -9,9 +9,8 @@ aliases: ["0x260be8f09e326a20"]
 void BRING_VEHICLE_TO_HALT(Vehicle vehicle, float StoppingDistance, int nTimeToStopFor, bool ControlVerticalVelocity);
 ```
 
-```
 Decelerates a vehicle until it comes to rest, possibly in an unphysically short distance.
-```
+
 
 ## Parameters
 * **vehicle**: 

@@ -9,6 +9,5 @@ aliases: ["0xbc0753c9ca14b506"]
 bool GET_PLAYER_RECEIVED_BATTLE_EVENT_RECENTLY(Player player, int nTime, bool IncludeLocalEvents);
 ```
 
-```
 Get last battle event time.
-```
+

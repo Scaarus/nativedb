@@ -9,6 +9,5 @@ aliases: ["0xdeb6d52126e7d640"]
 bool IS_PED_IN_WRITHE(Ped ped);
 ```
 
-```
 Checks if a ped is in writhe task
-```
+

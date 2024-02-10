@@ -9,6 +9,5 @@ aliases: ["0xdca174a42133f08c"]
 bool GET_HAS_RETRACTABLE_WHEELS();
 ```
 
-```
 returns true if a vehicle has retractable wheels
-```
+

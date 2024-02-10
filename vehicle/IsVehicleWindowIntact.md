@@ -9,11 +9,10 @@ aliases: ["0x46e571a0e20d01f1"]
 bool IS_VEHICLE_WINDOW_INTACT(Vehicle vehicle, int WindowNumber);
 ```
 
-```
 Returns true if a window exists and is not smashed, false otherwise.
 
-Possible values for WindowNumber:
-| Index | Name |
+## WindowNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Ow Front Left |
 | 66 | Ow Front Right |
@@ -23,4 +22,4 @@ Possible values for WindowNumber:
 | 70 | Ow Middle Right |
 | 71 | Screen Front |
 | 72 | Screen Rear |
-```
+

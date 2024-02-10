@@ -9,6 +9,5 @@ aliases: ["0x6ff8ff40b6357d45"]
 bool NETWORK_IS_PARTICIPANT_ACTIVE(Participant participant);
 ```
 
-```
 Returns true if the given script participant is active
-```
+

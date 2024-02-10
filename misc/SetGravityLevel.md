@@ -9,11 +9,10 @@ aliases: ["0x740e14fad5842351"]
 void SET_GRAVITY_LEVEL(int iGravityLevel);
 ```
 
-```
 Changes the current gravity level
 
-Possible values for iGravityLevel:
-| Index | Name |
+## iGravityLevel Values:
+| Value | Name |
 | --- | --- |
 | 0 | Earth |
 | 38 | Moon |
@@ -22,4 +21,4 @@ Possible values for iGravityLevel:
 
 
 Should be done at the start of a level or after a cutscene. Not advisable to change during normal play.
-```
+

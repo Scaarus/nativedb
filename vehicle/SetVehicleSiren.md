@@ -9,6 +9,5 @@ aliases: ["0xf4924635a19eb37d"]
 void SET_VEHICLE_SIREN(Vehicle vehicle, bool SirenFlag);
 ```
 
-```
 Sets the vehicle siren
-```
+

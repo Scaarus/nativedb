@@ -9,6 +9,5 @@ aliases: ["0x226435cb96ccfc8c"]
 bool IS_ALARM_PLAYING(string alarmName);
 ```
 
-```
 Returns TRUE if an alarm is currently playing
-```
+

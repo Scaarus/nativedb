@@ -9,6 +9,5 @@ aliases: ["0x255f8dafd540d397"]
 float GET_CAM_FAR_DOF(Camera camera);
 ```
 
-```
 Get the camera's far depth of field distance (in m.)
-```
+

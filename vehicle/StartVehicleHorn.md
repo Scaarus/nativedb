@@ -9,6 +9,5 @@ aliases: ["0x9c8c6504b5b63d2c"]
 void START_VEHICLE_HORN(Vehicle vehicle, int TimeToSoundHorn, int HornTypeHash, bool isMusicalHorn);
 ```
 
-```
 Sounds a vehicle horn for the given time and type. the type is the hash name, at the moment we only allow "NORMAL" and "HELDDOWN"
-```
+

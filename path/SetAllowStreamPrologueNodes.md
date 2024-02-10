@@ -9,6 +9,5 @@ aliases: ["0x228e5c6ad4d74bfd"]
 void SET_ALLOW_STREAM_PROLOGUE_NODES(bool Allow);
 ```
 
-```
 Set to TRUE to allow prologue road nodes from being loaded, FALSE to disable
-```
+

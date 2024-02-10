@@ -9,11 +9,10 @@ aliases: ["0x5b440763a4c8d15b"]
 void SET_GPS_FLAGS(int iFlags, float fBlippedRouteDisplayDistance);
 ```
 
-```
 Sets flags to control GPS behaviour, for routes which use the scripted GPS slot This includes blip-routes, racektrack, and multi-gps routes. Values will be returned to GPS_FLAG_NONE upon mission exit.
 
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Ignore One Way |
@@ -27,4 +26,4 @@ Possible values for iFlags:
 
 
 ags = bit flags from the GPS_FLAGS enumeration fBlippedRouteDisplayDistance = the distance which a blipped entity must be away from the player before a GPS route to them is displayed; use this to avoid displaying a GPS for entities which are close enough to the player (defaults to zero)
-```
+

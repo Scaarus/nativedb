@@ -9,8 +9,7 @@ aliases: ["0xf2dd778c22b15bda"]
 void FLASH_MINIMAP_DISPLAY();
 ```
 
-```
 for 1397187 + 1402724
 
 flashes the minimap display white
-```
+

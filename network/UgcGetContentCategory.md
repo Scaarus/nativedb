@@ -9,9 +9,8 @@ aliases: ["0xa7bab11e7c9c6c5a"]
 ugc_category UGC_GET_CONTENT_CATEGORY(int nContentIndex);
 ```
 
-```
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 103 | None |
 | 104 | Rockstar Created |
@@ -20,4 +19,4 @@ Possible return values:
 | 107 | Rockstar Verified Candidate |
 | 108 | Rockstar Community |
 | 109 | Rockstar Community Candidate |
-```
+

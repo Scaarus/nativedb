@@ -9,6 +9,5 @@ aliases: ["0x3fc795691834481d"]
 void NETWORK_SET_NO_LONGER_NEEDED(Entity entity, bool assert);
 ```
 
-```
 Set if a entity is needed or not;
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x583be370b1ec6eb4"]
 int GET_WEAPON_CLIP_SIZE(Hash weaponHash);
 ```
 
-```
 Get the clip size of a weapon
-```
+

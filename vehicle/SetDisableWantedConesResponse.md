@@ -9,6 +9,5 @@ aliases: ["0x4ad280eb48b2d8e6"]
 void SET_DISABLE_WANTED_CONES_RESPONSE(Vehicle vehicle, bool val);
 ```
 
-```
 Allows peds to drive through wanted cones without a response triggering
-```
+

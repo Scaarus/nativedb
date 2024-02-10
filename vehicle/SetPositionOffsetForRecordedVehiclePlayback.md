@@ -9,9 +9,8 @@ aliases: ["0x796a877e459b99ea"]
 void SET_POSITION_OFFSET_FOR_RECORDED_VEHICLE_PLAYBACK(Vehicle vehicle, Vector3 Offset);
 ```
 
-```
 Add a position offset to a vehicle during a recording
-```
+
 
 ## Parameters
 * **vehicle**: 

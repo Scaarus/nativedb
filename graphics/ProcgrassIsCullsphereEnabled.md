@@ -9,6 +9,5 @@ aliases: ["0x2c42340f916c5930"]
 bool PROCGRASS_IS_CULLSPHERE_ENABLED(int idx);
 ```
 
-```
 Returns status (enabled or disabled) of global culling sphere
-```
+

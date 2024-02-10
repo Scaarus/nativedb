@@ -9,6 +9,5 @@ aliases: ["0xdf4b952f7d381b95"]
 bool IS_REPLAY_INITIALIZED();
 ```
 
-```
 Returns true if the replay system is ready to be used.
-```
+

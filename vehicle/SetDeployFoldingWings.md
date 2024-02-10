@@ -9,6 +9,5 @@ aliases: ["0xb251e0b33e58b424"]
 void SET_DEPLOY_FOLDING_WINGS(bool Deploy, bool Instant);
 ```
 
-```
 deploys the folding wings on a vehicle
-```
+

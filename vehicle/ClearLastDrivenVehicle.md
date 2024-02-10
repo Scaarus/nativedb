@@ -9,6 +9,5 @@ aliases: ["0xe01903c47c7ac89e"]
 void CLEAR_LAST_DRIVEN_VEHICLE();
 ```
 
-```
 Clears reference to the player interesting vehicle so it can be removed from the world
-```
+

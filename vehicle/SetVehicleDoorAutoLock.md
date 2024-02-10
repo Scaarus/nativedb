@@ -9,11 +9,10 @@ aliases: ["0x3b458ddb57038f08"]
 void SET_VEHICLE_DOOR_AUTO_LOCK(Vehicle vehicle, int DoorNumber, bool AutoLock);
 ```
 
-```
 Sets a vehicle door to auto lock when closed.
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -25,4 +24,4 @@ Possible values for DoorNumber:
 
 
 SC_DOOR_LIST is in commands_vehicle.sch
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x7f08e26039c7347c"]
 bool WAS_PED_KILLED_BY_TAKEDOWN(Ped ped);
 ```
 
-```
 Checks if a ped was killed by melee takedown.
-```
+

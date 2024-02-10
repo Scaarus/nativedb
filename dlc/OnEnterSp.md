@@ -9,6 +9,5 @@ aliases: ["0xd7c10c4a637992c9"]
 void ON_ENTER_SP();
 ```
 
-```
 Tells code that script has made an irreversable transition to SP
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5c497525f803486b"]
 void NETWORK_SHOW_PSN_UGC_RESTRICTION();
 ```
 
-```
 Call to show system message about chat restriction.
-```
+

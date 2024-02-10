@@ -9,16 +9,15 @@ aliases: ["0x1c6cd14a876ffe39"]
 void TASK_PUT_PED_DIRECTLY_INTO_MELEE(Ped ped, float BlendInDuration, float nTimeInTask, float StrafePhaseSync, int AiCombatFlags);
 ```
 
-```
 Puts the ped directly into melee
 
-Possible values for AiCombatFlags:
-| Index | Name |
+## AiCombatFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 67108864 | Prevent Changing Target |
 | 134217728 | Disable Aim Intro |
-```
+
 
 ## Parameters
 * **ped**: 

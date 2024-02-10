@@ -9,6 +9,5 @@ aliases: ["0x64e5c4cc82847b73"]
 bool NETWORK_IS_PRIVILEGE_CHECK_IN_PROGRESS();
 ```
 
-```
 Check if a privilege check is in progress.
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xf6f5161f4534edff"]
 entity_population_type GET_ENTITY_POPULATION_TYPE(Entity entity);
 ```
 
-```
 Returns the population type of the entity
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Unknown |
 | 1 | Random Permanent |
@@ -26,4 +25,4 @@ Possible return values:
 | 8 | Replay |
 | 9 | Cache |
 | 10 | Tool |
-```
+

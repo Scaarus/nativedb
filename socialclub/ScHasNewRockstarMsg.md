@@ -9,6 +9,5 @@ aliases: ["0xbc1cc91205ec8d6e"]
 bool SC_HAS_NEW_ROCKSTAR_MSG();
 ```
 
-```
 Returns whether there is a new Rockstar Message. If this returns TRUE, script can safely collect the new message via SC_HAS_NEW_ROCKSTAR_MSG
-```
+

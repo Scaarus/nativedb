@@ -9,6 +9,5 @@ aliases: ["0x28d3fed7190d3a0b"]
 bool IS_ENTITY_ON_FIRE(Entity entity);
 ```
 
-```
 Checks if an entity is on fire.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x74e559b3bc910685"]
 bool IS_PED_CUFFED(Ped ped);
 ```
 
-```
 Determines whether the specified ped is currently handcuffed
-```
+

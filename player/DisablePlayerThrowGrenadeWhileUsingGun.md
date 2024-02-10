@@ -9,6 +9,5 @@ aliases: ["0xb885852c39cc265d"]
 void DISABLE_PLAYER_THROW_GRENADE_WHILE_USING_GUN();
 ```
 
-```
 Disables the player from throwing grenades while in a gun aiming/firing state
-```
+

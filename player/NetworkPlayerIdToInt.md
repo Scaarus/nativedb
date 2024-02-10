@@ -9,6 +9,5 @@ aliases: ["0xee68096f9f37341e"]
 int NETWORK_PLAYER_ID_TO_INT();
 ```
 
-```
 Returns the player index for the main player as an int
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x90a43cc281ffab46"]
 void SET_PED_ALTERNATE_MOVEMENT_ANIM(Ped ped, int type, string animDictionary, string anim, float blendDelta, bool looped);
 ```
 
-```
 Swaps the peds straight forward walking anim with the specified anim a new one.
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | 254 | Idle |
 | 255 | Walk |
@@ -22,7 +21,7 @@ Possible values for type:
 
 
 Specifies a new movement animation to use when the ped is moving around
-```
+
 
 ## Parameters
 * **ped**: 

@@ -9,8 +9,7 @@ aliases: ["0x9b0bb33b04405e7a"]
 void SET_WANTED_LEVEL_DIFFICULTY(Player player, float Difficulty);
 ```
 
-```
 Sets the difficulty for the wanted system.
 
 Difficulty must fall between 0 and 1.
-```
+

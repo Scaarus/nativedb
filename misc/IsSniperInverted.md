@@ -9,6 +9,5 @@ aliases: ["0x61a23b7eda9bda24"]
 bool IS_SNIPER_INVERTED();
 ```
 
-```
 Checks if teh sniper rifle control is inverted.
-```
+

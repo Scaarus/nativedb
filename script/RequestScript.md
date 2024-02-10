@@ -9,6 +9,5 @@ aliases: ["0x6eb5f71aa68f2e8e"]
 void REQUEST_SCRIPT(string scriptname);
 ```
 
-```
 Request a script program to be loaded
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xd8d19675ed5fbdce"]
 void CLEAR_PED_ALTERNATE_MOVEMENT_ANIM(Ped ped, int type, float blendDelta);
 ```
 
-```
 MAkes the ped go back to using its original walk anim.
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | 254 | Idle |
 | 255 | Walk |
@@ -22,7 +21,7 @@ Possible values for type:
 
 
 Specifies a new movement animation to use when the ped is moving around
-```
+
 
 ## Parameters
 * **ped**: 

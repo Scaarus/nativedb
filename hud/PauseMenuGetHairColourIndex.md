@@ -9,6 +9,5 @@ aliases: ["0xde03620f8703a9df"]
 int PAUSE_MENU_GET_HAIR_COLOUR_INDEX();
 ```
 
-```
 Returns the colour index of the hair selected by AS with the mouse.
-```
+

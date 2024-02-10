@@ -9,6 +9,5 @@ aliases: ["0x4328652ae5769c71"]
 void SET_PED_CAN_BE_TARGETED_WITHOUT_LOS(Ped ped, bool TargetWithoutLos);
 ```
 
-```
 The ped can be targetted through walls
-```
+

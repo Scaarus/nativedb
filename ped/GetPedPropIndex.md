@@ -9,11 +9,10 @@ aliases: ["0x898cc20ea75bacd8"]
 int GET_PED_PROP_INDEX(int Position);
 ```
 
-```
 Get the id of the prop which has been assigned at the given position for the given ped.
 
-Possible values for Position:
-| Index | Name |
+## Position Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 131 | Eyes |
@@ -24,4 +23,4 @@ Possible values for Position:
 | 136 | Left Wrist |
 | 137 | Right Wrist |
 | 138 | Hip |
-```
+

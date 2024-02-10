@@ -9,6 +9,5 @@ aliases: ["0x18f621f7a5b1f85d"]
 void SET_NIGHTVISION(bool onOff);
 ```
 
-```
 Turn night vission effect on/off
-```
+

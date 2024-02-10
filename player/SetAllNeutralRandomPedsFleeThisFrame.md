@@ -9,8 +9,7 @@ aliases: ["0xc3376f42b1faccc6"]
 void SET_ALL_NEUTRAL_RANDOM_PEDS_FLEE_THIS_FRAME();
 ```
 
-```
 Stops all random peds from attacking the player, except cops.
 
 Neutral randoms will all flee instead on this frame
-```
+

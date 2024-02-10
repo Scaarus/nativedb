@@ -9,6 +9,5 @@ aliases: ["0xb9d0dd990dc141dd"]
 void RESET_WANTED_LEVEL_DIFFICULTY(Player player);
 ```
 
-```
 Resets the difficulty for the wanted system.
-```
+

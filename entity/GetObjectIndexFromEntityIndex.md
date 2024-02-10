@@ -9,6 +9,5 @@ aliases: ["0xd7e3b9735c0f89d6"]
 Object GET_OBJECT_INDEX_FROM_ENTITY_INDEX(Entity entity);
 ```
 
-```
 Converts an entity index to an object index
-```
+

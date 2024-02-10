@@ -9,6 +9,5 @@ aliases: ["0x8378627201d5497d"]
 void SET_PED_CHANCE_OF_FIRING_BLANKS(Ped ped, float CHANCE_MIN, float CHANCE_MAX);
 ```
 
-```
 Set the peds chance of firing blanks. The min chance is their chance when close, the max is when further away.
-```
+

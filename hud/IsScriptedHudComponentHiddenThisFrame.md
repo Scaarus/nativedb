@@ -9,11 +9,10 @@ aliases: ["0x09c0403ed9a751c2"]
 bool IS_SCRIPTED_HUD_COMPONENT_HIDDEN_THIS_FRAME(int hudComponent);
 ```
 
-```
 is the scripted hud component hidden this frame?
 
-Possible values for hudComponent:
-| Index | Name |
+## hudComponent Values:
+| Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |
 | 20 | Drugs Purse 02 |
@@ -36,4 +35,4 @@ Possible values for hudComponent:
 | 37 | Player Switch Alert |
 | 38 | Mp Rank Bar |
 | 39 | Director Mode |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc594b315edf2d4af"]
 void REMOVE_COP_BLIP_FROM_PED(Ped ped);
 ```
 
-```
 Removes a cop blip from the ped.
-```
+

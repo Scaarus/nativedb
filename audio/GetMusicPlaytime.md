@@ -9,6 +9,5 @@ aliases: ["0xe7a0d23dc414507b"]
 int GET_MUSIC_PLAYTIME();
 ```
 
-```
 Returns the play time in milliseconds of the current score track
-```
+

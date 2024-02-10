@@ -9,6 +9,5 @@ aliases: ["0xadf084fb8f075d06"]
 bool IS_PROP_LIGHT_OVERRIDEN(Object object);
 ```
 
-```
 Returns status of light color override for given object (only for 1st child light)
-```
+

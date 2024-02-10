@@ -9,6 +9,5 @@ aliases: ["0x57e457cd2c0fc168"]
 bool IS_PED_SPRINTING(Ped ped);
 ```
 
-```
 Returns true if the ped is sprinting
-```
+

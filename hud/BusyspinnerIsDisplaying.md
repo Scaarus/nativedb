@@ -9,7 +9,6 @@ aliases: ["0xb2a592b04648a9cb"]
 bool BUSYSPINNER_IS_DISPLAYING();
 ```
 
-```
 Check if the busy spinner is on and displaying onscreen.
 None
-```
+

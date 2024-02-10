@@ -9,6 +9,5 @@ aliases: ["0xaa059c615de9dd03"]
 void ALLOW_PICKUP_BY_NONE_PARTICIPANT(Object object, bool allow);
 ```
 
-```
 Allows pickup to be collected by non script participant
-```
+

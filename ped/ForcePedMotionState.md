@@ -9,11 +9,10 @@ aliases: ["0xf28965d04f570dca"]
 bool FORCE_PED_MOTION_STATE(Ped ped, int state, int exitstate, bool ForceAIPreCameraUpdate);
 ```
 
-```
 Forces the peds motion state next frame to the provided known state.
 
-Possible values for state:
-| Index | Name |
+## state Values:
+| Value | Name |
 | --- | --- |
 | -1871534317 | On Foot Idle |
 | -1855028596 | Diving Swim |
@@ -35,15 +34,15 @@ Possible values for state:
 | 1212730861 | Diving Idle |
 
 
-Possible values for exitstate:
-| Index | Name |
+## exitstate Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Cutscene Exit |
 
 
 Can be used to force a particular movement pose and behaviour, for example when trying to seamlessly end a canned animation, such as a cutscene or synchronized scene.
-```
+
 
 ## Parameters
 * **ped**: 

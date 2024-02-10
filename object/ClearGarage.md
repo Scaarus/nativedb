@@ -9,9 +9,8 @@ aliases: ["0xda05194260cdcdf9"]
 void CLEAR_GARAGE(int garageHash, bool Broadcast);
 ```
 
-```
 Clear everything within the garage.
-```
+
 
 ## Parameters
 * **garageHash**: 

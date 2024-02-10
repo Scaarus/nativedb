@@ -9,6 +9,5 @@ aliases: ["0x615d3925e87a3b26"]
 void SET_CHECKPOINT_DECAL_ROT_ALIGNED_TO_CAMERA_ROT(Checkpoint checkpoint);
 ```
 
-```
 forces a checkpoint with a decal to use the camera rotation for alignment instead of camera position
-```
+

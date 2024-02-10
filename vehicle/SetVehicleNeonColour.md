@@ -9,6 +9,5 @@ aliases: ["0x8e0a582209a62695"]
 void SET_VEHICLE_NEON_COLOUR(Vehicle vehicle, int Red, int Green, int Blue);
 ```
 
-```
 Sets the colour of a car's neons
-```
+

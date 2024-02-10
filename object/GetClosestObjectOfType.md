@@ -9,9 +9,8 @@ aliases: ["0xe143fa2249364369"]
 Object GET_CLOSEST_OBJECT_OF_TYPE(Vector3 scrVecCentrePosition, float Radius, Hash modelHash, bool RegisterAsScriptObject, bool ScriptHostObject, bool RegisterAsNetworkObject);
 ```
 
-```
 Grabs the closest object (or dummy object) with the specified model. The object is set as a mission object. You can't delete this object. You can set it as no longer needed. If no object is found in the range then NULL is returned. A dummy object will first be converted to a real object.
-```
+
 
 ## Parameters
 * **scrVecCentrePosition**: 

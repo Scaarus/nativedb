@@ -9,11 +9,10 @@ aliases: ["0xc1e8a365bf3b29f2"]
 void SET_PED_RESET_FLAG(Ped ped, int ResetFlag, bool True);
 ```
 
-```
 Sets the given ped reset flag bit
 
-Possible values for ResetFlag:
-| Index | Name |
+## ResetFlag Values:
+| Value | Name |
 | --- | --- |
 | 462 |  Fallen Down |
 | 463 |  Dont Render This Frame |
@@ -473,4 +472,4 @@ Possible values for ResetFlag:
 
 
 These flags are reset every frame
-```
+

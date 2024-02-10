@@ -9,11 +9,10 @@ aliases: ["0x2a2173e46daecd12"]
 void SET_CAM_VIEW_MODE_FOR_CONTEXT(int Context, int ViewMode);
 ```
 
-```
 Sets the camera view mode for the specified context.
 
-Possible values for Context:
-| Index | Name |
+## Context Values:
+| Value | Name |
 | --- | --- |
 | 0 | CAM_VIEW_MODE_CONTEXT_ON_FOOT |
 | 30 | CAM_VIEW_MODE_CONTEXT_IN_VEHICLE |
@@ -26,8 +25,8 @@ Possible values for Context:
 | 37 | NUM_CAM_VIEW_MODE_CONTEXTS |
 
 
-Possible values for ViewMode:
-| Index | Name |
+## ViewMode Values:
+| Value | Name |
 | --- | --- |
 | 0 | CAM_VIEW_MODE_THIRD_PERSON_NEAR |
 | 38 | CAM_VIEW_MODE_THIRD_PERSON_MEDIUM |
@@ -36,7 +35,7 @@ Possible values for ViewMode:
 | 41 | CAM_VIEW_MODE_FIRST_PERSON |
 | 42 | NUM_CAM_VIEW_MODES |
 | 43 | CAM_VIEW_MODE_THIRD_PERSON |
-```
+
 
 ## Parameters
 * **Context**: The view mode context to be configured. See CAM_VIEW_MODE_CONTEXT enumeration.

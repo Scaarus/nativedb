@@ -9,6 +9,5 @@ aliases: ["0xa1c996c2a744262e"]
 bool HAS_CUT_FILE_LOADED(string pCutName);
 ```
 
-```
 Returns whether a cut file has loaded
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xb569f41f3e7e83a4"]
 void SET_LOCK_ADAPTIVE_DOF_DISTANCE(bool on);
 ```
 
-```
 Overrides the adaptive DOF update.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x12534c348c6cb68b"]
 bool IS_PED_A_PLAYER(Ped ped);
 ```
 
-```
 Checks if the ped is a player's ped
-```
+

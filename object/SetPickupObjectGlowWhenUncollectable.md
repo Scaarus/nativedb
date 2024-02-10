@@ -9,6 +9,5 @@ aliases: ["0x27f248c3febfaad3"]
 void SET_PICKUP_OBJECT_GLOW_WHEN_UNCOLLECTABLE(bool Set);
 ```
 
-```
 Sets a pickup to glow when it is not collectable
-```
+

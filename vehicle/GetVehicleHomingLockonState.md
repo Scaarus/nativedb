@@ -9,13 +9,12 @@ aliases: ["0xe6b0e8cfc3633bf0"]
 homing_lockon_state GET_VEHICLE_HOMING_LOCKON_STATE(Vehicle vehicle);
 ```
 
-```
 Checks if the provided vehicle is locked on anything other entity
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Acquiring |
 | 2 | Acquired |
-```
+

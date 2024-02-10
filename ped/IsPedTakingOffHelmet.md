@@ -9,6 +9,5 @@ aliases: ["0x14590ddbedb1ec85"]
 bool IS_PED_TAKING_OFF_HELMET(Ped ped);
 ```
 
-```
 Returns true if ped is currently removing its helmet
-```
+

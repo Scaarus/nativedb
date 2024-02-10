@@ -9,6 +9,5 @@ aliases: ["0xb938b7e6d3c0620c"]
 void SET_CREDITS_ACTIVE(bool Active);
 ```
 
-```
 Sets the end credits playimg state
-```
+

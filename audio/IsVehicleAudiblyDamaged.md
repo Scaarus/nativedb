@@ -9,6 +9,5 @@ aliases: ["0xe3d43e568f45340a"]
 bool IS_VEHICLE_AUDIBLY_DAMAGED(Vehicle vehicle);
 ```
 
-```
 Check if the vehicle has any audible damage effects applied to it
-```
+

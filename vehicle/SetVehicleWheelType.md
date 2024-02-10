@@ -9,11 +9,10 @@ aliases: ["0x487eb21cc7295ba1"]
 void SET_VEHICLE_WHEEL_TYPE(Vehicle vehicle, int type);
 ```
 
-```
 Sets the current wheel type on the vehicle specified
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Sport |
@@ -29,4 +28,4 @@ Possible values for type:
 | 274 | Supermod3 |
 | 275 | Supermod4 |
 | 276 | Supermod5 |
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x7ee53118c892b513"]
 bool GET_PED_CONFIG_FLAG(Ped ped, int ConfigFlag, bool DoDeadCheck);
 ```
 
-```
 Gets the given ped config flag bit
 
-Possible values for ConfigFlag:
-| Index | Name |
+## ConfigFlag Values:
+| Value | Name |
 | --- | --- |
 | 0 | Created By Factory |
 | 1 | Can Be Shot In Vehicle |
@@ -477,4 +476,4 @@ Possible values for ConfigFlag:
 | 459 | Disable Health Regeneration When Stunned |
 | 460 | Ragdoll Floats Indefinitely |
 | 461 | Block Electric Weapon Damage |
-```
+

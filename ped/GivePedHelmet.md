@@ -9,11 +9,10 @@ aliases: ["0x54c7c4a94367717e"]
 void GIVE_PED_HELMET(Ped ped, bool DontTakeOffHelmet, int HelmetPropFlag, int OverwriteHelmetTexId);
 ```
 
-```
 Give the ped a helmet
 
-Possible values for HelmetPropFlag:
-| Index | Name |
+## HelmetPropFlag Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Bulky |
@@ -35,4 +34,4 @@ Possible values for HelmetPropFlag:
 | 65536 | Hide In First Person |
 | 131072 | Use Physics Hat 2 |
 | 262144 | Pilot Helmet |
-```
+

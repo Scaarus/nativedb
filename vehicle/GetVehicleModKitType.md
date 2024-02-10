@@ -9,14 +9,13 @@ aliases: ["0xfc058f5121e54c32"]
 mod_kit_type GET_VEHICLE_MOD_KIT_TYPE(Vehicle vehicle);
 ```
 
-```
 Returns the type of the current mod kit onthe specified vehicle. Note: vehicle must have a kit set!
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Tandard |
 | 252 | Port |
 | 253 | Uv |
 | 254 | Pecial |
-```
+

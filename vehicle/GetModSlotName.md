@@ -9,11 +9,10 @@ aliases: ["0x51f0feb9f6ae98c0"]
 string GET_MOD_SLOT_NAME(Vehicle vehicle, int modSlot);
 ```
 
-```
 Returns the mod slot name to display in the mod shop ui
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -64,4 +63,4 @@ Possible values for modSlot:
 | 249 | Door L |
 | 250 | Door R |
 | 251 | Livery |
-```
+

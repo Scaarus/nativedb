@@ -9,6 +9,5 @@ aliases: ["0xca9d2aa3e326d720"]
 bool IS_CINEMATIC_IDLE_CAM_RENDERING();
 ```
 
-```
 Check that the cinemtatic idle camera is rendering.
-```
+

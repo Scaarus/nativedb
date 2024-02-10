@@ -9,11 +9,10 @@ aliases: ["0x4ba92a18502bca61"]
 bool NETWORK_START_RESPAWN_SEARCH_IN_ANGLED_AREA_FOR_PLAYER(Player player, Vector3 vAngledAreaPos1, Vector3 vAngledAreaPos2, float fAngledAreaWidth, Vector3 vFaceTowardsPos, int iFlags);
 ```
 
-```
 This command initiates a search for spawn coordinates using the navmesh, using an angled area
 
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 2 | Ignore Target Heading |
@@ -30,4 +29,4 @@ Possible values for iFlags:
 
 
 See 'NETWORK_START_RESPAWN_SEARCH_FOR_PLAYER' above
-```
+

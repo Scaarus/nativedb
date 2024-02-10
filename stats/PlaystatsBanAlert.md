@@ -9,6 +9,5 @@ aliases: ["0x516fc96eb88eefe5"]
 void PLAYSTATS_BAN_ALERT(int optionSelected);
 ```
 
-```
 Telemetry sent whenever we display the ScriptHook Ban Alert message and the user selected an option
-```
+

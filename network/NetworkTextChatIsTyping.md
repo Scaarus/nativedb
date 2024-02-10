@@ -9,6 +9,5 @@ aliases: ["0x5fcf4d7069b09026"]
 bool NETWORK_TEXT_CHAT_IS_TYPING();
 ```
 
-```
 Returns TRUE when the text chat entry box is visible.
-```
+

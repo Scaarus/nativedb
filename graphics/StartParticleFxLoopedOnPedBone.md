@@ -9,11 +9,10 @@ aliases: ["0xf28da9f38cd1787c"]
 int START_PARTICLE_FX_LOOPED_ON_PED_BONE(string fxName, Ped ped, Vector3 vecPosition, Vector3 vecRotation, int boneTag, float scale, bool invertAxisX, bool invertAxisY, bool invertAxisZ);
 ```
 
-```
 Start a looped particle effect on a ped bone with an offset position and orientation.
 
-Possible values for boneTag:
-| Index | Name |
+## boneTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Null |
 | 0 | Root |
@@ -77,7 +76,7 @@ Possible values for boneTag:
 STRING
 
 Triggers a named particle effect attached to a ped bone with an offset position and rotation. This should only be used with infinitely looping particle effects. The particle effect will then start playing and will need to be stopped by calling STOP_PTFX. The returned id of the particle effect needs to be passed into any other function that needs to be called on it.
-```
+
 
 ## Parameters
 * **fxName**: the name of the particle effect to be started PED_INDEX

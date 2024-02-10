@@ -9,6 +9,5 @@ aliases: ["0xdad37f45428801ae"]
 bool IS_HELP_MESSAGE_ON_SCREEN();
 ```
 
-```
 returns true if on screen, false if its off the sides of the screen
-```
+

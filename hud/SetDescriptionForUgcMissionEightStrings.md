@@ -9,6 +9,5 @@ aliases: ["0x817b86108eb94e51"]
 void SET_DESCRIPTION_FOR_UGC_MISSION_EIGHT_STRINGS(bool Active, string pString1, string pString2, string pString3, string pString4, string pString5, string pString6, string pString7, string pString8);
 ```
 
-```
 sets the current mission description to display in the Jobs section of the pause menu - takes up to 8 strings
-```
+

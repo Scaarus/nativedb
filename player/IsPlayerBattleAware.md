@@ -9,6 +9,5 @@ aliases: ["0x38d28da81e4e9bf9"]
 bool IS_PLAYER_BATTLE_AWARE(Player player);
 ```
 
-```
 Is player currently in a gun fight?
-```
+

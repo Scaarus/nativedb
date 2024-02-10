@@ -9,6 +9,5 @@ aliases: ["0x1760ffa8ab074d66"]
 void SET_ENTITY_CAN_BE_DAMAGED(Entity entity, bool CanBeDamagedFlag);
 ```
 
-```
 Sets if the entity can be damaged.
-```
+

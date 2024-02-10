@@ -9,6 +9,5 @@ aliases: ["0x8fd89a6240813fd0"]
 void SET_PED_CAN_PLAY_AMBIENT_IDLES(Ped ped, bool BlockIdleClips, bool RemoveIdleClipIfPlaying);
 ```
 
-```
 Blocks/Removes ambient idles from playing on a ped. Must be running TASK_AMBIENT_CLIPS. Must be called every frame to keep blocking/removing (flags get reset every frame to ensure this doesn't get left on accidently). NOTE: bBlockIdleClips: if true, blocks future idle clips from playing. bRemoveIdleClipIfPlaying: if true, will remove any current clip playing (will also block).
-```
+

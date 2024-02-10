@@ -9,6 +9,5 @@ aliases: ["0x2b320cf14146b69a"]
 void PIN_ROPE_VERTEX(int vtxIndex, Vector3 pos);
 ```
 
-```
 Pin specific vertex from the rope
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa11700682f3ad45c"]
 Network NETWORK_GET_NETWORK_ID_FROM_ENTITY(Entity entity);
 ```
 
-```
 Returns the network ID of the entity with the specified index
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xba739d6d5a05d6e7"]
 void PLAYSTATS_PROP_CHANGE(int pedIndex, int position, int newPropIndex, int newTextIndex);
 ```
 
-```
 Metric set when the player prop changes.
-```
+

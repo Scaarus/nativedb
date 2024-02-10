@@ -9,6 +9,5 @@ aliases: ["0x2fb19228983e832c"]
 bool LEADERBOARDS_READ_SUCCESSFUL(int leaderboardId, int leaderboardType, int lbIndex);
 ```
 
-```
 PURPOSE Returns true if leaderboard read was successful.
-```
+

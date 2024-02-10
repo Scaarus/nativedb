@@ -9,19 +9,18 @@ aliases: ["0x5b84d09cec5209c5"]
 float GET_CONTROL_UNBOUND_NORMAL(int control, int action);
 ```
 
-```
 Return controller value related to an action (range generally between -1 to +1 but can exceed this, usually by a mouse)
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
 
 
-Possible values for action:
-| Index | Name |
+## action Values:
+| Value | Name |
 | --- | --- |
 | 0 | INPUT_NEXT_CAMERA |
 | 3 | INPUT_LOOK_LR |
@@ -387,4 +386,4 @@ Possible values for action:
 | 363 | INPUT_EAT_SNACK |
 | 364 | INPUT_USE_ARMOR |
 | 365 | MAX_INPUTS |
-```
+

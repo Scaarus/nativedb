@@ -9,6 +9,5 @@ aliases: ["0xa2fabbe87f4bad82"]
 void DETACH_CAM(Camera camera);
 ```
 
-```
 Detaches the camera from an entity.
-```
+

@@ -9,9 +9,8 @@ aliases: ["0x983765856f2564f9"]
 void SET_VEHICLE_ENGINE_CAN_DEGRADE(Vehicle vehicle, bool EnableDegrading);
 ```
 
-```
 Enabledisable the aircraft engine degrade
-```
+
 
 ## Parameters
 * **vehicle**: 

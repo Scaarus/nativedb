@@ -9,6 +9,5 @@ aliases: ["0xf4f2c0d4ee209e20"]
 void INVALIDATE_IDLE_CAM();
 ```
 
-```
 Invalidates the cinematic idle camera, restarting the associated idle counter.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x0f70731baccfbb96"]
 bool GET_IS_USING_ALTERNATE_DRIVEBY();
 ```
 
-```
 Returns whether the player has the alternate driveby profile option set
-```
+

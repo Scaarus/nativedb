@@ -9,6 +9,5 @@ aliases: ["0xf11bc2dd9a3e7195"]
 int GET_VEHICLE_NUMBER_PLATE_TEXT_INDEX(Vehicle vehicle);
 ```
 
-```
 Gets the number plate index
-```
+

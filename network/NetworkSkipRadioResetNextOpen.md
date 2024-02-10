@@ -9,6 +9,5 @@ aliases: ["0xca59ccae5d01e4ce"]
 void NETWORK_SKIP_RADIO_RESET_NEXT_OPEN();
 ```
 
-```
 Specifies that the radio should not be reset for multiplayer the next time the network is opened
-```
+

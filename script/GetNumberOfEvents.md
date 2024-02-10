@@ -9,14 +9,13 @@ aliases: ["0x5f92a689a06620aa"]
 int GET_NUMBER_OF_EVENTS(int eventQueue);
 ```
 
-```
 Returns the number of events in the given script queue.
 
-Possible values for eventQueue:
-| Index | Name |
+## eventQueue Values:
+| Value | Name |
 | --- | --- |
 | 0 | SCRIPT_EVENT_QUEUE_AI |
 | 1 | SCRIPT_EVENT_QUEUE_NETWORK |
 | 2 | SCRIPT_EVENT_QUEUE_ERRORS |
 | 3 | NUM_SCRIPT_EVENT_QUEUES |
-```
+

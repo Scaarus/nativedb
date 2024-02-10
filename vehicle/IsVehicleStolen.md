@@ -9,6 +9,5 @@ aliases: ["0x4af9bd80eebeb453"]
 bool IS_VEHICLE_STOLEN(Vehicle vehicle);
 ```
 
-```
 Check if a vehicle is considered stolen
-```
+

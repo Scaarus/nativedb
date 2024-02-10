@@ -9,9 +9,8 @@ aliases: ["0x33ee12743ccd6343"]
 int END_TEXT_COMMAND_THEFEED_POST_UNLOCK(string sTitleString, int iconType, string sFullBodyString);
 ```
 
-```
 Displays the unlock component
-```
+
 
 ## Parameters
 * **sTitleString**: unlock title (i.e. "New Weapon")

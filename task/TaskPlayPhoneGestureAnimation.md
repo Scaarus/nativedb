@@ -9,9 +9,8 @@ aliases: ["0x8fbb6758b3b3e9ec"]
 void TASK_PLAY_PHONE_GESTURE_ANIMATION(Ped ped, string pAnimDictName, string pAnimName, string pFilterName, float fTaskBlendInDuration, float fTaskBlendOutDuration, bool IsLooping, bool HoldLastFrame);
 ```
 
-```
 Plays a gesture animation whilst using phone
-```
+
 
 ## Parameters
 * **ped**: 

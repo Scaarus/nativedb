@@ -9,8 +9,7 @@ aliases: ["0x9e8c908f41584ecd"]
 void SET_PED_MOVE_ANIMS_BLEND_OUT(Ped ped);
 ```
 
-```
 Blends out the peds move anims
 
 Cant be used on network scripts.
-```
+

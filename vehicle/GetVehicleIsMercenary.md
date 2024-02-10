@@ -9,6 +9,5 @@ aliases: ["0xd4c4642cb7f50b5d"]
 bool GET_VEHICLE_IS_MERCENARY(Vehicle vehicle);
 ```
 
-```
 Returns whether this vehicle has been spawned as a mercenary
-```
+

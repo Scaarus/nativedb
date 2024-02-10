@@ -9,9 +9,8 @@ aliases: ["0x2238e588e588a6d7"]
 void STOP_CINEMATIC_CAM_SHAKING(bool StopImmediately);
 ```
 
-```
 Stop the active cinematic camera shake.
-```
+
 
 ## Parameters
 * **StopImmediately**: If TRUE, the shake will stop immediately, otherwise it will enter its release phase and fade out.

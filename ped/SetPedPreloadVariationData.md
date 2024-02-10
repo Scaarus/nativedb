@@ -9,11 +9,10 @@ aliases: ["0x39d55a620fcb6a3a"]
 int SET_PED_PRELOAD_VARIATION_DATA(Ped ped, int ComponentID, int DrawableID, int TextureID);
 ```
 
-```
 Sets a component variation to preload into memory, without applying it on the ped
 
-Possible values for ComponentID:
-| Index | Name |
+## ComponentID Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -27,4 +26,4 @@ Possible values for ComponentID:
 | 147 | Special2 Pv Comp Task |
 | 148 | Decl ? |
 | 149 | Jbib |
-```
+

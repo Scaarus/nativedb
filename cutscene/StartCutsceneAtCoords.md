@@ -9,11 +9,10 @@ aliases: ["0x1c9adda3244a1fbf"]
 void START_CUTSCENE_AT_COORDS(Vector3 vPos, int flags);
 ```
 
-```
 Starts a seamless cut scene at the given coords.
 
-Possible values for flags:
-| Index | Name |
+## flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Options |
 | 1 | Player Targetable |
@@ -33,4 +32,4 @@ Possible values for flags:
 
 
 The given coords will act as the scene origin, round which all animations are authored.
-```
+

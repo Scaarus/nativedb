@@ -9,6 +9,5 @@ aliases: ["0xbcf3026912a8647d"]
 void DETACH_ROPE_FROM_ENTITY(Entity entity);
 ```
 
-```
 Detach rope from an entity. Rope should have been attached to this entity( not mandatory ).
-```
+

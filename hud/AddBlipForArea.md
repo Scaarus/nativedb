@@ -9,6 +9,5 @@ aliases: ["0xce5d0e5e315db238"]
 Blip ADD_BLIP_FOR_AREA(Vector3 Position, float fSizeX, float fSizeY);
 ```
 
-```
 Add Radar blip for an area
-```
+

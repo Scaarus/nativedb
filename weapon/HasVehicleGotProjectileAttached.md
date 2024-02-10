@@ -9,11 +9,10 @@ aliases: ["0x717c8481234e3b88"]
 bool HAS_VEHICLE_GOT_PROJECTILE_ATTACHED(Ped ped, Vehicle vehicle, Hash weaponHash, int DoorNumber);
 ```
 
-```
 Query whether the specified ped has any projectiles attached to the specified vehicle of the specified type (0 for any type)
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -22,4 +21,4 @@ Possible values for DoorNumber:
 | 62 | Rear Right |
 | 63 | Bonnet |
 | 64 | Boot |
-```
+

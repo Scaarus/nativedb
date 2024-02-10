@@ -9,6 +9,5 @@ aliases: ["0x8cde909a0370bb3a"]
 void SET_PARTICLE_FX_FORCE_VEHICLE_INTERIOR(bool isVehicleInterior);
 ```
 
-```
 Sets the whether triggered effect will be in a vehicle interior. This is used for rendering
-```
+

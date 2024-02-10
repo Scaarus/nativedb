@@ -9,9 +9,8 @@ aliases: ["0x5cec1a84620e7d5b"]
 void SET_DISABLE_BREAKING(Entity entity, bool disableBreaking);
 ```
 
-```
 Prevent a specific prop from breaking, or, allow a specific prop to break when all other of its type cannot.
-```
+
 
 ## Parameters
 * **entity**: 

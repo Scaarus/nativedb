@@ -9,11 +9,10 @@ aliases: ["0x8ea86df356801c7d"]
 void SET_HYDRAULIC_VEHICLE_STATE(int state);
 ```
 
-```
 Sets the state of all the vehicle wheels
 
-Possible values for state:
-| Index | Name |
+## state Values:
+| Value | Name |
 | --- | --- |
 | 0 | Wheel Free |
 | 337 | Wheel Locked |
@@ -22,4 +21,4 @@ Possible values for state:
 | 340 | All Lock Up |
 | 341 | All Lock Down |
 | 342 | All Bounce |
-```
+

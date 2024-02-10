@@ -9,6 +9,5 @@ aliases: ["0x534e36d4db9ecc5d"]
 bool IS_EXTRA_BROKEN_OFF(int Extra);
 ```
 
-```
 Is this Extra broken off
-```
+

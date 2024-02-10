@@ -9,11 +9,10 @@ aliases: ["0xc0e78d5c2ce3eb25"]
 void SET_PED_HELMET_FLAG(Ped ped, int HelmetPropFlag);
 ```
 
-```
 Sets the helmet flag for which tpye of prop to use
 
-Possible values for HelmetPropFlag:
-| Index | Name |
+## HelmetPropFlag Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Bulky |
@@ -35,4 +34,4 @@ Possible values for HelmetPropFlag:
 | 65536 | Hide In First Person |
 | 131072 | Use Physics Hat 2 |
 | 262144 | Pilot Helmet |
-```
+

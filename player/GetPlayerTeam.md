@@ -9,6 +9,5 @@ aliases: ["0x37039302f4e0a008"]
 int GET_PLAYER_TEAM();
 ```
 
-```
 Gets the team the player is in.
-```
+

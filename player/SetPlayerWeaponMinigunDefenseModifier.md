@@ -9,8 +9,7 @@ aliases: ["0xbcfde9ede4cf27dc"]
 void SET_PLAYER_WEAPON_MINIGUN_DEFENSE_MODIFIER(Player player, float Modifier);
 ```
 
-```
 Applies a modifier to the player damage when receiving weapon damage from a minigun
 
 This function will change the given players defense multiplier against damage
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x1899f328b0e12848"]
 Vector3 GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(Entity entity, Vector3 NewPosition);
 ```
 
-```
 Gets a point described as an offset from that entity and returns the world coordinates of that point
-```
+

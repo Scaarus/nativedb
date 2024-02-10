@@ -9,6 +9,5 @@ aliases: ["0x3fa4bf0a7ab7de2c"]
 void SET_CAM_NEAR_DOF(Camera camera, float NearDof);
 ```
 
-```
 Set the camera's near depth of field distance (in m.)
-```
+

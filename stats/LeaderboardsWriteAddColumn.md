@@ -9,11 +9,10 @@ aliases: ["0x0bca1d2c47b0d269"]
 void LEADERBOARDS_WRITE_ADD_COLUMN(int fieldId, int ivalue, float fvalue);
 ```
 
-```
 Set a integerfloat value in a column. Must be used after calling LEADERBOARDS2_WRITE_DATA.
 
-Possible values for fieldId:
-| Index | Name |
+## fieldId Values:
+| Value | Name |
 | --- | --- |
 | -1 | Servertime |
 | 0 | Invalid |
@@ -257,7 +256,7 @@ Possible values for fieldId:
 | 246 | Freemode Arena Career Num Matches |
 | 247 | Freemode Arena Career Rank Id |
 | 248 | Freemode Arena Career Vehicle Id |
-```
+
 
 ## Parameters
 * **fieldId**: Field ID of the column being set.

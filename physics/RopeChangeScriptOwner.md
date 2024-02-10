@@ -9,6 +9,5 @@ aliases: ["0xb1b6216ca2e7b55e"]
 void ROPE_CHANGE_SCRIPT_OWNER(bool ScriptHostObject, bool GrabFromOtherScript);
 ```
 
-```
 switch rope script threads ownership
-```
+

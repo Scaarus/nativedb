@@ -9,6 +9,5 @@ aliases: ["0x34b973047a2268b9"]
 void PLAYSTATS_CLOTH_CHANGE(int pedIndex, int componentID, int drawableID, int textureID, int paletteID);
 ```
 
-```
 Metric set when the player cloths changes.
-```
+

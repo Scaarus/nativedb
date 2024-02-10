@@ -9,6 +9,5 @@ aliases: ["0x1b2366c3f2a5c8df"]
 int GET_BENCHMARK_PASS();
 ```
 
-```
 Returns the -benchmarkPass number, or -1 if unspecified.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x0764486aede748db"]
 void SET_PLAYER_RESERVE_PARACHUTE_MODEL_OVERRIDE(Player player, int ModelNameHash);
 ```
 
-```
 An override for reserve parachute model.
-```
+

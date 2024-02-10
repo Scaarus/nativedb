@@ -9,6 +9,5 @@ aliases: ["0xc2d2ad9eaae265b8"]
 bool GET_FAKE_SPECTATOR_MODE();
 ```
 
-```
 Returns weather or not we are in faked spectator mode.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x460bc76a0e10655e"]
 bool IS_PED_ON_MOUNT(Ped ped);
 ```
 
-```
 Checks if PedIndex is mounted
-```
+

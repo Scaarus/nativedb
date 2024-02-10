@@ -9,9 +9,8 @@ aliases: ["0x98c494fd5bdfbfd5"]
 bool BEGIN_SCALEFORM_SCRIPT_HUD_MOVIE_METHOD(int iScriptHudId, string cMethodName);
 ```
 
-```
-Possible values for iScriptHudId:
-| Index | Name |
+## iScriptHudId Values:
+| Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |
 | 20 | Drugs Purse 02 |
@@ -39,4 +38,4 @@ Possible values for iScriptHudId:
 script hud component id, actionscript method name. Will return true if successul and false if not
 
 start of an actionscript method called on a script hud component
-```
+

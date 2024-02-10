@@ -9,11 +9,10 @@ aliases: ["0x22d7275a79fe8215"]
 int GET_NTH_CLOSEST_VEHICLE_NODE_ID(Vector3 Position, int NodeNumber, int nodeFlags, float zMeasureMult, float zTolerance);
 ```
 
-```
 Will return if can the nth ( n = 1 being closest) closest vehicle node (by index), to a coord.
 
-Possible values for nodeFlags:
-| Index | Name |
+## nodeFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Include Switched Off Nodes |
@@ -23,7 +22,7 @@ Possible values for nodeFlags:
 
 
 As GET_NTH_CLOSEST_VEHICLE_NODE... but returns a node index. This node index MUST be used within this frame as it's validity is not guaranteed outside.
-```
+
 
 ## Parameters
 * **Position**: 

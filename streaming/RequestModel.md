@@ -9,6 +9,5 @@ aliases: ["0x963d27a58df860ac"]
 void REQUEST_MODEL(Hash modelHash);
 ```
 
-```
 Request streaming to load a model
-```
+

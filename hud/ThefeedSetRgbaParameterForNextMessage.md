@@ -9,9 +9,8 @@ aliases: ["0x17430b918701c342"]
 void THEFEED_SET_RGBA_PARAMETER_FOR_NEXT_MESSAGE(int iRed, int iGreen, int iBlue, int iAlpha);
 ```
 
-```
 Sets the RGBA background attributes for "Important" feed types
-```
+
 
 ## Parameters
 * **iRed**: Red

@@ -9,9 +9,8 @@ aliases: ["0xc5f0a8ebd3f361ce"]
 void SET_INSTANCE_PRIORITY_HINT(int hint);
 ```
 
-```
-Possible values for hint:
-| Index | Name |
+## hint Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 97 | Shooting |
@@ -21,4 +20,4 @@ Possible values for hint:
 
 
 provide hint to game to strip out low priority map objects for specific types of missions
-```
+

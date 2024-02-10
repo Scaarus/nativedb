@@ -9,6 +9,5 @@ aliases: ["0xd0d7b1e680ed4a1a"]
 void SET_PED_GADGET(Ped ped, Hash weaponHash, bool Equip);
 ```
 
-```
 If Equip is true, gives the ped the specified gadget, if false it gets removed
-```
+

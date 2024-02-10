@@ -9,6 +9,5 @@ aliases: ["0xe12abe5e3a389a6c"]
 void SET_CAN_AUTO_VAULT_ON_ENTITY(Entity entity, bool CanAutoVault);
 ```
 
-```
 Prevent auto vaulting on a particular entity.
-```
+

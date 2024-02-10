@@ -9,11 +9,10 @@ aliases: ["0x84ea99c62cb3ef0c"]
 void SET_HYDRAULIC_SUSPENSION_RAISE_FACTOR(int WheelNumber, float raiseFactor);
 ```
 
-```
 Sets the hydraulic suspension raise factor for one wheel
 
-Possible values for WheelNumber:
-| Index | Name |
+## WheelNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Car Front Left |
 | 52 | Car Front Right |
@@ -23,4 +22,4 @@ Possible values for WheelNumber:
 | 56 | Car Rear Right |
 | 57 | Bike Front |
 | 58 | Bike Rear |
-```
+

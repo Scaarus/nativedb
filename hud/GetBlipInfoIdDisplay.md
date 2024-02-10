@@ -9,11 +9,10 @@ aliases: ["0x1e314167f701dc3b"]
 blip_display GET_BLIP_INFO_ID_DISPLAY(Blip blip);
 ```
 
-```
 Report if seen
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 956 | Nothing |
 | 957 | Marker |
@@ -24,4 +23,4 @@ Possible return values:
 | 962 | Map Zoomed Display This Blip On Radar And Only On Map When Map Is Zoomed Fully In |
 | 963 | Bigmap Full Only Display On Zoomed Out Version Of The Bigmap Only |
 | 964 | Minimap Or Bigmap Display On Normal Minimap Or Bigmap (But Not On The Full Zoomed Map) |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x2c9f302398e13141"]
 void SET_BLIP_USE_HEIGHT_INDICATOR_ON_EDGE(Blip blip, bool UseHeight);
 ```
 
-```
 Call with TRUE if you want the arrows indicating height difference to always appear even on the edge of the minimap
-```
+

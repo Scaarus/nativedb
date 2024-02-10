@@ -9,6 +9,5 @@ aliases: ["0x2bf66d2e7414f686"]
 bool NETWORK_CAN_QUEUE_FOR_PREVIOUS_SESSION_JOIN();
 ```
 
-```
 ~> SESSION QUEUE
-```
+

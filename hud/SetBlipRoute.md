@@ -9,6 +9,5 @@ aliases: ["0x4f7d8a9bfb0b43e9"]
 void SET_BLIP_ROUTE(Blip blip, bool OnOff);
 ```
 
-```
 set a route for this blip
-```
+

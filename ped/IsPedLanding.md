@@ -9,6 +9,5 @@ aliases: ["0x412f1364fa066cfb"]
 bool IS_PED_LANDING(Ped ped);
 ```
 
-```
 Return if a ped is currently landing (including rolling after landing).
-```
+

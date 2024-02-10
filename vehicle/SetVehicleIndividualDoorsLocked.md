@@ -9,11 +9,10 @@ aliases: ["0xbe70724027f85bcd"]
 void SET_VEHICLE_INDIVIDUAL_DOORS_LOCKED(Vehicle vehicle, int DoorIndex, int NewLockState);
 ```
 
-```
 Set the given doors to a certain locked state.
 
-Possible values for NewLockState:
-| Index | Name |
+## NewLockState Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 24 | Unlocked 1 |
@@ -29,4 +28,4 @@ Possible values for NewLockState:
 
 
 LOCK_STATE is in commands_vehicle.sch
-```
+

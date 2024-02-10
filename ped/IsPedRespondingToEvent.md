@@ -9,11 +9,10 @@ aliases: ["0x625b774d75c87068"]
 bool IS_PED_RESPONDING_TO_EVENT(Ped ped, int EventType);
 ```
 
-```
 Checks the ped is responding to an event of the specified type. EVENT_INVALID can be used to test if the ped is responding to any event.
 
-Possible values for EventType:
-| Index | Name |
+## EventType Values:
+| Value | Name |
 | --- | --- |
 | -1 | EVENT_INVALID |
 | 0 | EVENT_ACQUAINTANCE_PED_DISLIKE |
@@ -272,4 +271,4 @@ Possible values for EventType:
 
 
 EventType should be one of the ENUM values in event_enums.sch
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5d10b3795f3fc886"]
 bool NETWORK_HAS_RECEIVED_HOST_BROADCAST_DATA();
 ```
 
-```
 Returns true once we have received the first update for all registered host broadcast data from the host
-```
+

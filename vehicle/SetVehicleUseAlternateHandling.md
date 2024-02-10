@@ -9,6 +9,5 @@ aliases: ["0x1d97d1e3a70a649f"]
 void SET_VEHICLE_USE_ALTERNATE_HANDLING(Vehicle vehicle, bool UseAlternateHandling);
 ```
 
-```
 Set this vehicle to use alternate handling
-```
+

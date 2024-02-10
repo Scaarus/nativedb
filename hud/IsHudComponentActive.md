@@ -9,11 +9,10 @@ aliases: ["0xbc4c9ea5391ecc0d"]
 bool IS_HUD_COMPONENT_ACTIVE(int hudComponent);
 ```
 
-```
 returns whether the hud component is active/loaded
 
-Possible values for hudComponent:
-| Index | Name |
+## hudComponent Values:
+| Value | Name |
 | --- | --- |
 | 0 | Weapon Icon |
 | 1 | Wanted Stars |
@@ -35,4 +34,4 @@ Possible values for hudComponent:
 | 17 | Feed |
 | 18 | Weapon Wheel |
 | 19 | Weapon Wheel Stats |
-```
+

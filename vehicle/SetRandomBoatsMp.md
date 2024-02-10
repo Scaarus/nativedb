@@ -9,6 +9,5 @@ aliases: ["0xda5e12f728db30ca"]
 void SET_RANDOM_BOATS_MP(bool RandomBoatsFlag);
 ```
 
-```
 Set random boats active in MP.
-```
+

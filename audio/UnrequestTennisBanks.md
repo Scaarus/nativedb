@@ -9,6 +9,5 @@ aliases: ["0x0150b6ff25a9e2e5"]
 void UNREQUEST_TENNIS_BANKS();
 ```
 
-```
 Unloads the tennis vocalization banks. VERY IMPORTANT TO CALL OR WE'LL NEVER HEAR ANIMALS AGAIN!!!
-```
+

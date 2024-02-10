@@ -9,6 +9,5 @@ aliases: ["0xd00d76a7dfc9d852"]
 void REMOVE_CUT_FILE(string pCutName);
 ```
 
-```
 Releases a cut file, only need to call this if you're finished with cut file
-```
+

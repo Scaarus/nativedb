@@ -9,6 +9,5 @@ aliases: ["0x44919cc079bb60bf"]
 void CHANGE_GOON_LOOKING_FOR_WORK(bool value);
 ```
 
-```
 PURPOSE When switching "Looking for work" in the Boss and Goons settings
-```
+

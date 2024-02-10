@@ -9,6 +9,5 @@ aliases: ["0x0ae73d8df3a762b2"]
 void CASCADE_SHADOWS_ENABLE_FREEZER(bool Enable);
 ```
 
-```
 call this to enable/disable the cascaded shadows freezer functionality
-```
+

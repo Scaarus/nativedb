@@ -9,11 +9,10 @@ aliases: ["0x2057ef813397a772"]
 int GET_PED_RAGDOLL_BONE_INDEX(Ped ped, int ragdollComponent);
 ```
 
-```
 Returns the bone index of the given ragdoll component. Only used for APPLY_FORCE_TO_ENTITY at the moment.
 
-Possible values for ragdollComponent:
-| Index | Name |
+## ragdollComponent Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pelvis |
 | 6 | Thigh L |
@@ -37,4 +36,4 @@ Possible values for ragdollComponent:
 | 24 | Neck |
 | 25 | Head |
 | 26 | Num Components |
-```
+

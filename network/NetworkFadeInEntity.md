@@ -9,9 +9,8 @@ aliases: ["0x1f4ed342acefe62d"]
 void NETWORK_FADE_IN_ENTITY(Entity entity, bool Network, bool flash);
 ```
 
-```
 Fades in the entity with flash
-```
+
 
 ## Parameters
 * **entity**: 

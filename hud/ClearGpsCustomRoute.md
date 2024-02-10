@@ -9,6 +9,5 @@ aliases: ["0xe6de0561d9232a64"]
 void CLEAR_GPS_CUSTOM_ROUTE();
 ```
 
-```
 Removes the custom GPS route
-```
+

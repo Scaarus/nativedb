@@ -9,6 +9,5 @@ aliases: ["0x9f5e6bb6b34540da"]
 void WATER_OVERRIDE_SET_RIPPLEMAXBUMPINESS(float value);
 ```
 
-```
 Set some values in water overrides.
-```
+

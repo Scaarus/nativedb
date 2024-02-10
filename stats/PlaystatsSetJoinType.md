@@ -9,6 +9,5 @@ aliases: ["0xd1032e482629049e"]
 void PLAYSTATS_SET_JOIN_TYPE(int type);
 ```
 
-```
 Metric set the multiplayer game join type.
-```
+

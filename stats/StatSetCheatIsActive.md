@@ -9,6 +9,5 @@ aliases: ["0x047cbed6f6f8b63c"]
 void STAT_SET_CHEAT_IS_ACTIVE();
 ```
 
-```
 Set TRUE that a cheat is active - must be called every frame for certain cheats. Rest periode is 2s after that value is reset back to FALSE.
-```
+

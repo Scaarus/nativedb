@@ -9,6 +9,5 @@ aliases: ["0xaa3f739abddcf21f"]
 void CLEAR_VEHICLE_PHONE_EXPLOSIVE_DEVICE();
 ```
 
-```
 Clears a explosive device tied to the players mobile phone
-```
+

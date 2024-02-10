@@ -9,6 +9,5 @@ aliases: ["0x9d292f73adbd9313"]
 void CLEAR_BRIEF();
 ```
 
-```
 Clears any messages that are currently being displayed in the Pause Menu brief screen.
-```
+

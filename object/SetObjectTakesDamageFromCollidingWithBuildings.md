@@ -9,6 +9,5 @@ aliases: ["0xeb6f1a9b5510a5d2"]
 void SET_OBJECT_TAKES_DAMAGE_FROM_COLLIDING_WITH_BUILDINGS(Object object, bool TakesDamage);
 ```
 
-```
 Marks object to take damage from colliding with buildings. NOTES:
-```
+

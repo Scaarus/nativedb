@@ -9,11 +9,10 @@ aliases: ["0x5eaad83f8cfb4575"]
 pickup_type CONVERT_OLD_PICKUP_TYPE_TO_NEW();
 ```
 
-```
 A temporary command to convert old pickup types to the new hash types
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | PICKUP_HEALTH_STANDARD |
 | 1 | PICKUP_ARMOUR_STANDARD |
@@ -201,4 +200,4 @@ Possible return values:
 | 183 | PICKUP_WEAPON_DLC_METALDETECTOR |
 | 184 | PICKUP_WEAPON_DLC_TACTICALRIFLE |
 | 185 | PICKUP_WEAPON_DLC_PRECISIONRIFLE |
-```
+

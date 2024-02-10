@@ -9,6 +9,5 @@ aliases: ["0x340e61de7f471565"]
 void SET_PLAYER_WANTED_LEVEL_NO_DROP(int WantedLevel, bool DelayLawResponse);
 ```
 
-```
 Sets the wanted level only if its higher than the current.
-```
+

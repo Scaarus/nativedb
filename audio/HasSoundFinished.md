@@ -9,6 +9,5 @@ aliases: ["0xfcbdce714a7c88e5"]
 bool HAS_SOUND_FINISHED(int SoundId);
 ```
 
-```
 CHecks that a sound has finished playing.
-```
+

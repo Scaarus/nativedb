@@ -9,6 +9,5 @@ aliases: ["0x18c1270ea7f199bc"]
 bool GET_NO_LOADING_SCREEN();
 ```
 
-```
 Returns the last value passed to SET_NO_LOADING_SCREEN - I.e. this function will return TRUE if there is no loading screen.
-```
+

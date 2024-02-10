@@ -9,6 +9,5 @@ aliases: ["0x7e08924259e08ce0"]
 void SET_SEETHROUGH(bool onOff);
 ```
 
-```
 Turn see through effect on/off
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xd718a22995e2b4bc"]
 void SET_PED_DIES_IN_SINKING_VEHICLE(Ped ped, bool DrownsInSinkingVehFlag);
 ```
 
-```
 Sets whether a ped takes damage in a sinking vehicle
-```
+

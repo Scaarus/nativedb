@@ -9,11 +9,10 @@ aliases: ["0xc488ff2356ea7791"]
 int GET_PROFILE_SETTING(int setting);
 ```
 
-```
 Get game profile setting.
 
-Possible values for setting:
-| Index | Name |
+## setting Values:
+| Value | Name |
 | --- | --- |
 | 0 | PROFILE_ACTION_AUTO_AIM |
 | 1 | PROFILE_YAXIS_INVERSION |
@@ -112,4 +111,4 @@ Possible values for setting:
 | 953 | MP_CAMERA_ZOOM_IN_BOAT |
 | 954 | MP_CAMERA_ZOOM_IN_AIRCRAFT |
 | 955 | MP_CAMERA_ZOOM_IN_HELI |
-```
+

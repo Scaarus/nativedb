@@ -9,6 +9,5 @@ aliases: ["0x299faebb108ae05b"]
 void LOCK_MINIMAP_ANGLE(int iAngle);
 ```
 
-```
 locks the minimap rotation to a desired angle
-```
+

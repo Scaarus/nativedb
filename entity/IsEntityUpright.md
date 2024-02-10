@@ -9,6 +9,5 @@ aliases: ["0x5333f526f6ab19aa"]
 bool IS_ENTITY_UPRIGHT(Entity entity, float fAngleToVerticalLimit);
 ```
 
-```
 Checks if the entity is upright within a define angle limit.
-```
+

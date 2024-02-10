@@ -9,6 +9,5 @@ aliases: ["0x69c922b677621428"]
 void PLAYSTATS_CARCLUB_PRIZE(int missionName, int vehicle);
 ```
 
-```
 triggers after the player claims the prize car earned for completing the weekly challenge
-```
+

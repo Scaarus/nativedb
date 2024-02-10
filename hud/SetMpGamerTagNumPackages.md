@@ -9,6 +9,5 @@ aliases: ["0x9c16459b2324b2cf"]
 void SET_MP_GAMER_TAG_NUM_PACKAGES(int iPlayerNum, int iNumPackages);
 ```
 
-```
 sets the number of packages player has on the player head tag
-```
+

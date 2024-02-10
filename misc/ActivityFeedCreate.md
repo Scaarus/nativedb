@@ -9,8 +9,7 @@ aliases: ["0x4dcdf92bf64236cd"]
 void ACTIVITY_FEED_CREATE(string CaptionString, string CondensedCaptionString);
 ```
 
-```
 Creates and opens a new activity feed post to start filling in
 
 Creating a new post, will wipe any currently open posts
-```
+

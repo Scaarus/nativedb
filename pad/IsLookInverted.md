@@ -9,6 +9,5 @@ aliases: ["0x77b612531280010d"]
 bool IS_LOOK_INVERTED();
 ```
 
-```
 Checks if the gamepad look is inverted.
-```
+

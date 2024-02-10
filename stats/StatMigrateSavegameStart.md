@@ -9,6 +9,5 @@ aliases: ["0xa5c80d8e768a9e66"]
 bool STAT_MIGRATE_SAVEGAME_START();
 ```
 
-```
 Migrate savegames from previous generation console.
-```
+

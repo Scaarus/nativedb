@@ -9,6 +9,5 @@ aliases: ["0x6b24bfe83a2be47b"]
 bool IS_CAM_SHAKING(Camera camera);
 ```
 
-```
 Is the specified camera currently shaking?
-```
+

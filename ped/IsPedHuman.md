@@ -9,6 +9,5 @@ aliases: ["0xb980061da992779d"]
 bool IS_PED_HUMAN(Ped ped);
 ```
 
-```
 Checks if the ped is human.
-```
+

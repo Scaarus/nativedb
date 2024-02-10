@@ -9,6 +9,5 @@ aliases: ["0xdb90c6cca48940f1"]
 void SET_GAMEPLAY_CAM_ALTITUDE_FOV_SCALING_STATE(bool State);
 ```
 
-```
 Persistently controls whether or not the gameplay camera field of view will be scaled at high altitudes.
-```
+

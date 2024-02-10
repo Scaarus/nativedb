@@ -9,8 +9,7 @@ aliases: ["0x960c9ff8f616e41c"]
 void DISPLAY_HELP_TEXT_THIS_FRAME(string pTextLabel, bool CurvedWindow);
 ```
 
-```
 Displays the help text this frame
 
 Must be called every frame
-```
+

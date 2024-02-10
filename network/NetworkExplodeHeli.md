@@ -9,6 +9,5 @@ aliases: ["0x2a5e0621dd815a9a"]
 void NETWORK_EXPLODE_HELI(Vehicle vehicle, bool AddExplosion, bool KeepDamageEntity, Network network);
 ```
 
-```
 Makes a helicopter explode. This doesn't trigger the crash task on abandoned helis it just blows them up
-```
+

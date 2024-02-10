@@ -9,6 +9,5 @@ aliases: ["0x4b7620c47217126c"]
 bool IS_FLASH_LIGHT_ON(Ped ped);
 ```
 
-```
 If a ped's currently equipped weapon has a flash light that is on.
-```
+

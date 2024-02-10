@@ -9,6 +9,5 @@ aliases: ["0x9fedf86898f100e9"]
 bool UGC_IS_CREATING();
 ```
 
-```
 Query results of CREATE function
-```
+

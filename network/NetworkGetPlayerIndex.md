@@ -9,6 +9,5 @@ aliases: ["0x24fb80d107371267"]
 Player NETWORK_GET_PLAYER_INDEX(Participant participant);
 ```
 
-```
 Returns the player index from the given script participant index.
-```
+

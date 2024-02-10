@@ -9,6 +9,5 @@ aliases: ["0xf74b1ffa4a15fbea"]
 void SET_ALLOW_STREAM_HEIST_ISLAND_NODES(bool Allow);
 ```
 
-```
 Set to TRUE to allow heist island road nodes from being loaded, FALSE to disable
-```
+

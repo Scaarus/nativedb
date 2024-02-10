@@ -9,6 +9,5 @@ aliases: ["0x241fca5b1aa14f75"]
 bool ARE_ANY_CCS_PENDING();
 ```
 
-```
 States whether or not any content change sets are pending
-```
+

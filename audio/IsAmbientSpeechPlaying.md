@@ -9,6 +9,5 @@ aliases: ["0x9072c8b49907bfad"]
 bool IS_AMBIENT_SPEECH_PLAYING(Ped ped);
 ```
 
-```
 Checks if ambient speech is currently playing.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x4c9034162368e206"]
 int NETWORK_GET_GAME_MODE();
 ```
 
-```
 Returns the game mode.
-```
+

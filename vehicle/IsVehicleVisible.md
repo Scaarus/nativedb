@@ -9,6 +9,5 @@ aliases: ["0xaa0a52d24fb98293"]
 bool IS_VEHICLE_VISIBLE(Vehicle vehicle);
 ```
 
-```
 Request results of visibility tracking for a vehicle return TRUE if visibile, FALSE if not.
-```
+

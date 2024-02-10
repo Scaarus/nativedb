@@ -9,11 +9,10 @@ aliases: ["0x8c825bdc7741d37c"]
 void SET_HIGH_FALL_TASK(Ped ped, int nMinTime, int nMaxTime, int type);
 ```
 
-```
 Give the ped an NM HighFall task. This is good for falling anf rolling after hitting the ground if it's a slope
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | 0 | In Air |
 | 1 | Vault |
@@ -22,7 +21,7 @@ Possible values for type:
 | 4 | Teeter Edge |
 | 5 | Sprint Exhausted |
 | 6 | Stunt Jump |
-```
+
 
 ## Parameters
 * **ped**: 

@@ -9,11 +9,10 @@ aliases: ["0x613ed644950626ae"]
 void SET_MP_GAMER_TAG_COLOUR(int iPlayerNum, int iTag, int hudColour);
 ```
 
-```
 colourises parts of a players head tag
 
-Possible values for iTag:
-| Index | Name |
+## iTag Values:
+| Value | Name |
 | --- | --- |
 | 0 | Gamer Name |
 | 913 | Crew Tag |
@@ -47,8 +46,8 @@ Possible values for iTag:
 | 941 | Bomb |
 
 
-Possible values for hudColour:
-| Index | Name |
+## hudColour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -285,4 +284,4 @@ Possible values for hudColour:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

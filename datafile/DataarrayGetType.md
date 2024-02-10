@@ -9,11 +9,10 @@ aliases: ["0x3a0014adb172a3c5"]
 datafile_type DATAARRAY_GET_TYPE(Any* arr, int index);
 ```
 
-```
 Gets the type of value stored a the specified index in an array
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Bool |
@@ -23,7 +22,7 @@ Possible return values:
 | 5 | Vec3 |
 | 6 | Dict |
 | 7 | Array |
-```
+
 
 ## Parameters
 * **arr**: The array

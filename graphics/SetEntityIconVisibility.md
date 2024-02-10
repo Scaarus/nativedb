@@ -9,6 +9,5 @@ aliases: ["0xe0e8beecca96ba31"]
 void SET_ENTITY_ICON_VISIBILITY(Entity entity, bool visible);
 ```
 
-```
 Enables/disables the existing Icon (visible by default)
-```
+

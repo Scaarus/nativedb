@@ -9,11 +9,10 @@ aliases: ["0xb3cd51e3db86f176"]
 Entity GET_OWNER_OF_EXPLOSION_IN_SPHERE(int ExplosionTag, Vector3 CentrePos, float Radius);
 ```
 
-```
 Gets the owner of an explosion in a sphere.
 
-Possible values for ExplosionTag:
-| Index | Name |
+## ExplosionTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Dontcare |
 | 0 | Grenade |
@@ -100,4 +99,4 @@ Possible values for ExplosionTag:
 | 81 | Script Missile Large |
 | 82 | Submarine Big |
 | 83 | Emplauncher Emp |
-```
+

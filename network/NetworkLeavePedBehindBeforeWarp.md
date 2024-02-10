@@ -9,9 +9,8 @@ aliases: ["0x9769f811d1785b03"]
 void NETWORK_LEAVE_PED_BEHIND_BEFORE_WARP(Player player, Vector3 NewPosition, bool killPed, bool keepPickups);
 ```
 
-```
 Leave an AI ped behind in place of the player when they are being warped to a new location
-```
+
 
 ## Parameters
 * **player**: 

@@ -9,6 +9,5 @@ aliases: ["0x9541d3cf0d398f36"]
 Object CREATE_WEAPON_OBJECT(Hash weaponHash, int AmountOfAmmo, Vector3 NewPosition, bool CreateDefaultComponents, float Scale, Hash modelHash, bool RegisterAsNetworkObject, bool ScriptHostObject);
 ```
 
-```
 Create weapon object not attached to ped
-```
+

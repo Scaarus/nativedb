@@ -9,6 +9,5 @@ aliases: ["0x2d05ced3a38d0f3a"]
 void EXPLODE_PED_HEAD(Ped ped, Hash weaponHash);
 ```
 
-```
 Appllies a sniper rifle damage to the ped.
-```
+

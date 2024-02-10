@@ -9,6 +9,5 @@ aliases: ["0x6f72cd94f7b5b68c"]
 bool IS_ONLINE_POLICIES_MENU_ACTIVE();
 ```
 
-```
 Returns if the online policies menu is open.
-```
+

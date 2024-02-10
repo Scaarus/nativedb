@@ -9,6 +9,5 @@ aliases: ["0x91b87c55093de351"]
 bool NETWORK_HAS_ROS_PRIVILEGE_SPECIAL_EDITION_CONTENT();
 ```
 
-```
 Returns true if the ROS privilege RLROS_PRIVILEGEID_UNLOCK_SPECIAL_EDITION is granted.
-```
+

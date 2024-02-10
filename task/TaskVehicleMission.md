@@ -9,11 +9,10 @@ aliases: ["0x659427e0ef36bcde"]
 void TASK_VEHICLE_MISSION(Vehicle vehicle, Vehicle vehicle, int Mission, float CruiseSpeed, int mode, float TargetReachedDist, float StraightLineDist, bool DriveAgainstTraffic);
 ```
 
-```
 Tells a ped to perform a task when in a vehicle against another vehicle.
 
-Possible values for Mission:
-| Index | Name |
+## Mission Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Cruise 1 |
@@ -41,8 +40,8 @@ Possible values for Mission:
 | 23 | Protect 23 |
 
 
-Possible values for mode:
-| Index | Name |
+## mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -79,7 +78,7 @@ Possible values for mode:
 
 
 INT
-```
+
 
 ## Parameters
 * **vehicle**: 

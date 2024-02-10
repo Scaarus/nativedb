@@ -9,6 +9,5 @@ aliases: ["0x658500ae6d723a7e"]
 void SET_GHOST_ALPHA(int alphavalue);
 ```
 
-```
 Sets the alpha used for ghosting. This will be reset when the calling script shuts down. You must call this with a value greater than 0 and less than 256.
-```
+

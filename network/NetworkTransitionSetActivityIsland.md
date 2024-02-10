@@ -9,9 +9,8 @@ aliases: ["0xf6f4383b7c92f11a"]
 void NETWORK_TRANSITION_SET_ACTIVITY_ISLAND(int nActivityIsland);
 ```
 
-```
-Possible values for nActivityIsland:
-| Index | Name |
+## nActivityIsland Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | General |
@@ -19,4 +18,4 @@ Possible values for nActivityIsland:
 | 233 | Playlist |
 | 234 | Event |
 | 235 | Tournament |
-```
+

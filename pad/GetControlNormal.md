@@ -9,19 +9,18 @@ aliases: ["0xec3c9b8d5327b563"]
 float GET_CONTROL_NORMAL(int control, int action);
 ```
 
-```
 Return controller value related to an action (range between -1 to +1)
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
 
 
-Possible values for action:
-| Index | Name |
+## action Values:
+| Value | Name |
 | --- | --- |
 | 0 | INPUT_NEXT_CAMERA |
 | 3 | INPUT_LOOK_LR |
@@ -387,4 +386,4 @@ Possible values for action:
 | 363 | INPUT_EAT_SNACK |
 | 364 | INPUT_USE_ARMOR |
 | 365 | MAX_INPUTS |
-```
+

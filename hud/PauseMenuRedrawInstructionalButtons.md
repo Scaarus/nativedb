@@ -9,9 +9,8 @@ aliases: ["0x4895bdea16e7c080"]
 void PAUSE_MENU_REDRAW_INSTRUCTIONAL_BUTTONS(int iUniqueId);
 ```
 
-```
 Redraws the currently active menus instructional buttons. Useful if you've adjusted contexts
-```
+
 
 ## Parameters
 * **iUniqueId**: (Mostly for futureproofing) if you need to override which index it thinks is active

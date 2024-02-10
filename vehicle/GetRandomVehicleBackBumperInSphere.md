@@ -9,6 +9,5 @@ aliases: ["0xb50807eabe20a8dc"]
 Vehicle GET_RANDOM_VEHICLE_BACK_BUMPER_IN_SPHERE(Vector3 CentrePosition, float Radius, Hash modelHash, int SearchFlags, Vehicle vehicle);
 ```
 
-```
 Gets a random vehicle in from the back bumber of a vehicle
-```
+

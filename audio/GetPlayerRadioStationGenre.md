@@ -9,6 +9,5 @@ aliases: ["0xa571991a7fe6cceb"]
 int GET_PLAYER_RADIO_STATION_GENRE();
 ```
 
-```
 Returns the genre of the players current radio station
-```
+

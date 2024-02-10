@@ -9,6 +9,5 @@ aliases: ["0x2f7ceb6520288061"]
 void SET_PLAYER_SPECTATED_VEHICLE_RADIO_OVERRIDE(bool Override);
 ```
 
-```
 Sets the player override for using the local radio when spectating another player in a vehicle. Resetting will engage the spectated players vehicle.
-```
+

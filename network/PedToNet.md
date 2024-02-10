@@ -9,6 +9,5 @@ aliases: ["0x0edec3c276198689"]
 Network PED_TO_NET(Ped ped);
 ```
 
-```
 get net id for ped
-```
+

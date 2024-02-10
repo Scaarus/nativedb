@@ -9,6 +9,5 @@ aliases: ["0x9eefb62eb27b5792"]
 void REQUEST_WAYPOINT_RECORDING(string RecordingName);
 ```
 
-```
 Requests the named recording from the streaming system
-```
+

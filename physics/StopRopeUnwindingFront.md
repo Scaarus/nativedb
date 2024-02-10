@@ -9,6 +9,5 @@ aliases: ["0xfff3a50779efbbb3"]
 void STOP_ROPE_UNWINDING_FRONT();
 ```
 
-```
 Stop rope unwinding from front
-```
+

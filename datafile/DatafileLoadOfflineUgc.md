@@ -9,9 +9,8 @@ aliases: ["0xc5238c011af405e4"]
 bool DATAFILE_LOAD_OFFLINE_UGC(string szContentID, int datafileIndex);
 ```
 
-```
 Loads a file from local storage.
-```
+
 
 ## Parameters
 * **szContentID**: 

@@ -9,6 +9,5 @@ aliases: ["0x4f930ad022d6de3b"]
 float GET_VEHICLE_CLASS_MAX_AGILITY(int vehicleClass);
 ```
 
-```
 Get the max agility for this vehicle class
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x4e20d2a627011e8e"]
 bool SET_VEHICLE_DAMAGE_SCALE(float DamageScale);
 ```
 
-```
 Scales the amount of damage applied to the vehicle
-```
+

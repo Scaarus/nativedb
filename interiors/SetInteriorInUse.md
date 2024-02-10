@@ -9,6 +9,5 @@ aliases: ["0x4c2330e61d3deb56"]
 bool SET_INTERIOR_IN_USE();
 ```
 
-```
 Marks an interior as in use and forces it to flush the retained list
-```
+

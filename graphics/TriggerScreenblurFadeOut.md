@@ -9,6 +9,5 @@ aliases: ["0xefacc8aef94430d5"]
 bool TRIGGER_SCREENBLUR_FADE_OUT(float Duration);
 ```
 
-```
 Fades out the blurred screen to its previous state; Duration is in milliseconds
-```
+

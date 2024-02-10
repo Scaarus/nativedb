@@ -9,6 +9,5 @@ aliases: ["0xd2dccd8e16e20997"]
 void RESET_VEHICLE_STARTUP_REV_SOUND(Vehicle vehicle);
 ```
 
-```
 Set the startup rev sound that this vehicle should use
-```
+

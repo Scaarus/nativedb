@@ -9,6 +9,5 @@ aliases: ["0x59d421683d31835a"]
 void NETWORK_SESSION_SET_NUM_BOSSES(int nNumBosses);
 ```
 
-```
 Sets the number of bosses in a session. Must be maintained.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5006d96c995a5827"]
 void EXTEND_WORLD_BOUNDARY_FOR_PLAYER(Vector3 Position);
 ```
 
-```
 Extend the world boundary to include the given coordinate
-```
+

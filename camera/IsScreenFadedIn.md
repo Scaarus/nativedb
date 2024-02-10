@@ -9,6 +9,5 @@ aliases: ["0x5a859503b0c08678"]
 bool IS_SCREEN_FADED_IN();
 ```
 
-```
 Has the screen faded in.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x9b5a68c6489e9909"]
 void STAT_INCREMENT(int Hash, float value);
 ```
 
-```
 Increments the stat with the new value and display's a message.
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x7a86743f475d9e09"]
 void REQUEST_CUTSCENE(string pCutName, int PlaybackFlags);
 ```
 
-```
 Requests a cutscene: animations, models, audio etc.
 
-Possible values for PlaybackFlags:
-| Index | Name |
+## PlaybackFlags Values:
+| Value | Name |
 | --- | --- |
 | 1 | Requested From Widget |
 | 2 | Requested Directly From Skip |
@@ -23,4 +22,4 @@ Possible values for PlaybackFlags:
 
 
 Should be used for cutscenes that have no fades e.g. a seamless scene
-```
+

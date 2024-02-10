@@ -9,6 +9,5 @@ aliases: ["0x5ead2bf6484852e4"]
 bool GET_PLAYER_HAS_DRIVEN_ALL_VEHICLES();
 ```
 
-```
 Returns TRUE if the player has driven all vehicles.
-```
+

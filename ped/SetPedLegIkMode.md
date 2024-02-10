@@ -9,11 +9,10 @@ aliases: ["0xc396f5b86ff9febd"]
 void SET_PED_LEG_IK_MODE(Ped ped, int nLegIkMode);
 ```
 
-```
 Sets the allowed IK mode for a ped.
 
-Possible values for nLegIkMode:
-| Index | Name |
+## nLegIkMode Values:
+| Value | Name |
 | --- | --- |
 | 0 | Off |
 | 173 | Partial Default For Non-Player Peds. Ground Position At Feet Is Inferred From Standing Capsule |
@@ -22,4 +21,4 @@ Possible values for nLegIkMode:
 
 
 The default mode for non-player peds is LEG_IK_PARTIAL.
-```
+

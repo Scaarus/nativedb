@@ -9,6 +9,5 @@ aliases: ["0x68edda28a5976d07"]
 bool IS_AIM_CAM_ACTIVE();
 ```
 
-```
 Returns true if an aim camera is active.
-```
+

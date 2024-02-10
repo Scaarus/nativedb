@@ -9,9 +9,8 @@ aliases: ["0x71eab450d86954a1"]
 ped_decorations_state GET_PED_DECORATIONS_STATE(Ped ped);
 ```
 
-```
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | In Progress |
 | 252 | No Decorations |
@@ -19,4 +18,4 @@ Possible return values:
 
 
 Get the state of decorations (tattoosdecals) on a ped, if any
-```
+

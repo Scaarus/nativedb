@@ -9,11 +9,10 @@ aliases: ["0xf7f203e31f96f6a1"]
 bool IS_SEAT_WARP_ONLY(Vehicle vehicle, int seat);
 ```
 
-```
 Returns if the seat is only accessible by warping
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -26,4 +25,4 @@ Possible values for seat:
 | 40 | Extra Right 2 |
 | 41 | Extra Left 3 |
 | 42 | Extra Right 3 |
-```
+

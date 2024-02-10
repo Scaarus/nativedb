@@ -9,6 +9,5 @@ aliases: ["0x35736ee65bd00c11"]
 Vector3 GET_TEXTURE_RESOLUTION(string pTextureDictionaryName, string pTextureName);
 ```
 
-```
 returns the resolution of a texture
-```
+

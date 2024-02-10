@@ -9,6 +9,5 @@ aliases: ["0x2d34fc3bc4adb780"]
 bool ARE_ANY_VEHICLE_SEATS_FREE(Vehicle vehicle);
 ```
 
-```
 Returns true if there is at least one free seat in the vehicle, false otherwise.
-```
+

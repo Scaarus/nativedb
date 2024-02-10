@@ -9,6 +9,5 @@ aliases: ["0x0c15b0e443b2349d"]
 float GET_LODSCALE();
 ```
 
-```
 returns current global LOD scale
-```
+

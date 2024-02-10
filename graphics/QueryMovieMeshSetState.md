@@ -9,15 +9,14 @@ aliases: ["0x9b6e70c5ceef4eeb"]
 moviemeshsetstate QUERY_MOVIE_MESH_SET_STATE(int id);
 ```
 
-```
 Queries the state of a mesh set
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Failed |
 | 0 | Pending Load |
 | 1 | Loaded |
 | 2 | Ready |
 | 3 | Pending Delete |
-```
+

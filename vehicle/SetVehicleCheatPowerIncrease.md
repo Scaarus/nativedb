@@ -9,6 +9,5 @@ aliases: ["0xb59e4bd37ae292db"]
 void SET_VEHICLE_CHEAT_POWER_INCREASE(Vehicle vehicle, float Increase);
 ```
 
-```
 Please dont use this before speaking to Phil H
-```
+

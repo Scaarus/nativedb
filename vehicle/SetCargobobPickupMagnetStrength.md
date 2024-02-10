@@ -9,6 +9,5 @@ aliases: ["0xbcbfcd9d1dac19e2"]
 void SET_CARGOBOB_PICKUP_MAGNET_STRENGTH(Vehicle vehicle, float magnetStrength);
 ```
 
-```
 Set the overall strength of the magnet force that is applied to the entity that is being picked up.
-```
+

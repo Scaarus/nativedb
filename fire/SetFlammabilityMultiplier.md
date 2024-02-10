@@ -9,6 +9,5 @@ aliases: ["0x8f390ac4155099ba"]
 void SET_FLAMMABILITY_MULTIPLIER(float multiplier);
 ```
 
-```
 Scales the flammability of every fire
-```
+

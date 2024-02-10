@@ -9,6 +9,5 @@ aliases: ["0x054354a99211eb96"]
 bool NETWORK_IS_SIGNED_IN();
 ```
 
-```
 Returns TRUE if the local player is signed into a profile.
-```
+

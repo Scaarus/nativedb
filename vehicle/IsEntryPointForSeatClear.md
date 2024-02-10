@@ -9,9 +9,8 @@ aliases: ["0x639431e895b9aa57"]
 bool IS_ENTRY_POINT_FOR_SEAT_CLEAR(Ped ped, Vehicle vehicle, int Seat, bool CheckSide, bool LeftSide);
 ```
 
-```
-Possible values for Seat:
-| Index | Name |
+## Seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -27,7 +26,7 @@ Possible values for Seat:
 
 
 Command to check if the direct access entry point for a seat is clear (ped can enterexit). This is quite expensive, So don't call it too often!
-```
+
 
 ## Parameters
 * **ped**: 

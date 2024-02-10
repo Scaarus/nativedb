@@ -9,15 +9,14 @@ aliases: ["0x79cfd9827cc979b6"]
 ped_parachute_state GET_PED_PARACHUTE_STATE(Ped ped);
 ```
 
-```
 Gets the current state of the Parachuting Ped (returns PPS_INVALID if the Ped isn't Parachuting).
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Skydiving |
 | 1 | Deploying |
 | 2 | Parachuting |
 | 3 | Landing |
-```
+

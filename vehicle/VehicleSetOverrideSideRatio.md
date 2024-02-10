@@ -9,6 +9,5 @@ aliases: ["0xd3e51c0ab8c26eee"]
 int VEHICLE_SET_OVERRIDE_SIDE_RATIO(float TargetRatio);
 ```
 
-```
 sets the extendable sides instantly, make sure there is room before calling this
-```
+

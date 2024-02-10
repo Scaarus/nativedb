@@ -9,9 +9,8 @@ aliases: ["0x4c815eb175086f84"]
 bool SET_PLANE_PROPELLER_HEALTH(Vehicle vehicle, float health);
 ```
 
-```
 Sets the health of the propellers on a plane
-```
+
 
 ## Parameters
 * **vehicle**: 

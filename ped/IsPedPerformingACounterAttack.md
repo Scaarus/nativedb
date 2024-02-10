@@ -9,6 +9,5 @@ aliases: ["0xebd0edba5be957cf"]
 bool IS_PED_PERFORMING_A_COUNTER_ATTACK(Ped ped);
 ```
 
-```
 Whether or not the designated ped is currently performing a counter attack.
-```
+

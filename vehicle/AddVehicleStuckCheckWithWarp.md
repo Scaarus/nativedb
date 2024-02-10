@@ -9,11 +9,10 @@ aliases: ["0x2fa9923062dd396c"]
 void ADD_VEHICLE_STUCK_CHECK_WITH_WARP(Vehicle vehicle, float MinimumMoveDistance, int CheckFrequency, bool WarpIfStuckFlag, bool WarpIfUpsideDownFlag, bool WarpIfInWaterFlag, int WarpMethod);
 ```
 
-```
 Will attempt to warp a vehicle out of a stuck or upsidedown or in water position.
 
 This command is similar to the basic ADD_STUCK_CAR_CHECK except that the game will attempt to warp the car as soon as it becomes stuck. The three flags are used to control whether the car is warped if it has become stuck, as soon as it is upside-down or as soon as it is in water.
-```
+
 
 ## Parameters
 * **vehicle**: 

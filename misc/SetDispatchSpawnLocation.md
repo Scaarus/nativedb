@@ -9,6 +9,5 @@ aliases: ["0xd10f442036302d50"]
 void SET_DISPATCH_SPAWN_LOCATION(Vector3 vLocation);
 ```
 
-```
 Sets the spawn location for the dispatch services.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x71302ec70689052a"]
 bool NETWORK_IS_ENTITY_CONCEALED(Entity entity);
 ```
 
-```
 Returns the concealed status for the specified entity.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5c9b84bd7d31d908"]
 void SET_DRIVE_TASK_CRUISE_SPEED(float CruiseSpeed);
 ```
 
-```
 Sets the drive tasks cruise speed.
-```
+

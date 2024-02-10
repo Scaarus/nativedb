@@ -9,11 +9,10 @@ aliases: ["0x965791a9a488a062"]
 void TASK_OPEN_VEHICLE_DOOR(Vehicle vehicle, int Time, int seat, float MoveBlendRatio);
 ```
 
-```
 Tells a ped to open a vehicle door.
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -29,4 +28,4 @@ Possible values for seat:
 
 
 If Time = -1 the ped will never warp to the vehicle.
-```
+

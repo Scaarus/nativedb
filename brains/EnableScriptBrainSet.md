@@ -9,7 +9,6 @@ aliases: ["0x67aa4d73f0cfa86b"]
 void ENABLE_SCRIPT_BRAIN_SET();
 ```
 
-```
 Enable all the script brains with the specified set id.
 set should be a power of 2 (1, 2, 4, 8, 16, 32, ...)
-```
+

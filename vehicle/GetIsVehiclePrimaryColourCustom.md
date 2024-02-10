@@ -9,6 +9,5 @@ aliases: ["0xf095c0405307b21b"]
 bool GET_IS_VEHICLE_PRIMARY_COLOUR_CUSTOM(Vehicle vehicle);
 ```
 
-```
 Returns true if the current primary color on the specified vehicle is custom, false otherwise
-```
+

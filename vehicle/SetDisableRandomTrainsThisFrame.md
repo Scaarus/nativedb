@@ -9,6 +9,5 @@ aliases: ["0xd4b8e3d1917bc86b"]
 void SET_DISABLE_RANDOM_TRAINS_THIS_FRAME(bool Val);
 ```
 
-```
 Set whether random train creation is allowed this frame
-```
+

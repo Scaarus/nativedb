@@ -9,6 +9,5 @@ aliases: ["0x4a04de7cab2739a1"]
 void SET_VEHICLE_BOOST_ACTIVE(Vehicle vehicle, bool active);
 ```
 
-```
 Trigger the vehicle boost effect
-```
+

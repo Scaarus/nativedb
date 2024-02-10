@@ -9,6 +9,5 @@ aliases: ["0xaa51db313c010a7e"]
 void SET_BLIP_FLASH_INTERVAL(Blip blip, int timeInMilliseconds);
 ```
 
-```
 the duration between each flash
-```
+

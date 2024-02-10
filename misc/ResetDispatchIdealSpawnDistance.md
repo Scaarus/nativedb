@@ -9,6 +9,5 @@ aliases: ["0x77a84429dd9f0a15"]
 void RESET_DISPATCH_IDEAL_SPAWN_DISTANCE();
 ```
 
-```
 Resets the ideal spawn distance for the dispatch services.
-```
+

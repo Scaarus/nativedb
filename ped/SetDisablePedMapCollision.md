@@ -9,6 +9,5 @@ aliases: ["0xdfe68c4b787e1bfb"]
 void SET_DISABLE_PED_MAP_COLLISION(Ped ped);
 ```
 
-```
 Disables collision between the ped and the map
-```
+

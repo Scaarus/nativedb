@@ -9,6 +9,5 @@ aliases: ["0x25367de49d64cf16"]
 void SET_DISABLE_PRETEND_OCCUPANTS(Vehicle vehicle, bool Val);
 ```
 
-```
 Disables a vehicle pretend occupants, Ped inside will not be removed and always rendered.
-```
+

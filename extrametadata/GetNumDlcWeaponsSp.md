@@ -9,6 +9,5 @@ aliases: ["0x4160b65ae085b5a9"]
 int GET_NUM_DLC_WEAPONS_SP();
 ```
 
-```
 Returns number of available DLC weapons in SP
-```
+

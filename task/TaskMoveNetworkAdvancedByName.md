@@ -9,11 +9,10 @@ aliases: ["0xd5b35bea41919acb"]
 void TASK_MOVE_NETWORK_ADVANCED_BY_NAME(Ped ped, string network, Vector3 vStartPos, Vector3 vStartRot, int RotOrder, float blendDuration, bool AllowOverrideCloneUpdate, string animDictionary, int flags);
 ```
 
-```
 Task to start a move network of the type passed with custom start pos and orientation When bAllowOverrideCloneUpdate is used in MP the remotely cloned ped will not update in sync with commands sent locally and it is expected that the remote machine will override the update of the clones task signals.
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -24,8 +23,8 @@ Possible values for RotOrder:
 | 6 | Max |
 
 
-Possible values for flags:
-| Index | Name |
+## flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 4 | Use Kinematic Physics |
@@ -35,4 +34,4 @@ Possible values for flags:
 
 
 "animDictionary" In network games you may need to inform the move task of the required dictionary so it can be synced and remote players can manage clones and know when the dictionary is ready e.g. arm wrestling
-```
+

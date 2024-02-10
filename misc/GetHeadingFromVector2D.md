@@ -9,6 +9,5 @@ aliases: ["0x2ffb6b224f4b2926"]
 float GET_HEADING_FROM_VECTOR_2D(float X, float Y);
 ```
 
-```
 Gets a heading in degrees between teh x and y vector components.
-```
+

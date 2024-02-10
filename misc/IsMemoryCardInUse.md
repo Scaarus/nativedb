@@ -9,6 +9,5 @@ aliases: ["0x8a75ce2956274add"]
 bool IS_MEMORY_CARD_IN_USE();
 ```
 
-```
 CHeks if a memory card is in use.
-```
+

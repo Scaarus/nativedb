@@ -9,9 +9,8 @@ aliases: ["0x202a5ed9ce01d6e7"]
 void HARD_ATTACH_CAM_TO_ENTITY(Camera camera, Entity entity, Vector3 vecRotationOffset, Vector3 vecPositionOffset, bool OffsetIsRelative);
 ```
 
-```
 Attaches a camera to an entity's full matrix.
-```
+
 
 ## Parameters
 * **camera**: 

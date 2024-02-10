@@ -9,6 +9,5 @@ aliases: ["0x5e6cc07646bbeab8"]
 void DISABLE_PLAYER_FIRING(Player player, bool disable);
 ```
 
-```
 Disables the player from firing
-```
+

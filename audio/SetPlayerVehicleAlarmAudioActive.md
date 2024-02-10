@@ -9,6 +9,5 @@ aliases: ["0x6fddad856e36988a"]
 void SET_PLAYER_VEHICLE_ALARM_AUDIO_ACTIVE(Vehicle vehicle, bool active);
 ```
 
-```
 Enable player vehicle specific alarm disarm/arm sound triggering
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x54f157e0336a3822"]
 void SET_TENNIS_MOVE_NETWORK_SIGNAL_FLOAT(Ped ped, string signalName, float fSignal);
 ```
 
-```
 Sets the tennis MoVE signal to the passed value
-```
+

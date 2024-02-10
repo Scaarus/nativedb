@@ -9,9 +9,8 @@ aliases: ["0x17ad8c9706bdd88a"]
 void THEFEED_SET_FLASH_DURATION_PARAMETER_FOR_NEXT_MESSAGE(int iFlashDuration);
 ```
 
-```
 Sets flash duration for "Important" feed types
-```
+
 
 ## Parameters
 * **iFlashDuration**: Flash duration

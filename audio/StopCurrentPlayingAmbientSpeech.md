@@ -9,6 +9,5 @@ aliases: ["0xb8bec0ca6f0edb0f"]
 void STOP_CURRENT_PLAYING_AMBIENT_SPEECH(Ped ped);
 ```
 
-```
 Stops curretly playing ambient speech.
-```
+

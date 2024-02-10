@@ -9,6 +9,5 @@ aliases: ["0x92f0cf722bc4202f"]
 void SET_VEHICLE_HAS_STRONG_AXLES(Vehicle vehicle, bool Set);
 ```
 
-```
 Sets so that axles dont break easily
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x1280804f7cfd2d6c"]
 void CLEAR_PED_PARACHUTE_PACK_VARIATION(Ped ped);
 ```
 
-```
 Clears the parachute pack variation
-```
+

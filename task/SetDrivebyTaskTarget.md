@@ -9,6 +9,5 @@ aliases: ["0xe5b302114d8162ee"]
 void SET_DRIVEBY_TASK_TARGET(Ped ped, Vehicle vehicle, Vector3 Position);
 ```
 
-```
 Used to update a drive by task target (instead of constantly clearing and creating a new task)
-```
+

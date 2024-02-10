@@ -9,11 +9,10 @@ aliases: ["0x218297bf0cfd853b"]
 Ped GET_PED_USING_VEHICLE_DOOR(Vehicle vehicle, int DoorNumber);
 ```
 
-```
 Gets the ped that current holds a door reservation for the requested vehicle door
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -25,4 +24,4 @@ Possible values for DoorNumber:
 
 
 SC_DOOR_LIST is in commands_vehicle.sch
-```
+

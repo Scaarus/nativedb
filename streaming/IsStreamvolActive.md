@@ -9,6 +9,5 @@ aliases: ["0xbc9823ab80a3dcac"]
 bool IS_STREAMVOL_ACTIVE();
 ```
 
-```
 Returns true if there is some currently active streaming volume
-```
+

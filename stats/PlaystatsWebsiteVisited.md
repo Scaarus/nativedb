@@ -9,6 +9,5 @@ aliases: ["0xddf24d535060f811"]
 void PLAYSTATS_WEBSITE_VISITED(int siteId, int timeSpent);
 ```
 
-```
 Metric set when a website is visited
-```
+

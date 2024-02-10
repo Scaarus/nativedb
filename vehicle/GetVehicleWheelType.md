@@ -9,11 +9,10 @@ aliases: ["0xb3ed1bfb4be636dc"]
 mod_wheel_type GET_VEHICLE_WHEEL_TYPE(Vehicle vehicle);
 ```
 
-```
 Returns the type of the wheel pack set on this vehicle type
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Sport |
@@ -29,4 +28,4 @@ Possible return values:
 | 274 | Supermod3 |
 | 275 | Supermod4 |
 | 276 | Supermod5 |
-```
+

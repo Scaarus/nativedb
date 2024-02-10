@@ -9,6 +9,5 @@ aliases: ["0xe301bd63e9e13cf0"]
 void SET_CARGOBOB_PICKUP_MAGNET_SET_TARGETED_MODE(Vehicle vehicle, Entity entity);
 ```
 
-```
 Set the magnet to only affect the given entity.
-```
+

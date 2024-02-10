@@ -9,6 +9,5 @@ aliases: ["0x99015ed7dbea5113"]
 bool DOES_VEHICLE_HAVE_SEARCHLIGHT(Vehicle vehicle);
 ```
 
-```
 Returns the number of mod kits available for the specified vehicle type
-```
+

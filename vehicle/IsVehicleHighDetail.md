@@ -9,8 +9,7 @@ aliases: ["0x1f25887f3c104278"]
 bool IS_VEHICLE_HIGH_DETAIL(Vehicle vehicle);
 ```
 
-```
 Returns true when the high detail model is in memory and ready to be rendered
 
 Used primarily for cut scenes
-```
+

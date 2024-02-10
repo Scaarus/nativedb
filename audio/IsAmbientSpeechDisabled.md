@@ -9,6 +9,5 @@ aliases: ["0x932c2d096a2c3fff"]
 bool IS_AMBIENT_SPEECH_DISABLED(Ped ped);
 ```
 
-```
 Checks if ambient speech for ped has been disabled.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x3b963160cd65d41e"]
 int GET_NUMBER_OF_VEHICLE_COLOURS(Vehicle vehicle);
 ```
 
-```
 Gets the number of vehicle colours
-```
+

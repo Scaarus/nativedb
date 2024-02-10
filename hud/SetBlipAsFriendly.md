@@ -9,6 +9,5 @@ aliases: ["0x6f6f290102c02ab4"]
 void SET_BLIP_AS_FRIENDLY(Blip blip, bool Friendly);
 ```
 
-```
 Set blip as a friendly or threat
-```
+

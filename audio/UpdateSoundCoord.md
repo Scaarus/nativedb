@@ -9,6 +9,5 @@ aliases: ["0x7ec3c679d0e7e46b"]
 void UPDATE_SOUND_COORD(int SoundId, Vector3 position);
 ```
 
-```
 Updates a playing sounds absolute position.
-```
+

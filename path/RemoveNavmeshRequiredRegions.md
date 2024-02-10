@@ -9,8 +9,7 @@ aliases: ["0x916f0a3cdec3445e"]
 void REMOVE_NAVMESH_REQUIRED_REGIONS();
 ```
 
-```
 One a single region may be defined globally
 
 Removes the navmesh required region
-```
+

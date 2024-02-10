@@ -9,6 +9,5 @@ aliases: ["0xc265df9fb44a9fbd"]
 bool IS_ANIMAL_VOCALIZATION_PLAYING(Ped ped);
 ```
 
-```
 Checks if animal sound is currently playing.
-```
+

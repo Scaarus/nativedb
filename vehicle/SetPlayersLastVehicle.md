@@ -9,6 +9,5 @@ aliases: ["0xbcdf8baf56c87b6a"]
 void SET_PLAYERS_LAST_VEHICLE(Vehicle vehicle);
 ```
 
-```
 Registers the players vehicle as interesting
-```
+

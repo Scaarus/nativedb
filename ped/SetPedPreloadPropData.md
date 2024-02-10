@@ -9,11 +9,10 @@ aliases: ["0x2b16a3bff1fbce49"]
 int SET_PED_PRELOAD_PROP_DATA(Ped ped, int Anchor, int PropId, int TexId);
 ```
 
-```
 Sets a ped prop to preload into memory, without applying it on the ped
 
-Possible values for Anchor:
-| Index | Name |
+## Anchor Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 131 | Eyes |
@@ -24,4 +23,4 @@ Possible values for Anchor:
 | 136 | Left Wrist |
 | 137 | Right Wrist |
 | 138 | Hip |
-```
+

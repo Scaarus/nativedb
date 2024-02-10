@@ -9,6 +9,5 @@ aliases: ["0x711327cd09c8f162"]
 int GET_NEXT_WEATHER_TYPE_HASH_NAME();
 ```
 
-```
 Gets the hash name of the next weather type (the one we are currently interpolating towards)
-```
+

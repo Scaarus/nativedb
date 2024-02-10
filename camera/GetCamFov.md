@@ -9,6 +9,5 @@ aliases: ["0xc3330a45cccdb26a"]
 float GET_CAM_FOV(Camera camera);
 ```
 
-```
 Get the camera's field of view (in degrees.)
-```
+

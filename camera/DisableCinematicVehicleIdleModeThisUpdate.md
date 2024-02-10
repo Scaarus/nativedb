@@ -9,6 +9,5 @@ aliases: ["0x62ecfcfdee7885d6"]
 void DISABLE_CINEMATIC_VEHICLE_IDLE_MODE_THIS_UPDATE();
 ```
 
-```
 Disables the cinematic vehicle idle mode for this update only.
-```
+

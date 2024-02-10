@@ -9,9 +9,8 @@ aliases: ["0x7bbb1b54583ed410"]
 bool STAT_SET_MASKED_INT(int Hash, int data, int offSet, int numberOfBits, bool coderAssert);
 ```
 
-```
 Set masked element of a stat.
-```
+
 
 ## Parameters
 * **Hash**: 

@@ -9,6 +9,5 @@ aliases: ["0x8214a4b5a7a33612"]
 Vector3 GET_CGOFFSET();
 ```
 
-```
 get center of gravity offset
-```
+

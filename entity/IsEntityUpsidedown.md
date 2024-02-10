@@ -9,6 +9,5 @@ aliases: ["0x1dbd58820fa61d71"]
 bool IS_ENTITY_UPSIDEDOWN(Entity entity);
 ```
 
-```
 Checks if the entity is upsidedown
-```
+

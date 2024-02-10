@@ -9,6 +9,5 @@ aliases: ["0x5746f3a7ab7fe544"]
 float GET_TIME_POSITION_IN_RECORDING(Vehicle vehicle);
 ```
 
-```
 Gets the time position of the recording
-```
+

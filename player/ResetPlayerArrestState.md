@@ -9,6 +9,5 @@ aliases: ["0x2d03e13c460760d6"]
 void RESET_PLAYER_ARREST_STATE();
 ```
 
-```
 Reset arrest state if we want to go back to the playing state.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x1837af7c627009ba"]
 void SET_VEHICLE_FRICTION_OVERRIDE(Vehicle vehicle, float frictionOverride);
 ```
 
-```
 Override the chassis collision friction, -1.0f to use normal contact friction. Resets every frame.
-```
+

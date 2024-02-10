@@ -9,9 +9,8 @@ aliases: ["0xdb34e8d56fc13b08"]
 void START_GPS_CUSTOM_ROUTE(int Colour, bool OnFoot, bool InVehicle);
 ```
 
-```
-Possible values for Colour:
-| Index | Name |
+## Colour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -253,4 +252,4 @@ Possible values for Colour:
 colour is the same as specified for the race-track commands
 
 This command will start a custom GPS route, clearing any previous custom route or race track. Note that useage of custom route & race-track are mutually exclusive - you cannot use both at same time.
-```
+

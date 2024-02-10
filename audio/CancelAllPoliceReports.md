@@ -9,6 +9,5 @@ aliases: ["0xb4f90faf7670b16f"]
 void CANCEL_ALL_POLICE_REPORTS();
 ```
 
-```
 Cancels all police reports in the scanner queue.
-```
+

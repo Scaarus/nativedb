@@ -9,6 +9,5 @@ aliases: ["0xeffb25453d8600f9"]
 bool NETWORK_IS_CABLE_CONNECTED();
 ```
 
-```
 Returns true if the hardware network cable is connected
-```
+

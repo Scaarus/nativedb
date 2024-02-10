@@ -9,6 +9,5 @@ aliases: ["0x500873a45724c863"]
 void DISABLE_INDIVIDUAL_PLANE_PROPELLER(Vehicle vehicle, int propellerIndex);
 ```
 
-```
 Disable a specific propeller of the given plane
-```
+

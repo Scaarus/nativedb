@@ -9,13 +9,12 @@ aliases: ["0x8fa9c42fc5d7c64b"]
 void PLAY_TENNIS_DIVE_ANIM(Ped ped, int Direction, float DiveHorizontal, float DiveVertical, float playRate, bool slowBlend);
 ```
 
-```
-Possible values for Direction:
-| Index | Name |
+## Direction Values:
+| Value | Name |
 | --- | --- |
 | 0 | Bh |
 | 88 | Fh |
 
 
 Play tennis dive animation
-```
+

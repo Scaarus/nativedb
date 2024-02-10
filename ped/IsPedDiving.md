@@ -9,6 +9,5 @@ aliases: ["0x5527b8246fef9b11"]
 bool IS_PED_DIVING(Ped ped);
 ```
 
-```
 Return if a ped is currently diving (includes jump launch/clamber phase).
-```
+

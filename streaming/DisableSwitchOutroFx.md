@@ -9,6 +9,5 @@ aliases: ["0xbd605b8e0e18b3bb"]
 void DISABLE_SWITCH_OUTRO_FX();
 ```
 
-```
 Sets the "supress outro FX" flag on an ongoing switch
-```
+

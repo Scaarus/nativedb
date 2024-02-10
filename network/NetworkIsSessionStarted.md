@@ -9,6 +9,5 @@ aliases: ["0x9de624d2fc4b603f"]
 bool NETWORK_IS_SESSION_STARTED();
 ```
 
-```
 Returns TRUE when the session has been started
-```
+

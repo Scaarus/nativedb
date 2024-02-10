@@ -9,6 +9,5 @@ aliases: ["0x490861b88f4fd846"]
 void RESET_PICKUP_ENTITY_GLOW(Entity entity);
 ```
 
-```
 Revert entity alpha override and restart pickup glow.
-```
+

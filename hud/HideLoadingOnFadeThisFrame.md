@@ -9,8 +9,7 @@ aliases: ["0x4b0311d3cdc4648f"]
 void HIDE_LOADING_ON_FADE_THIS_FRAME();
 ```
 
-```
 Hides the loading text on this frame
 
 Must be called every frame
-```
+

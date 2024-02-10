@@ -9,11 +9,10 @@ aliases: ["0x1ccc708f0f850613"]
 void REPLACE_HUD_COLOUR(int destHudColour, int srcHudColour);
 ```
 
-```
 replaces destHudColour with srcHudColour
 
-Possible values for destHudColour:
-| Index | Name |
+## destHudColour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,4 +249,4 @@ Possible values for destHudColour:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

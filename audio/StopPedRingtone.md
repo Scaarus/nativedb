@@ -9,6 +9,5 @@ aliases: ["0x6c5ae23efa885092"]
 void STOP_PED_RINGTONE(Entity entity);
 ```
 
-```
 Stops a ped's ringtone from playing
-```
+

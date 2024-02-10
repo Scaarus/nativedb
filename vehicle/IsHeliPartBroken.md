@@ -9,6 +9,5 @@ aliases: ["0xbc74b4be25eb6c8a"]
 bool IS_HELI_PART_BROKEN(Vehicle vehicle, bool CheckMainRotor, bool CheckRearRotor, bool CheckTailBoom);
 ```
 
-```
 Checks that a specific part of a heli is broken
-```
+

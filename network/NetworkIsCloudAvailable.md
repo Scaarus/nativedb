@@ -9,6 +9,5 @@ aliases: ["0x9a4cf4f48ad77302"]
 bool NETWORK_IS_CLOUD_AVAILABLE();
 ```
 
-```
 Returns TRUE if we have access to the cloud.
-```
+

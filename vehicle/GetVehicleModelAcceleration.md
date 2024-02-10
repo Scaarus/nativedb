@@ -9,6 +9,5 @@ aliases: ["0x8c044c5c84505b6a"]
 float GET_VEHICLE_MODEL_ACCELERATION(Hash modelHash);
 ```
 
-```
 Get the maximum drive force this vehicles can apply to the ground. This isn't particularly accurate and should be used as a guide and referenced with top speed.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xd2d57f1d764117b1"]
 bool GET_RANDOM_EVENT_FLAG();
 ```
 
-```
 Checks if the player is currently on a random event.
-```
+

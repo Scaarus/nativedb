@@ -9,6 +9,5 @@ aliases: ["0xdb1ea9411c8911ec"]
 void SET_CHECKPOINT_FORCE_DIRECTION(Checkpoint checkpoint);
 ```
 
-```
 forces a checkpoint to use the direction instead of any predefined camera facing
-```
+

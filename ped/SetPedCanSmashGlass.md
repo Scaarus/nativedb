@@ -9,9 +9,8 @@ aliases: ["0x1cce141467ff42a2"]
 void SET_PED_CAN_SMASH_GLASS(Ped ped, bool CanSmashGlassFlagRagdoll, bool CanSmashGlassFlagWeapon);
 ```
 
-```
 Call every frame to make the ped's ragdoll or weapon bounds shatter glass when in contact
-```
+
 
 ## Parameters
 * **ped**: 

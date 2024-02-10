@@ -9,6 +9,5 @@ aliases: ["0x3de51e9c80b116cf"]
 bool IS_VEHICLE_PARACHUTE_DEPLOYED();
 ```
 
-```
 PURPOSE returns true if a vehicle currently has a parachute deployed
-```
+

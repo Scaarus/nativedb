@@ -9,6 +9,5 @@ aliases: ["0x418dc16fae452c1c"]
 bool SC_HAS_ACHIEVEMENT_BEEN_PASSED();
 ```
 
-```
 Returns TRUE if the achievement has been passed.
-```
+

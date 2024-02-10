@@ -9,6 +9,5 @@ aliases: ["0xa0fe76168a189ddb"]
 bool IS_MULTIHEAD_FADE_UP();
 ```
 
-```
 Tells you if the multihead faders are up.
-```
+

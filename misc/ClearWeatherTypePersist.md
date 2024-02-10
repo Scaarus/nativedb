@@ -9,6 +9,5 @@ aliases: ["0xccc39339bef76cf5"]
 void CLEAR_WEATHER_TYPE_PERSIST();
 ```
 
-```
 Clears any persisting weather
-```
+

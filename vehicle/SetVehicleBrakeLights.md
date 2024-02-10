@@ -9,6 +9,5 @@ aliases: ["0x92b35082e0b42f66"]
 void SET_VEHICLE_BRAKE_LIGHTS(Vehicle vehicle, bool On);
 ```
 
-```
 Forces a vehicles brake lights on or off, needs to be called each frame to override the vehicle AI
-```
+

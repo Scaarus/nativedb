@@ -9,11 +9,10 @@ aliases: ["0xeea3b200a6feb65b"]
 void SET_DAMPING(int dampingType, float dampingValue);
 ```
 
-```
 Set entity damping
 
-Possible values for dampingType:
-| Index | Name |
+## dampingType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Linear C |
 | 1 | Linear V |
@@ -21,4 +20,4 @@ Possible values for dampingType:
 | 3 | Angular C |
 | 4 | Angular V |
 | 5 | Angular V2 |
-```
+

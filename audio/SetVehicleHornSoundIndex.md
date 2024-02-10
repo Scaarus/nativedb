@@ -9,6 +9,5 @@ aliases: ["0x0350e7e17ba767d0"]
 void SET_VEHICLE_HORN_SOUND_INDEX(Vehicle vehicle, int HornSoundIndex);
 ```
 
-```
 Get the horn sound index being used by the given vehicle
-```
+

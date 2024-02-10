@@ -9,6 +9,5 @@ aliases: ["0x736a718577f39c7d"]
 void DELETE_ALL_TRAINS();
 ```
 
-```
 Deletes all non-mission trains.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5e346d934122613f"]
 bool IS_FIRST_PERSON_AIM_CAM_ACTIVE();
 ```
 
-```
 Returns true if a first-person aim camera is active.
-```
+

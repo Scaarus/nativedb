@@ -9,6 +9,5 @@ aliases: ["0x6c3b4d6d13b4c841"]
 void SET_PED_CAN_ARM_IK(Ped ped, bool EnableIK);
 ```
 
-```
 Enables/Disables arm ik
-```
+

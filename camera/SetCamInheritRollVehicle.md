@@ -9,6 +9,5 @@ aliases: ["0x45f1de9c34b93ae6"]
 void SET_CAM_INHERIT_ROLL_VEHICLE(Camera camera, Vehicle vehicle);
 ```
 
-```
 Set the camera roll to be relative to a target of type vehicle.
-```
+

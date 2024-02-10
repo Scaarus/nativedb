@@ -9,6 +9,5 @@ aliases: ["0x231c8f89d0539d8f"]
 void SET_BIGMAP_ACTIVE(bool Active, bool FullMap);
 ```
 
-```
 sets the big map active/inactive
-```
+

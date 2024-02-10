@@ -9,6 +9,5 @@ aliases: ["0x2202a3f42c8e5f79"]
 bool GET_USINGNIGHTVISION();
 ```
 
-```
 Get whether nightvision is on/off
-```
+

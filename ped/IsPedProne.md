@@ -9,6 +9,5 @@ aliases: ["0xd6a86331a537a7b9"]
 bool IS_PED_PRONE(Ped ped);
 ```
 
-```
 Returns true if the ped is basically lying on the ground
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc520a34dafbf24b1"]
 float GET_CAM_NEAR_CLIP(Camera camera);
 ```
 
-```
 Get the camera's near clip distance (in m.)
-```
+

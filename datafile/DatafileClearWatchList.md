@@ -9,6 +9,5 @@ aliases: ["0x6cc86e78358d5119"]
 void DATAFILE_CLEAR_WATCH_LIST();
 ```
 
-```
 Clears out the watch list.
-```
+

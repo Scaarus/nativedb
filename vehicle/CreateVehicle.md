@@ -9,11 +9,10 @@ aliases: ["0xaf35d0d2583051b0"]
 Vehicle CREATE_VEHICLE(Hash modelHash, Vector3 Position, float fVehicleHeading, bool RegisterAsNetworkObject, bool ScriptHostObject, bool IgnoreGroundCheck);
 ```
 
-```
 Ceates a vehicle at a coord with a heading
 
 Model_names is taken from Model_enums.sch,
-```
+
 
 ## Parameters
 * **modelHash**: 

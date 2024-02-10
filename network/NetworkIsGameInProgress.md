@@ -9,6 +9,5 @@ aliases: ["0x10fab35428ccc9d7"]
 bool NETWORK_IS_GAME_IN_PROGRESS();
 ```
 
-```
 Returns TRUE when the network game is in progress
-```
+

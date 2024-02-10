@@ -9,6 +9,5 @@ aliases: ["0x88cbb5ceb96b7bd2"]
 void SET_PED_STEALTH_MOVEMENT(Ped ped, bool Stealth, string MovementModeName);
 ```
 
-```
 This command sets whether the ped will use stealthy movement
-```
+

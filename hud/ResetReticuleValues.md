@@ -9,6 +9,5 @@ aliases: ["0x12782ce0a636e9f0"]
 void RESET_RETICULE_VALUES();
 ```
 
-```
 Makes sure that the reticule values are fully reset (expected to be used on mission failure/retry, should fix issues when the player is forced into sniper view)
-```
+

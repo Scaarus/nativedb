@@ -9,6 +9,5 @@ aliases: ["0xe2f53f172b45ede1"]
 void RESET_FORMATION_LEADER();
 ```
 
-```
 Resets the formation leader
-```
+

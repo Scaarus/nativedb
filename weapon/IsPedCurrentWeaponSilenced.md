@@ -9,6 +9,5 @@ aliases: ["0x65f0c5ae05943ec7"]
 bool IS_PED_CURRENT_WEAPON_SILENCED(Ped ped);
 ```
 
-```
 If a ped's currently equipped weapon is silenced.
-```
+

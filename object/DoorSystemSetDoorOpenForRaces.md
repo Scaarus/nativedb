@@ -9,6 +9,5 @@ aliases: ["0xa85a21582451e951"]
 void DOOR_SYSTEM_SET_DOOR_OPEN_FOR_RACES(int doorEnumHash, bool open);
 ```
 
-```
 Set the door to be open for races
-```
+

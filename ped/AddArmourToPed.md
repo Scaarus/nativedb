@@ -9,6 +9,5 @@ aliases: ["0x5ba652a0cd14df2f"]
 void ADD_ARMOUR_TO_PED(Ped ped, int ArmourToAdd);
 ```
 
-```
 Increments the peds armour
-```
+

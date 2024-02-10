@@ -9,6 +9,5 @@ aliases: ["0xc4b5467a1886ea7e"]
 int LEADERBOARDS_GET_COLUMN_ID(int leaderboardId, int type, int columnIndex);
 ```
 
-```
 PURPOSE Returns the column id of the leaderboard.
-```
+

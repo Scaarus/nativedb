@@ -9,6 +9,5 @@ aliases: ["0x0a3f820a9a9a9ac5"]
 void SET_HELI_COMBAT_OFFSET(Vector3 VehiclePos);
 ```
 
-```
 Set a specific offset for helis chasing target in combat
-```
+

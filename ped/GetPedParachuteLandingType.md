@@ -9,11 +9,10 @@ aliases: ["0x8b9f1fc6ae8166c0"]
 ped_parachute_landing_type GET_PED_PARACHUTE_LANDING_TYPE(Ped ped);
 ```
 
-```
 Gets the current landing type of the Parachuting Ped (returns PPLT_INVALID if the Ped isn't landing).
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Slow |
@@ -21,4 +20,4 @@ Possible return values:
 | 2 | Fast |
 | 3 | Crash |
 | 4 | Water |
-```
+

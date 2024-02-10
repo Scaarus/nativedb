@@ -9,11 +9,10 @@ aliases: ["0x08f96ca6c551ad51"]
 Hash GET_WEAPON_TYPE_FROM_PICKUP_TYPE(int ePickupType);
 ```
 
-```
 Returns the weapon type from a pickup type.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONTYPE_INVALID |
 | 1 | WEAPONTYPE_UNARMED |
@@ -346,8 +345,8 @@ Possible return values:
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
 
 
-Possible values for ePickupType:
-| Index | Name |
+## ePickupType Values:
+| Value | Name |
 | --- | --- |
 | 0 | PICKUP_HEALTH_STANDARD |
 | 1 | PICKUP_ARMOUR_STANDARD |
@@ -535,4 +534,4 @@ Possible values for ePickupType:
 | 183 | PICKUP_WEAPON_DLC_METALDETECTOR |
 | 184 | PICKUP_WEAPON_DLC_TACTICALRIFLE |
 | 185 | PICKUP_WEAPON_DLC_PRECISIONRIFLE |
-```
+

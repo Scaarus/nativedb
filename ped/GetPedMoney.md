@@ -9,6 +9,5 @@ aliases: ["0x3f69145bba87bae7"]
 int GET_PED_MONEY(Ped ped);
 ```
 
-```
 Gets the ped current money.
-```
+

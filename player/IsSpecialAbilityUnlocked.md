@@ -9,6 +9,5 @@ aliases: ["0xc6017f6a6cdfa694"]
 bool IS_SPECIAL_ABILITY_UNLOCKED(Hash modelHash);
 ```
 
-```
 Returns true if the special ability has been unlocked for the given player.
-```
+

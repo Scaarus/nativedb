@@ -9,8 +9,7 @@ aliases: ["0xd2f1c53c97ee81ab"]
 void TASK_PARACHUTE(Ped ped, bool GiveParachuteItem, bool Instant);
 ```
 
-```
 : Forces a Ped into the Parachuting Task
 
 Since performing this operation requires the Ped to have a Parachute Item, there is an option to give one in the parameters.
-```
+

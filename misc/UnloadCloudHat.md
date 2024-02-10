@@ -9,9 +9,8 @@ aliases: ["0xa74802fb8d0b7814"]
 void UNLOAD_CLOUD_HAT(string CloudHatName, float TransitionTime);
 ```
 
-```
 forces a cloud hat to unload, reguardless of the current cloud settings NOTES: this is to help with tralers, etc. please don't use this in general
-```
+
 
 ## Parameters
 * **CloudHatName**: force a loading of the named cloud hat

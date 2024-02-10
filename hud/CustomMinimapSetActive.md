@@ -9,6 +9,5 @@ aliases: ["0x5354c5ba2ea868a4"]
 void CUSTOM_MINIMAP_SET_ACTIVE();
 ```
 
-```
 starts rendering of custom minimap for UI screens
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x4282e08174868be3"]
 bool IS_REPLAY_AVAILABLE();
 ```
 
-```
 Returns true if the replay system is currently availiable
-```
+

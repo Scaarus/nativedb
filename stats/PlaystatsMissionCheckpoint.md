@@ -9,8 +9,7 @@ aliases: ["0xc900596a63978c1d"]
 void PLAYSTATS_MISSION_CHECKPOINT(string pMissionName, int variant, int previousCheckpoint, int checkpoint);
 ```
 
-```
 Tells the PlayStats that a mission is over.
 
 pMissionName -
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x36ccb9be67b970fd"]
 void ROPE_SET_SMOOTH_REELIN(bool SmoothReelIn);
 ```
 
-```
 Set smoothreelin on a rope
-```
+

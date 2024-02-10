@@ -9,6 +9,5 @@ aliases: ["0x8c0d57ea686fad87"]
 bool REFILL_AMMO_INSTANTLY(Ped ped);
 ```
 
-```
 Make the current peds weapon reload without ped interaction.
-```
+

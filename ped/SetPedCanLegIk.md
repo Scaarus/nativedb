@@ -9,6 +9,5 @@ aliases: ["0x73518ece2485412b"]
 void SET_PED_CAN_LEG_IK(Ped ped, bool EnableIK);
 ```
 
-```
 Enables/Disables leg ik
-```
+

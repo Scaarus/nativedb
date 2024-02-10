@@ -9,6 +9,5 @@ aliases: ["0xc197616d221ff4a4"]
 void NEW_LOAD_SCENE_STOP();
 ```
 
-```
 stops the new load scene, if it is active
-```
+

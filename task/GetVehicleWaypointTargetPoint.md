@@ -9,6 +9,5 @@ aliases: ["0x416b62ac8b9e5bbd"]
 int GET_VEHICLE_WAYPOINT_TARGET_POINT(Vehicle vehicle);
 ```
 
-```
 Retrieves the current target point of the given vehicle, who must be following the route at the time
-```
+

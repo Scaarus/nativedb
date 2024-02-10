@@ -9,6 +9,5 @@ aliases: ["0xd24d37cc275948cc"]
 int GET_HASH_KEY(string InputString);
 ```
 
-```
 Creates a hash key for the given string
-```
+

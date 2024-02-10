@@ -9,6 +9,5 @@ aliases: ["0x47c2a06d4f5f424b"]
 int GET_ROOM_KEY_FROM_ENTITY(Entity entity);
 ```
 
-```
 Gets a room key from an object in that room.
-```
+

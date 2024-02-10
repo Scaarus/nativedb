@@ -9,9 +9,8 @@ aliases: ["0xfc52e0f37e446528"]
 void REMOVE_ALL_PROJECTILES_OF_TYPE(Hash weaponHash, bool Explode);
 ```
 
-```
 Explode all the projectiles owned by the specified ped of the specified type
-```
+
 
 ## Parameters
 * **weaponHash**: 

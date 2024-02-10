@@ -9,8 +9,7 @@ aliases: ["0x75ba1cb3b7d40caf"]
 void REQUEST_PED_USE_SMALL_BBOX_VISIBILITY_TRACKING(Ped ped, bool useSmallBox);
 ```
 
-```
 When set to true visibility tracking will use a smaller (head and shoulder only) bounding box.
 
 Enable better ped's vehicle during visibility tracking
-```
+

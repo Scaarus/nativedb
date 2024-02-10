@@ -9,6 +9,5 @@ aliases: ["0xa670b3662faffbd0"]
 bool NETWORK_REQUEST_CONTROL_OF_NETWORK_ID(Network network);
 ```
 
-```
 Request ownership of the object with the specified network ID from the current owner
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x4f0c413926060b38"]
 void FORCE_USE_AUDIO_GAME_OBJECT(Vehicle vehicle, string GameObjectName);
 ```
 
-```
 Force this vehicle to use a particular audio game object
-```
+

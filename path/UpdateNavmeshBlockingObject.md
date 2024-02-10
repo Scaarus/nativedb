@@ -9,9 +9,8 @@ aliases: ["0x109e99373f290687"]
 void UPDATE_NAVMESH_BLOCKING_OBJECT(Vector3 vPosition, Vector3 vSizeXYZ, float fHeading, int iFlags);
 ```
 
-```
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Wanderpath |
@@ -23,4 +22,4 @@ Possible values for iFlags:
 The "iObjectId" must be a valid index as returned by "ADD_NAVMESH_BLOCKING_OBJECT"
 
 This command updates the position, size & orientation of a navmesh blocking object
-```
+

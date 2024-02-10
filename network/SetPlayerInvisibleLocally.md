@@ -9,6 +9,5 @@ aliases: ["0x12b37d54667db0b8"]
 void SET_PLAYER_INVISIBLE_LOCALLY(Player player, bool IncludePlayersVehicle);
 ```
 
-```
 Call this every frame to make the given player invisible only on our local machine
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x6ce177d014502e8a"]
 void ENABLE_ENTITY_BULLET_COLLISION(Entity entity);
 ```
 
-```
 Just enables basic attachment collision flags on the entity
-```
+

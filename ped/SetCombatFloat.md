@@ -9,11 +9,10 @@ aliases: ["0xff41b4b141ed981c"]
 void SET_COMBAT_FLOAT(Ped ped, int combatAttribute, float fNewValue);
 ```
 
-```
 To set a variety of combat attributes (floats) using one function
 
-Possible values for combatAttribute:
-| Index | Name |
+## combatAttribute Values:
+| Value | Name |
 | --- | --- |
 | 204 | CCF_BLIND_FIRE_CHANCE Chance to blind fire from cover, range is 0.0-1.0 (default is 0.05 for civilians, law doesn't blind fire) |
 | 205 | CCF_BURST_DURATION_IN_COVER How long each burst from cover should last (default is 2.0) |
@@ -47,4 +46,4 @@ Possible values for combatAttribute:
 Need to pass in which combat attribute is being set and what the value you are setting it to is
 
 This is the function that is used to set the majority of combat float attributes, like time between bursts in cover or time betweek peeks, etc. See COMBAT_ATTRIBUTE_FLOATS for information on the default values of each combat float
-```
+

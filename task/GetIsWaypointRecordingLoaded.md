@@ -9,6 +9,5 @@ aliases: ["0xcb4e8be8a0063c5d"]
 bool GET_IS_WAYPOINT_RECORDING_LOADED(string RecordingName);
 ```
 
-```
 Returns whether the named recording has been loaded yet
-```
+

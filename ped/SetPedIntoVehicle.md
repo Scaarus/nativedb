@@ -9,11 +9,10 @@ aliases: ["0xf75b0d629e1c063d"]
 void SET_PED_INTO_VEHICLE(Ped ped, Vehicle vehicle, int seat);
 ```
 
-```
 Sets a Ped into the releveant seat of the given Vehicle.
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -29,4 +28,4 @@ Possible values for seat:
 
 
 VEHICLE_SEAT enum is in generic.sch
-```
+

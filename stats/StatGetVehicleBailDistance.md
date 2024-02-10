@@ -9,6 +9,5 @@ aliases: ["0x0b8b7f74bf061c6d"]
 float STAT_GET_VEHICLE_BAIL_DISTANCE();
 ```
 
-```
 PURPOSE Get the last bail out of vehicle distance
-```
+

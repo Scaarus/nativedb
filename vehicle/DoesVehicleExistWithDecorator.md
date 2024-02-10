@@ -9,8 +9,7 @@ aliases: ["0x956b409b984d9bf7"]
 Vehicle DOES_VEHICLE_EXIST_WITH_DECORATOR(string DecoratorLabel);
 ```
 
-```
 Used to check for the existance of a vehicle with the specified decorator
 
 Returns whether a vehicle exists with the specified decorator
-```
+

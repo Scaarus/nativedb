@@ -9,6 +9,5 @@ aliases: ["0xef49cf0270307cbe"]
 void DETONATE_VEHICLE_PHONE_EXPLOSIVE_DEVICE();
 ```
 
-```
 Detonate a explosive device tied to the players mobile phone
-```
+

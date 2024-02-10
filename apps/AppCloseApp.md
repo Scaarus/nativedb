@@ -9,6 +9,5 @@ aliases: ["0xe41c65e07a5f05fc"]
 void APP_CLOSE_APP();
 ```
 
-```
 Closes the current app
-```
+

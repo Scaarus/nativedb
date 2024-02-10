@@ -9,6 +9,5 @@ aliases: ["0x781b3d62bb013ef5"]
 void SET_VEHICLE_DOORS_SHUT(Vehicle vehicle, bool ShutInstantly);
 ```
 
-```
 Shuts all the doors on a vehicle
-```
+

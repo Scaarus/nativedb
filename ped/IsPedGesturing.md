@@ -9,6 +9,5 @@ aliases: ["0xc30bdaee47256c13"]
 bool IS_PED_GESTURING(Ped ped);
 ```
 
-```
 Check if the ped is gesturing.
-```
+

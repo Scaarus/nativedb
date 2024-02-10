@@ -9,8 +9,7 @@ aliases: ["0x5aba3986d90d8a3b"]
 void TASK_PERFORM_SEQUENCE(Ped ped, Sequence sequence);
 ```
 
-```
 Tells a ped to perform a given sequence.
 
 Requires OPEN_SEQUENCE_TASK ... CLOSE_SEQUENCE_TASK
-```
+

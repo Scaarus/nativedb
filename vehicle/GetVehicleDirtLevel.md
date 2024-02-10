@@ -9,6 +9,5 @@ aliases: ["0x8f17bc8ba08da62b"]
 float GET_VEHICLE_DIRT_LEVEL(Vehicle vehicle);
 ```
 
-```
 Gets the vehicles dirt level 0.0 (clean) to 15.9 (dirty).
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xaef12960fa943792"]
 bool ARE_FOLDING_WINGS_DEPLOYED();
 ```
 
-```
 Returns if the folding wings are deployed
-```
+

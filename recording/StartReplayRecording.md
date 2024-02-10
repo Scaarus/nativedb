@@ -9,10 +9,9 @@ aliases: ["0xc3ac2fff9612ac81"]
 void START_REPLAY_RECORDING(int startParam);
 ```
 
-```
-Possible values for startParam:
-| Index | Name |
+## startParam Values:
+| Value | Name |
 | --- | --- |
 | 0 | Highlight |
 | 19 | Director |
-```
+

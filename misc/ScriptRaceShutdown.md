@@ -9,6 +9,5 @@ aliases: ["0x1ff6bf9a63e5757f"]
 void SCRIPT_RACE_SHUTDOWN();
 ```
 
-```
 Shuts down the helper split time helper for mp script races and cleans up memory
-```
+

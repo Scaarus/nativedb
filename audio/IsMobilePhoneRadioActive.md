@@ -9,6 +9,5 @@ aliases: ["0xb35ce999e8ef317e"]
 bool IS_MOBILE_PHONE_RADIO_ACTIVE();
 ```
 
-```
 CHekcs if the moblie phone radio is active
-```
+

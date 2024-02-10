@@ -9,6 +9,5 @@ aliases: ["0x2b6d467dab714e8d"]
 void SET_BLIP_AS_MINIMAL_ON_EDGE(Blip blip, bool MinimiseOnEdge);
 ```
 
-```
 Set blip to go small when on edge of minimap
-```
+

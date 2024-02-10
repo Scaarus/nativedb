@@ -9,6 +9,5 @@ aliases: ["0xd5e460ad7020a246"]
 void SET_PLAYER_CAN_BE_HASSLED_BY_GANGS(bool CanBeHassled);
 ```
 
-```
 Sets if thre player can be hassled by gangs.
-```
+

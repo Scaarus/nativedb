@@ -9,6 +9,5 @@ aliases: ["0x5fff4cfc74d8fb80"]
 bool IS_PED_IN_ANY_PLANE(Ped ped);
 ```
 
-```
 Checks that the ped is in a plane model.
-```
+

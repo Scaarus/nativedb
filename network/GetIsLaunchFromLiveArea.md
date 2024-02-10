@@ -9,6 +9,5 @@ aliases: ["0x88b588b41ff7868e"]
 bool GET_IS_LAUNCH_FROM_LIVE_AREA();
 ```
 
-```
 Checks for system service parameters
-```
+

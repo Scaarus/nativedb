@@ -9,11 +9,10 @@ aliases: ["0x7a192be16d373d00"]
 void TASK_AIM_GUN_SCRIPTED(int AimGunTaskType, bool DisableGunBlocking, bool InstantBlendToAim);
 ```
 
-```
 Gives player scripted gun task
 
-Possible values for AimGunTaskType:
-| Index | Name |
+## AimGunTaskType Values:
+| Value | Name |
 | --- | --- |
 | 271 | On Crate |
 | 272 | Hanging Upside Down |
@@ -23,4 +22,4 @@ Possible values for AimGunTaskType:
 | 276 | Crate Buddy |
 | 277 | Plane Wing |
 | 278 | Bike |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x0be4be946463f917"]
 bool IS_VEHICLE_RADIO_ON(Vehicle vehicle);
 ```
 
-```
 Check if a given vehicle radio is on
-```
+

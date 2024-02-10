@@ -9,9 +9,8 @@ aliases: ["0xb2ebe8cbc58b90e9"]
 float GET_SCREEN_ASPECT_RATIO();
 ```
 
-```
 DEPRECATED
 DEPRECATED
 
 DEPRECATED
-```
+

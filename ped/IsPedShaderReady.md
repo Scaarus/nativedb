@@ -9,6 +9,5 @@ aliases: ["0x81aa517fbba05d39"]
 bool IS_PED_SHADER_READY(Ped ped);
 ```
 
-```
 Query if ped shader is ready to use
-```
+

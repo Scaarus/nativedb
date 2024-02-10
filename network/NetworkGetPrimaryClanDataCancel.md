@@ -9,6 +9,5 @@ aliases: ["0x042e4b70b93e6054"]
 void NETWORK_GET_PRIMARY_CLAN_DATA_CANCEL();
 ```
 
-```
 Cancel data retrieval in progress. Must be PENDING.
-```
+

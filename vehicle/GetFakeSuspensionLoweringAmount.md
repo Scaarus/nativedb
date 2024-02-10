@@ -9,6 +9,5 @@ aliases: ["0x53952fd2baa19f17"]
 float GET_FAKE_SUSPENSION_LOWERING_AMOUNT(Vehicle vehicle);
 ```
 
-```
 Gets the amount the suspension has been lowered by mods
-```
+

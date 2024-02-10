@@ -9,6 +9,5 @@ aliases: ["0xf020c96915705b3a"]
 int END_TEXT_COMMAND_THEFEED_POST_MPTICKER(bool CacheMessage);
 ```
 
-```
 Displays the mp ticker component.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x2b6747faa9db9d6b"]
 void SET_VEHICLE_DISABLE_TOWING(Vehicle vehicle, bool Disable);
 ```
 
-```
 Stop a tow truck from automatically picking up a vehicle
-```
+

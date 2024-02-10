@@ -9,6 +9,5 @@ aliases: ["0x631dc5dff4b110e3"]
 bool NETWORK_IS_PLAYER_FADING(Player player);
 ```
 
-```
 Returns true if the player is fading in or out
-```
+

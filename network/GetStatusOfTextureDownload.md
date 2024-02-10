@@ -9,9 +9,8 @@ aliases: ["0x8bd6c6dea20e82c6"]
 photo_operation_status GET_STATUS_OF_TEXTURE_DOWNLOAD();
 ```
 
-```
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 19 | Succeeded |
 | 20 | In Progress |
@@ -19,4 +18,4 @@ Possible return values:
 
 
 Queries the state of a texture download. The texture cannot be used until this command returns PHOTO_OPERATION_SUCCEEDED
-```
+

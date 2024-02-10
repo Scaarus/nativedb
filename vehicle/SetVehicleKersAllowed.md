@@ -9,6 +9,5 @@ aliases: ["0x99c82f8a139f3e4e"]
 void SET_VEHICLE_KERS_ALLOWED(Vehicle vehicle, bool KERSAllowed);
 ```
 
-```
 Sets whether or not the vehicle can use KERS
-```
+

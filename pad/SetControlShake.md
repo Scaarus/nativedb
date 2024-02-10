@@ -9,11 +9,10 @@ aliases: ["0x48b3886c1358d0d5"]
 void SET_CONTROL_SHAKE(int control, int Duration, int Frequency);
 ```
 
-```
 Causes the given Pad, assigned to a Control, to shake.
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
@@ -21,4 +20,4 @@ Possible values for control:
 
 
 Frequency should be less than 256. Duration is in milliseconds
-```
+

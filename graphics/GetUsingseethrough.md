@@ -9,6 +9,5 @@ aliases: ["0x44b80abab9d80bd3"]
 bool GET_USINGSEETHROUGH();
 ```
 
-```
 Get whether seethrough is on/off
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xe16142b94664defd"]
 void SET_PLANE_RESIST_TO_EXPLOSION(Vehicle vehicle, bool ResistToExplosion);
 ```
 
-```
 (MP Only) Plane can survive from 2 or more explosions when set
-```
+

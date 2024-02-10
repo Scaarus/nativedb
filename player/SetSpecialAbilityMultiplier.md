@@ -9,6 +9,5 @@ aliases: ["0xa49c426ed0ca4ab7"]
 void SET_SPECIAL_ABILITY_MULTIPLIER(float multiplier);
 ```
 
-```
 Sets the multiplier that modifies special ability charges
-```
+

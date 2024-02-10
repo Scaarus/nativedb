@@ -9,9 +9,8 @@ aliases: ["0x15f944730c832252"]
 void SET_USE_KINEMATIC_PHYSICS(Entity entity, bool useKinematic);
 ```
 
-```
 Prevent an entity from being pushed.
-```
+
 
 ## Parameters
 * **entity**: 

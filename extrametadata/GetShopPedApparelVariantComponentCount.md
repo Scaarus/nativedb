@@ -9,6 +9,5 @@ aliases: ["0xc17ad0e5752becda"]
 int GET_SHOP_PED_APPAREL_VARIANT_COMPONENT_COUNT(int nameHash);
 ```
 
-```
 Get the number of variant components for a specific DLC item
-```
+

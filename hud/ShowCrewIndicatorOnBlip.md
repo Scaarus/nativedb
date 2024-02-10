@@ -9,6 +9,5 @@ aliases: ["0xdcfb5d4db8bf367e"]
 void SHOW_CREW_INDICATOR_ON_BLIP(Blip blip, bool Show);
 ```
 
-```
 Shows the MP crew indicator on this blip
-```
+

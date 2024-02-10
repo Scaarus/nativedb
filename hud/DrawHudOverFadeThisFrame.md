@@ -9,6 +9,5 @@ aliases: ["0xbf4f34a85ca2970c"]
 void DRAW_HUD_OVER_FADE_THIS_FRAME();
 ```
 
-```
 call every frame to draw the hud over the top of screen fades
-```
+

@@ -9,13 +9,12 @@ aliases: ["0xa0cefcea390aab9b"]
 void CLEAR_CONTROL_SHAKE_SUPPRESSED_ID(int control);
 ```
 
-```
 Clears a supress id passed to SET_CONTROL_SHAKE_SUPPRESSED_ID.
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
-```
+

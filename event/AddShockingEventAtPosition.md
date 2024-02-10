@@ -9,11 +9,10 @@ aliases: ["0xd9f8455409b525e9"]
 int ADD_SHOCKING_EVENT_AT_POSITION(int eventType, Vector3 pos, float overrideLifeTime);
 ```
 
-```
 Add a specific shocking event at a position, and return an event ID if successful, or 0 if nothing was added.
 
-Possible values for eventType:
-| Index | Name |
+## eventType Values:
+| Value | Name |
 | --- | --- |
 | -1 | EVENT_INVALID |
 | 0 | EVENT_ACQUAINTANCE_PED_DISLIKE |
@@ -272,4 +271,4 @@ Possible values for eventType:
 
 
 eventType must be one of the EVENT_SHOCKING_... events. overrideLifeTime is in seconds and can be 0 for infinite, or left at -1 to use the default for the event type.
-```
+

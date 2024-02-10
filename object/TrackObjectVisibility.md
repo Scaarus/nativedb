@@ -9,6 +9,5 @@ aliases: ["0xb252bc036b525623"]
 void TRACK_OBJECT_VISIBILITY();
 ```
 
-```
 Request visibility tracking for an object
-```
+

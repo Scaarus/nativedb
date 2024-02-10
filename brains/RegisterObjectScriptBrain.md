@@ -9,11 +9,10 @@ aliases: ["0x0be84c318ba6ec22"]
 void REGISTER_OBJECT_SCRIPT_BRAIN(string pScriptName, Hash modelHash, int PercentageChance, float fActivationRange, int ObjectGroupingID, int SetToWhichThisBrainBelongs);
 ```
 
-```
 Associates a script brain with a certain object model.
 
 Pass in -1 to ignore the object grouping.
-```
+
 
 ## Parameters
 * **pScriptName**: 

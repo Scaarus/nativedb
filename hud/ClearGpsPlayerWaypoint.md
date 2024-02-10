@@ -9,6 +9,5 @@ aliases: ["0xff4fb7c8cdfa3da7"]
 void CLEAR_GPS_PLAYER_WAYPOINT();
 ```
 
-```
 Clears and deactivates the player's waypoint GPS (ie. the one which is usually set on the map screen)
-```
+

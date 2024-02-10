@@ -9,6 +9,5 @@ aliases: ["0xcee4490cd57bb3c2"]
 bool IS_VEHICLE_IN_GARAGE_AREA(string pGarageName, Vehicle vehicle);
 ```
 
-```
 Checks if the vehicle is an a garage.
-```
+

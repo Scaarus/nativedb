@@ -9,6 +9,5 @@ aliases: ["0x63c6cca8e68ae8c8"]
 Vehicle CREATE_MISSION_TRAIN(int CarriageConfiguration, Vector3 NewPosition, bool DirectionFlag, bool RegisterAsNetworkObject, bool ScriptHostObject);
 ```
 
-```
 Create a mission train
-```
+

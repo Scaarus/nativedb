@@ -9,6 +9,5 @@ aliases: ["0xedd91296cd01aee0"]
 void SET_CAM_FAR_DOF(Camera camera, float FarDof);
 ```
 
-```
 Set the camera's far depth of field distance (in m.)
-```
+

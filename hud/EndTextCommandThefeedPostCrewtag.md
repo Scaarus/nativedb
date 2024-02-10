@@ -9,11 +9,10 @@ aliases: ["0x97c9e4e7024a8f2c"]
 int END_TEXT_COMMAND_THEFEED_POST_CREWTAG(bool IsPrivate, bool ShowLogoFlag, string sCrewString, int iCrewRank, bool FounderStatus, bool IsImportant, int crewId, int iCrewColourR, int iCrewColourG, int iCrewColourB);
 ```
 
-```
 Displays the crew tag component
 
 bIsPrivate false = public, true = private bShowLogoFlag false = no R*, true = R* shown sCrewString Four alphanumeric characters. iCrewRank Rank (0 to 6) bFounderStatus If true, replaces rank symbols with founder symbol.
-```
+
 
 ## Parameters
 * **IsPrivate**: 

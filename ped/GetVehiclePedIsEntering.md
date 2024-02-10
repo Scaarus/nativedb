@@ -9,6 +9,5 @@ aliases: ["0xf92691aed837a5fc"]
 Vehicle GET_VEHICLE_PED_IS_ENTERING(Ped ped);
 ```
 
-```
 Gets the vehicle that the ped is trying to get into.
-```
+

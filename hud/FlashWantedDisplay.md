@@ -9,9 +9,8 @@ aliases: ["0xa18afb39081b6a1f"]
 void FLASH_WANTED_DISPLAY(bool ShouldBeFlashing);
 ```
 
-```
 Will make the wanted display flash for as long as it's displayed but WON'T force it to display. That's being wanteds' job.
-```
+
 
 ## Parameters
 * **ShouldBeFlashing**: exactly what it says on the tin

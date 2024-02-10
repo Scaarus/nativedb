@@ -9,6 +9,5 @@ aliases: ["0x705a844002b39dc0"]
 bool IS_NAVMESH_REQUIRED_REGION_IN_USE();
 ```
 
-```
 Returns whether a script is using the navmesh region (including the calling script)
-```
+

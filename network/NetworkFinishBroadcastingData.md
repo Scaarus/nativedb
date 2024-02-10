@@ -9,6 +9,5 @@ aliases: ["0x64f62afb081e260d"]
 void NETWORK_FINISH_BROADCASTING_DATA();
 ```
 
-```
 Finishes sending broadcast data. Should only be called just as the script is cleaning up
-```
+

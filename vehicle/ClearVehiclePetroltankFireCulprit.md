@@ -9,6 +9,5 @@ aliases: ["0x4419966c9936071a"]
 void CLEAR_VEHICLE_PETROLTANK_FIRE_CULPRIT();
 ```
 
-```
 Clear current vehicle petrol tank fire culprit (damager).
-```
+

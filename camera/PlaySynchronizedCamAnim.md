@@ -9,9 +9,8 @@ aliases: ["0xe32efe9ab4a9aa0c"]
 bool PLAY_SYNCHRONIZED_CAM_ANIM(Camera camera, int SceneId, string AnimName, string AnimDictName);
 ```
 
-```
 Play a camera animation on the specified camera, attached to the specified synchronized scene. Note that the animation must already be loaded prior to calling this command.
-```
+
 
 ## Parameters
 * **camera**: 

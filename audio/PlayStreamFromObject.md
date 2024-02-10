@@ -9,6 +9,5 @@ aliases: ["0xebaa9b64d76356fd"]
 void PLAY_STREAM_FROM_OBJECT(Object object);
 ```
 
-```
 Plays a preloaded stream back from a specified object.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x544abdda3b409b6d"]
 bool NETWORK_PLAYER_IS_ROCKSTAR_DEV(Player player);
 ```
 
-```
 Access to gamerdata information for players
-```
+

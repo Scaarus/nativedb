@@ -9,6 +9,5 @@ aliases: ["0x781de8fa214e87d2"]
 void SET_MOVEMENT_MODE_OVERRIDE(Ped ped, string ActionModeName);
 ```
 
-```
 Override action mode anims if need be (e.g. for fat peds, or if we have issues with weapons clipping)
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x1eae6dd17b7a5efa"]
 void CUSTOM_MINIMAP_SET_BLIP_OBJECT();
 ```
 
-```
 Set the blip icon
-```
+

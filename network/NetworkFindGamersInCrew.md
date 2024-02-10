@@ -9,6 +9,5 @@ aliases: ["0xe532d6811b3a4d2a"]
 bool NETWORK_FIND_GAMERS_IN_CREW(int crewId);
 ```
 
-```
 Request a listing of the gamers in the given crew that are currently active
-```
+

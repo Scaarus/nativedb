@@ -9,6 +9,5 @@ aliases: ["0x40c8656edaedd569"]
 bool WAS_CUTSCENE_SKIPPED();
 ```
 
-```
 Checks if the player has skipped the cutscene
-```
+

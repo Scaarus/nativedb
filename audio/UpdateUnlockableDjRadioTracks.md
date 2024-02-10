@@ -9,6 +9,5 @@ aliases: ["0x47aed84213a47510"]
 void UPDATE_UNLOCKABLE_DJ_RADIO_TRACKS(bool allowTrackReprioritization);
 ```
 
-```
 Unlocks any available DJ radio tracks based on the tuneable status
-```
+

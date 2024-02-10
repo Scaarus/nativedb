@@ -9,6 +9,5 @@ aliases: ["0x60f9a4393a21f741"]
 bool ASSISTED_MOVEMENT_IS_ROUTE_LOADED(string RouteName);
 ```
 
-```
 Returns whether an assisted movement route is loaded
-```
+

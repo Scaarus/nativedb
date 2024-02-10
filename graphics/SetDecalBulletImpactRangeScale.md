@@ -9,6 +9,5 @@ aliases: ["0x46d1a61a21f566fc"]
 void SET_DECAL_BULLET_IMPACT_RANGE_SCALE(float scale);
 ```
 
-```
 Sets the range scale used for the bullet impact decals (set to 1.0 for authored range)
-```
+

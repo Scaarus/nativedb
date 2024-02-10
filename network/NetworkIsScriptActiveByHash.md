@@ -9,9 +9,8 @@ aliases: ["0xda7de67f5fe5ee13"]
 bool NETWORK_IS_SCRIPT_ACTIVE_BY_HASH(int scriptHash, int instanceId, bool localOnly, int positionHash);
 ```
 
-```
 Returns true if any scripts with the given hash are running locally or remotely on any other machine involved in the network game
-```
+
 
 ## Parameters
 * **scriptHash**: 

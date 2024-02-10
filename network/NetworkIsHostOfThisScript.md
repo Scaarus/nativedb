@@ -9,6 +9,5 @@ aliases: ["0x83cd99a1e6061ab5"]
 bool NETWORK_IS_HOST_OF_THIS_SCRIPT();
 ```
 
-```
 Returns true is our machine is the host (in charge of) the script session
-```
+

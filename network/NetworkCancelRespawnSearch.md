@@ -9,6 +9,5 @@ aliases: ["0xfb8f2a6f3df08cbe"]
 void NETWORK_CANCEL_RESPAWN_SEARCH();
 ```
 
-```
 Cancels any respawn search which is currently active
-```
+

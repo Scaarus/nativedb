@@ -9,11 +9,10 @@ aliases: ["0x68f01422be1d838f"]
 void STAT_SET_PROFILE_SETTING_VALUE(int setting, int newValue);
 ```
 
-```
 Call this when the player needs to set a profile setting. NOTES: Possible settings are - MP_CREATOR_RACES_SAVED, MP_CREATOR_DM_SAVED and MP_CREATOR_CTF_SAVED.
 
-Possible values for setting:
-| Index | Name |
+## setting Values:
+| Value | Name |
 | --- | --- |
 | 0 | PROFILE_ACTION_AUTO_AIM |
 | 1 | PROFILE_YAXIS_INVERSION |
@@ -112,4 +111,4 @@ Possible values for setting:
 | 953 | MP_CAMERA_ZOOM_IN_BOAT |
 | 954 | MP_CAMERA_ZOOM_IN_AIRCRAFT |
 | 955 | MP_CAMERA_ZOOM_IN_HELI |
-```
+

@@ -9,9 +9,8 @@ aliases: ["0x74cd9a9327a282ea"]
 void SET_VEHICLE_SHOOT_AT_TARGET(Ped ped, Entity entity, Vector3 vecTargetPosition);
 ```
 
-```
 Fire the ped's current vehicle weapon. It will fire the bullets or rockets in the direction of vehicle is facing if the target entity is NULL and target location is <<0.0, 0.0, 0.0>>.
-```
+
 
 ## Parameters
 * **ped**: 

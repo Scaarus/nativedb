@@ -9,6 +9,5 @@ aliases: ["0x1f400fef721170da"]
 Vector3 GET_WIND_DIRECTION();
 ```
 
-```
 Gets the wind direction
-```
+

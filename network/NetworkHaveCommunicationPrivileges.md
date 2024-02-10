@@ -9,15 +9,14 @@ aliases: ["0xaeef48cdf5b6ce7c"]
 bool NETWORK_HAVE_COMMUNICATION_PRIVILEGES(int nPrivilegeType, int PlayerIndex);
 ```
 
-```
 Returns true if the player has communication / voicechat privileges.
 
-Possible values for nPrivilegeType:
-| Index | Name |
+## nPrivilegeType Values:
+| Value | Name |
 | --- | --- |
 | 69 | Everyone |
 | 70 | Friends |
 
 
 Privilege Check Type (One of PRIVILEGE_CHECK)
-```
+

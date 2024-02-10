@@ -9,6 +9,5 @@ aliases: ["0x80d9f74197ea47d9"]
 void SET_RANDOM_TRAINS(bool RandomTrainsFlag);
 ```
 
-```
 Sets random trains active
-```
+

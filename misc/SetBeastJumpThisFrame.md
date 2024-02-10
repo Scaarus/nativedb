@@ -9,6 +9,5 @@ aliases: ["0x438822c279b73b93"]
 void SET_BEAST_JUMP_THIS_FRAME(Player player);
 ```
 
-```
 Set the player to use beast jump anims this frame.
-```
+

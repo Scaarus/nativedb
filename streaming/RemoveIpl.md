@@ -9,6 +9,5 @@ aliases: ["0xee6c5ad3ece0a82d"]
 void REMOVE_IPL(string IplName);
 ```
 
-```
 Remove a streamable IPL
-```
+

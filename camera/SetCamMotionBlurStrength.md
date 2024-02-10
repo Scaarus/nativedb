@@ -9,6 +9,5 @@ aliases: ["0x6f0f77fba9a8f2e6"]
 void SET_CAM_MOTION_BLUR_STRENGTH(Camera camera, float Strength);
 ```
 
-```
 Set the camera's motion blur strength (0.0 to 1.0)
-```
+

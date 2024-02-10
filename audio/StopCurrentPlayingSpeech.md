@@ -9,6 +9,5 @@ aliases: ["0x7a73d05a607734c7"]
 void STOP_CURRENT_PLAYING_SPEECH(Ped ped);
 ```
 
-```
 Stops curretly playing speech (Pain, ambient, scripted, breathing).
-```
+

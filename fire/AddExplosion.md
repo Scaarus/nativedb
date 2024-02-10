@@ -9,8 +9,7 @@ aliases: ["0xe3ad2bdbaee269ac"]
 void ADD_EXPLOSION(Vector3 ExplosionPos, float SizeScale, bool MakeSound, bool NoFx, float CamShakeMultiplier, bool NoDamage);
 ```
 
-```
 Creates an explosion at the co-ordinates. Size scale between 0.01 and 1.0.
 
 EXPLOSION_TAG is a list of explosion tyrpe
-```
+

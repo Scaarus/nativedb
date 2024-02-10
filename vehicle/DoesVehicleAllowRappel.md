@@ -9,6 +9,5 @@ aliases: ["0x4e417c547182c84d"]
 bool DOES_VEHICLE_ALLOW_RAPPEL(Vehicle vehicle);
 ```
 
-```
 Returns if the vehicle allows rappeling from it.
-```
+

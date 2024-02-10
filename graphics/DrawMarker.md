@@ -9,11 +9,10 @@ aliases: ["0x28477ec23d892089"]
 void DRAW_MARKER(int MarkerType, Vector3 scrVecPosition, Vector3 scrVecDirection, Vector3 scrVecRotation, Vector3 scrVecScale, int colR, int colG, int colB, int colA, bool ounce, bool faceCam, int RotOrder, bool rotate, string txdName, string texName, bool invert);
 ```
 
-```
 Draws a marker this frame
 
-Possible values for MarkerType:
-| Index | Name |
+## MarkerType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Cone |
 | 1 | Cylinder |
@@ -62,8 +61,8 @@ Possible values for MarkerType:
 | 44 | Pit Lane |
 
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -72,7 +71,7 @@ Possible values for RotOrder:
 | 4 | Zxy |
 | 5 | Zyx |
 | 6 | Max |
-```
+
 
 ## Parameters
 * **MarkerType**: the type of marker to the drawn

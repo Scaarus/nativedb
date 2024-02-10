@@ -9,6 +9,5 @@ aliases: ["0xe0a0aec214b1faba"]
 bool IS_CONVERSATION_PED_DEAD(Ped ped);
 ```
 
-```
 Checks that the ped is dead, using the same check as the audio conversation system. This can be used to avoid asserts regarding conversations failing to play due to dead peds.
-```
+

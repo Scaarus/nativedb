@@ -9,6 +9,5 @@ aliases: ["0x1b9025bda76822b6"]
 void BLIP_SIREN(Vehicle vehicle);
 ```
 
-```
 Plays a siren blip from the veh.
-```
+

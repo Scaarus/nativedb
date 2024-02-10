@@ -9,6 +9,5 @@ aliases: ["0x78f0424c34306220"]
 void ADD_AMMO_TO_PED(Ped ped, Hash weaponHash, int AmountOfAmmo);
 ```
 
-```
 Give ammo for a weapon type to a character
-```
+

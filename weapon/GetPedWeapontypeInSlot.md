@@ -9,11 +9,10 @@ aliases: ["0xeffed78e9011134d"]
 Hash GET_PED_WEAPONTYPE_IN_SLOT(Ped ped, int slot);
 ```
 
-```
 Return which weapon is in a given slot for a character
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONTYPE_INVALID |
 | 1 | WEAPONTYPE_UNARMED |
@@ -346,8 +345,8 @@ Possible return values:
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
 
 
-Possible values for slot:
-| Index | Name |
+## slot Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONSLOT_INVALID |
 | 44 | NUM_WEAPONSLOTS |
@@ -469,4 +468,4 @@ Possible values for slot:
 | 945 | WEAPONSLOT_DLC_METALDETECTOR |
 | 946 | WEAPONSLOT_DLC_TACTICALRIFLE |
 | 947 | WEAPONSLOT_DLC_PRECISIONRIFLE |
-```
+

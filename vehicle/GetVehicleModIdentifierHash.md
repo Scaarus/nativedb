@@ -9,11 +9,10 @@ aliases: ["0x4593cf82aa179706"]
 int GET_VEHICLE_MOD_IDENTIFIER_HASH(Vehicle vehicle, int modSlot, int modIndex);
 ```
 
-```
 Returns the identifier hash value for the specified mod
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -64,4 +63,4 @@ Possible values for modSlot:
 | 249 | Door L |
 | 250 | Door R |
 | 251 | Livery |
-```
+

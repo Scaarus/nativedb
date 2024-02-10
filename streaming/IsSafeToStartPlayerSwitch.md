@@ -9,6 +9,5 @@ aliases: ["0x71e7b2e657449aad"]
 bool IS_SAFE_TO_START_PLAYER_SWITCH();
 ```
 
-```
 Sees if it's OK to start a player switch (not in the middle of death or arrest currently)
-```
+

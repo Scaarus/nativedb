@@ -9,6 +9,5 @@ aliases: ["0x47efa040ebb8e2ea"]
 void WAYPOINT_PLAYBACK_STOP_AIMING_OR_SHOOTING(Ped ped);
 ```
 
-```
 Turns off aiming or shooting
-```
+

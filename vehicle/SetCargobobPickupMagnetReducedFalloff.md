@@ -9,6 +9,5 @@ aliases: ["0x6d8eac07506291fb"]
 void SET_CARGOBOB_PICKUP_MAGNET_REDUCED_FALLOFF(Vehicle vehicle);
 ```
 
-```
 Set how the reduced force magnitude drops off as the distance to an entity increases.
-```
+

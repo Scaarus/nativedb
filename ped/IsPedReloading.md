@@ -9,6 +9,5 @@ aliases: ["0x24b100c68c645951"]
 bool IS_PED_RELOADING(Ped ped);
 ```
 
-```
 Checks if the ped is reloading
-```
+

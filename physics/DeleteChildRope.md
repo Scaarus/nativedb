@@ -9,6 +9,5 @@ aliases: ["0xaa5d6b1888e4db20"]
 void DELETE_CHILD_ROPE();
 ```
 
-```
 Delete child rope
-```
+

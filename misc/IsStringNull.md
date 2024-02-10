@@ -9,6 +9,5 @@ aliases: ["0xf22b6c47c6eab066"]
 bool IS_STRING_NULL(string StringToTest);
 ```
 
-```
 Checks if the string is NULL.
-```
+

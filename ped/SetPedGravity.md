@@ -9,8 +9,7 @@ aliases: ["0x9ff447b6b6ad960a"]
 void SET_PED_GRAVITY(Ped ped, bool isAffectedByGravity);
 ```
 
-```
 Sets if the ped is affected by gravity.
 
 Not approved for use in network scripts
-```
+

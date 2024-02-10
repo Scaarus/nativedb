@@ -9,6 +9,5 @@ aliases: ["0x31698aa80e0223f8"]
 void REMOVE_MP_GAMER_TAG(int iPlayerNum);
 ```
 
-```
 removes a gamer tag
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa91c6f0ff7d16a13"]
 void SET_SWIM_MULTIPLIER_FOR_PLAYER(Player player, float fMultiplier);
 ```
 
-```
 Exposing the ability to let the player swim slightly faster, 1.0 - 1.5. Default: 1.0
-```
+

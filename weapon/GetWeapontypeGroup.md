@@ -9,11 +9,10 @@ aliases: ["0xc3287ee3050fb74c"]
 weapon_group GET_WEAPONTYPE_GROUP(Hash weaponHash);
 ```
 
-```
 Return which group this weapon type is placed in
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Invalid |
 | 948 | Melee |
@@ -35,4 +34,4 @@ Possible return values:
 | 964 | Parachute |
 | 965 | Jetpack |
 | 966 | Metaldetector |
-```
+

@@ -9,9 +9,8 @@ aliases: ["0x176852acaac173d1"]
 void PLAYSTATS_SHOP_ITEM(int itemHash, int cashSpent, int shopNameHash, int extraItemHash, int colorHash);
 ```
 
-```
 Metric that gets sent when a piece of clothing is bought.
-```
+
 
 ## Parameters
 * **itemHash**: Unique Id of the item of clothing.

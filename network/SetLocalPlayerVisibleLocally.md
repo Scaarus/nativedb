@@ -9,6 +9,5 @@ aliases: ["0x7619364c82d3bf14"]
 void SET_LOCAL_PLAYER_VISIBLE_LOCALLY(bool IncludePlayersVehicle);
 ```
 
-```
 Call this every frame to make the local player visible only on our local machine
-```
+

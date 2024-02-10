@@ -9,11 +9,10 @@ aliases: ["0xaa295b6f28bd587d"]
 int END_TEXT_COMMAND_THEFEED_POST_AWARD(string sTXD, string sTXN, int iXP, int eAwardColour, string sTitle);
 ```
 
-```
 Displays the Award component
 
-Possible values for eAwardColour:
-| Index | Name |
+## eAwardColour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,7 +249,7 @@ Possible values for eAwardColour:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+
 
 ## Parameters
 * **sTXD**: award texture dictionary

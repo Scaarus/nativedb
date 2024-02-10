@@ -9,9 +9,8 @@ aliases: ["0xfedb7d269e8c60e3"]
 void ATTACH_CAM_TO_ENTITY(Camera camera, Entity entity, Vector3 vecOffset, bool OffsetIsRelative);
 ```
 
-```
 Attaches a camera to an entity.
-```
+
 
 ## Parameters
 * **camera**: 

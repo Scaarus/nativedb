@@ -9,6 +9,5 @@ aliases: ["0xa247f9ef01d8082e"]
 void SET_FLEEING_VEHICLES_USE_SWITCHED_OFF_NODES(bool CanUseSwitchedOffNodes);
 ```
 
-```
 Prevent fleeing vehicles from using switched off nodes globally
-```
+

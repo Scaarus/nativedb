@@ -9,10 +9,9 @@ aliases: ["0x1c99bb7b6e96d16f"]
 void SET_ENTITY_VELOCITY(Entity entity, Vector3 VelocityComponentt);
 ```
 
-```
 Sets the entity's current velocity.
 
 The velocity componets should be less than 500.
 
 The speeds are measured in metres per second.
-```
+

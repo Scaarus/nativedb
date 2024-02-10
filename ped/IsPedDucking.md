@@ -9,6 +9,5 @@ aliases: ["0xd125ae748725c6bc"]
 bool IS_PED_DUCKING(Ped ped);
 ```
 
-```
 Checks that the ped is ducking
-```
+

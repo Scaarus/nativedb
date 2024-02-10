@@ -9,6 +9,5 @@ aliases: ["0x6e575d6a898ab852"]
 bool IS_PED_IN_ANY_TAXI(Ped ped);
 ```
 
-```
 Checks that the ped is in a taxi model.
-```
+

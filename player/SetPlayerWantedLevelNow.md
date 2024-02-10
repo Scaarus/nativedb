@@ -9,6 +9,5 @@ aliases: ["0xe0a7d1e497ffcd6f"]
 void SET_PLAYER_WANTED_LEVEL_NOW(bool DelayLawResponse);
 ```
 
-```
 Sets the wanted level for the player immediately..
-```
+

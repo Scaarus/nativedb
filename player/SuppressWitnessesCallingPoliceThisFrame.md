@@ -9,6 +9,5 @@ aliases: ["0x36f1b38855f2a8df"]
 void SUPPRESS_WITNESSES_CALLING_POLICE_THIS_FRAME();
 ```
 
-```
 Disables witnesses from calling the police for this frame
-```
+

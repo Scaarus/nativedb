@@ -9,6 +9,5 @@ aliases: ["0x5086c7843552cf85"]
 void SET_SCRIPTED_CONVERSION_COORD_THIS_FRAME(Vector3 centre);
 ```
 
-```
 Sets a coord where a scripted conversation can take place.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x148b08c2d2acb884"]
 void CLONE_PED_TO_TARGET_ALT(Ped ped, Ped ped, bool CloneCompressedDamage);
 ```
 
-```
 Copies variation and head blend settings from one ped to another.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xbaa045b4e42f3c06"]
 void SET_VEHICLE_MAX_SPEED(Vehicle vehicle, float MaxSpeed);
 ```
 
-```
 Sets the vehicle's max speed
-```
+

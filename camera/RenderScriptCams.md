@@ -9,18 +9,17 @@ aliases: ["0x07e5b515db0636fc"]
 void RENDER_SCRIPT_CAMS(bool SetActive, bool DoGameCamInterp, int Duration, bool ShouldLockInterpolationSourceFrame, bool ShouldApplyAcrossAllThreads, int RenderingOptions);
 ```
 
-```
 Tells the game that the script wants to enable or disable rendering of scripted cameras.
 
-Possible values for RenderingOptions:
-| Index | Name |
+## RenderingOptions Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Options |
 | 1 | Stop Rendering Option When Player Exits Into Cover |
 
 
 The script must have created a camera that can be rendered. Note that rendering is typically not stopped if another script thread still expects it to be active (see bShouldApplyAcrossAllThreads.)
-```
+
 
 ## Parameters
 * **SetActive**: 

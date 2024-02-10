@@ -9,6 +9,5 @@ aliases: ["0xb1252e3e59a82aaf"]
 void REMOVE_EXTRA_CALMING_QUAD(int Idx);
 ```
 
-```
 Remove a specific calming quad, using the index returned by ADD_EXTRA_CALMING_QUAD
-```
+

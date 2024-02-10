@@ -9,6 +9,5 @@ aliases: ["0xb118af58b5f332a1"]
 bool IS_MP_TEXT_CHAT_TYPING();
 ```
 
-```
 To tell script if a player is typing in MP text chat.
-```
+

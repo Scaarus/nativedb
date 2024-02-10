@@ -9,19 +9,18 @@ aliases: ["0x788e7fd431bd67f1"]
 void SET_FLOATING_HELP_TEXT_STYLE(int id, int style, int colour, int iAlpha, int iArrowPosition, int iFloatingTextOffset);
 ```
 
-```
 sets the style of the floating help text
 
-Possible values for id:
-| Index | Name |
+## id Values:
+| Value | Name |
 | --- | --- |
 | 0 | FLOATING_HELP_TEXT_ID_1 |
 | 857 | FLOATING_HELP_TEXT_ID_2 |
 | 858 | MAX_FLOATING_HELP_TEXT_IDS |
 
 
-Possible values for style:
-| Index | Name |
+## style Values:
+| Value | Name |
 | --- | --- |
 | 0 | Normal |
 | 999 | Taggable |
@@ -29,8 +28,8 @@ Possible values for style:
 | 1001 | Mp Freemode |
 
 
-Possible values for colour:
-| Index | Name |
+## colour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -269,11 +268,11 @@ Possible values for colour:
 | 234 | Junk Energy |
 
 
-Possible values for iArrowPosition:
-| Index | Name |
+## iArrowPosition Values:
+| Value | Name |
 | --- | --- |
 | 1 | North |
 | 910 | East |
 | 911 | South |
 | 912 | West |
-```
+

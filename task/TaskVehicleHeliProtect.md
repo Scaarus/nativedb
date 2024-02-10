@@ -9,11 +9,10 @@ aliases: ["0x1e09c32048fefd1c"]
 void TASK_VEHICLE_HELI_PROTECT(Ped ped, Vehicle vehicle, Entity entity, float CruiseSpeed, int mode, float CustomOffset, int MinHeightAboveTerrain, int HeliFlags);
 ```
 
-```
 Identical to TASK_VEHICLE_MISSION with MISSION_PROTECT mission,
 
-Possible values for mode:
-| Index | Name |
+## mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -49,8 +48,8 @@ Possible values for mode:
 | 1073741824 | F Forcejoininroaddirection |
 
 
-Possible values for HeliFlags:
-| Index | Name |
+## HeliFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Attainrequestedorientation |
@@ -72,4 +71,4 @@ Possible values for HeliFlags:
 
 
 Tells a helicopter to protect another entity.
-```
+

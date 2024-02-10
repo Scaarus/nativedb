@@ -9,6 +9,5 @@ aliases: ["0x8decb02f88f428bc"]
 bool HAS_PED_GOT_WEAPON(Ped ped, Hash weaponHash, int weaponType);
 ```
 
-```
 Return if character has a weapon
-```
+

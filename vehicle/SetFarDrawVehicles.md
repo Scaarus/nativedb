@@ -9,6 +9,5 @@ aliases: ["0x26324f33423f3cc3"]
 void SET_FAR_DRAW_VEHICLES(bool Val);
 ```
 
-```
 Activate deactivate the far draw
-```
+

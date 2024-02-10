@@ -9,6 +9,5 @@ aliases: ["0x07503f7948f491a7"]
 void REQUEST_COLLISION_AT_COORD(Vector3 Position);
 ```
 
-```
 Tell streaming to request collision about point.
-```
+

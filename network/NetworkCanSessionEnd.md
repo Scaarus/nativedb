@@ -9,6 +9,5 @@ aliases: ["0x4eebc3694e49c572"]
 bool NETWORK_CAN_SESSION_END();
 ```
 
-```
 Returns TRUE if the network session is in a position to end
-```
+

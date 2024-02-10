@@ -9,6 +9,5 @@ aliases: ["0x9ba001cb45cbf627"]
 void DOOR_SYSTEM_SET_AUTOMATIC_DISTANCE(int doorEnumHash, float fAutomaticDistance, bool network, bool flushState);
 ```
 
-```
 Set the distance threshold at which the (sliding/garage/barrier) door should open at, in meters.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xdace1be37d88af67"]
 void SET_DRIVE_TASK_DRIVING_STYLE(int DriveStyle);
 ```
 
-```
 Sets the drive tasks driving style.
-```
+

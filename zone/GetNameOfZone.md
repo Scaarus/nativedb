@@ -9,6 +9,5 @@ aliases: ["0xcd90657d4c30e1ca"]
 string GET_NAME_OF_ZONE(Vector3 Position);
 ```
 
-```
 Get name id of zone from coordinates
-```
+

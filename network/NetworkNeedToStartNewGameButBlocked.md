@@ -9,6 +9,5 @@ aliases: ["0x53c10c8bd774f2c9"]
 bool NETWORK_NEED_TO_START_NEW_GAME_BUT_BLOCKED();
 ```
 
-```
 TRUE if we need to start a new game but we are blocked by something
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xb203913733f27884"]
 void SET_BLIP_BRIGHT(Blip blip, bool OnOff);
 ```
 
-```
 Make the blip show a brighter shade of its colour
-```
+

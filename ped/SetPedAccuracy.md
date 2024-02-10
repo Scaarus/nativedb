@@ -9,9 +9,8 @@ aliases: ["0x7aefb85c1d49deb6"]
 void SET_PED_ACCURACY(Ped ped, int NewAccuracy);
 ```
 
-```
 Sets the peds shooting accuracy, between 0 to 100.
-```
+
 
 ## Parameters
 * **ped**: 

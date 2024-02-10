@@ -9,6 +9,5 @@ aliases: ["0xb0c56bd3d808d863"]
 void LOBBY_SET_AUTO_MULTIPLAYER(bool IsAuto);
 ```
 
-```
 Allows script to set the auto multiplayer parameter
-```
+

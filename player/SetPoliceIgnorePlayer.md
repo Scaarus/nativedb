@@ -9,6 +9,5 @@ aliases: ["0x32c62aa929c2da6a"]
 void SET_POLICE_IGNORE_PLAYER(bool IgnorePlayer);
 ```
 
-```
 Use this to stop the police arresting the player.
-```
+

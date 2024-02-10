@@ -9,6 +9,5 @@ aliases: ["0x7c226d5346d4d10a"]
 void MP_TEXT_CHAT_IS_TEAM_JOB(bool IsTeamJob);
 ```
 
-```
 Force the MP Text Chat (behaves similar to pressing ESC button)
-```
+

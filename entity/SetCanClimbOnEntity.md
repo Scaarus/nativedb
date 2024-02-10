@@ -9,6 +9,5 @@ aliases: ["0xa80ae305e0a3044f"]
 void SET_CAN_CLIMB_ON_ENTITY(Entity entity, bool CanClimb);
 ```
 
-```
 Prevent climbing on a particular entity.
-```
+

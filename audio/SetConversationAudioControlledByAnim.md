@@ -9,6 +9,5 @@ aliases: ["0x0b568201dd99f0eb"]
 void SET_CONVERSATION_AUDIO_CONTROLLED_BY_ANIM(bool enable);
 ```
 
-```
 Sets whether or not scripted conversation flow should be controlled by anim triggers
-```
+

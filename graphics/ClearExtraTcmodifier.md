@@ -9,6 +9,5 @@ aliases: ["0x92ccc17a7a2285da"]
 void CLEAR_EXTRA_TCMODIFIER();
 ```
 
-```
 Clear the extra TC modifiers, it will be used on top of every other modifier, script, code or otherwise.
-```
+

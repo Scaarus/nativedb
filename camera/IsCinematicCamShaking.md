@@ -9,6 +9,5 @@ aliases: ["0xbbc08f6b4cb8ff0a"]
 bool IS_CINEMATIC_CAM_SHAKING();
 ```
 
-```
 Is a cinematic camera shake active?
-```
+

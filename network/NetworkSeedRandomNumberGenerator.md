@@ -9,6 +9,5 @@ aliases: ["0xf1b84178f8674195"]
 void NETWORK_SEED_RANDOM_NUMBER_GENERATOR(int nSeed);
 ```
 
-```
 ~> RANDOM NUMBER
-```
+

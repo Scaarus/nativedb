@@ -9,6 +9,5 @@ aliases: ["0xc4637a6d03c24cc3"]
 bool GET_IS_INITIAL_LOADING_SCREEN_ACTIVE();
 ```
 
-```
 Returns true if the initial loading screens are active (when you boot the game)
-```
+

@@ -9,8 +9,7 @@ aliases: ["0x97ce68cb032583f0"]
 void SET_FORCE_HD_VEHICLE(Vehicle vehicle, bool forceHd);
 ```
 
-```
 Flags the specified vehicle to always render the HD assets if passed in true
 
 vehicle index and value to either force or stopf orcign HD assets
-```
+

@@ -9,9 +9,8 @@ aliases: ["0x01ba3aed21c16cfb"]
 void SET_DISABLE_FRAG_DAMAGE(Entity entity, bool disableDamage);
 ```
 
-```
 Prevent a specific prop from damaging, or, allow a specific prop to break when all other of its type cannot.
-```
+
 
 ## Parameters
 * **entity**: 

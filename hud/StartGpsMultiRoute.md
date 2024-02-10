@@ -9,9 +9,8 @@ aliases: ["0x3d3d15af7bcaaf83"]
 void START_GPS_MULTI_ROUTE(int Colour, bool TrackPlayer, bool OnFoot);
 ```
 
-```
-Possible values for Colour:
-| Index | Name |
+## Colour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -251,4 +250,4 @@ Possible values for Colour:
 
 
 Initialises the GPS to calculate a route using the road nodes & passing through multiple waypoints, one after the other The route between each given waypoint will be the shortest available using roads
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa60ef3b6461a4d43"]
 int GET_PED_HEAD_OVERLAY(Ped ped, int slot);
 ```
 
-```
 Returns the current overlay texture index used on the specified ped and slot
-```
+

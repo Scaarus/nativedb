@@ -9,6 +9,5 @@ aliases: ["0x29da3ca8d8b2692d"]
 void SET_PED_CLOTH_EVENTS_ENABLED(Ped ped, bool enabed);
 ```
 
-```
 Set cloth events enabled on a given ped
-```
+

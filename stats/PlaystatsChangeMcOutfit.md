@@ -9,6 +9,5 @@ aliases: ["0x28ecb8ac2f607db2"]
 void PLAYSTATS_CHANGE_MC_OUTFIT(int bossId1, int bossId2, int matchId1, int matchId2, int outfit);
 ```
 
-```
 Telemetry for changing MC outfit
-```
+

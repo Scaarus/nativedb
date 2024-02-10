@@ -9,6 +9,5 @@ aliases: ["0x115722b1b9c14c1c"]
 void SET_VEHICLE_FIXED(Vehicle vehicle);
 ```
 
-```
 Restores the health of the vehicle and fixes any damage
-```
+

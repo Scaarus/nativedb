@@ -9,6 +9,5 @@ aliases: ["0x0d0a9f0e7bd91e3c"]
 bool STAT_SLOT_IS_LOADED(int slot);
 ```
 
-```
 Returns TRUE if the savegame file was loaded.
-```
+

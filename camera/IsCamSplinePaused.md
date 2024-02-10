@@ -9,6 +9,5 @@ aliases: ["0x0290f35c0ad97864"]
 bool IS_CAM_SPLINE_PAUSED(Camera camera);
 ```
 
-```
 Test if spline camera is paused or not.
-```
+

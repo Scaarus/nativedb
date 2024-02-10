@@ -9,11 +9,10 @@ aliases: ["0x6bab9442830c7f53"]
 void DOOR_SYSTEM_SET_DOOR_STATE(int doorEnumHash, int state, bool network, bool flushState);
 ```
 
-```
 Set the state of a door managed by the door system
 
-Possible values for state:
-| Index | Name |
+## state Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Unlocked |
@@ -23,4 +22,4 @@ Possible values for state:
 | 4 | Force Locked This Frame |
 | 5 | Force Open This Frame |
 | 6 | Force Closed This Frame |
-```
+

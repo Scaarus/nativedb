@@ -9,11 +9,10 @@ aliases: ["0xe3dd5f2a84b42281"]
 int GET_PED_PALETTE_VARIATION(Ped ped, int ComponentNumber);
 ```
 
-```
 Returns the index of the current palette variation for the current drawable of the specified component.
 
-Possible values for ComponentNumber:
-| Index | Name |
+## ComponentNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -30,4 +29,4 @@ Possible values for ComponentNumber:
 
 
 The returned palette index will be between 0 and 15.
-```
+

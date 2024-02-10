@@ -9,8 +9,7 @@ aliases: ["0x869daacbbe9fa006"]
 bool GET_GPS_BLIP_ROUTE_FOUND();
 ```
 
-```
 get whether the gps blip route is found and being diaplyed on gps
 
 Find whether the gps blip route has been found and is displaying on the gps
-```
+

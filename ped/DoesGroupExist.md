@@ -9,6 +9,5 @@ aliases: ["0x7c6b0c22f9f40bbe"]
 bool DOES_GROUP_EXIST(Group group);
 ```
 
-```
 Checks that the group exists.
-```
+

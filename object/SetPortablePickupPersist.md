@@ -9,6 +9,5 @@ aliases: ["0x46f3add1e2d5baf2"]
 void SET_PORTABLE_PICKUP_PERSIST(Object object, bool Set);
 ```
 
-```
 Sets a portable pickup to persist after converting to ambient
-```
+

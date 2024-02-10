@@ -9,6 +9,5 @@ aliases: ["0x72de52178c291cb5"]
 bool QUEUE_MISSION_REPEAT_LOAD();
 ```
 
-```
 Once a mission repeat has finished, call this command to shut down the session and load the last save made by QUEUE_MISSION_REPEAT_SAVE()
-```
+

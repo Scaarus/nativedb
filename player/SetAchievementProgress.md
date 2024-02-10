@@ -9,9 +9,8 @@ aliases: ["0xc2afffdabbdc2c5c"]
 bool SET_ACHIEVEMENT_PROGRESS(int AchievementId, int Progress);
 ```
 
-```
 Set progress of an achievement to the main player
-```
+
 
 ## Parameters
 * **AchievementId**: 

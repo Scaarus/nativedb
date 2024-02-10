@@ -9,7 +9,6 @@ aliases: ["0x583049884a2eee3c"]
 void THEFEED_FORCE_RENDER_OFF();
 ```
 
-```
 Stops forcing the feed to render all the time.
 none
-```
+

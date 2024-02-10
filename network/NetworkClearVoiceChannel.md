@@ -9,6 +9,5 @@ aliases: ["0xe036a705f989e049"]
 void NETWORK_CLEAR_VOICE_CHANNEL();
 ```
 
-```
 Clears the voice channel for the local player
-```
+

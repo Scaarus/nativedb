@@ -9,6 +9,5 @@ aliases: ["0xc8b1b2425604cdd0"]
 bool IS_MOBILE_INTERFERENCE_ACTIVE();
 ```
 
-```
 CHecks if mobile phone interference is currently happening.
-```
+

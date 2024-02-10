@@ -9,6 +9,5 @@ aliases: ["0x1563fe35e9928e67"]
 void SET_MP_GAMER_TAGS_POINT_HEALTH(int iPlayerNum, int iPoints, int iMaxPoints);
 ```
 
-```
 If using points based health set the current and max values.
-```
+

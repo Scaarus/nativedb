@@ -9,15 +9,14 @@ aliases: ["0x8b0c2964ba471961"]
 ugc_type GET_CONTENT_TO_LOAD_TYPE();
 ```
 
-```
 Returns the type of UGC to load.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Mission |
 | 99 | Mission Playlist |
 | 100 | Life Invader Post |
 | 101 | Photo |
 | 102 | Challenge |
-```
+

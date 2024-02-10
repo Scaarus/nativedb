@@ -9,6 +9,5 @@ aliases: ["0xbbcce00b381f8482"]
 bool IS_PED_FLEEING(Ped ped);
 ```
 
-```
 Checks if the ped is performing any kind of flee task.
-```
+

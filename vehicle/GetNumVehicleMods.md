@@ -9,11 +9,10 @@ aliases: ["0xe38e9162a2500646"]
 int GET_NUM_VEHICLE_MODS(Vehicle vehicle, int modSlot);
 ```
 
-```
 Returns the number of available mods on the given slot
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -64,7 +63,7 @@ Possible values for modSlot:
 | 249 | Door L |
 | 250 | Door R |
 | 251 | Livery |
-```
+
 
 ## Parameters
 * **vehicle**: vehicle entity index

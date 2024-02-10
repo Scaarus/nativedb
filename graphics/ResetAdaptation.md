@@ -9,6 +9,5 @@ aliases: ["0xe3e2c1b4c59dbc77"]
 void RESET_ADAPTATION(int numFrames);
 ```
 
-```
 Reset the PostFX adaptation
-```
+

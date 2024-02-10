@@ -9,6 +9,5 @@ aliases: ["0xc34bc448da29f5e9"]
 void SET_ENTITY_WATER_REFLECTION_FLAG(Entity entity, bool ReflectionFlag);
 ```
 
-```
 Set the water reflection visibility flag
-```
+

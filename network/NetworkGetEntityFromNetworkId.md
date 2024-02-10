@@ -9,6 +9,5 @@ aliases: ["0xce4e5d9b0a4ff560"]
 Entity NETWORK_GET_ENTITY_FROM_NETWORK_ID(Network network);
 ```
 
-```
 Returns the entity index of the entity with the specified network ID.
-```
+

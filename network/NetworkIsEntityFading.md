@@ -9,6 +9,5 @@ aliases: ["0x422f32cc7e56abad"]
 bool NETWORK_IS_ENTITY_FADING(Entity entity);
 ```
 
-```
 Returns true if the entity is fading in or out
-```
+

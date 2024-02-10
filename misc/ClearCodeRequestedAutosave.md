@@ -9,6 +9,5 @@ aliases: ["0x06462a961e94b67c"]
 void CLEAR_CODE_REQUESTED_AUTOSAVE();
 ```
 
-```
 Resets the code requested autosave boolean to false.
-```
+

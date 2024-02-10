@@ -9,6 +9,5 @@ aliases: ["0xc52e0f855c58fc2e"]
 void SET_ENABLE_BOUND_ANKLES(Ped ped, bool Enable);
 ```
 
-```
 Set whether ankles should be cuffed when ragdolling
-```
+

@@ -9,8 +9,7 @@ aliases: ["0x2587a48bc88dfadf"]
 void SET_RIOT_MODE_ENABLED(bool Enabled);
 ```
 
-```
 Toggles riot mode
 
 Toggles riot mode
-```
+

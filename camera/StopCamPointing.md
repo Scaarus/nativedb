@@ -9,6 +9,5 @@ aliases: ["0xf33ab75780ba57de"]
 void STOP_CAM_POINTING(Camera camera);
 ```
 
-```
 Stops the cameras pointing at an entity.
-```
+

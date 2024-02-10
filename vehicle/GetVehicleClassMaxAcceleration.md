@@ -9,6 +9,5 @@ aliases: ["0x2f83e7e45d9ea7ae"]
 float GET_VEHICLE_CLASS_MAX_ACCELERATION(int vehicleClass);
 ```
 
-```
 Get the max acceleration for this vehicle class
-```
+

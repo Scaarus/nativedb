@@ -9,11 +9,10 @@ aliases: ["0x470555300d10b2a5"]
 switch_state GET_PLAYER_SWITCH_STATE();
 ```
 
-```
 returns current state of player switch, as per enum SWITCH_STATE
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Intro |
 | 1 | Prep Descent |
@@ -29,4 +28,4 @@ Possible return values:
 | 11 | Establishing Shot |
 | 12 | Finished |
 | 13 | Outro |
-```
+

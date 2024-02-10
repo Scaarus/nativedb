@@ -9,8 +9,7 @@ aliases: ["0xe260e0bb9cd995ac"]
 bool DEPOSIT_VC();
 ```
 
-```
 CREDIT BANK ACCOUNT with cash.
 
 Deposit cash into the VC bank. Returns true on success.
-```
+

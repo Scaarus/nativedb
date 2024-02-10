@@ -9,9 +9,8 @@ aliases: ["0x812595a0644ce1de"]
 bool IS_DLC_PRESENT(int NameHash);
 ```
 
-```
 Detects if a DLC pack is present
-```
+
 
 ## Parameters
 * **NameHash**: hash of DLC pack name for example HASH("dlcPack1")

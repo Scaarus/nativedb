@@ -9,6 +9,5 @@ aliases: ["0x5cde92c702a8fce7"]
 Blip ADD_BLIP_FOR_ENTITY(Entity entity);
 ```
 
-```
 Add Radar blip for an entity
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x7bf1a54ae67ac070"]
 void SET_CAM_SPLINE_NODE_EXTRA_FLAGS(Camera camera, int NodeIndex, int Flags);
 ```
 
-```
 Set/Clear additional spline node options.
 
-Possible values for Flags:
-| Index | Name |
+## Flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Linear |
@@ -23,4 +22,4 @@ Possible values for Flags:
 
 
 Nodes must be setup first, then the extra flags can be modified.
-```
+

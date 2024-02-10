@@ -9,6 +9,5 @@ aliases: ["0x5c544bc6c57ac575"]
 bool IS_SCREEN_FADING_IN();
 ```
 
-```
 Is the screen fading IN ( getting clearer )
-```
+

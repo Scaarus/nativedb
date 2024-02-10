@@ -9,6 +9,5 @@ aliases: ["0x57c51e6bad752696"]
 void SET_VEHICLE_WINDOW_TINT(Vehicle vehicle, int colorIndex);
 ```
 
-```
 Sets the window tint color index.
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x5db660b38dd98a31"]
 void SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER(Player player, float Mult);
 ```
 
-```
 Allows the script to modify how quickly the players health recharges
 
 This function alters how quicky the players health can recharge
-```
+
 
 ## Parameters
 * **player**: 

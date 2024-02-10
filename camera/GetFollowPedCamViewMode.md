@@ -9,11 +9,10 @@ aliases: ["0x8d4d46230b2c353a"]
 cam_view_mode GET_FOLLOW_PED_CAM_VIEW_MODE();
 ```
 
-```
 Gets the global view mode used by all follow-ped cameras.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | CAM_VIEW_MODE_THIRD_PERSON_NEAR |
 | 38 | CAM_VIEW_MODE_THIRD_PERSON_MEDIUM |
@@ -22,4 +21,4 @@ Possible return values:
 | 41 | CAM_VIEW_MODE_FIRST_PERSON |
 | 42 | NUM_CAM_VIEW_MODES |
 | 43 | CAM_VIEW_MODE_THIRD_PERSON |
-```
+

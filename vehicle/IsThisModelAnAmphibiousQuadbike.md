@@ -9,6 +9,5 @@ aliases: ["0xa1a9fc1c76a6730d"]
 bool IS_THIS_MODEL_AN_AMPHIBIOUS_QUADBIKE(Hash modelHash);
 ```
 
-```
 Checks that vehicle model is an amphibious quadbike model
-```
+

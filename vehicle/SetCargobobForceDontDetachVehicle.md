@@ -9,6 +9,5 @@ aliases: ["0x571feb383f629926"]
 void SET_CARGOBOB_FORCE_DONT_DETACH_VEHICLE(Vehicle vehicle, bool NoDetach);
 ```
 
-```
 Sets an entity to never be picked up by a specific cargobob
-```
+

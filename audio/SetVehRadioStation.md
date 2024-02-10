@@ -9,6 +9,5 @@ aliases: ["0x1b9c0099cb942ac6"]
 void SET_VEH_RADIO_STATION(Vehicle vehicle, string RadioStationName);
 ```
 
-```
 Sets a specific radio station for the vehicle
-```
+

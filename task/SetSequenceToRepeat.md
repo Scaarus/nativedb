@@ -9,12 +9,11 @@ aliases: ["0x58c70cf3a41e4ae7"]
 void SET_SEQUENCE_TO_REPEAT(Sequence sequence, int DoRepeat);
 ```
 
-```
 Sets a sequence to repeat.
 
-Possible values for DoRepeat:
-| Index | Name |
+## DoRepeat Values:
+| Value | Name |
 | --- | --- |
 | 0 | Not |
 | 8 | Forever |
-```
+

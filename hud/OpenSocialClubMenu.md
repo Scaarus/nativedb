@@ -9,6 +9,5 @@ aliases: ["0x75d3691713c3b05a"]
 void OPEN_SOCIAL_CLUB_MENU();
 ```
 
-```
 If the player is currently in a pause menu, then this will open up the social club menu.
-```
+

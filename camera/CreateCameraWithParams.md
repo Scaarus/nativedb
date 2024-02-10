@@ -9,11 +9,10 @@ aliases: ["0x6abfa3e16460f22d"]
 Camera CREATE_CAMERA_WITH_PARAMS(int Camera, Vector3 vecPos, Vector3 vecRot, bool StartActivated, int RotOrder);
 ```
 
-```
 Create a camera of a given name.
 
-Possible values for Camera:
-| Index | Name |
+## Camera Values:
+| Value | Name |
 | --- | --- |
 | 65 | Scripted |
 | 66 | Scripted Fly An In-Game Fly Camera Designed For Use In The Mission Creator |
@@ -26,8 +25,8 @@ Possible values for Camera:
 | 73 | Spline Timed Custom Smoothed And Velocity Constrained Spline, Not Continous Velocity, Custom Speeds Can Be Set |
 
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -39,4 +38,4 @@ Possible values for RotOrder:
 
 
 StartActivated sets if the camera starts acive
-```
+

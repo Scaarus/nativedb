@@ -9,6 +9,5 @@ aliases: ["0x25223ca6b4d20b7f"]
 int GET_CLOCK_HOURS();
 ```
 
-```
 gets the current number of hours on the clock
-```
+

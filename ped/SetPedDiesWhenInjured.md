@@ -9,6 +9,5 @@ aliases: ["0x5ba7919bed300023"]
 void SET_PED_DIES_WHEN_INJURED(Ped ped, bool Dies);
 ```
 
-```
 Sets the ped will die when injured.
-```
+

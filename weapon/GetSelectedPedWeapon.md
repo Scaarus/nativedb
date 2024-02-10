@@ -9,11 +9,10 @@ aliases: ["0x0a6db4965674d243"]
 Hash GET_SELECTED_PED_WEAPON(Ped ped);
 ```
 
-```
 Query the selected weapon hash - this is what is selected in the UI, not necessarily equipped
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONTYPE_INVALID |
 | 1 | WEAPONTYPE_UNARMED |
@@ -344,4 +343,4 @@ Possible return values:
 | 326 | WEAPONTYPE_DLC_VEHICLE_TORPEDO |
 | 327 | WEAPONTYPE_DLC_VEHICLE_SPYCARGUN |
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
-```
+

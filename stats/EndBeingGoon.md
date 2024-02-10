@@ -9,6 +9,5 @@ aliases: ["0x6bccf9948492fd85"]
 void END_BEING_GOON(int bossId1, int bossId2, int m_endingReason, int rpBonus, int time);
 ```
 
-```
 PURPOSE Ends being a goon
-```
+

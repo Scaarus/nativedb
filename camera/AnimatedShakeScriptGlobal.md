@@ -9,9 +9,8 @@ aliases: ["0xc2eae3fb8cdbed31"]
 void ANIMATED_SHAKE_SCRIPT_GLOBAL(string AnimDictionary, string AnimClipName, string ShakeName, float fAmplitudeScalar);
 ```
 
-```
 Apply an animated shake globally to the rendered result of all active scripted cameras.
-```
+
 
 ## Parameters
 * **AnimDictionary**: The name of the animation dictionary containing the animation to be rendered as a shake.

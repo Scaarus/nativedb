@@ -9,8 +9,7 @@ aliases: ["0xb15162cb5826e9e8"]
 bool IS_CINEMATIC_CAM_RENDERING();
 ```
 
-```
 Is the cinematic director currently rendering?
 
 This command will return true if the cinematic director is the dominant rendering director. The cinematic director is responsible for a variety of cinematic cameras, including the idle cameras.
-```
+

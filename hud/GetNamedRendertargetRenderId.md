@@ -9,6 +9,5 @@ aliases: ["0x1a6478b61c6bdc3b"]
 int GET_NAMED_RENDERTARGET_RENDER_ID(string name);
 ```
 
-```
 Return the rendertarget ID of a named rendertarget, to be used with SET_TEXT_RENDER_ID
-```
+

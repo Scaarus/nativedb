@@ -9,6 +9,5 @@ aliases: ["0xee76ff7e6a0166b0"]
 void SET_ALL_MP_GAMER_TAGS_VISIBILITY(int iPlayerNum, bool Visible);
 ```
 
-```
 switches on/off all parts of a players head tag
-```
+

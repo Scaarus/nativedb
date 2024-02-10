@@ -9,6 +9,5 @@ aliases: ["0xbdb6f89c729cf388"]
 bool NETWORK_SESSION_IS_DISPLAYING_INVITE_CONFIRMATION();
 ```
 
-```
 Returns TRUE if we are displaying invite confirmation alert
-```
+

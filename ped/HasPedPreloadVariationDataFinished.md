@@ -9,6 +9,5 @@ aliases: ["0x66680a92700f43df"]
 bool HAS_PED_PRELOAD_VARIATION_DATA_FINISHED(Ped ped);
 ```
 
-```
 Returns true if the preload data set with SET_PED_PRELOAD_VARIATION_DATA is in memory.
-```
+

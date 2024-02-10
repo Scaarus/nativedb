@@ -9,6 +9,5 @@ aliases: ["0x72c896464915d1b1"]
 void TASK_REACT_AND_FLEE_PED(Ped ped, Ped ped);
 ```
 
-```
 Tells a ped to react and flee the given ped.
-```
+

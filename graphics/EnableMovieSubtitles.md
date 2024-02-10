@@ -9,6 +9,5 @@ aliases: ["0x873fa65c778ad970"]
 void ENABLE_MOVIE_SUBTITLES(bool OnOff);
 ```
 
-```
 Master switch for subtitles on bink movies
-```
+

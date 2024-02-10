@@ -9,6 +9,5 @@ aliases: ["0xb385454f8791f57c"]
 void SET_VEHICLE_LIGHT_MULTIPLIER(Vehicle vehicle, float multiplier);
 ```
 
-```
 Sets how bright the vehicles headlights are.
-```
+

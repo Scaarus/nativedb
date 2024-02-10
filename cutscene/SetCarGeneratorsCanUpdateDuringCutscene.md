@@ -9,6 +9,5 @@ aliases: ["0xe36a98d8ab3d3c66"]
 void SET_CAR_GENERATORS_CAN_UPDATE_DURING_CUTSCENE(bool Update);
 ```
 
-```
 Allow car gens to update whilst a cutscene is running.
-```
+

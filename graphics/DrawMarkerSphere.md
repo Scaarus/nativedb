@@ -9,11 +9,10 @@ aliases: ["0x799017f9e3b10112"]
 void DRAW_MARKER_SPHERE(Vector3 scrVecPosition, float radius, int colR, int colG, int colB, float intensity);
 ```
 
-```
 Draws a sphere marker this frame.
 
 Draws a sphere marker of better quality than the markers one. ONLY ONE PER FRAME IS SUPPORTED.
-```
+
 
 ## Parameters
 * **scrVecPosition**: position of the sphere

@@ -9,11 +9,10 @@ aliases: ["0x3123faa6db1cf7ed"]
 void TASK_VEHICLE_FOLLOW_WAYPOINT_RECORDING(Ped ped, Vehicle vehicle, string RecordingName, int Mode, int iStartingProgress, int iFlags, int iTargetProgress, float MaxSpeed, bool DriveInLoop, float fTargetArriveDistance);
 ```
 
-```
 Tells the specified vehicle to follow the specified waypoint route
 
-Possible values for Mode:
-| Index | Name |
+## Mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -49,8 +48,8 @@ Possible values for Mode:
 | 1073741824 | F Forcejoininroaddirection |
 
 
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Turn To Face Waypoint Heading At End |
@@ -69,4 +68,4 @@ Possible values for iFlags:
 
 
 A max speed of -1.0 means no speed limit.
-```
+

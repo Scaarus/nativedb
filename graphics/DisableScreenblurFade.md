@@ -9,6 +9,5 @@ aliases: ["0xde81239437e8c5a8"]
 void DISABLE_SCREENBLUR_FADE();
 ```
 
-```
 Disables the screen blur fade effect
-```
+

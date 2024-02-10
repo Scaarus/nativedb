@@ -9,6 +9,5 @@ aliases: ["0xcea7c8e1b48ff68c"]
 void SET_PICKUP_COLLIDES_WITH_PROJECTILES(Entity entity, bool collideWithProjectiles);
 ```
 
-```
 Sets whether a pickup will collide with projectiles.
-```
+

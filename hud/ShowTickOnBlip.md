@@ -9,6 +9,5 @@ aliases: ["0x74513ea3e505181e"]
 void SHOW_TICK_ON_BLIP(Blip blip, bool ShowTick);
 ```
 
-```
 Shows a tick indicator on this blip
-```
+

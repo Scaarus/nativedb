@@ -9,11 +9,10 @@ aliases: ["0x25bc98a59c2ea962"]
 lock_state GET_VEHICLE_DOOR_LOCK_STATUS(Vehicle vehicle);
 ```
 
-```
 Gets the vehicle lock status.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 24 | Unlocked 1 |
@@ -26,4 +25,4 @@ Possible return values:
 | 31 | Locked But Boot Unlocked 8 |
 | 32 | Locked No Passengers 9 |
 | 33 | Cannot Enter 10 |
-```
+

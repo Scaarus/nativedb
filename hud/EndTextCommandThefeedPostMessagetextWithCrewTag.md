@@ -9,11 +9,10 @@ aliases: ["0x5cbf7bade20db93e"]
 int END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG(string sTXD, string sImageName, bool IsImportant, int eIcon, string sCharacterName, string sSubtitle, float timeMultiplier, string sCrewTagPacked);
 ```
 
-```
 ** Modified TITLE_UPDATE COMMAND ** Displays the text message contact image and localised text message string in the top left of the HUD
 
-Possible values for eIcon:
-| Index | Name |
+## eIcon Values:
+| Value | Name |
 | --- | --- |
 | 0 | Blank |
 | 1242 | Message |
@@ -28,7 +27,7 @@ Possible values for eIcon:
 | 1251 | Ap |
 | 1252 | Xp Alt |
 | 1253 | Cash Alt |
-```
+
 
 ## Parameters
 * **sTXD**: The Texture Dictionary for the contact image used in the Text Message

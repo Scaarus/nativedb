@@ -9,9 +9,8 @@ aliases: ["0xf73eb622c4f1689b"]
 Vehicle GET_CLOSEST_VEHICLE(Vector3 Centre, float Radius, Hash modelHash, int SearchFlags);
 ```
 
-```
 Get the closet random vehicle to a coord
-```
+
 
 ## Parameters
 * **Centre**: 

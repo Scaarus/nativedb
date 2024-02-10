@@ -9,6 +9,5 @@ aliases: ["0x44151aea95c8a003"]
 bool APP_DELETE_APP_DATA(string name);
 ```
 
-```
 Deletes the app data from the cloud
-```
+

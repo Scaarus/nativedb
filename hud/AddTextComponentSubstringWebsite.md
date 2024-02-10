@@ -9,6 +9,5 @@ aliases: ["0x94cf4ac034c9c986"]
 void ADD_TEXT_COMPONENT_SUBSTRING_WEBSITE(string Website);
 ```
 
-```
 Use ~a~ to mark the position in your line of text where you want this substring inserted
-```
+

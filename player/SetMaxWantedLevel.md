@@ -9,6 +9,5 @@ aliases: ["0xaa5f02db48d704b9"]
 void SET_MAX_WANTED_LEVEL();
 ```
 
-```
 Sets the max wanted level the player can get.
-```
+

@@ -9,9 +9,8 @@ aliases: ["0xf7b2cfde5c9f700d"]
 bool NETWORK_FIND_MATCHED_GAMERS(int nActivityID, float fSkill, float fLowerLimit, float fUpperLimit);
 ```
 
-```
 Request a listing of the gamers in the given crew that are currently active
-```
+
 
 ## Parameters
 * **nActivityID**: activity ID to use

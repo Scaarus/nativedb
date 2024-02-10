@@ -9,6 +9,5 @@ aliases: ["0xd80a80346a45d761"]
 bool GET_SCALEFORM_MOVIE_METHOD_RETURN_VALUE_BOOL(Scaleform_Return scaleform_return);
 ```
 
-```
 gets the actual return value from the passed return id.
-```
+

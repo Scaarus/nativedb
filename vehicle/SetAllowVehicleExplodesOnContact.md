@@ -9,6 +9,5 @@ aliases: ["0x3441cad2f2231923"]
 void SET_ALLOW_VEHICLE_EXPLODES_ON_CONTACT(Vehicle vehicle, bool Set);
 ```
 
-```
 Use to override the SHOULD_EXPLODE_ON_CONTACT flag from vehicle meta deta
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x2b7e9a4eaaa93c89"]
 int END_TEXT_COMMAND_THEFEED_POST_STATS(string sTitleString, int eIcon, int iTotalLevel, int iCurrentLevel, bool IsImportant, string sContactTxD, string sContactTxN);
 ```
 
-```
 Displays the stats message/icon in the top left of the HUD
 
-Possible values for eIcon:
-| Index | Name |
+## eIcon Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Call For Backup |
@@ -46,7 +45,7 @@ Possible values for eIcon:
 | 1226 | Flying Ability |
 | 1227 | Stealth Ability |
 | 1228 | Mechanic Ability |
-```
+
 
 ## Parameters
 * **sTitleString**: Title of the stats icon.

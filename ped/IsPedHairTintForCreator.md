@@ -9,6 +9,5 @@ aliases: ["0xed6d8e27a43b8cde"]
 bool IS_PED_HAIR_TINT_FOR_CREATOR(int tint);
 ```
 
-```
 Returns if the specified tint is available for hair in the creator
-```
+

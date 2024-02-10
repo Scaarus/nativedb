@@ -9,6 +9,5 @@ aliases: ["0x5f28ecf5fc84772f"]
 void SET_MISSION_NAME(bool Active, string pTextLabel);
 ```
 
-```
 sets the current mission name to display on the HUD
-```
+

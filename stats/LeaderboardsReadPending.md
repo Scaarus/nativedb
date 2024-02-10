@@ -9,6 +9,5 @@ aliases: ["0xac392c8483342ac2"]
 bool LEADERBOARDS_READ_PENDING(int leaderboardId, int leaderboardType, int lbIndex);
 ```
 
-```
 PURPOSE Returns true if leaderboard read is pending. -1 return pending if any leaderboard with that id and type is pending.
-```
+

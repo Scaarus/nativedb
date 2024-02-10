@@ -9,6 +9,5 @@ aliases: ["0x444d98f98c11f3ec"]
 void SET_RANDOM_SEED(int NewSeed);
 ```
 
-```
 Creates a random seed
-```
+

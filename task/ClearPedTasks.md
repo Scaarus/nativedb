@@ -9,6 +9,5 @@ aliases: ["0xe1ef3c1216aff2cd"]
 void CLEAR_PED_TASKS();
 ```
 
-```
 Clears all tasks that are being performed by the ped.
-```
+

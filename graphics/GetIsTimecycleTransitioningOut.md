@@ -9,6 +9,5 @@ aliases: ["0x98d18905bf723b99"]
 bool GET_IS_TIMECYCLE_TRANSITIONING_OUT();
 ```
 
-```
 returns whether timecycle is currently in state of transition out
-```
+

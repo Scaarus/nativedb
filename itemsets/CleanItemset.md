@@ -9,8 +9,7 @@ aliases: ["0x41bc0d722fc04221"]
 void CLEAN_ITEMSET(Itemset itemset);
 ```
 
-```
 Clean out any invalid items from the item set.
 
 Generally not needed if using the autoClean option with CREATE_ITEMSET.
-```
+

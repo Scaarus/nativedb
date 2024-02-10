@@ -9,11 +9,10 @@ aliases: ["0x772282ebeb95e682"]
 void FIX_VEHICLE_WINDOW(Vehicle vehicle, int WindowNumber);
 ```
 
-```
 Fixes a vehicles window.
 
-Possible values for WindowNumber:
-| Index | Name |
+## WindowNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Ow Front Left |
 | 66 | Ow Front Right |
@@ -26,4 +25,4 @@ Possible values for WindowNumber:
 
 
 SC_WINDOW_LIST is in commands_vehicle.sch
-```
+

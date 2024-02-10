@@ -9,6 +9,5 @@ aliases: ["0x3ebeac6c3f81f6bd"]
 void START_BEING_BOSS(int version);
 ```
 
-```
 PURPOSE Start being a boss
-```
+

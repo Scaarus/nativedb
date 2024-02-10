@@ -9,6 +9,5 @@ aliases: ["0x169bd9382084c8c0"]
 string GET_CHARACTER_FROM_AUDIO_CONVERSATION_FILENAME(string pText, int startPoint, int endPoint);
 ```
 
-```
 Used by dialogue_handler.sc to get information from the speaker/listener line
-```
+

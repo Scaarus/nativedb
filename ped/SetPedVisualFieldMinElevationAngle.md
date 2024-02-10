@@ -9,6 +9,5 @@ aliases: ["0x7a276eb2c224d70f"]
 void SET_PED_VISUAL_FIELD_MIN_ELEVATION_ANGLE(Ped ped, float fAngle);
 ```
 
-```
 Sets the MIN/MAX vertical field of view for the ped.
-```
+

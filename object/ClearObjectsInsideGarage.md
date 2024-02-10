@@ -9,9 +9,8 @@ aliases: ["0x190428512b240692"]
 void CLEAR_OBJECTS_INSIDE_GARAGE(int garageHash, bool vehicles, bool peds, bool objects, bool Broadcast);
 ```
 
-```
 Clear objects within the garage.
-```
+
 
 ## Parameters
 * **garageHash**: 

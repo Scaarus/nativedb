@@ -9,8 +9,7 @@ aliases: ["0xbf4dc1784be94dfa"]
 void USE_FOOTSTEP_SCRIPT_SWEETENERS(Ped ped, bool use, int soundSetHash);
 ```
 
-```
 Allows script to trigger a sweetener footstep sound
 
 use : true the sweetener sounds will play soundSetHash : sounds to use.
-```
+

@@ -9,9 +9,8 @@ aliases: ["0xd93db43b82bc0d00"]
 void SET_CAM_SHAKE_AMPLITUDE(Camera camera, float fAmplitudeScalar);
 ```
 
-```
 Sets the overall amplitude scaling for an active camera shake.
-```
+
 
 ## Parameters
 * **camera**: 

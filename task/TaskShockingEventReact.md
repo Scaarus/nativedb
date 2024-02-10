@@ -9,8 +9,7 @@ aliases: ["0x452419cbd838065b"]
 void TASK_SHOCKING_EVENT_REACT(Ped ped, int shockingEventId);
 ```
 
-```
 Tell the ped to play an in-place sequence of reaction animations to the target event.
 
 shockingEventId is the value returned from a previously created script shocking event.
-```
+

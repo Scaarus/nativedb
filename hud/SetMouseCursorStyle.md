@@ -9,11 +9,10 @@ aliases: ["0x8db8cffd58b62552"]
 void SET_MOUSE_CURSOR_STYLE(int style);
 ```
 
-```
 sets the style of the mouse pointer
 
-Possible values for style:
-| Index | Name |
+## style Values:
+| Value | Name |
 | --- | --- |
 | 1 | Arrow |
 | 862 | Arrow Dimmed |
@@ -27,4 +26,4 @@ Possible values for style:
 | 870 | Arrow Trimming |
 | 871 | Arrow Plus |
 | 872 | Arrow Minus |
-```
+

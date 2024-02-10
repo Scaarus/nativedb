@@ -9,6 +9,5 @@ aliases: ["0x7a2d8ad0a9eb9c3f"]
 void RELEASE_SCRIPT_AUDIO_BANK();
 ```
 
-```
 Unloads all audio banks requested by this script.
-```
+

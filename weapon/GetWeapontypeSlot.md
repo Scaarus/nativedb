@@ -9,11 +9,10 @@ aliases: ["0x4215460b9b8b7fa0"]
 weapon_slot GET_WEAPONTYPE_SLOT(Hash weaponHash);
 ```
 
-```
 Return which slot this weapon type is placed in
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONSLOT_INVALID |
 | 44 | NUM_WEAPONSLOTS |
@@ -135,4 +134,4 @@ Possible return values:
 | 945 | WEAPONSLOT_DLC_METALDETECTOR |
 | 946 | WEAPONSLOT_DLC_TACTICALRIFLE |
 | 947 | WEAPONSLOT_DLC_PRECISIONRIFLE |
-```
+

@@ -9,9 +9,8 @@ aliases: ["0x186e5d252fa50e7d"]
 int GET_WAYPOINT_BLIP_ENUM_ID();
 ```
 
-```
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | RADAR_TRACE_INVALID |
 | 0 | RADAR_TRACE_POLICE_PLANE_MOVE |
@@ -852,4 +851,4 @@ Possible return values:
 
 
 returns an id to pass to blip commands of the code "waypoint" blip
-```
+

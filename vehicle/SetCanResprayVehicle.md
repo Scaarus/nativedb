@@ -9,6 +9,5 @@ aliases: ["0x52bba29d5ec69356"]
 void SET_CAN_RESPRAY_VEHICLE(Vehicle vehicle, bool CanChangeColourFlag);
 ```
 
-```
 Set the vehicle can be resparyed
-```
+

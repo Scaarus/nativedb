@@ -9,6 +9,5 @@ aliases: ["0x4cebc1ed31e8925e"]
 bool IS_CUTSCENE_AUTHORIZED(string SceneName);
 ```
 
-```
 Checks that the scene is authorized for playback
-```
+

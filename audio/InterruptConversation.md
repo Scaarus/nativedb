@@ -9,8 +9,7 @@ aliases: ["0xa018a12e5c5c2fa6"]
 void INTERRUPT_CONVERSATION(Ped ped, string Context, string VoiceName);
 ```
 
-```
 Handles conversation interrupts, using the code-side system for improved timing and to minimize unfriendly logic interactions.
 
 -
-```
+

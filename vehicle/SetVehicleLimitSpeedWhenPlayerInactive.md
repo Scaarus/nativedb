@@ -9,8 +9,7 @@ aliases: ["0xc50ce861b55eab8b"]
 void SET_VEHICLE_LIMIT_SPEED_WHEN_PLAYER_INACTIVE(Vehicle vehicle, bool Val);
 ```
 
-```
 Disable the limiting of player vehicle speed when the player loses control
 
 Sets whether a player controlled vehicle will limit it's speed when the player's control is disabled (used in cutscenes etc). Default is to limit
-```
+

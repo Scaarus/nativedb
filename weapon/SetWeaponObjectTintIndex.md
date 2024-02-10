@@ -9,6 +9,5 @@ aliases: ["0xf827589017d4e4a9"]
 void SET_WEAPON_OBJECT_TINT_INDEX(Object object, int TintIndex);
 ```
 
-```
 Set the tint values on a weapon object
-```
+

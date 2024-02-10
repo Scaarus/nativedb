@@ -9,6 +9,5 @@ aliases: ["0xd53acdbef24a46e8"]
 bool UGC_IS_GETTING();
 ```
 
-```
 Query results of GET functions
-```
+

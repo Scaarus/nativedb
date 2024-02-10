@@ -9,6 +9,5 @@ aliases: ["0xee4c0e6dbc6f2c6f"]
 void FORCE_CLOSE_REPORTUGC_MENU();
 ```
 
-```
 Closes the report menu for UGC player missions
-```
+

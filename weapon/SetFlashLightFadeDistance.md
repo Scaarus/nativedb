@@ -9,6 +9,5 @@ aliases: ["0xcea66dad478cd39b"]
 bool SET_FLASH_LIGHT_FADE_DISTANCE(float distance);
 ```
 
-```
 Set the distance at which flashlights are no longer drawn.
-```
+

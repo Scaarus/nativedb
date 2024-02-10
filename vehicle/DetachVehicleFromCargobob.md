@@ -9,6 +9,5 @@ aliases: ["0x0e21d3df1051399d"]
 void DETACH_VEHICLE_FROM_CARGOBOB(Vehicle vehicle, Vehicle vehicle);
 ```
 
-```
 Detach the vehicle from cargobob
-```
+

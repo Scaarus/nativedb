@@ -9,6 +9,5 @@ aliases: ["0x7a3f19700a4d0525"]
 bool IS_STUNT_JUMP_IN_PROGRESS();
 ```
 
-```
 Returns true if a stunt jump is in progress.
-```
+

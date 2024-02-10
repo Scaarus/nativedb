@@ -9,6 +9,5 @@ aliases: ["0x9cd43eee12bf4dd0"]
 int ADD_ENTITY_ICON(Entity entity, string pTextureName);
 ```
 
-```
 Adds a Icon over the entity
-```
+

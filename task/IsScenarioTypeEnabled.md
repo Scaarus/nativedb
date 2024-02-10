@@ -9,8 +9,7 @@ aliases: ["0x3a815db3ea088722"]
 bool IS_SCENARIO_TYPE_ENABLED(string scenarioTypeName);
 ```
 
-```
 Check if a particular scenario type is enabled (hasn't been disabled by SET_SCENARIO_TYPE_ENABLED).
 
 Returns TRUE if the scenario type hasn't been disabled.
-```
+

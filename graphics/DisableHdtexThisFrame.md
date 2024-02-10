@@ -9,6 +9,5 @@ aliases: ["0xc35a6d07c93802b2"]
 void DISABLE_HDTEX_THIS_FRAME();
 ```
 
-```
 Disables ambient hd tex requests for this frame, call each frame as required.
-```
+

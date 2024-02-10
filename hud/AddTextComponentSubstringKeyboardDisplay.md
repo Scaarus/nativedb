@@ -9,6 +9,5 @@ aliases: ["0x5f68520888e69014"]
 void ADD_TEXT_COMPONENT_SUBSTRING_KEYBOARD_DISPLAY(string StringContainingKeysTypedByPlayer);
 ```
 
-```
 For scripts with an onscreen keyboard, use this to display the resulting string. Use ~a~ to mark the position in your line of text where you want this substring inserted
-```
+

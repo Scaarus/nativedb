@@ -9,6 +9,5 @@ aliases: ["0xd009f759a723db1b"]
 void ROPE_FORCE_LENGTH(float len);
 ```
 
-```
 Force rope length
-```
+

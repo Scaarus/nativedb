@@ -9,6 +9,5 @@ aliases: ["0x24a2ad74fa9814e2"]
 bool IS_MOVE_BLEND_RATIO_SPRINTING(float MoveBlendRatio);
 ```
 
-```
 Returns true if the passed in move blend ratio is in the appropriate range
-```
+

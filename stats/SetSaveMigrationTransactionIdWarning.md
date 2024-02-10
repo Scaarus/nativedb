@@ -9,6 +9,5 @@ aliases: ["0xf6792800ac95350d"]
 void SET_SAVE_MIGRATION_TRANSACTION_ID_WARNING();
 ```
 
-```
 PURPOSE SetUnset value for profile setting SAVE_MIGRATION_TRANSACTION_ID_WARNING.
-```
+

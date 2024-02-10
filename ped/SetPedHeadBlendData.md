@@ -9,11 +9,10 @@ aliases: ["0x9414e18b9434c2fe"]
 void SET_PED_HEAD_BLEND_DATA(Ped ped, int head0, int head1, int head2, int tex0, int tex1, int tex2, float headBlend, float texBlend, float varBlend, bool parent);
 ```
 
-```
 Sets all drawables and textures needed to create a blended multiplayer ped head.
 
 The data set with this function auguments the ped variation, it does _not_ replace it and a variation will be required on the ped too.
-```
+
 
 ## Parameters
 * **ped**: 

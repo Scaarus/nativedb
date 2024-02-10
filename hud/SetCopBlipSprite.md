@@ -9,6 +9,5 @@ aliases: ["0x9fcb3cbfb3ead69a"]
 void SET_COP_BLIP_SPRITE(int sprite, float blipScale);
 ```
 
-```
 All cop ped blips will use this sprite
-```
+

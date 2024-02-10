@@ -9,6 +9,5 @@ aliases: ["0xa6294919e56ff02a"]
 void DISPLAY_HUD(bool DisplayHudFlag);
 ```
 
-```
 Displays the hud.
-```
+

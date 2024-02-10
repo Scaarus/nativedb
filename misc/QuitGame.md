@@ -9,6 +9,5 @@ aliases: ["0xeb6891f03362fb12"]
 void QUIT_GAME();
 ```
 
-```
 Exit the game (on PC)
-```
+

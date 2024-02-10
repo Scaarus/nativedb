@@ -9,6 +9,5 @@ aliases: ["0xc406be343fc4b9af"]
 bool IS_SOCIAL_CLUB_ACTIVE();
 ```
 
-```
 Returns if the social club menu is open.
-```
+

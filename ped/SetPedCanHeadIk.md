@@ -9,6 +9,5 @@ aliases: ["0xc11c18092c5530dc"]
 void SET_PED_CAN_HEAD_IK(Ped ped, bool EnableIK);
 ```
 
-```
 Enables/Disables head ik
-```
+

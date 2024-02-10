@@ -9,6 +9,5 @@ aliases: ["0x2c2e3dc128f44309"]
 void SET_ENTITY_NOWEAPONDECALS(Entity entity, bool NoWeaponDecals);
 ```
 
-```
 Setup an entity to not receive weapon decals
-```
+

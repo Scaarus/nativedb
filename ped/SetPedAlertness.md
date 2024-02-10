@@ -9,14 +9,13 @@ aliases: ["0xdba71115ed9941a6"]
 void SET_PED_ALERTNESS(Ped ped, int AlertState);
 ```
 
-```
 Sets a peds alertness state
 
-Possible values for AlertState:
-| Index | Name |
+## AlertState Values:
+| Value | Name |
 | --- | --- |
 | 0 | Not Alert |
 | 1 | Alert |
 | 2 | Very Alert |
 | 3 | Must Go To Combat |
-```
+

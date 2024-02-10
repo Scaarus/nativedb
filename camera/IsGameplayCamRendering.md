@@ -9,8 +9,7 @@ aliases: ["0x39b5d1b10383f0c8"]
 bool IS_GAMEPLAY_CAM_RENDERING();
 ```
 
-```
 Is the gameplay director currently rendering?
 
 This command will return true if the gameplay director is the dominant rendering director. The gameplay director is responsible for the follow and aim cameras.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x9dc711bc69c548df"]
 void TERMINATE_ALL_SCRIPTS_WITH_THIS_NAME(string NameOfScriptToTerminate);
 ```
 
-```
 Terminates all scripts with the specified name.
-```
+

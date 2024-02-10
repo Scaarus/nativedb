@@ -9,6 +9,5 @@ aliases: ["0x58f735290861e6b4"]
 void PUSH_TIMECYCLE_MODIFIER();
 ```
 
-```
 Push the current timecycle modifiers, effectively saving values to be restored later.
-```
+

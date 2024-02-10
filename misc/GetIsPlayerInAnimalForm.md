@@ -9,6 +9,5 @@ aliases: ["0x9689123e3f213aa5"]
 bool GET_IS_PLAYER_IN_ANIMAL_FORM();
 ```
 
-```
 Queries whether the player is using an animal as a model
-```
+

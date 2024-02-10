@@ -9,11 +9,10 @@ aliases: ["0xee08c992d238c5d1"]
 void STOP_ANIM_PLAYBACK(Entity entity, int priority, bool secondary);
 ```
 
-```
 Stops animation on an existing TASK_SCRIPTED_ANIMATION.
 
-Possible values for priority:
-| Index | Name |
+## priority Values:
+| Value | Name |
 | --- | --- |
 | 0 | Low |
 | 1 | Medium |
@@ -21,7 +20,7 @@ Possible values for priority:
 
 
 Stops playback of animation on the given priority level of an existing TASK_SCRIPTED_ANIMATION
-```
+
 
 ## Parameters
 * **entity**: 

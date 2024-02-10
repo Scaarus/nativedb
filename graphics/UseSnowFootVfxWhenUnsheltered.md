@@ -9,6 +9,5 @@ aliases: ["0xaeedad1420c65cc0"]
 void USE_SNOW_FOOT_VFX_WHEN_UNSHELTERED(bool enable);
 ```
 
-```
 When the ped is unsheltered all foot effects will use the snow vfx group
-```
+

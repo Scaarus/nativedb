@@ -9,6 +9,5 @@ aliases: ["0x2ddff3fb9075d747"]
 bool IS_ENTITY_FOCUS(Entity entity);
 ```
 
-```
 returns true if the specified entity is the current focus.
-```
+

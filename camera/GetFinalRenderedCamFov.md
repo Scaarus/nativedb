@@ -9,6 +9,5 @@ aliases: ["0x80ec114669daeff4"]
 float GET_FINAL_RENDERED_CAM_FOV();
 ```
 
-```
 Get the FOV of the final rendered cam.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xcbdb9b923cacc92d"]
 Vector3 GET_ATTACHED_PICK_UP_HOOK_POSITION(Vehicle vehicle);
 ```
 
-```
 Return position of attached pick up hook. Will assert if no pick up rope attached
-```
+

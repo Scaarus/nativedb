@@ -9,6 +9,5 @@ aliases: ["0xefb55e7c25d3b3be"]
 void OVERRIDE_INTERIOR_SMOKE_END();
 ```
 
-```
 Overrides the interior smoke effect name
-```
+

@@ -9,8 +9,7 @@ aliases: ["0xbc72b5d7a1cbd54d"]
 bool IS_INTERIOR_SCENE();
 ```
 
-```
 Chscks if the game is in an interior.
 
 Can be used to stop certain cheats activating.
-```
+

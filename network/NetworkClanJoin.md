@@ -9,6 +9,5 @@ aliases: ["0x9faaa4f4fc71f87f"]
 bool NETWORK_CLAN_JOIN(int clanId);
 ```
 
-```
 Join a open clan.
-```
+

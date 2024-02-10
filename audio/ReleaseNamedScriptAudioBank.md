@@ -9,6 +9,5 @@ aliases: ["0x77ed170667f50170"]
 void RELEASE_NAMED_SCRIPT_AUDIO_BANK(string BankName);
 ```
 
-```
 Unloads a named script audio bank.
-```
+

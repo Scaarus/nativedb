@@ -9,11 +9,10 @@ aliases: ["0x67f3780dd425d4fc"]
 int GET_PED_DRAWABLE_VARIATION(Ped ped, int ComponentNumber);
 ```
 
-```
 Gets the index of the current drawable (geometry) for the specified part of the ped's body (component). More infp..
 
-Possible values for ComponentNumber:
-| Index | Name |
+## ComponentNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -30,4 +29,4 @@ Possible values for ComponentNumber:
 
 
 Each ped model can have several drawables for each component. Each drawable can have several textures.
-```
+

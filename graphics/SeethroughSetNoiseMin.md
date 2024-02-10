@@ -9,6 +9,5 @@ aliases: ["0xff5992e1c9e65d05"]
 void SEETHROUGH_SET_NOISE_MIN(float param);
 ```
 
-```
 SeeThrough Effect : Set the minimum amount of image noise
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc449eded9d73009c"]
 void STOP_PLAYER_TELEPORT();
 ```
 
-```
 Stops teleport, shuts down the load scene, if active
-```
+

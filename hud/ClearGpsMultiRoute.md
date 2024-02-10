@@ -9,6 +9,5 @@ aliases: ["0x67eedea1b9bafd94"]
 void CLEAR_GPS_MULTI_ROUTE();
 ```
 
-```
 Removes the multi-route
-```
+

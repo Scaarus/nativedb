@@ -9,11 +9,10 @@ aliases: ["0x3be0bb12d25fb305"]
 damage_type GET_WEAPON_DAMAGE_TYPE(Hash weaponHash);
 ```
 
-```
 Get the weapon damage type
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Unknown |
 | 1251 | None |
@@ -31,4 +30,4 @@ Possible return values:
 | 1263 | Smoke |
 | 1264 | Water Cannon |
 | 1265 | Tranquilizer |
-```
+

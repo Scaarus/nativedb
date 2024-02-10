@@ -9,6 +9,5 @@ aliases: ["0x99093f60746708ca"]
 Entity GET_ENTITY_ATTACHED_TO_CARGOBOB(Vehicle vehicle);
 ```
 
-```
 Return the entity index that is attached to cargobob
-```
+

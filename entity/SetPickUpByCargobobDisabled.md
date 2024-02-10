@@ -9,6 +9,5 @@ aliases: ["0xd7b80e7c3befc396"]
 void SET_PICK_UP_BY_CARGOBOB_DISABLED(Entity entity, bool disablePickUp);
 ```
 
-```
 Sets whether an entity is prevented from being picked up by cargobobs
-```
+

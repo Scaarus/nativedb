@@ -9,6 +9,5 @@ aliases: ["0xd11fa52eb849d978"]
 bool IS_STREAM_PLAYING();
 ```
 
-```
 True if script is currently playing a stream
-```
+

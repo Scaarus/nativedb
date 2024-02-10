@@ -9,6 +9,5 @@ aliases: ["0xeeb64139ba29a7cf"]
 void SET_PED_DIES_INSTANTLY_IN_WATER(Ped ped, bool DiesInstantly);
 ```
 
-```
 Sets whether the ped will die instantly if it finds itself in a body of water.
-```
+

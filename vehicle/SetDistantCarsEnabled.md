@@ -9,6 +9,5 @@ aliases: ["0xf796359a959df65d"]
 void SET_DISTANT_CARS_ENABLED(bool enable);
 ```
 
-```
 Turns distant cars on/off
-```
+

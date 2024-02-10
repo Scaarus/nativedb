@@ -9,6 +9,5 @@ aliases: ["0x07c61676e5bb52cd"]
 bool SC_LICENSEPLATE_GET_ADD_IS_PENDING(int token);
 ```
 
-```
 check if the given request is still pending
-```
+

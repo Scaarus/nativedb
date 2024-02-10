@@ -9,6 +9,5 @@ aliases: ["0x539de94d44fdfd0d"]
 float GET_VEHICLE_MODEL_MAX_TRACTION(Hash modelHash);
 ```
 
-```
 Get the maximum traction force this vehicles tyres can apply
-```
+

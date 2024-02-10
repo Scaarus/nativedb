@@ -9,6 +9,5 @@ aliases: ["0x78cfe51896b6b8a4"]
 bool IS_PLAYER_TARGETTING_ANYTHING();
 ```
 
-```
 Returns TRUE if the player is pointing his weapon at the specified entity
-```
+

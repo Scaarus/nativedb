@@ -9,6 +9,5 @@ aliases: ["0x8bb4ef4214e0e6d5"]
 float GET_ENTITY_FORWARD_X(Entity entity);
 ```
 
-```
 Gets the entity's forward X component.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x36f32de87082343e"]
 void SET_ALLOW_MIGRATE_TO_SPECTATOR(Entity entity, bool ignoreCanAccept);
 ```
 
-```
 Set Ignore CanAcceptControl flag on physical entity
-```
+

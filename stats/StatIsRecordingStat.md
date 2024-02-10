@@ -9,6 +9,5 @@ aliases: ["0x8b9cdbd6c566c38c"]
 bool STAT_IS_RECORDING_STAT();
 ```
 
-```
 PURPOSE Check if we're already recording a stat
-```
+

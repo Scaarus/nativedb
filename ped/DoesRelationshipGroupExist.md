@@ -9,6 +9,5 @@ aliases: ["0xcc6e3b6bb69501f1"]
 bool DOES_RELATIONSHIP_GROUP_EXIST(Hash relGroup);
 ```
 
-```
 returns true if the relationship group exists.
-```
+

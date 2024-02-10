@@ -9,6 +9,5 @@ aliases: ["0xc9f98ac1884e73a2"]
 void DISABLE_VEHICLE_DISTANTLIGHTS(bool enable);
 ```
 
-```
 Disable vehicle distant lights rendering.
-```
+

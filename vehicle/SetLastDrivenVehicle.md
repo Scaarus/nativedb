@@ -9,6 +9,5 @@ aliases: ["0xacfb2463cc22bed2"]
 void SET_LAST_DRIVEN_VEHICLE(Vehicle vehicle);
 ```
 
-```
 Sets the player interesting vehicle which will be kept around in the world for longer than regular vehicles
-```
+

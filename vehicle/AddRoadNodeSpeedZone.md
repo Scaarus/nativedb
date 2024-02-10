@@ -9,9 +9,8 @@ aliases: ["0x2ce544c68fb812a0"]
 int ADD_ROAD_NODE_SPEED_ZONE(Vector3 center, float radius, float maxSpeed, bool AllowAffectMissionVehs);
 ```
 
-```
 Adds a road speed zone at the specified position+radius. Cars cruising in this volume will travel] at a max speed of the param "maxSpeed". This only affects cars running TASK_VEHICLE_CRUISE
-```
+
 
 ## Parameters
 * **center**: Position to add the speed zone

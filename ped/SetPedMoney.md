@@ -9,6 +9,5 @@ aliases: ["0xa9c8960e8684c1b5"]
 void SET_PED_MONEY(Ped ped, int MoneyToSet);
 ```
 
-```
 Sets the peds money.
-```
+

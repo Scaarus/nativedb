@@ -9,6 +9,5 @@ aliases: ["0x98215325a695e78a"]
 void SET_MOUSE_CURSOR_VISIBLE(bool Visible);
 ```
 
-```
 hides/shows the mouse pointer
-```
+

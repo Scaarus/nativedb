@@ -9,8 +9,7 @@ aliases: ["0xcd9cc7e200a52a6f"]
 void TAKE_OWNERSHIP_OF_SYNCHRONIZED_SCENE();
 ```
 
-```
 Assigns ownership, and therefore lifetime, of this synced scene to this script.
 
 Use this command to assign the lifetime of a synced scene to the script this function is called from
-```
+

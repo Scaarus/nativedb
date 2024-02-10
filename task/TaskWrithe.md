@@ -9,17 +9,16 @@ aliases: ["0xcddc2b77ce54ac6e"]
 void TASK_WRITHE(Ped ped, Ped ped, int nMinFireLoops, int StartState, bool ForceShootOnGround, int nShootFromGroundTimer);
 ```
 
-```
 Puts the ped into the hurt state, a target needs to be provided
 
-Possible values for StartState:
-| Index | Name |
+## StartState Values:
+| Value | Name |
 | --- | --- |
 | 0 |  |
 
 
 MinFireLoops is atleast how many times the ped will be going in the shoot from ground
-```
+
 
 ## Parameters
 * **ped**: 

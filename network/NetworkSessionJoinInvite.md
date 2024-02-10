@@ -9,6 +9,5 @@ aliases: ["0xc6f8ab8a4189cf3a"]
 void NETWORK_SESSION_JOIN_INVITE();
 ```
 
-```
 Joins the session indicated by the pending invite
-```
+

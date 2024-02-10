@@ -9,11 +9,10 @@ aliases: ["0x149916f50c34a40d"]
 void HARD_ATTACH_CAM_TO_PED_BONE(Camera camera, Ped ped, int BoneTag, Vector3 vecRotationOffset, Vector3 vecPositionOffset, bool OffsetIsRelative);
 ```
 
-```
 Attaches a camera to a ped's bone full matrix.
 
-Possible values for BoneTag:
-| Index | Name |
+## BoneTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Null |
 | 0 | Root |
@@ -72,7 +71,7 @@ Possible values for BoneTag:
 | 64112 | R Finger21 |
 | 64113 | R Finger22 |
 | 64729 | L Clavicle |
-```
+
 
 ## Parameters
 * **camera**: 

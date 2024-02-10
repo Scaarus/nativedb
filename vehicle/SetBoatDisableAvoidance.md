@@ -9,6 +9,5 @@ aliases: ["0x0a6a279f3aa4fd70"]
 void SET_BOAT_DISABLE_AVOIDANCE(Vehicle vehicle, bool DisableBoatAvoidance);
 ```
 
-```
 toggles on off boat avoidance
-```
+

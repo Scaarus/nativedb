@@ -9,13 +9,12 @@ aliases: ["0x293220da1b46cebc"]
 void REPLAY_RECORD_BACK_FOR_TIME(float backTime, float forwardTime, int importance);
 ```
 
-```
-Possible values for importance:
-| Index | Name |
+## importance Values:
+| Value | Name |
 | --- | --- |
 | 0 | Lowest |
 | 1 | Low |
 | 2 | Normal |
 | 3 | High |
 | 4 | Highest |
-```
+

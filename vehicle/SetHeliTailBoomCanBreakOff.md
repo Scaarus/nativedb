@@ -9,6 +9,5 @@ aliases: ["0x3ec8bf18aa453fe9"]
 bool SET_HELI_TAIL_BOOM_CAN_BREAK_OFF(Vehicle vehicle, bool CanBreakOff);
 ```
 
-```
 Set the heli tail boom can be broken off or not
-```
+

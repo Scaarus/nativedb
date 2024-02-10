@@ -9,6 +9,5 @@ aliases: ["0xc9b18b4619f48f7b"]
 void FADE_UP_PED_LIGHT(float seconds);
 ```
 
-```
 Trigger the ped light to fade up when this command is called
-```
+

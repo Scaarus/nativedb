@@ -9,6 +9,5 @@ aliases: ["0xb0034a223497ffcb"]
 bool IS_PAUSE_MENU_ACTIVE();
 ```
 
-```
 Checks if the pause menu is active.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc53eb42a499a7e90"]
 void REMOVE_VEHICLE_UPSIDEDOWN_CHECK(Vehicle vehicle);
 ```
 
-```
 Remove a upsidedown vehicle check
-```
+

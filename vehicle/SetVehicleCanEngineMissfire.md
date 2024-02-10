@@ -9,8 +9,7 @@ aliases: ["0x206bc5dc9d1ac70a"]
 void SET_VEHICLE_CAN_ENGINE_MISSFIRE(Vehicle vehicle, bool Val);
 ```
 
-```
 Allow a MISSION vehicle engine to missfire
 
 Sets whether a vehicles engine can missfire
-```
+

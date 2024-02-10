@@ -9,6 +9,5 @@ aliases: ["0x1077788e268557c2"]
 bool NETWORK_IS_SIGNED_ONLINE();
 ```
 
-```
 Returns TRUE if the local player is online.
-```
+

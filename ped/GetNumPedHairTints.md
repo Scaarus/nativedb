@@ -9,6 +9,5 @@ aliases: ["0xe5c0cf872c2ad150"]
 int GET_NUM_PED_HAIR_TINTS();
 ```
 
-```
 Returns the total number of available hair/overlay tints
-```
+

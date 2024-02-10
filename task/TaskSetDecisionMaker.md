@@ -9,15 +9,14 @@ aliases: ["0xeb8517dda73720da"]
 void TASK_SET_DECISION_MAKER(Ped ped, int DecisionMakerId);
 ```
 
-```
 Sets the ped to have their decision maker set as part of a sequence.
 
-Possible values for DecisionMakerId:
-| Index | Name |
+## DecisionMakerId Values:
+| Value | Name |
 | --- | --- |
 | -1533126372 | Cop |
 | -1143637011 | Empty |
 | -455129387 | Default |
 | 0 | Invalid |
 | 1862763509 | Player |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x2206bf9a37b7f724"]
 void ANIMPOSTFX_PLAY(string effectName, int durationMs, bool playLooped);
 ```
 
-```
 triggers a predefined animated
-```
+

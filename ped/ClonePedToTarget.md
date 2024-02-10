@@ -9,6 +9,5 @@ aliases: ["0xe952d6431689ad9a"]
 void CLONE_PED_TO_TARGET(Ped ped, Ped ped);
 ```
 
-```
 Copies variation and head blend settings from one ped to another.
-```
+

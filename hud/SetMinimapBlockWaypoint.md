@@ -9,6 +9,5 @@ aliases: ["0x58fadded207897dc"]
 void SET_MINIMAP_BLOCK_WAYPOINT(bool Block);
 ```
 
-```
 Blocks the input for adding waypoints
-```
+

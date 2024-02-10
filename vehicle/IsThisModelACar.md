@@ -9,6 +9,5 @@ aliases: ["0x7f6db52eefc96df8"]
 bool IS_THIS_MODEL_A_CAR(Hash modelHash);
 ```
 
-```
 Checks that vehicle model is a car model
-```
+

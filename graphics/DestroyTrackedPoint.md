@@ -9,6 +9,5 @@ aliases: ["0xb25dc90bad56ca42"]
 void DESTROY_TRACKED_POINT(int queryIdx);
 ```
 
-```
 Destry a previously created tracked point
-```
+

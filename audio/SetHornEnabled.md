@@ -9,6 +9,5 @@ aliases: ["0x76d683c108594d0e"]
 void SET_HORN_ENABLED(Vehicle vehicle, bool Enable);
 ```
 
-```
 Set the horn to be enabled or disabled
-```
+

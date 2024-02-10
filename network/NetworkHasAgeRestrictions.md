@@ -9,6 +9,5 @@ aliases: ["0x1353f87e89946207"]
 bool NETWORK_HAS_AGE_RESTRICTIONS();
 ```
 
-```
 Returns true if the local player has an age restricted account
-```
+

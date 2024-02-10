@@ -9,6 +9,5 @@ aliases: ["0x399d2d3b33f1b8eb"]
 void SET_STATIC_EMITTER_ENABLED(string EmitterName, bool enabled);
 ```
 
-```
 Enables or disables a named static emitter
-```
+

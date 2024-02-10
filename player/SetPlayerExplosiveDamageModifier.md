@@ -9,11 +9,10 @@ aliases: ["0xd821056b9acf8052"]
 void SET_PLAYER_EXPLOSIVE_DAMAGE_MODIFIER(Player player, float Modifier);
 ```
 
-```
 Applies an explosive damage modifier to the player when receiving explosive damage.
 
 This function will change the given players explosive damage multiplier.
-```
+
 
 ## Parameters
 * **player**: 

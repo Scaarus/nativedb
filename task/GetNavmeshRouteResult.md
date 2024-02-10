@@ -9,9 +9,8 @@ aliases: ["0x632e831f382a0fa8"]
 navmesh_route_result GET_NAVMESH_ROUTE_RESULT(Ped ped);
 ```
 
-```
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 12 | Task Not Found On Navmesh Task Was Found On The Ped |
 | 13 | Route Not Yet Tried The Task Has Not Yet Looked For A Route |
@@ -20,4 +19,4 @@ Possible return values:
 
 
 Retruns the state of any active TASK_FOLLOW_NAVMESH_TO_COORD task running on the ped
-```
+

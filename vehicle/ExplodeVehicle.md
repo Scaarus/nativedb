@@ -9,8 +9,7 @@ aliases: ["0xba71116adf5b514c"]
 void EXPLODE_VEHICLE(Vehicle vehicle, bool AddExplosion, bool KeepDamageEntity);
 ```
 
-```
 Explodes a vehicle.
 
 Add Explosion will determines if an explosion happens
-```
+

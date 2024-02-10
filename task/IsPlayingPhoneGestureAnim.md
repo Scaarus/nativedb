@@ -9,6 +9,5 @@ aliases: ["0xb8ebb1e9d3588c10"]
 bool IS_PLAYING_PHONE_GESTURE_ANIM();
 ```
 
-```
 Returns true if the ped is playing a phone gesture anim
-```
+

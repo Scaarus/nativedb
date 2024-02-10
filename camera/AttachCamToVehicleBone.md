@@ -9,9 +9,8 @@ aliases: ["0x8db3f12a02caef72"]
 void ATTACH_CAM_TO_VEHICLE_BONE(Camera camera, Entity entity, int vehicleBoneIndex, bool hardAttachment, Vector3 vecRotationOffset, Vector3 vecPositionOffset, bool OffsetIsRelative);
 ```
 
-```
 Attaches a camera to a vehicle's bone.
-```
+
 
 ## Parameters
 * **camera**: 

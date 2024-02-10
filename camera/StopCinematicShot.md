@@ -9,13 +9,12 @@ aliases: ["0x7660c6e75d3a078e"]
 void STOP_CINEMATIC_SHOT(int Shot);
 ```
 
-```
 Stops and deletes the current shot
 
-Possible values for Shot:
-| Index | Name |
+## Shot Values:
+| Value | Name |
 | --- | --- |
 | 74 | Camera Man |
 | 75 | Heli Chase |
 | 76 | Vehicle Mounted Camera |
-```
+

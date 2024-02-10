@@ -9,6 +9,5 @@ aliases: ["0xbd6e84632dd4cb3f"]
 void LOAD_ALL_OBJECTS_NOW();
 ```
 
-```
 Load all the objects on the streaming request list
-```
+

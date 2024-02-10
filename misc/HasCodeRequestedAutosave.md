@@ -9,6 +9,5 @@ aliases: ["0x2107a3773771186d"]
 bool HAS_CODE_REQUESTED_AUTOSAVE();
 ```
 
-```
 Returns TRUE if an autosave has been requested by code.
-```
+

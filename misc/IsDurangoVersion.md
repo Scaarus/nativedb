@@ -9,6 +9,5 @@ aliases: ["0x4d982adb1978442d"]
 bool IS_DURANGO_VERSION();
 ```
 
-```
 Returns TRUE when running with the Durango executable
-```
+

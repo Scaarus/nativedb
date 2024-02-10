@@ -9,6 +9,5 @@ aliases: ["0xb8ff7ab45305c345"]
 void START_VEHICLE_ALARM(Vehicle vehicle);
 ```
 
-```
 Starts the vehicle alarm
-```
+

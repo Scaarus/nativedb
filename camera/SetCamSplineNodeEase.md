@@ -9,11 +9,10 @@ aliases: ["0x83b8201ed82a9a2d"]
 void SET_CAM_SPLINE_NODE_EASE(Camera camera, int NodeIndex, int Flags, float Scale);
 ```
 
-```
 Set per-node easing with a scaler to control how quickly the ease ramps up/down.
 
-Possible values for Flags:
-| Index | Name |
+## Flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Flags |
 | 1 | Smooth Rot |
@@ -24,4 +23,4 @@ Possible values for Flags:
 
 
 Nodes must be setup first, then the linear flag can be modified.
-```
+

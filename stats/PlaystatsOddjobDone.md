@@ -9,9 +9,8 @@ aliases: ["0x69dea3e9db727b4c"]
 void PLAYSTATS_ODDJOB_DONE(int timeSpent, int oddJobId, int extraOddJobId);
 ```
 
-```
 Metric set when an oddjob is completed.
-```
+
 
 ## Parameters
 * **timeSpent**: Time spent in odd job.

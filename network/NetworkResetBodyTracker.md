@@ -9,6 +9,5 @@ aliases: ["0x72433699b4e6dd64"]
 void NETWORK_RESET_BODY_TRACKER();
 ```
 
-```
 Clear all body parts damaged.
-```
+

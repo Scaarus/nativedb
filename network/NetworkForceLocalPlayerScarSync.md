@@ -9,6 +9,5 @@ aliases: ["0xb7c7f6ad6424304b"]
 void NETWORK_FORCE_LOCAL_PLAYER_SCAR_SYNC();
 ```
 
-```
 Forces a sync update of the player scar data to all remote players - THIS IS A VERY BANDWIDTH INTENSIVE FUNCTION - PLEASE USE WITH CARE
-```
+

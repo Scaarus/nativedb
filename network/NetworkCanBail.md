@@ -9,6 +9,5 @@ aliases: ["0x580ce4438479cc61"]
 bool NETWORK_CAN_BAIL();
 ```
 
-```
 Return True if the game can call bail from a network game.
-```
+

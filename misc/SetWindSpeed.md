@@ -9,6 +9,5 @@ aliases: ["0xee09ecedbabe47fc"]
 void SET_WIND_SPEED(float WindSpeed);
 ```
 
-```
 Sets the wind speed
-```
+

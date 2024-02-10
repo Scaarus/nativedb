@@ -9,6 +9,5 @@ aliases: ["0xb70374a758007dfa"]
 void PLAY_STREAM_FROM_VEHICLE(Vehicle vehicle);
 ```
 
-```
 Plays a preloaded stream back from a specified veh.
-```
+

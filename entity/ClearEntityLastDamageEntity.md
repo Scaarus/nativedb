@@ -9,6 +9,5 @@ aliases: ["0xa72cd9ca74a5ecba"]
 void CLEAR_ENTITY_LAST_DAMAGE_ENTITY(Entity entity);
 ```
 
-```
 Clears the last damage that has been applied to an entity
-```
+

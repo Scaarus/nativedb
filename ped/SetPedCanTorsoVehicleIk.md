@@ -9,6 +9,5 @@ aliases: ["0x6647c5f6f5792496"]
 void SET_PED_CAN_TORSO_VEHICLE_IK(Ped ped, bool EnableIK);
 ```
 
-```
 Enables/Disables torso vehicle ik
-```
+

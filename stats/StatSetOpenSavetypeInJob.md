@@ -9,11 +9,10 @@ aliases: ["0x5688585e6d563cd8"]
 void STAT_SET_OPEN_SAVETYPE_IN_JOB(int save);
 ```
 
-```
 Default behaviour is to never save during a jobactivity. We can use this comamnd to open certain saves.
 
-Possible values for save:
-| Index | Name |
+## save Values:
+| Value | Name |
 | --- | --- |
 | 38 |  |
-```
+

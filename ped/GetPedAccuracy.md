@@ -9,6 +9,5 @@ aliases: ["0x37f4ad56ecbc0cd6"]
 int GET_PED_ACCURACY(Ped ped);
 ```
 
-```
 Gets the peds shooting accuracy, between 0 to 100. Returns -1 if ped doesn't exist.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xb7c6d80fb371659a"]
 void CLEAR_EXTENDED_PICKUP_PROBE_AREAS();
 ```
 
-```
 Removes all added areas
-```
+

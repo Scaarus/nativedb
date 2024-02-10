@@ -9,11 +9,10 @@ aliases: ["0x5c3d0a935f535c4c"]
 material_names GET_LAST_MATERIAL_HIT_BY_ENTITY(Entity entity);
 ```
 
-```
 Returns the last material hit by an entity if any, this frame(INVALID_MATERIAL otherwise). Materials should be identified using the enums in material_enums.sch.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -2098049209 | TENNIS_FENCE_3 |
 | -2073312001 | GOLF_MISC |
@@ -58,4 +57,4 @@ Possible return values:
 | 1907048430 | TENNIS_TURF |
 | 1925605558 | TRAIN_TRACKS_GRAVEL |
 | 2128369009 | TRAIN_TRACKS_GRAVEL_2 |
-```
+

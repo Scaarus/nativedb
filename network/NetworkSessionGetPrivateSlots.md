@@ -9,6 +9,5 @@ aliases: ["0x53afd64c6758f2f9"]
 int NETWORK_SESSION_GET_PRIVATE_SLOTS();
 ```
 
-```
 Returns the maximum available private slots
-```
+

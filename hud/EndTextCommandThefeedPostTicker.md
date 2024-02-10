@@ -9,9 +9,8 @@ aliases: ["0x2ed7843f8f801023"]
 int END_TEXT_COMMAND_THEFEED_POST_TICKER(bool IsImportant, bool CacheMessage);
 ```
 
-```
 Displays the ticker message string in the top left of the HUD
-```
+
 
 ## Parameters
 * **IsImportant**: T

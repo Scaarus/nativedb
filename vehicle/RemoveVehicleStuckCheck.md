@@ -9,6 +9,5 @@ aliases: ["0x8386bfb614d06749"]
 void REMOVE_VEHICLE_STUCK_CHECK(Vehicle vehicle);
 ```
 
-```
 Removes a vehicle stuck check
-```
+

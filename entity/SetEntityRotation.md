@@ -9,11 +9,10 @@ aliases: ["0x8524a8b0171d5e07"]
 void SET_ENTITY_ROTATION(Entity entity, Vector3 NewRotation, int RotOrder, bool DoDeadCheck);
 ```
 
-```
 Sets the entity's rotation.
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -22,4 +21,4 @@ Possible values for RotOrder:
 | 4 | Zxy |
 | 5 | Zyx |
 | 6 | Max |
-```
+

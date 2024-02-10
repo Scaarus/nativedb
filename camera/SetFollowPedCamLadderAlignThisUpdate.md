@@ -9,6 +9,5 @@ aliases: ["0xc8391c309684595a"]
 void SET_FOLLOW_PED_CAM_LADDER_ALIGN_THIS_UPDATE();
 ```
 
-```
 Forces follow ped camera to use ladder alignment code for next update. Call this repeatedly during scripted sequences where this behaviour is required.
-```
+

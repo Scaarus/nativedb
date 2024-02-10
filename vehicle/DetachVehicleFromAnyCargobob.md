@@ -9,6 +9,5 @@ aliases: ["0xadf7be450512c12f"]
 bool DETACH_VEHICLE_FROM_ANY_CARGOBOB(Vehicle vehicle);
 ```
 
-```
 Detach the vehicle from any cargobob
-```
+

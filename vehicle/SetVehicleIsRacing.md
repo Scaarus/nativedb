@@ -9,6 +9,5 @@ aliases: ["0x07116e24e9d1929d"]
 void SET_VEHICLE_IS_RACING(Vehicle vehicle, bool Racing);
 ```
 
-```
 If bRacing is set to true, vehicle will use more aggressive avoidance parameters when avoiding other vehicles that are also racing
-```
+

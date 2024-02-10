@@ -9,6 +9,5 @@ aliases: ["0x749b023950d2311c"]
 string APP_GET_STRING(string name);
 ```
 
-```
 Get the named string from the fetched data block
-```
+

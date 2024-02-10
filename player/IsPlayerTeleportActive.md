@@ -9,6 +9,5 @@ aliases: ["0x02b15662d7f8886f"]
 bool IS_PLAYER_TELEPORT_ACTIVE();
 ```
 
-```
 Returns true if a player teleport is currently active
-```
+

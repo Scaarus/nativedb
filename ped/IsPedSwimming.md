@@ -9,6 +9,5 @@ aliases: ["0x9de327631295b4c2"]
 bool IS_PED_SWIMMING(Ped ped);
 ```
 
-```
 Checks that the ped is swimming.
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x645d663dc4b987af"]
 void SET_VEHICLE_HANDLING_OVERRIDE(Vehicle vehicle, int HandlingOverrideHash);
 ```
 
-```
 Overrides the handling info for a given vehicle, so it will drive more aggressively or conservatively than normal vehicles of that type
 
-Possible values for HandlingOverrideHash:
-| Index | Name |
+## HandlingOverrideHash Values:
+| Value | Name |
 | --- | --- |
 | -2056575896 | Crap |
 | -1532864817 | Sports Car |
@@ -22,4 +21,4 @@ Possible values for HandlingOverrideHash:
 
 
 HandlingOverrideHash takes a member of the enum HANDLING_INFOS, defined above
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc8b189ed9138bcd4"]
 void TERMINATE_THREAD(int thread);
 ```
 
-```
 Stops a thread running and deletes it
-```
+

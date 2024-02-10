@@ -9,6 +9,5 @@ aliases: ["0x84ed31191cc5d2c9"]
 bool GET_IS_HIDEF();
 ```
 
-```
 Returns if running in hidef
-```
+

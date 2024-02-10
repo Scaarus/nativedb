@@ -9,6 +9,5 @@ aliases: ["0x8ac862b0b32c5b80"]
 bool DOES_VEHICLE_HAVE_ROOF(Vehicle vehicle);
 ```
 
-```
 Checks that the vehicle has a roof.
-```
+

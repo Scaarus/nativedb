@@ -9,9 +9,8 @@ aliases: ["0xaab3200ed59016bc"]
 void SWITCH_TO_MULTI_FIRSTPART(Ped ped, int flags, int type);
 ```
 
-```
-Possible values for flags:
-| Index | Name |
+## flags Values:
+| Value | Name |
 | --- | --- |
 | 1 | Skip Intro |
 | 2 | Skip Outro |
@@ -31,8 +30,8 @@ Possible values for flags:
 | 32768 | Delay Ascent Fx |
 
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Auto |
 | 18 | Long |
@@ -43,4 +42,4 @@ Possible values for type:
 only use LONG switch here unless you've already checked the distance using GET_IDEAL_SWITCH_TYPE
 
 starts the ascent and hold part of the player switch (when going from SP to MP)
-```
+

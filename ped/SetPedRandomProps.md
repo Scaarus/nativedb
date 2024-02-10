@@ -9,6 +9,5 @@ aliases: ["0xc44aa05345c992c6"]
 void SET_PED_RANDOM_PROPS(Ped ped);
 ```
 
-```
 Randomly sets ped props
-```
+

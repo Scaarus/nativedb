@@ -9,6 +9,5 @@ aliases: ["0x916ca67d26fd1e37"]
 void ACTIVITY_FEED_LARGE_IMAGE_URL(string urlString);
 ```
 
-```
 Adds a large image to the open activity feed post
-```
+

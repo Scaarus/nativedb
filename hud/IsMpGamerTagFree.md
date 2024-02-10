@@ -9,6 +9,5 @@ aliases: ["0x595b5178e412e199"]
 bool IS_MP_GAMER_TAG_FREE(int iPlayerNum);
 ```
 
-```
 returns whether the gamer tag is free to use (not active and not being deleted).
-```
+

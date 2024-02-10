@@ -9,6 +9,5 @@ aliases: ["0x21bb0fbd3e217c2d"]
 Vector3 GET_ROPE_LAST_VERTEX_COORD();
 ```
 
-```
 Return the coordinates of last rope vertex. If rope wind/unwind last vertex may not be the last physical one.
-```
+

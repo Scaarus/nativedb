@@ -9,6 +9,5 @@ aliases: ["0x43e4111189e54f0e"]
 int GET_LENGTH_OF_LITERAL_STRING_IN_BYTES(string pLiteralString);
 ```
 
-```
 Returns the number of bytes in this string
-```
+

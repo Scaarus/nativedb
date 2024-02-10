@@ -9,6 +9,5 @@ aliases: ["0xcb645e85e97ea48b"]
 bool GET_IS_USING_HOOD_CAMERA();
 ```
 
-```
 Returns true if we are using hood camera.
-```
+

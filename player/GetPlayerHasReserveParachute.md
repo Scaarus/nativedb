@@ -9,6 +9,5 @@ aliases: ["0x5ddfe2ff727f3ca3"]
 bool GET_PLAYER_HAS_RESERVE_PARACHUTE(Player player);
 ```
 
-```
 This function returns true if player has a reserve parachute.
-```
+

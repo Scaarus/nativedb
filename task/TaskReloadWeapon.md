@@ -9,6 +9,5 @@ aliases: ["0x62d2916f56b9cd2d"]
 void TASK_RELOAD_WEAPON(bool DrawWeapon);
 ```
 
-```
 Tells the ped to reload their weapon.
-```
+

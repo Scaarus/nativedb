@@ -9,6 +9,5 @@ aliases: ["0xf6d733c32076ad03"]
 string GET_PLAYER_RADIO_STATION_NAME();
 ```
 
-```
 Gets the name of the players radio station. This serves as the text label.
-```
+

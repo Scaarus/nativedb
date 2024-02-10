@@ -9,6 +9,5 @@ aliases: ["0x3e71d0b300b7aa79"]
 bool GET_SUBMARINE_IS_UNDER_DESIGN_DEPTH(Vehicle vehicle);
 ```
 
-```
 Get whether the submarine is under its design depth
-```
+

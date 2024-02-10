@@ -9,16 +9,15 @@ aliases: ["0xcc97b29285b1dc3b"]
 void SET_ANIMAL_MOOD(Ped ped, int Mood);
 ```
 
-```
 Sets an animals mood
 
-Possible values for Mood:
-| Index | Name |
+## Mood Values:
+| Value | Name |
 | --- | --- |
 | 5 | Angry |
 | 6 | Playful |
 | 7 | Num Moods |
-```
+
 
 ## Parameters
 * **ped**: 

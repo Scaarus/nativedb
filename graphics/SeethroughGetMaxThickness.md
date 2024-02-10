@@ -9,6 +9,5 @@ aliases: ["0x43dbae39626ce83f"]
 float SEETHROUGH_GET_MAX_THICKNESS();
 ```
 
-```
 SeeThrough Effect : Get the thickness behind which objects will stop being visible
-```
+

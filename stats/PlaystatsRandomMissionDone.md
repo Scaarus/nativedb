@@ -9,9 +9,8 @@ aliases: ["0x71862b1d855f32e1"]
 void PLAYSTATS_RANDOM_MISSION_DONE(string pMissionName, int outcome, int timespent, int attempts);
 ```
 
-```
 Tells the PlayStats that a random mission is over.
-```
+
 
 ## Parameters
 * **pMissionName**: Time spent in the random event

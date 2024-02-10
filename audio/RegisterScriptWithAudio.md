@@ -9,6 +9,5 @@ aliases: ["0xc6ed9d5092438d91"]
 void REGISTER_SCRIPT_WITH_AUDIO(bool InChargeOfAudio);
 ```
 
-```
 Registers a script with audio; a neccesary step for loading sound banks and using script sound commands.
-```
+

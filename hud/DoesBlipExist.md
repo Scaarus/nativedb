@@ -9,6 +9,5 @@ aliases: ["0xa6db27d19ecbb7da"]
 bool DOES_BLIP_EXIST(Blip blip);
 ```
 
-```
 Check blip exist
-```
+

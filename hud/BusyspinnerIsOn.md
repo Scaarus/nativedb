@@ -9,7 +9,6 @@ aliases: ["0xd422fcc5f239a915"]
 bool BUSYSPINNER_IS_ON();
 ```
 
-```
 Check if the busy spinner is on.
 None
-```
+

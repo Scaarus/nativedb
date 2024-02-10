@@ -9,11 +9,10 @@ aliases: ["0x6e63860bbb190730"]
 void SET_PLAYBACK_TO_USE_AI_TRY_TO_REVERT_BACK_LATER(Vehicle vehicle, int delayInMilliseconds, int Mode, bool SnapToPositionIfNotVisible);
 ```
 
-```
 Stes a vehicle recording for a certain vehicle from being exact to be using AI.
 
-Possible values for Mode:
-| Index | Name |
+## Mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -50,4 +49,4 @@ Possible values for Mode:
 
 
 After this command is called the car will use ai to try and stay close to the original recording. After the specified time (in ms) expires the recording will turn itself back into a non-ai one if it is close enough to the route.
-```
+

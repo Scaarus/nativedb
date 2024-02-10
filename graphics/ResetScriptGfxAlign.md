@@ -9,6 +9,5 @@ aliases: ["0xe3a3db414a373dab"]
 void RESET_SCRIPT_GFX_ALIGN();
 ```
 
-```
 Resets alll the alignment parameters to unaligned with no offset s
-```
+

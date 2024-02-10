@@ -9,6 +9,5 @@ aliases: ["0x2b2a2cc86778b619"]
 float GET_DEEP_OCEAN_SCALER();
 ```
 
-```
 Get the deep ocean scaler.
-```
+

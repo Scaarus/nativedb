@@ -9,6 +9,5 @@ aliases: ["0xbaf107b6bb2c97f0"]
 float GET_SAFE_ZONE_SIZE();
 ```
 
-```
 Return the safe zone size.
-```
+

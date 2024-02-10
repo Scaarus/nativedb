@@ -9,6 +9,5 @@ aliases: ["0x798fdeb5b1575088"]
 void SET_PLAYERPAD_SHAKES_WHEN_CONTROLLER_DISABLED(bool SetPadShakes);
 ```
 
-```
 Set a flag to true so that pad shake is on when the controller is disabled.
-```
+

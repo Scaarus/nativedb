@@ -9,11 +9,10 @@ aliases: ["0xaabb1f56e2a17ced"]
 void SET_HUD_COMPONENT_POSITION(int hudComponent, float PosX, float PosY);
 ```
 
-```
 sets the position of this hud component
 
-Possible values for hudComponent:
-| Index | Name |
+## hudComponent Values:
+| Value | Name |
 | --- | --- |
 | 0 | Weapon Icon |
 | 1 | Wanted Stars |
@@ -38,4 +37,4 @@ Possible values for hudComponent:
 
 
 hud component value
-```
+

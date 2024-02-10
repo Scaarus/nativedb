@@ -9,6 +9,5 @@ aliases: ["0x846aa8e7d55ee5b6"]
 bool APP_DATA_VALID();
 ```
 
-```
 Check if there is valid data fetched
-```
+

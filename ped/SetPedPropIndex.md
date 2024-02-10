@@ -9,11 +9,10 @@ aliases: ["0x93376b65a266eb5f"]
 void SET_PED_PROP_INDEX(int Position, int NewPropIndex, int NewTextIndex, bool SyncWithBlend);
 ```
 
-```
 Set the id of the prop at the given position for the given ped.
 
-Possible values for Position:
-| Index | Name |
+## Position Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 131 | Eyes |
@@ -27,4 +26,4 @@ Possible values for Position:
 
 
 PED_PROP_POSITION in commands_ped.sch
-```
+

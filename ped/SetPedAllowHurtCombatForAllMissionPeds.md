@@ -9,6 +9,5 @@ aliases: ["0xf2bebcdfafdaa19e"]
 void SET_PED_ALLOW_HURT_COMBAT_FOR_ALL_MISSION_PEDS(bool Enable);
 ```
 
-```
 Globally allow hurt combat for mission peds or not
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x645f4b6e8499f632"]
 bool GET_IS_DOOR_VALID(int DoorNumber);
 ```
 
-```
 returns true if the door is valid
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -22,4 +21,4 @@ Possible values for DoorNumber:
 | 62 | Rear Right |
 | 63 | Bonnet |
 | 64 | Boot |
-```
+

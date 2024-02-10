@@ -9,6 +9,5 @@ aliases: ["0x444d8cf241ec25c5"]
 void PAUSE_MENU_DEACTIVATE_CONTEXT();
 ```
 
-```
 Turns off a given context
-```
+

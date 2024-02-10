@@ -9,6 +9,5 @@ aliases: ["0xce58b1cfb9290813"]
 void CLEAR_HD_AREA();
 ```
 
-```
 Clears the HD area
-```
+

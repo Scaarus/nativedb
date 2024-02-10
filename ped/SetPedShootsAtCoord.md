@@ -9,6 +9,5 @@ aliases: ["0x96a05e4fb321b1ba"]
 void SET_PED_SHOOTS_AT_COORD(Ped ped, Vector3 vecTarget, bool PerfectAccuracy);
 ```
 
-```
 Shoots a ped weapon at a coord
-```
+

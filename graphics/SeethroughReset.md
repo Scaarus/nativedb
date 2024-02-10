@@ -9,6 +9,5 @@ aliases: ["0x70a64c0234ef522c"]
 void SEETHROUGH_RESET();
 ```
 
-```
 SeeThrough Effect : Reset effect parameters to the default
-```
+

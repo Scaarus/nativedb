@@ -9,6 +9,5 @@ aliases: ["0x758a5c1b3b1e1990"]
 void FORCE_PICKUP_REGENERATE(Pickup pickup);
 ```
 
-```
 Sets flag on CRegenerationInfo to force regenerate pickup even if time left on timer
-```
+

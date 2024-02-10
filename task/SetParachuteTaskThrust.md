@@ -9,6 +9,5 @@ aliases: ["0x0729bac1b8c64317"]
 void SET_PARACHUTE_TASK_THRUST(Ped ped, float thrust_param);
 ```
 
-```
 : Modifies the current thrust for a Parachuting Ped
-```
+

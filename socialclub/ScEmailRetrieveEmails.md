@@ -9,9 +9,8 @@ aliases: ["0x040addcbafa1018a"]
 void SC_EMAIL_RETRIEVE_EMAILS(int startIndex, int numEmails);
 ```
 
-```
 For retrieving emails from the social club server
-```
+
 
 ## Parameters
 * **startIndex**: the first index of the emails (0 being most recent)

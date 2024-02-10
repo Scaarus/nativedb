@@ -9,6 +9,5 @@ aliases: ["0xf19d095e42d430cc"]
 void SET_VEHICLE_OUT_OF_CONTROL(Vehicle vehicle, bool KillPedsInVehicle, bool ExplodeOnNextImpact);
 ```
 
-```
 Removes driver if available and sets the vehicle to be abandoned
-```
+

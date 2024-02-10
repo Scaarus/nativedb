@@ -9,11 +9,10 @@ aliases: ["0x158bb33f920d360c"]
 void TASK_VEHICLE_DRIVE_TO_COORD_LONGRANGE(Ped ped, Vehicle vehicle, Vector3 Position, float Speed, int Mode, float TargetRadius);
 ```
 
-```
 Like TASK_VEHICLE_DRIVE_TO_COORD, but automatically loads nodes in the background Only use this if the choice of target is up to the player or otherwise unknown at script-time. Examples: the taxi script going to player blips
 
-Possible values for Mode:
-| Index | Name |
+## Mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -47,4 +46,4 @@ Possible values for Mode:
 | 33554432 | F Usestringpullingatjunctions |
 | 536870912 | F Avoidhighways |
 | 1073741824 | F Forcejoininroaddirection |
-```
+

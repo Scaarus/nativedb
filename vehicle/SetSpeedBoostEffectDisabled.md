@@ -9,6 +9,5 @@ aliases: ["0x7bbe7ff626a591fe"]
 void SET_SPEED_BOOST_EFFECT_DISABLED();
 ```
 
-```
 Sets whether to disabled the speed boost screen effect
-```
+

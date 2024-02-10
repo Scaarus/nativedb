@@ -9,6 +9,5 @@ aliases: ["0x6683ab880e427778"]
 void SET_PLAYBACK_SPEED(Vehicle vehicle, float PlaybackSpeed);
 ```
 
-```
 Sets the playback speed
-```
+

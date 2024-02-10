@@ -9,6 +9,5 @@ aliases: ["0xd79185689f8fd5df"]
 void SET_STUNT_JUMPS_CAN_TRIGGER();
 ```
 
-```
 Sets if the stunt jumps are active.
-```
+

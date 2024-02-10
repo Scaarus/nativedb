@@ -9,8 +9,7 @@ aliases: ["0x367a09ded4e05b99"]
 bool IS_SCENARIO_GROUP_ENABLED(string scenarioGroupName);
 ```
 
-```
 Check if the named scenario group is currently enabled.
 
 Returns TRUE if the group is enabled.
-```
+

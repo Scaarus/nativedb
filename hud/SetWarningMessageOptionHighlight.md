@@ -9,6 +9,5 @@ aliases: ["0xdaf87174be7454ff"]
 bool SET_WARNING_MESSAGE_OPTION_HIGHLIGHT(int iHighlightIndex);
 ```
 
-```
 sets options on a warning message. Must be called every frame
-```
+

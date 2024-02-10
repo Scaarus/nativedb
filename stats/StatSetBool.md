@@ -9,6 +9,5 @@ aliases: ["0x4b33c4243de0c432"]
 bool STAT_SET_BOOL(int Hash, bool data, bool coderAssert);
 ```
 
-```
 Set the value of an boolean stat.
-```
+

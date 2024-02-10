@@ -9,6 +9,5 @@ aliases: ["0x1de37bbf9e9cc14a"]
 void SET_PLAYER_MAY_NOT_ENTER_ANY_VEHICLE(Player player);
 ```
 
-```
 Sets a reset falg to stop the player entering any vehicle. Must call every frame.
-```
+

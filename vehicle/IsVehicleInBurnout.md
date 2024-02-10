@@ -9,6 +9,5 @@ aliases: ["0x1297a88e081430eb"]
 bool IS_VEHICLE_IN_BURNOUT(Vehicle vehicle);
 ```
 
-```
 Returns true if the player is performing a burnout
-```
+

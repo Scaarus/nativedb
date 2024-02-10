@@ -9,6 +9,5 @@ aliases: ["0x1178e104409fe58c"]
 void SET_OVERRIDE_WEATHEREX(string Weather, bool resetWetness);
 ```
 
-```
 Sets a weather override for network games. This will fix the weather until CLEAR_OVERRIDE_WEATHER is called. ResetWetness=TRUE resets wetness immediately.
-```
+

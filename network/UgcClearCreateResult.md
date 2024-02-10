@@ -9,6 +9,5 @@ aliases: ["0x17440aa15d1d3739"]
 void UGC_CLEAR_CREATE_RESULT();
 ```
 
-```
 Clear out the last results from a CREATE
-```
+

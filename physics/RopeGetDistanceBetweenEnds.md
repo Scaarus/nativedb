@@ -9,6 +9,5 @@ aliases: ["0x73040398dff9a4a6"]
 float ROPE_GET_DISTANCE_BETWEEN_ENDS();
 ```
 
-```
 Return rope distance between start and end of the rope
-```
+

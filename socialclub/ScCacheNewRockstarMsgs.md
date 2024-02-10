@@ -9,6 +9,5 @@ aliases: ["0xbfa0a56a817c6c7d"]
 void SC_CACHE_NEW_ROCKSTAR_MSGS(bool Cache);
 ```
 
-```
 Startstop caching the latest Rockstar Message
-```
+

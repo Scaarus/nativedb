@@ -9,6 +9,5 @@ aliases: ["0xbef34b1d9624d5dd"]
 void SET_SKIP_MINIGUN_SPIN_UP_AUDIO(bool SetSkipSpinUp);
 ```
 
-```
 Set minigun audio skips the spin-up - don't forget to set this back to false after using it!
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x1dd55701034110e5"]
 float GET_ENTITY_HEIGHT_ABOVE_GROUND(Entity entity);
 ```
 
-```
 Gets the entity's height above the ground.
-```
+

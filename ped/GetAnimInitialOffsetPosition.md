@@ -9,11 +9,10 @@ aliases: ["0xbe22b26dd764c040"]
 Vector3 GET_ANIM_INITIAL_OFFSET_POSITION(string pAnimName, Vector3 scenePosition, Vector3 sceneOrientation, float phase, int RotOrder);
 ```
 
-```
 Gets the authored initial offset included by the animator, if any.
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -25,7 +24,7 @@ Possible values for RotOrder:
 
 
 Used when playing multiple anims together using TASK_PLAY_ANIM. This function returns the position offset that will be automatically applied when playing the specified anim using the anim flag AF_EXTRACT_INITIAL_OFFSET from the initial position and orientation specified
-```
+
 
 ## Parameters
 * **pAnimName**: 

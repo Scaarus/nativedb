@@ -9,11 +9,10 @@ aliases: ["0xc819f3cbb62bf692"]
 void STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP(bool ShouldApplyAcrossAllThreads, float DistanceToBlend, int BlendType, int RenderingOptions);
 ```
 
-```
 Tells the game that the script wants to disable rendering of scripted cameras and force gameplay camera to blend from scripted camera to gameplay camera.
 
-Possible values for BlendType:
-| Index | Name |
+## BlendType Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Smooth |
 | 1 | Slow In Smooth |
@@ -43,15 +42,15 @@ Possible values for BlendType:
 | 25 | Circular Ease In Out |
 
 
-Possible values for RenderingOptions:
-| Index | Name |
+## RenderingOptions Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Options |
 | 1 | Stop Rendering Option When Player Exits Into Cover |
 
 
 The script must have created a camera that can be rendered. Note that rendering is typically not stopped if another script thread still expects it to be active (see bShouldApplyAcrossAllThreads.)
-```
+
 
 ## Parameters
 * **ShouldApplyAcrossAllThreads**: If true, a request to stop rendering will be enforced irrespective of whether other script threads expect rendering to be active. Note that this can result in conflicts between concurrent script threads, so this must be used with caution.

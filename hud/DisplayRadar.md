@@ -9,6 +9,5 @@ aliases: ["0xa0ebb943c300e693"]
 void DISPLAY_RADAR(bool DisplayRadarFlag);
 ```
 
-```
 Displays the radar.
-```
+

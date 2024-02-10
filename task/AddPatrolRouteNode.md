@@ -9,11 +9,10 @@ aliases: ["0x8edf950167586b7c"]
 void ADD_PATROL_ROUTE_NODE(string NodeType, Vector3 vNodePosition, Vector3 NodeLookAtPos, int Duration);
 ```
 
-```
 Adds a patrol route node. Moreinfo..
 
 This can only be called once OPEN_PATROL_ROUTE has been called. There cane be a maximum of 16 nodes per route.
-```
+
 
 ## Parameters
 * **NodeType**: Taken from the following list. "WORLD_HUMAN_GUARD_STAND", "WORLD_HUMAN_SMOKING"

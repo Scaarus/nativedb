@@ -9,6 +9,5 @@ aliases: ["0x54e22ea2c1956a8d"]
 void SET_PARTICLE_FX_BANG_SCRAPE_LODRANGE_SCALE(float scale);
 ```
 
-```
 Sets the range/lod scale used for the bang and scrape effects (set to 1.0 for authored range/lods)
-```
+

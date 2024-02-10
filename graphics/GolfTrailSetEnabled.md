@@ -9,6 +9,5 @@ aliases: ["0xa51c4b86b71652ae"]
 void GOLF_TRAIL_SET_ENABLED(bool Enabled);
 ```
 
-```
 ~> Golf Trail
-```
+

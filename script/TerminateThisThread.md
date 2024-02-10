@@ -9,6 +9,5 @@ aliases: ["0x1090044ad1da76fa"]
 void TERMINATE_THIS_THREAD();
 ```
 
-```
 Terminates this script
-```
+

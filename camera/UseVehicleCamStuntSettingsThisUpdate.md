@@ -9,6 +9,5 @@ aliases: ["0x6493cf69859b116a"]
 void USE_VEHICLE_CAM_STUNT_SETTINGS_THIS_UPDATE();
 ```
 
-```
 Override a group of settings for the vehicle camera to avoid confusing cameras during certain stunts (inside pipes etc)
-```
+

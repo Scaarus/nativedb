@@ -9,11 +9,10 @@ aliases: ["0xd4d4f6a4ab575a33"]
 void SET_VEHICLE_DOOR_BROKEN(Vehicle vehicle, int DoorNumber, bool Dissapear);
 ```
 
-```
 Breaks a vehicle door.
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -25,4 +24,4 @@ Possible values for DoorNumber:
 
 
 SC_DOOR_LIST is in commands_vehicle.sch
-```
+

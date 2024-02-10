@@ -9,6 +9,5 @@ aliases: ["0x675721c9f644d161"]
 void SC_TRANSITION_NEWS_END();
 ```
 
-```
 Hides the transition news
-```
+

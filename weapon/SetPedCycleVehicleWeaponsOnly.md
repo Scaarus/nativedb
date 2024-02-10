@@ -9,6 +9,5 @@ aliases: ["0x50276ef8172f5f12"]
 void SET_PED_CYCLE_VEHICLE_WEAPONS_ONLY(Ped ped);
 ```
 
-```
 Restricts weapon selection when tapping square to select only vehicle weapons
-```
+

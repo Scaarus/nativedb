@@ -9,11 +9,10 @@ aliases: ["0xa8ae43aec1a61314"]
 date_format LOCALIZATION_GET_SYSTEM_DATE_TYPE();
 ```
 
-```
 Used to check the language/region date formatting of the system
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | DATE_FORMAT_DMY |
 | 13 | DATE_FORMAT_MDY |
@@ -22,4 +21,4 @@ Possible return values:
 
 
 Returns the current system date formatting type
-```
+

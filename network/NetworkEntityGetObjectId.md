@@ -9,6 +9,5 @@ aliases: ["0x815f18ad865f057f"]
 int NETWORK_ENTITY_GET_OBJECT_ID(Entity entity);
 ```
 
-```
 Returns the network object ID (the code id) of a entity.
-```
+

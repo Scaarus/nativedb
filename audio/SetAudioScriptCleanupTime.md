@@ -9,6 +9,5 @@ aliases: ["0xa5f377b175a699c5"]
 void SET_AUDIO_SCRIPT_CLEANUP_TIME(int TimeDelay);
 ```
 
-```
 Set a delay (ms) for the audio to be cleaned up when the script finishes
-```
+

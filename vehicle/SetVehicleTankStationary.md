@@ -9,6 +9,5 @@ aliases: ["0x737e398138550fff"]
 void SET_VEHICLE_TANK_STATIONARY(Vehicle vehicle, bool Stationary);
 ```
 
-```
 Makes the tank stay still when shooting at a target
-```
+

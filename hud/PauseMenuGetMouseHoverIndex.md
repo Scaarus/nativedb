@@ -9,6 +9,5 @@ aliases: ["0x359af31a4b52f5ed"]
 int PAUSE_MENU_GET_MOUSE_HOVER_INDEX();
 ```
 
-```
 Returns the index of the menu item currently being moused over. Returns -1 if no item is moused over.
-```
+

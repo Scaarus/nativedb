@@ -9,6 +9,5 @@ aliases: ["0x22102c9abfcf125d"]
 void DELETE_SCRIPT_VEHICLE_GENERATOR(Vehicle_Generator vehicle_generator);
 ```
 
-```
 Deletes a scripted vehicle generator
-```
+

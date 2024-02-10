@@ -9,6 +9,5 @@ aliases: ["0x47b32f5611e6e483"]
 void PLAYSTATS_AWARD_BAD_SPORT(int evenID);
 ```
 
-```
 Metric used to register what event awards bad sport.
-```
+

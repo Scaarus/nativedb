@@ -9,6 +9,5 @@ aliases: ["0x845ffc3a4feefa3e"]
 bool AUDIO_IS_SCRIPTED_MUSIC_PLAYING();
 ```
 
-```
 Returns true only if scripted music is currently playing
-```
+

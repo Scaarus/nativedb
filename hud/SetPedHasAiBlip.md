@@ -9,6 +9,5 @@ aliases: ["0xd30c50df888d58b5"]
 void SET_PED_HAS_AI_BLIP(Ped ped, bool OnOff);
 ```
 
-```
 Registers a passed ped with the CScriptPedAIBlips
-```
+

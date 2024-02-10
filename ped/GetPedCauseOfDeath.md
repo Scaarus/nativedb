@@ -9,11 +9,10 @@ aliases: ["0x16ffe42ab2d2dc59"]
 Hash GET_PED_CAUSE_OF_DEATH(Ped ped);
 ```
 
-```
 Retrieves the weapon that killed the ped.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONTYPE_INVALID |
 | 1 | WEAPONTYPE_UNARMED |
@@ -344,4 +343,4 @@ Possible return values:
 | 326 | WEAPONTYPE_DLC_VEHICLE_TORPEDO |
 | 327 | WEAPONTYPE_DLC_VEHICLE_SPYCARGUN |
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
-```
+

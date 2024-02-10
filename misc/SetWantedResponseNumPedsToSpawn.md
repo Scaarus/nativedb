@@ -9,11 +9,10 @@ aliases: ["0xe532ec1a63231b4f"]
 void SET_WANTED_RESPONSE_NUM_PEDS_TO_SPAWN(int dispatchType, int iNumPedsToSpawn);
 ```
 
-```
 Sets the number of peds to spawn for the wanted response.
 
-Possible values for dispatchType:
-| Index | Name |
+## dispatchType Values:
+| Value | Name |
 | --- | --- |
 | 1 | Police Automobile |
 | 41 | Police Helicopter |
@@ -34,4 +33,4 @@ Possible values for dispatchType:
 
 
 Sets the number of peds to spawn for the wanted response.
-```
+

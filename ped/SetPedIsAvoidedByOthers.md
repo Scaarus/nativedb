@@ -9,6 +9,5 @@ aliases: ["0xa9b61a329bfdcbea"]
 void SET_PED_IS_AVOIDED_BY_OTHERS(Ped ped, bool State);
 ```
 
-```
 Sets whether this ped will be steered around by other peds during their local avoidance (true by default)
-```
+

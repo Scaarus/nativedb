@@ -9,6 +9,5 @@ aliases: ["0x591ca673aa6ab736"]
 void SET_MISSION_TRAIN_COORDS(Vehicle vehicle, Vector3 NewPosition);
 ```
 
-```
 Set mission train coords
-```
+

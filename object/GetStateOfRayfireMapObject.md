@@ -9,11 +9,10 @@ aliases: ["0x899ba936634a322e"]
 ray_fire_map_object_state GET_STATE_OF_RAYFIRE_MAP_OBJECT(Rayfire rayfire);
 ```
 
-```
 Get the state of the rayfire map object.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Init |
@@ -32,4 +31,4 @@ Possible return values:
 | 13 | Resume |
 | 14 | Priming Prelude |
 | 15 | Abandon |
-```
+

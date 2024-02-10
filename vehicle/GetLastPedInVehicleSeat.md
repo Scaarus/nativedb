@@ -9,11 +9,10 @@ aliases: ["0x83f969aa1ee2a664"]
 Ped GET_LAST_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seat);
 ```
 
-```
 Gets the last ped to use the designated vehicle seat.
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -29,4 +28,4 @@ Possible values for seat:
 
 
 Cannont use VS_ANY_PASSENGER
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x06faacd625d80caa"]
 void NETWORK_REGISTER_ENTITY_AS_NETWORKED(Entity entity);
 ```
 
-```
 Registers the entity with the network code so that it becomes networked
-```
+

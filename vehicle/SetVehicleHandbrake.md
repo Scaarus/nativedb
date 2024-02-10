@@ -9,6 +9,5 @@ aliases: ["0x684785568ef26a22"]
 void SET_VEHICLE_HANDBRAKE(Vehicle vehicle, bool On);
 ```
 
-```
 Sets a vehicles handbrake on or off
-```
+

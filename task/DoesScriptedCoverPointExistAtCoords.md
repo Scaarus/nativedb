@@ -9,6 +9,5 @@ aliases: ["0xa98b8e3c088e5a31"]
 bool DOES_SCRIPTED_COVER_POINT_EXIST_AT_COORDS();
 ```
 
-```
 Checks if a scripted cover point already exists at the coords passed in
-```
+

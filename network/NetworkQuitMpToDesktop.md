@@ -9,6 +9,5 @@ aliases: ["0x45a83257ed02d9bc"]
 void NETWORK_QUIT_MP_TO_DESKTOP();
 ```
 
-```
 Properly quits the multiplayer, then shows the confirmation warning.
-```
+

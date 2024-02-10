@@ -9,8 +9,7 @@ aliases: ["0xc02f4dbfb51d988b"]
 void SET_TEXT_CENTRE(bool TextCentreFlag);
 ```
 
-```
 Centre justifies the text.
 
 It also moves the origin of the text to the centre point.
-```
+

@@ -9,8 +9,7 @@ aliases: ["0xaad6d1acf08f4612"]
 bool SET_PED_PINNED_DOWN(Ped ped, bool Pinned, int Time);
 ```
 
-```
 Sets the ped to be pinned down for Time milliseconds.
 
 bPinned =
-```
+

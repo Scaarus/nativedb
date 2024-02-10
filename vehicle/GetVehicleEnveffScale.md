@@ -9,6 +9,5 @@ aliases: ["0xa82819cac9c4c403"]
 float GET_VEHICLE_ENVEFF_SCALE(Vehicle vehicle);
 ```
 
-```
 Gets EnvEff scale from vehicle
-```
+

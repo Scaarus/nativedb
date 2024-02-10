@@ -9,6 +9,5 @@ aliases: ["0xd031a9162d01088c"]
 bool HAS_ANIM_DICT_LOADED(string animDictionaryName);
 ```
 
-```
 Return if an animation dictionary is in memory
-```
+

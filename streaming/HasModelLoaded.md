@@ -9,6 +9,5 @@ aliases: ["0x98a4eb5d89a0c952"]
 bool HAS_MODEL_LOADED(Hash modelHash);
 ```
 
-```
 Return if a model is in memory
-```
+

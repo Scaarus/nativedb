@@ -9,11 +9,10 @@ aliases: ["0x4fc9381a7aee8968"]
 void CLEAR_DECISION_MAKER_EVENT_RESPONSE(int DecisionMakerId, int EventType);
 ```
 
-```
 Clears an Event response added to the decision maker via ADD_DECISION_MAKER_EVENT_RESPONSE
 
-Possible values for DecisionMakerId:
-| Index | Name |
+## DecisionMakerId Values:
+| Value | Name |
 | --- | --- |
 | -1533126372 | Cop |
 | -1143637011 | Empty |
@@ -22,8 +21,8 @@ Possible values for DecisionMakerId:
 | 1862763509 | Player |
 
 
-Possible values for EventType:
-| Index | Name |
+## EventType Values:
+| Value | Name |
 | --- | --- |
 | -1 | EVENT_INVALID |
 | 0 | EVENT_ACQUAINTANCE_PED_DISLIKE |
@@ -279,4 +278,4 @@ Possible values for EventType:
 | 250 | EVENT_ERRORS_INSTRUCTION_LIMIT |
 | 251 | EVENT_ERRORS_STACK_OVERFLOW |
 | 252 | NUM_ERRORS_EVENTTYPE |
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x9fd452bfbe7a7a8b"]
 ped_decoration_zone GET_PED_DECORATION_ZONE_FROM_HASHES(int CollectionNameHash, int PresetNameHash);
 ```
 
-```
 Same as GET_PED_DECORATION_ZONE but with hashes
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Torso |
 | 160 | Head |
@@ -23,7 +22,7 @@ Possible return values:
 | 164 | Right Leg |
 | 165 | Medals |
 | 166 | Invalid |
-```
+
 
 ## Parameters
 * **CollectionNameHash**: hash of the name of the collection where the preset lives

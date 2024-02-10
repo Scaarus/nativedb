@@ -9,6 +9,5 @@ aliases: ["0x5fbca48327b914df"]
 void SHOW_HEADING_INDICATOR_ON_BLIP(Blip blip, bool Show);
 ```
 
-```
 Shows the heading indicator on this blip
-```
+

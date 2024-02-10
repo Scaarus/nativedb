@@ -9,6 +9,5 @@ aliases: ["0xc9bf75d28165ff77"]
 void SET_SAVE_MENU_ACTIVE(bool AllowWhilePlayerIsInAVehicle);
 ```
 
-```
 Displays the save menu.
-```
+

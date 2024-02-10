@@ -9,6 +9,5 @@ aliases: ["0x0cb6b3446855b57a"]
 void SET_BINK_MOVIE_TIME(int MovieId, float fMovieTime);
 ```
 
-```
 Sets the time of the current movie.
-```
+

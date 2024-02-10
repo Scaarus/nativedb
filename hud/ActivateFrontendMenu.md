@@ -9,11 +9,10 @@ aliases: ["0xef01d36b9c9d0c7b"]
 void ACTIVATE_FRONTEND_MENU(frontend_menu_version iMenuVersion, bool PauseGame, int HighlightTab);
 ```
 
-```
 opens frontend menu
 
-Possible values for HighlightTab:
-| Index | Name |
+## HighlightTab Values:
+| Value | Name |
 | --- | --- |
 | -1 | MENU_UNIQUE_ID_INVALID |
 | 0 | ,	MENU_UNIQUE_ID_START |
@@ -176,4 +175,4 @@ Possible values for HighlightTab:
 | 157 | ,	MENU_UNIQUE_ID_CREDITS |
 | 158 | ,	MENU_UNIQUE_ID_LEGAL |
 | 159 | ,	MENU_UNIQUE_ID_CREDITS_LEGAL |
-```
+

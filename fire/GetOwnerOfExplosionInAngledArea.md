@@ -9,11 +9,10 @@ aliases: ["0x14ba4ba137af6cec"]
 Entity GET_OWNER_OF_EXPLOSION_IN_ANGLED_AREA(int ExplosionTag, Vector3 Pos1, Vector3 Pos2, float AreaWidth);
 ```
 
-```
 Gets the owner of an explosion in an angled area.
 
-Possible values for ExplosionTag:
-| Index | Name |
+## ExplosionTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Dontcare |
 | 0 | Grenade |
@@ -100,4 +99,4 @@ Possible values for ExplosionTag:
 | 81 | Script Missile Large |
 | 82 | Submarine Big |
 | 83 | Emplauncher Emp |
-```
+

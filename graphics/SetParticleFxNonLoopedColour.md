@@ -9,6 +9,5 @@ aliases: ["0x26143a59ef48b262"]
 void SET_PARTICLE_FX_NON_LOOPED_COLOUR(float colR, float colG, float colB);
 ```
 
-```
 Sets the colour tint of the next non looped particle effect
-```
+

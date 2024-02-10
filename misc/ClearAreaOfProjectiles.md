@@ -9,9 +9,8 @@ aliases: ["0x0a1cb9094635d1a6"]
 void CLEAR_AREA_OF_PROJECTILES(Vector3 vPos, float fRadius, bool Broadcast);
 ```
 
-```
 Clears all projectiles within specified volume.
-```
+
 
 ## Parameters
 * **vPos**: 

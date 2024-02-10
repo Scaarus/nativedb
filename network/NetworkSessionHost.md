@@ -9,9 +9,8 @@ aliases: ["0x6f3d4ed9bee4e61d"]
 bool NETWORK_SESSION_HOST(int nGameMode, int nMaxPlayers, bool IsPrivate);
 ```
 
-```
 Hosts a session
-```
+
 
 ## Parameters
 * **nGameMode**: Gamemode value from script enum

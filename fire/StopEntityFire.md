@@ -9,6 +9,5 @@ aliases: ["0x7f0dd2ebbb651aff"]
 void STOP_ENTITY_FIRE(Entity entity);
 ```
 
-```
 Stops a script fire on an entity.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x523a590c1a3cc0d3"]
 void OPEN_REPORTUGC_MENU();
 ```
 
-```
 Opens the report menu for UGC player missions
-```
+

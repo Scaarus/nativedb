@@ -9,9 +9,8 @@ aliases: ["0x7a983aa9da2659ed"]
 Any* DATADICT_GET_ARRAY(Any* parent, string name);
 ```
 
-```
 Gets the named array from a dictionary
-```
+
 
 ## Parameters
 * **parent**: 

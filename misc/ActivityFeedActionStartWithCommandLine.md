@@ -9,6 +9,5 @@ aliases: ["0xeb078ca2b5e82add"]
 void ACTIVITY_FEED_ACTION_START_WITH_COMMAND_LINE(string commandLineString, string labelString);
 ```
 
-```
 Adds a start game button into the open activity feed post
-```
+

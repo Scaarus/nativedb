@@ -9,6 +9,5 @@ aliases: ["0x5ffbdeec3e8e2009"]
 void CLEAR_VEHICLE_CUSTOM_SECONDARY_COLOUR(Vehicle vehicle);
 ```
 
-```
 Clears the secondary colour of a car.
-```
+

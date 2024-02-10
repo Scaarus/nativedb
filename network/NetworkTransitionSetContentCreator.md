@@ -9,10 +9,9 @@ aliases: ["0x1f8e00fb18239600"]
 void NETWORK_TRANSITION_SET_CONTENT_CREATOR(int nContentCreator);
 ```
 
-```
-Possible values for nContentCreator:
-| Index | Name |
+## nContentCreator Values:
+| Value | Name |
 | --- | --- |
 | 0 | Rockstar Created |
 | 1 | User Created |
-```
+

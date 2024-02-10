@@ -9,6 +9,5 @@ aliases: ["0x6f1554b0cc2089fa"]
 void THEFEED_ONLY_SHOW_TOOLTIPS(bool OnlyToolTips);
 ```
 
-```
 only show tooltips
-```
+

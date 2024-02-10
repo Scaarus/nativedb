@@ -9,11 +9,10 @@ aliases: ["0x1374abb7c15bab92"]
 bool IS_SHOCKING_EVENT_IN_SPHERE(int eventType, Vector3 pos, float radius);
 ```
 
-```
 Checks if a shocking event of the given type is in the given sphere. Returns TRUE if found, FALSE otherwise.
 
-Possible values for eventType:
-| Index | Name |
+## eventType Values:
+| Value | Name |
 | --- | --- |
 | -1 | EVENT_INVALID |
 | 0 | EVENT_ACQUAINTANCE_PED_DISLIKE |
@@ -272,4 +271,4 @@ Possible values for eventType:
 
 
 eventType must be one of the EVENT_SHOCKING_... events.
-```
+

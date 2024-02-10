@@ -9,6 +9,5 @@ aliases: ["0xdc0f817884cdd856"]
 void ENABLE_DISPATCH_SERVICE(bool Enable);
 ```
 
-```
 Enables a particular dispatch service, all existing units will stop responding if not yet in combat.
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xddf3cb5a0a4c0b49"]
 void SET_ANIM_PHASE(Entity entity, float phase, int priority, bool secondary);
 ```
 
-```
 Sets the phase of a clip on a scripted anim task.
 
-Possible values for priority:
-| Index | Name |
+## priority Values:
+| Value | Name |
 | --- | --- |
 | 0 | Low |
 | 1 | Medium |
@@ -21,7 +20,7 @@ Possible values for priority:
 
 
 Sets the current phase of the clips on a priority level on the scripted anim task,
-```
+
 
 ## Parameters
 * **entity**: 

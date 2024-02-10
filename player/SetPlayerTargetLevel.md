@@ -9,13 +9,12 @@ aliases: ["0x5702b917b99db1cd"]
 void SET_PLAYER_TARGET_LEVEL(int TargetLevel);
 ```
 
-```
 set player targeting level (e.g. to increase/lower remote player target threat.
 
-Possible values for TargetLevel:
-| Index | Name |
+## TargetLevel Values:
+| Value | Name |
 | --- | --- |
 | 0 | Everyone |
 | 65 | Strangers |
 | 66 | Attackers |
-```
+

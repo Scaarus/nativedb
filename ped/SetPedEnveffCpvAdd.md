@@ -9,6 +9,5 @@ aliases: ["0x110f526ab784111f"]
 void SET_PED_ENVEFF_CPV_ADD(Ped ped, float fCpvAdd);
 ```
 
-```
 AddCpv should be in the range 0.0f to 1.0f
-```
+

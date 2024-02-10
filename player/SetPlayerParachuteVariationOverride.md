@@ -9,9 +9,8 @@ aliases: ["0xd9284a8c0d48352c"]
 void SET_PLAYER_PARACHUTE_VARIATION_OVERRIDE(Player player, int ComponentNumber, int NewDrawableNumber, int TexID, int AltDrawableID);
 ```
 
-```
-Possible values for ComponentNumber:
-| Index | Name |
+## ComponentNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -28,4 +27,4 @@ Possible values for ComponentNumber:
 
 
 An override for parachute variation. Used to sync up script and code.
-```
+

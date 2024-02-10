@@ -9,11 +9,10 @@ aliases: ["0x8f7156a3142a6bad"]
 int GET_NUMBER_OF_PED_TEXTURE_VARIATIONS(Ped ped, int ComponentNumber, int DrawableNumber);
 ```
 
-```
 Gets the total number of different textures for the specified drawable for the component (body part) for the ped's model.
 
-Possible values for ComponentNumber:
-| Index | Name |
+## ComponentNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -30,4 +29,4 @@ Possible values for ComponentNumber:
 
 
 Each ped model can have several drawables for each component. Each drawable can have several textures.
-```
+

@@ -9,9 +9,8 @@ aliases: ["0x53e0df1a2a3cf0ca"]
 void SET_TEAM_PICKUP_OBJECT(int Team, bool Set);
 ```
 
-```
 Sets an ambient or portable pickup object collectable by the given team. Call this multiple times for all teams you want to permit.
-```
+
 
 ## Parameters
 * **Team**: 

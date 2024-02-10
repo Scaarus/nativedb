@@ -9,6 +9,5 @@ aliases: ["0xca52279a7271517f"]
 bool APP_HAS_SYNCED_DATA(string name);
 ```
 
-```
 Returns true if the game has initially synced with the cloud
-```
+

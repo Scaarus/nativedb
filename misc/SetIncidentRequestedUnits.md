@@ -9,9 +9,8 @@ aliases: ["0xb08b85d860e7ba3c"]
 void SET_INCIDENT_REQUESTED_UNITS(int dispatchType, int iNumUnits);
 ```
 
-```
-Possible values for dispatchType:
-| Index | Name |
+## dispatchType Values:
+| Value | Name |
 | --- | --- |
 | 1 | Police Automobile |
 | 41 | Police Helicopter |
@@ -34,4 +33,4 @@ Possible values for dispatchType:
 - DISPATCH_TYPE is the type of units to be
 
 Updates the number of requested units of the given incident
-```
+

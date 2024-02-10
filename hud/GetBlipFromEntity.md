@@ -9,6 +9,5 @@ aliases: ["0xbc8dbdca2436f7e8"]
 Blip GET_BLIP_FROM_ENTITY(Entity entity);
 ```
 
-```
 returns the blip attached to an entity (if any) INVALID BLIP otherwise
-```
+

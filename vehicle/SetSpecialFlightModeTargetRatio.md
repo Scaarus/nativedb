@@ -9,6 +9,5 @@ aliases: ["0x438b3d7ca026fe91"]
 void SET_SPECIAL_FLIGHT_MODE_TARGET_RATIO(float ratio);
 ```
 
-```
 Sets the target ratio for the special flight mode
-```
+

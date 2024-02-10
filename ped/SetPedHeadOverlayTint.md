@@ -9,11 +9,10 @@ aliases: ["0x497bf74a7b9cb952"]
 void SET_PED_HEAD_OVERLAY_TINT(Ped ped, int slot, int rampType, int tint, int tint2);
 ```
 
-```
 Sets the tint index for the specified head blend overlay slot
 
-Possible values for slot:
-| Index | Name |
+## slot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Blemishes |
 | 1 | Facial Hair |
@@ -30,10 +29,10 @@ Possible values for slot:
 | 12 | Body 3 |
 
 
-Possible values for rampType:
-| Index | Name |
+## rampType Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 32 | Hair |
 | 33 | Makeup |
-```
+

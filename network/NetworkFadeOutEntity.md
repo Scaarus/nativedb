@@ -9,9 +9,8 @@ aliases: ["0xde564951f95e09ed"]
 void NETWORK_FADE_OUT_ENTITY(Entity entity, bool Flash, bool Network);
 ```
 
-```
 Fades out the entity locally and remotely
-```
+
 
 ## Parameters
 * **entity**: 

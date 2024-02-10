@@ -9,6 +9,5 @@ aliases: ["0xa13b0222f3d94a94"]
 void SET_USE_HI_DOF();
 ```
 
-```
 Enables the high-quality depth of field effect on script cameras, which uses both near and far planes, for the current frame only.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa1183bcfee0f93d1"]
 void SET_FORCED_JUMP_THIS_FRAME(Player player);
 ```
 
-```
 Set the player to be forced into jump state this frame.
-```
+

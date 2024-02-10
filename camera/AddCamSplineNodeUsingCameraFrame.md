@@ -9,11 +9,10 @@ aliases: ["0x0a9f2a468b328e74"]
 void ADD_CAM_SPLINE_NODE_USING_CAMERA_FRAME(Camera camera, Camera camera, int iDuration, int Flags);
 ```
 
-```
 Appends a full node on to a spline camera. The frame parameters of this new node are cloned from an existing scripted camera.
 
-Possible values for Flags:
-| Index | Name |
+## Flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Flags |
 | 1 | Smooth Rot |
@@ -21,7 +20,7 @@ Possible values for Flags:
 | 4 | Ease In |
 | 8 | Ease Out |
 | 16 | Ease Inout |
-```
+
 
 ## Parameters
 * **camera**: 

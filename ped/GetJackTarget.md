@@ -9,6 +9,5 @@ aliases: ["0x5486a79d9fbd342d"]
 Ped GET_JACK_TARGET(Ped ped);
 ```
 
-```
 Returns the ped index of the ped who is being jacked the ped specfied
-```
+

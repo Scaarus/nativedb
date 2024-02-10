@@ -9,6 +9,5 @@ aliases: ["0x1c491717107431c7"]
 bool IS_PAUSE_MENU_RESTARTING();
 ```
 
-```
 Checks if the pause menu is restarting.
-```
+

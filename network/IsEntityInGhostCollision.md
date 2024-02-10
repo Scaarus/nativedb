@@ -9,6 +9,5 @@ aliases: ["0x7ef7649b64d7ff10"]
 bool IS_ENTITY_IN_GHOST_COLLISION(Entity entity);
 ```
 
-```
 Returns true if this entity is intersecting other entities due to ghost mode (this may be the case after ghost mode is switched off)
-```
+

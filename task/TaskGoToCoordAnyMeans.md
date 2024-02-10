@@ -9,11 +9,10 @@ aliases: ["0x5bc448cb78fa3e88"]
 void TASK_GO_TO_COORD_ANY_MEANS(Vector3 Position, float MoveBlendRatio, Vehicle vehicle, bool UseLongRangeVehiclePathing, int DrivingFlags, float MaxRangeToShootTargets);
 ```
 
-```
 Tells a ped to go to a coord by any means.
 
-Possible values for DrivingFlags:
-| Index | Name |
+## DrivingFlags Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -50,7 +49,7 @@ Possible values for DrivingFlags:
 
 
 If you want the ped to use a specific vehicle to get to the point then use VEHICLE_INDEX VehicleID. Otherwise, set VehicleID to NULL.
-```
+
 
 ## Parameters
 * **Position**: 

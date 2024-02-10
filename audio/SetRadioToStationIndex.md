@@ -9,6 +9,5 @@ aliases: ["0xa619b168b8a8570f"]
 void SET_RADIO_TO_STATION_INDEX(int radioStationIndex);
 ```
 
-```
 Sets the radio statiton to
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x19e50eb6e33e1d28"]
 void SEETHROUGH_SET_HILIGHT_INTENSITY(float param);
 ```
 
-```
 SeeThrough Effect : Set the intensity of the highlights
-```
+

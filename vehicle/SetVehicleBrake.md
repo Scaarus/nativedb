@@ -9,6 +9,5 @@ aliases: ["0xe4e2fd323574965c"]
 void SET_VEHICLE_BRAKE(Vehicle vehicle, float Brakes);
 ```
 
-```
 Sets a vehicles brake value
-```
+

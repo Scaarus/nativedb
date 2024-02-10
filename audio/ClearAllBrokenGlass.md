@@ -9,6 +9,5 @@ aliases: ["0xb32209effdc04913"]
 void CLEAR_ALL_BROKEN_GLASS();
 ```
 
-```
 Clear all glass areas.
-```
+

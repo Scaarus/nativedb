@@ -9,6 +9,5 @@ aliases: ["0xff0b610f6be0d7af"]
 void CLEAR_DRAW_ORIGIN();
 ```
 
-```
 Call this once you have finished drawing sprites and text relative to a 3d world coordinate
-```
+

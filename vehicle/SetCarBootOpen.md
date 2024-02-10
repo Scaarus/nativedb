@@ -9,6 +9,5 @@ aliases: ["0xfc40cbf7b90ca77c"]
 void SET_CAR_BOOT_OPEN(Vehicle vehicle);
 ```
 
-```
 opens a car boot.
-```
+

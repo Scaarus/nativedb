@@ -9,6 +9,5 @@ aliases: ["0xccf1e97befdae480"]
 bool GET_ENTITY_COLLISION_DISABLED(Entity entity);
 ```
 
-```
 Get if an entity has collision disabled.
-```
+

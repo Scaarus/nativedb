@@ -9,6 +9,5 @@ aliases: ["0xd7360051c885628b"]
 bool IS_BONNET_CINEMATIC_CAM_RENDERING();
 ```
 
-```
 Is the bonnet cinematic cam rendering
-```
+

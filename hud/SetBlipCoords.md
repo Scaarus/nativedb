@@ -9,6 +9,5 @@ aliases: ["0xae2af67e9d9af65d"]
 void SET_BLIP_COORDS(Blip blip, Vector3 Position);
 ```
 
-```
 Set the coords of a coord, contact or radius blip
-```
+

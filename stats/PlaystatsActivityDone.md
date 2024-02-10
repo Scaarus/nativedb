@@ -9,6 +9,5 @@ aliases: ["0xa071e0ed98f91286"]
 void PLAYSTATS_ACTIVITY_DONE(int activity);
 ```
 
-```
 Tells the PlayStats that the player hasfinished an activity.
-```
+

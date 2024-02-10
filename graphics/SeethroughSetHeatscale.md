@@ -9,11 +9,10 @@ aliases: ["0xd7d0b00177485411"]
 void SEETHROUGH_SET_HEATSCALE(int type, float param);
 ```
 
-```
 SeeThrough Effect : Set the amount of heat emitted for a thermal type.
 
-Possible values for type:
-| Index | Name |
+## type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Dead |
 | 1 | Cold |
@@ -22,4 +21,4 @@ Possible values for type:
 
 
 scale goes from 0 (cold) to 1 (hot)
-```
+

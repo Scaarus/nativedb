@@ -9,6 +9,5 @@ aliases: ["0x45ff974eee1c8734"]
 void SET_BLIP_ALPHA(Blip blip, int alpha_param);
 ```
 
-```
 Change Radar blip alpha
-```
+

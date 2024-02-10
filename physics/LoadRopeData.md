@@ -9,6 +9,5 @@ aliases: ["0xcbb203c04d1abd27"]
 void LOAD_ROPE_DATA(string fileName);
 ```
 
-```
 Load rope verlet data from file
-```
+

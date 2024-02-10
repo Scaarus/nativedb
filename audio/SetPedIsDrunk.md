@@ -9,6 +9,5 @@ aliases: ["0x95d2d383d5396b8a"]
 void SET_PED_IS_DRUNK(Ped ped, bool IsDrunk);
 ```
 
-```
 Sets the ped so they sound drunk
-```
+

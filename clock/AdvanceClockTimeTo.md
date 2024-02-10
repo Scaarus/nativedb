@@ -9,8 +9,7 @@ aliases: ["0xc8ca9670b9d83b3b"]
 void ADVANCE_CLOCK_TIME_TO(int h, int m, int s);
 ```
 
-```
 advances the current time to the time specified
 
 if the new time is before the current time a day will pass on the date
-```
+

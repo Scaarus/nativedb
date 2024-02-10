@@ -9,11 +9,10 @@ aliases: ["0xeea929141f699854"]
 void TASK_SYNCHRONIZED_SCENE(Ped ped, int sceneID, string animDictionary, string anim, float blendInDelta, float blendOutDelta, int flags, int ragdollFlags, float moverBlendInDelta, int ikFlags);
 ```
 
-```
 Starts a synchronized scene on the specified ped
 
-Possible values for flags:
-| Index | Name |
+## flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Use Physics |
@@ -36,8 +35,8 @@ Possible values for flags:
 | 131072 | Net Disregard Attachment Checks |
 
 
-Possible values for ragdollFlags:
-| Index | Name |
+## ragdollFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Bullet Impact |
@@ -59,8 +58,8 @@ Possible values for ragdollFlags:
 | 65536 | Vehicle Grab |
 
 
-Possible values for ikFlags:
-| Index | Name |
+## ikFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Disable Leg Ik |
@@ -77,7 +76,7 @@ Possible values for ikFlags:
 | 2048 | Use Fp Arm Right |
 | 4096 | Disable Torso Vehicle Ik |
 | 8192 | Linked Facial |
-```
+
 
 ## Parameters
 * **ped**: 

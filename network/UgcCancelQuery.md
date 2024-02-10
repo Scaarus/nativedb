@@ -9,6 +9,5 @@ aliases: ["0xe9b99b6853181409"]
 void UGC_CANCEL_QUERY();
 ```
 
-```
 Cancel an active query
-```
+

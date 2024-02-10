@@ -9,6 +9,5 @@ aliases: ["0x0f87e938bdf29d66"]
 void STOP_ALL_GARAGE_ACTIVITY();
 ```
 
-```
 All garages are openend and if a garage had a players control blocked that player will be released.
-```
+

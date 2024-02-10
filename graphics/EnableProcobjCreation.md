@@ -9,6 +9,5 @@ aliases: ["0x5debd9c4dc995692"]
 void ENABLE_PROCOBJ_CREATION();
 ```
 
-```
 Enables procedural objects creation
-```
+

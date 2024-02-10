@@ -9,8 +9,7 @@ aliases: ["0x1e7889778264843a"]
 void TASK_EXTEND_ROUTE(Vector3 Position);
 ```
 
-```
 Adds a point to a route.
 
 Use TASK_FLUSH_ROUTE to make the route empty.
-```
+

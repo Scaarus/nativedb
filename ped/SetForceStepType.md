@@ -9,6 +9,5 @@ aliases: ["0xcb968b53fc7f916d"]
 void SET_FORCE_STEP_TYPE(Ped ped, bool force, int stepType, int detectionValuesIdx);
 ```
 
-```
 force the step type ( soft, walk, run...) and the detection values to use
-```
+

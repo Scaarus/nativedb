@@ -9,6 +9,5 @@ aliases: ["0xcf9159024555488c"]
 void SET_VEHICLE_READY_FOR_CLEANUP(Vehicle vehicle);
 ```
 
-```
 Set the vehicle cleanup flag for the vehicle with the given index
-```
+

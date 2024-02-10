@@ -9,6 +9,5 @@ aliases: ["0x8621390f0cdcfe1f"]
 void ASSISTED_MOVEMENT_FLUSH_ROUTE();
 ```
 
-```
 Clears the Assisted Movement route which is currently being edited
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xbe520d9761ff811f"]
 void SET_CG_AT_BOUNDCENTER();
 ```
 
-```
 set center of gravity at bound center
-```
+

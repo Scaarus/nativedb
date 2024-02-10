@@ -9,6 +9,5 @@ aliases: ["0xe8e3fcf72eac0ef8"]
 void APP_CLOSE_BLOCK();
 ```
 
-```
 Closes the current block
-```
+

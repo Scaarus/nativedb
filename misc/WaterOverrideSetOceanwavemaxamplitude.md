@@ -9,6 +9,5 @@ aliases: ["0xb3e6360dde733e82"]
 void WATER_OVERRIDE_SET_OCEANWAVEMAXAMPLITUDE(float value);
 ```
 
-```
 Set some values in water overrides.
-```
+

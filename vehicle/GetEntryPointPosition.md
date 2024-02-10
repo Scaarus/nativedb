@@ -9,9 +9,8 @@ aliases: ["0xc0572928c0abfda3"]
 Vector3 GET_ENTRY_POINT_POSITION(Vehicle vehicle, int EntryPointIndex);
 ```
 
-```
 Returns the position of the specified entry point.
-```
+
 
 ## Parameters
 * **vehicle**: 

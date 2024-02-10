@@ -9,6 +9,5 @@ aliases: ["0x03d7fb09e75d6b7e"]
 void SET_BLIP_COLOUR(Blip blip, int colour);
 ```
 
-```
 Change Radar blip colour
-```
+

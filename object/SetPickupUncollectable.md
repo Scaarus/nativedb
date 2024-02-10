@@ -9,6 +9,5 @@ aliases: ["0x1c1b69fae509ba97"]
 void SET_PICKUP_UNCOLLECTABLE(Pickup pickup, bool Set);
 ```
 
-```
 Sets a pickup as locally uncollectable
-```
+

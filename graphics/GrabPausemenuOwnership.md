@@ -9,6 +9,5 @@ aliases: ["0x851cd923176eba7c"]
 void GRAB_PAUSEMENU_OWNERSHIP();
 ```
 
-```
 Grab ownership (AND FULL RESPONSIBILITY) for the current state of the pausemenu, if it's paused.
-```
+

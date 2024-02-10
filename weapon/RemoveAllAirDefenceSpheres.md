@@ -9,6 +9,5 @@ aliases: ["0x1e45b34adebee48e"]
 void REMOVE_ALL_AIR_DEFENCE_SPHERES();
 ```
 
-```
 Removes all air defence spheres.
-```
+

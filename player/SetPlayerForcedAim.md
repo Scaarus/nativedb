@@ -9,6 +9,5 @@ aliases: ["0x0fee4f80ac44a726"]
 void SET_PLAYER_FORCED_AIM(Player player, bool ForcedAim);
 ```
 
-```
 Forces the player to always aim
-```
+

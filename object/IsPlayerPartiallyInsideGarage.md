@@ -9,6 +9,5 @@ aliases: ["0x1761dc5d8471cbaa"]
 bool IS_PLAYER_PARTIALLY_INSIDE_GARAGE(int GarageHash, Player player, int boxIndex);
 ```
 
-```
 Returns TRUE if the player is partially inside the garage. If the player is in a vehicle it uses the vehciles bound volume.
-```
+

@@ -9,9 +9,8 @@ aliases: ["0x464d8e1427156fe4"]
 void REMOVE_DOOR_FROM_SYSTEM(int doorEnumHash, bool Lock);
 ```
 
-```
 Remove a script defined door from the door system
-```
+
 
 ## Parameters
 * **doorEnumHash**: 

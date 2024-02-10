@@ -9,6 +9,5 @@ aliases: ["0xb0ad1238a709b1a2"]
 bool IS_BOAT_ANCHORED(Vehicle vehicle);
 ```
 
-```
 Checks if a boat is currently anchored.
-```
+

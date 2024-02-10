@@ -9,6 +9,5 @@ aliases: ["0x30cf4bda4fcb1905"]
 bool GET_IS_WIDESCREEN();
 ```
 
-```
 Returns if running widescreen
-```
+

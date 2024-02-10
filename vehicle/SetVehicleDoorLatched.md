@@ -9,11 +9,10 @@ aliases: ["0xa5a9653a8d2caf48"]
 void SET_VEHICLE_DOOR_LATCHED(Vehicle vehicle, int DoorNumber, bool SetLatched, bool WillAutoLatch, bool ApplyForceForDoorClosed);
 ```
 
-```
 Sets a vehicle door to latch.
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -25,4 +24,4 @@ Possible values for DoorNumber:
 
 
 SC_DOOR_LIST is in commands_vehicle.sch
-```
+

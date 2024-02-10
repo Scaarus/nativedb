@@ -9,6 +9,5 @@ aliases: ["0x36492c2f0d134c56"]
 float GET_VEHICLE_CURRENT_TIME_IN_SLIP_STREAM(Vehicle vehicle);
 ```
 
-```
 Returns how long this car has been slipstreaming for
-```
+

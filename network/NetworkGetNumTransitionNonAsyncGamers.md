@@ -9,6 +9,5 @@ aliases: ["0x617f49c2668e6155"]
 int NETWORK_GET_NUM_TRANSITION_NON_ASYNC_GAMERS();
 ```
 
-```
 Returns whether there are any non-async gamers in our transition session
-```
+

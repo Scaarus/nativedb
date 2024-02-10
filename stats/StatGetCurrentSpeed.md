@@ -9,6 +9,5 @@ aliases: ["0x55a8becaf28a4eb7"]
 float STAT_GET_CURRENT_SPEED();
 ```
 
-```
 PURPOSE Get the current speed
-```
+

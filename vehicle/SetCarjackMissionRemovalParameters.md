@@ -9,6 +9,5 @@ aliases: ["0xb9562064627ff9db"]
 void SET_CARJACK_MISSION_REMOVAL_PARAMETERS(int iNumVehiclesInArea, float fRadiusForRemoval);
 ```
 
-```
 Set min number tagged vehicles in radius before aggressive removal starts
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xa808aa1d79230fc2"]
 bool IS_PED_SITTING_IN_VEHICLE(Ped ped, Vehicle vehicle);
 ```
 
-```
 Checks the ped is sitting the specified vehicle.
-```
+

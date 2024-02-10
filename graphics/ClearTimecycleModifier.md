@@ -9,6 +9,5 @@ aliases: ["0x0f07e7745a236711"]
 void CLEAR_TIMECYCLE_MODIFIER();
 ```
 
-```
 Clears anys critp set timecycle modifier.
-```
+

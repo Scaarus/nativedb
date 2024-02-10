@@ -9,6 +9,5 @@ aliases: ["0x594a1028fc2a3e85"]
 Vector3 GET_SCRIPTED_COVER_POINT_COORDS();
 ```
 
-```
 Gets the coords of the scripted cover point id passed in
-```
+

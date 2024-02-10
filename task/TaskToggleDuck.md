@@ -9,13 +9,12 @@ aliases: ["0xac96609b9995edf8"]
 void TASK_TOGGLE_DUCK(Ped ped, int toggle);
 ```
 
-```
 Gives the task to set a ped duck state.
 
-Possible values for toggle:
-| Index | Name |
+## toggle Values:
+| Value | Name |
 | --- | --- |
 | -1 | Auto |
 | 249 | Off |
 | 250 | On |
-```
+

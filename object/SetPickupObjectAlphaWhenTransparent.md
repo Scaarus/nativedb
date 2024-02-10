@@ -9,6 +9,5 @@ aliases: ["0x8881c98a31117998"]
 void SET_PICKUP_OBJECT_ALPHA_WHEN_TRANSPARENT(int PickupAlpha);
 ```
 
-```
 Sets the alpha that pickups will be displayed at when uncollectable and SET_PICKUP_OBJECT_TRANSPARENT_WHEN_UNCOLLECTABLE has been called on them
-```
+

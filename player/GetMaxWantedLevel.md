@@ -9,6 +9,5 @@ aliases: ["0x462e0db9b137dc5f"]
 int GET_MAX_WANTED_LEVEL();
 ```
 
-```
 Gets the players max wanted level.
-```
+

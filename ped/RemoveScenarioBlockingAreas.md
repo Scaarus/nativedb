@@ -9,6 +9,5 @@ aliases: ["0xd37401d78a929a49"]
 void REMOVE_SCENARIO_BLOCKING_AREAS();
 ```
 
-```
 Removes any areas that are blocking screnarios
-```
+

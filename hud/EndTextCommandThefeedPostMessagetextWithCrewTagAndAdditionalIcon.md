@@ -9,11 +9,10 @@ aliases: ["0x531b84e7da981fb6"]
 int END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG_AND_ADDITIONAL_ICON(string sTXD, string sImageName, bool IsImportant, int eIcon, string sCharacterName, string sSubtitle, float timeMultiplier, string sCrewTagPacked, int eIcon2, int iHudColor);
 ```
 
-```
 ** Modified TITLE_UPDATE COMMAND ** Does everything END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG can do, but with an additional icon!
 
-Possible values for eIcon:
-| Index | Name |
+## eIcon Values:
+| Value | Name |
 | --- | --- |
 | 0 | Blank |
 | 1242 | Message |
@@ -28,4 +27,4 @@ Possible values for eIcon:
 | 1251 | Ap |
 | 1252 | Xp Alt |
 | 1253 | Cash Alt |
-```
+

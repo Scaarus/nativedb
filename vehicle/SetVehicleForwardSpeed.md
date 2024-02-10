@@ -9,6 +9,5 @@ aliases: ["0xab54a438726d25d5"]
 void SET_VEHICLE_FORWARD_SPEED(Vehicle vehicle, float CarSpeed);
 ```
 
-```
 Sets the vehicles forward speed in m/s
-```
+

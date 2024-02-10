@@ -9,6 +9,5 @@ aliases: ["0xbd32e46aa95c1dd2"]
 void SET_BOAT_WRECKED(Vehicle vehicle);
 ```
 
-```
 Sets a boat as wrecked
-```
+

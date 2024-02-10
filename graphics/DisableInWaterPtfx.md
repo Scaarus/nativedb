@@ -9,6 +9,5 @@ aliases: ["0xcfd16f0db5a3535c"]
 void DISABLE_IN_WATER_PTFX(bool enable);
 ```
 
-```
 Disables all in-water particle effects
-```
+

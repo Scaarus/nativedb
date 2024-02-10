@@ -9,6 +9,5 @@ aliases: ["0x5c8b2f450ee4328e"]
 void SET_PLAYER_LOCKON(Player player, bool Active);
 ```
 
-```
 Set lockon active state for mulitplayer games.
-```
+

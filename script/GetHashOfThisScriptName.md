@@ -9,6 +9,5 @@ aliases: ["0x8a1c8b1738ffe87e"]
 int GET_HASH_OF_THIS_SCRIPT_NAME();
 ```
 
-```
 Returns the hash of the name of the script that calls this command
-```
+

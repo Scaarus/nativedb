@@ -9,6 +9,5 @@ aliases: ["0xec9264727eec0f28"]
 void TAKE_CONTROL_OF_FRONTEND();
 ```
 
-```
 allows script to take control of the frontend menus
-```
+

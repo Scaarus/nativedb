@@ -9,6 +9,5 @@ aliases: ["0x96dec8d5430208b7"]
 void DISPLAY_CASH(bool Value);
 ```
 
-```
 Dipslays the playes cash.
-```
+

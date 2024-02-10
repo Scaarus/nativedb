@@ -9,11 +9,10 @@ aliases: ["0x6009f9f1ae90d8a6"]
 void REQUEST_ADDITIONAL_TEXT_FOR_DLC(string pTextBlockName, int SlotNumber);
 ```
 
-```
 Requests a block of text for the DLC.
 
-Possible values for SlotNumber:
-| Index | Name |
+## SlotNumber Values:
+| Value | Name |
 | --- | --- |
 | 1002 | MISSION_TEXT_SLOT |
 | 1003 | PHONE_TEXT_SLOT |
@@ -41,4 +40,4 @@ Possible values for SlotNumber:
 
 
 Request additional text for DLC, see above for more info
-```
+

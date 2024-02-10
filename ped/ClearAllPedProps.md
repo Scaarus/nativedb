@@ -9,6 +9,5 @@ aliases: ["0xcd8a7537a9b52f06"]
 void CLEAR_ALL_PED_PROPS();
 ```
 
-```
 Removes all ped props
-```
+

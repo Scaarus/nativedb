@@ -9,6 +9,5 @@ aliases: ["0x694e00132f2823ed"]
 void SET_ENTITY_REQUIRES_MORE_EXPENSIVE_RIVER_CHECK(Entity entity, bool FlagValue);
 ```
 
-```
 Set this to true for important entities in missions where you might travel quickly down rivers.
-```
+

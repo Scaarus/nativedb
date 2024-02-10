@@ -9,6 +9,5 @@ aliases: ["0xe41033b25d003a07"]
 void SET_VEHICLE_XENON_LIGHT_COLOR_INDEX(Vehicle vehicle, int XenonColorLightIndex);
 ```
 
-```
 Set Xenon light index for the vehicle
-```
+

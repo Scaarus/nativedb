@@ -9,6 +9,5 @@ aliases: ["0x69ff13266d7296da"]
 bool STAT_SET_LICENSE_PLATE(string licensePlate);
 ```
 
-```
 Set the value of a License Plate. Max number of characters is 8.
-```
+

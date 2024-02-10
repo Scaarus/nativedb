@@ -9,6 +9,5 @@ aliases: ["0x2e0e1c2b4f6cb339"]
 bool IS_PED_IN_ANY_BOAT(Ped ped);
 ```
 
-```
 Checks that the ped is in a boat model.
-```
+

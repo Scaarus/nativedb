@@ -9,6 +9,5 @@ aliases: ["0x1a9205c1b9ee827f"]
 void SET_ENTITY_COLLISION(Entity entity, bool UsesCollisionsFlag, bool KeepDisabledSimulatingFlag);
 ```
 
-```
 Sets if an entity uses collision.
-```
+

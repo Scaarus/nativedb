@@ -9,6 +9,5 @@ aliases: ["0x8e17ddd6b9d5bf29"]
 float GET_BINK_MOVIE_TIME(int MovieId);
 ```
 
-```
 Gets the time of the current movie.
-```
+

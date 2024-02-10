@@ -9,6 +9,5 @@ aliases: ["0x4319e335b71fff34"]
 bool IS_VEHICLE_ALARM_ACTIVATED(Vehicle vehicle);
 ```
 
-```
 Returns whether the alarm is going off or not
-```
+

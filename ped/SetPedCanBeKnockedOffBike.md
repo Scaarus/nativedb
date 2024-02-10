@@ -9,11 +9,10 @@ aliases: ["0xb282749d5e028163"]
 void SET_PED_CAN_BE_KNOCKED_OFF_BIKE(Ped ped, int CanBeKnockedOffFlag);
 ```
 
-```
 Sets that a ped can be knocked off.
 
-Possible values for CanBeKnockedOffFlag:
-| Index | Name |
+## CanBeKnockedOffFlag Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 125 | Never |
@@ -22,4 +21,4 @@ Possible values for CanBeKnockedOffFlag:
 
 
 BIKE_KNOCKOFF in commands_ped.sch
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x7ce1ccb9b293020e"]
 string GET_VEHICLE_NUMBER_PLATE_TEXT(Vehicle vehicle);
 ```
 
-```
 Returns a vehicle's license plate. Note it will only return alphanumeric characters.
-```
+

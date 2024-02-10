@@ -9,6 +9,5 @@ aliases: ["0xc7272775b4dc786e"]
 void STOP_CUTSCENE(bool DeleteRegisteredEntityIfNotGrabbedByScript);
 ```
 
-```
 Stops the cutscene that is currently playing and skips to the end of the scene.
-```
+

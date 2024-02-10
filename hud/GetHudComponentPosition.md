@@ -9,11 +9,10 @@ aliases: ["0x223ca69a8c4417fd"]
 Vector3 GET_HUD_COMPONENT_POSITION(int hudComponent);
 ```
 
-```
 gets the position of this hud component value
 
-Possible values for hudComponent:
-| Index | Name |
+## hudComponent Values:
+| Value | Name |
 | --- | --- |
 | 0 | Weapon Icon |
 | 1 | Wanted Stars |
@@ -35,4 +34,4 @@ Possible values for hudComponent:
 | 17 | Feed |
 | 18 | Weapon Wheel |
 | 19 | Weapon Wheel Stats |
-```
+

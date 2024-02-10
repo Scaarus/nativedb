@@ -9,8 +9,7 @@ aliases: ["0x6c8065a3b780185b"]
 void SET_AMBIENT_VOICE_NAME(Ped ped, string VoiceName);
 ```
 
-```
 Sets a ped to use a specific voice different to the one associated with their model.
 
 VoiceName specified by Audio
-```
+

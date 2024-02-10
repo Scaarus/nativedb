@@ -9,11 +9,10 @@ aliases: ["0xe9b09589827545e7"]
 void REPORT_CRIME(int crimeToReport, int crimeValue);
 ```
 
-```
 Report a crime from script, crimeValue
 
-Possible values for crimeToReport:
-| Index | Name |
+## crimeToReport Values:
+| Value | Name |
 | --- | --- |
 | 0 | CRIME_NONE |
 | 9 | CRIME_POSSESSION_GUN |
@@ -70,4 +69,4 @@ Possible values for crimeToReport:
 
 
 can be overridden to specify an amount, if left at 0 the crime will get evaluated. Custom crimes that aren't supported in code need to make sure to provide a crimeValue, otherwise they'll get thrown out when evaluated
-```
+

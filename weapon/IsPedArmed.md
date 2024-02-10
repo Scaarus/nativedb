@@ -9,6 +9,5 @@ aliases: ["0x475768a975d5ad17"]
 bool IS_PED_ARMED(Ped ped, int weaponCheckFlags);
 ```
 
-```
 Queries the peds armament using the flags passed
-```
+

@@ -9,8 +9,7 @@ aliases: ["0xeae6dcc7eee3db1d"]
 void SET_PARKED_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME(float DensityMultiplier);
 ```
 
-```
 Sets the amount of parked vehicles being spawned.
 
 If the Denisty multiplier is set to 0.0 then parked vehicles will stop spawning.
-```
+

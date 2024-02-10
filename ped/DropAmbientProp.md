@@ -9,6 +9,5 @@ aliases: ["0xaff4710e2a0a6c12"]
 void DROP_AMBIENT_PROP(Ped ped);
 ```
 
-```
 Drops the ped's ambient prop (a coffee cup, etc.).
-```
+

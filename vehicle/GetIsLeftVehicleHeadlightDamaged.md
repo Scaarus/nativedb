@@ -9,6 +9,5 @@ aliases: ["0x5ef77c9add3b11a3"]
 bool GET_IS_LEFT_VEHICLE_HEADLIGHT_DAMAGED(Vehicle vehicle);
 ```
 
-```
 Checks whether left vehicle headlight is damaged
-```
+

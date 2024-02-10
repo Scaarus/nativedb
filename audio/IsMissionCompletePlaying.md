@@ -9,6 +9,5 @@ aliases: ["0x19a30c23f5827f8a"]
 bool IS_MISSION_COMPLETE_PLAYING();
 ```
 
-```
 Checks if the mission complete audio is playing
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x996dd1e1e02f1008"]
 int GET_NUM_SUCCESSFUL_STUNT_JUMPS();
 ```
 
-```
 Returns the number of completed stunt jumps
-```
+

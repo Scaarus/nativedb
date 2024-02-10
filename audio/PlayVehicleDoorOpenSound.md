@@ -9,6 +9,5 @@ aliases: ["0x3a539d52857ea82d"]
 void PLAY_VEHICLE_DOOR_OPEN_SOUND(Vehicle vehicle, int doorIndex);
 ```
 
-```
 Trigger a door open sound
-```
+

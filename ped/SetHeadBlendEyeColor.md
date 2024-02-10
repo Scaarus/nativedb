@@ -9,6 +9,5 @@ aliases: ["0x50b56988b170afdf"]
 void SET_HEAD_BLEND_EYE_COLOR(Ped ped, int colorIndex);
 ```
 
-```
 Sets the specified eye color index on the given ped
-```
+

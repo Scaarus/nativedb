@@ -9,6 +9,5 @@ aliases: ["0xcdca26e80faecb8f"]
 void PAUSE_MENUCEPTION_THE_KICK();
 ```
 
-```
 If a screen has been menucepted, this'll take you back a level of the -dream- state stack
-```
+

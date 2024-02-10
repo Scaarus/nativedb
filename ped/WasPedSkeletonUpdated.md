@@ -9,6 +9,5 @@ aliases: ["0x11b499c1e0ff8559"]
 bool WAS_PED_SKELETON_UPDATED(Ped ped);
 ```
 
-```
 Call this and make sure it returns TRUE before calling GET_PED_BONE_COORDS
-```
+

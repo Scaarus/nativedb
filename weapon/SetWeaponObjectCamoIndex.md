@@ -9,6 +9,5 @@ aliases: ["0x977ca98939e82e4b"]
 void SET_WEAPON_OBJECT_CAMO_INDEX(Object object, int CamoIndex);
 ```
 
-```
 Set the camo values on a weapon object
-```
+

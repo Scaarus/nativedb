@@ -9,6 +9,5 @@ aliases: ["0x29961d490e5814fd"]
 void SET_PLAYER_LOCKON_RANGE_OVERRIDE(float Range);
 ```
 
-```
 Overrides the current player lock-on range (for this frame, needs to be called every frame to remain active)
-```
+

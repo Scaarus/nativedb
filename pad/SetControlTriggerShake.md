@@ -9,11 +9,10 @@ aliases: ["0x14d29bb12d47f68c"]
 void SET_CONTROL_TRIGGER_SHAKE(int control, int leftDuration, int leftFrequency, int rightDuration, int rightFrequency);
 ```
 
-```
 Causes the given Pad, assigned to a Control, to shake its triggers.
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
@@ -21,4 +20,4 @@ Possible values for control:
 
 
 Frequency should be less than 256. Duration is in milliseconds
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x2afe52f782f25775"]
 bool IS_PED_RUNNING_MOBILE_PHONE_TASK();
 ```
 
-```
 Returns true if the given ped is actively running a mobile phone task
-```
+

@@ -9,9 +9,8 @@ aliases: ["0x877c1eaeac531023"]
 void SET_PICKUP_ROPE_LENGTH_FOR_CARGOBOB(Vehicle vehicle, float detachedRopeLength, float attachedRopeLength, bool SetRopeLengthInstantly);
 ```
 
-```
 Generate the pick up rope for cargobob
-```
+
 
 ## Parameters
 * **vehicle**: 

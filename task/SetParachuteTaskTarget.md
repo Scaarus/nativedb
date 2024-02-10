@@ -9,6 +9,5 @@ aliases: ["0xc313379af0fceda7"]
 void SET_PARACHUTE_TASK_TARGET(Ped ped, Vector3 TargetLocation);
 ```
 
-```
 : Modifies the current target for a Parachuting Ped being navigated by AI assistance
-```
+

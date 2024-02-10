@@ -9,6 +9,5 @@ aliases: ["0x556c1aa270d5a207"]
 void DELETE_INCIDENT();
 ```
 
-```
 Deletes the given incident
-```
+

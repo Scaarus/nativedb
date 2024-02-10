@@ -9,6 +9,5 @@ aliases: ["0xbedb96a7584aa8cf"]
 bool DATAFILE_IS_SAVE_PENDING();
 ```
 
-```
 Check if a save to cloud operation is pending
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x76bf03fadbf154f5"]
 bool NETWORK_HAS_SOCIAL_NETWORKING_SHARING_PRIV();
 ```
 
-```
 PURPOSE Checks if local gamer has social networking privileges
-```
+

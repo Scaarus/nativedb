@@ -9,6 +9,5 @@ aliases: ["0x89023fbbf9200e9f"]
 int GET_NETWORK_TIME_ACCURATE();
 ```
 
-```
 Returns the network time. This will return the time *now*
-```
+

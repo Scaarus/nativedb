@@ -9,6 +9,5 @@ aliases: ["0x3dc52677769b4ae0"]
 bool IS_PED_RUNNING_ARREST_TASK(Ped ped);
 ```
 
-```
 Determines whether the specified ped is running the arrest task
-```
+

@@ -9,9 +9,8 @@ aliases: ["0xe6c0c80b8c867537"]
 void SET_ENABLE_VEHICLE_SLIPSTREAMING(bool EnableSlipstreaming);
 ```
 
-```
 Turns slipstreaming (speeding up when trailing another vehicle) on or off for ALL vehicles
-```
+
 
 ## Parameters
 * **EnableSlipstreaming**: Enable or disable slipstreaming for all vehicles

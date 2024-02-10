@@ -9,6 +9,5 @@ aliases: ["0x424d4687fa1e5652"]
 bool IS_PLAYER_DEAD();
 ```
 
-```
 Returns TRUE if the given player is dead.
-```
+

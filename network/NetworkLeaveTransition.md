@@ -9,6 +9,5 @@ aliases: ["0xd23a1a815d21db19"]
 bool NETWORK_LEAVE_TRANSITION();
 ```
 
-```
 This leaves the transition session. This should be called if the player wants to leave the transition before it is launched
-```
+

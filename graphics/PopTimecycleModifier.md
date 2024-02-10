@@ -9,6 +9,5 @@ aliases: ["0x3c8938d7d872211e"]
 void POP_TIMECYCLE_MODIFIER();
 ```
 
-```
 Pop the previously timecycle modifiers settings, effectively restoring values saved earlier.
-```
+

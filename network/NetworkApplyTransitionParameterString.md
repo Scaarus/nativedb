@@ -9,6 +9,5 @@ aliases: ["0xebefc2e77084f599"]
 void NETWORK_APPLY_TRANSITION_PARAMETER_STRING(int nID, string szParameter, bool ForceDirty);
 ```
 
-```
 Applies a string parameter.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xd40148f22e81a1d9"]
 bool IS_VEHICLE_ATTACHED_TO_CARGOBOB(Vehicle vehicle, Vehicle vehicle);
 ```
 
-```
 Is vehicle attached to cargobob
-```
+

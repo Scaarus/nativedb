@@ -9,6 +9,5 @@ aliases: ["0x60e892ba4f5bdca4"]
 void SHOW_ACCOUNT_PICKER();
 ```
 
-```
 shows the account picker UI for XB1
-```
+

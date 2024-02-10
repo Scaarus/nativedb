@@ -9,6 +9,5 @@ aliases: ["0x6e0c692677008888"]
 void SET_STREAMING(bool onOff);
 ```
 
-```
 Switch streaming on and off
-```
+

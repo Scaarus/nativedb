@@ -9,6 +9,5 @@ aliases: ["0xb8eb95e5b4e56978"]
 bool CAN_CREATE_RANDOM_DRIVER();
 ```
 
-```
 Returns true if there's an available ped model to be spawned as driver
-```
+

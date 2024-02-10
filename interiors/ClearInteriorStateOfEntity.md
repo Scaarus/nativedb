@@ -9,8 +9,7 @@ aliases: ["0x85d5422b2039a70d"]
 void CLEAR_INTERIOR_STATE_OF_ENTITY();
 ```
 
-```
 Force entity to outside world
 
 If an entity is in the retained state, then force it out of that state and into a clean, in-exterior-world state instead
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x7d6f9a3ef26136a0"]
 void SET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON(Vehicle vehicle, bool AllowHomingMissileLockon, bool IgnoreMisisonVehCheck);
 ```
 
-```
 Allow a MISSION vehicle to disable homing missle targetting
-```
+

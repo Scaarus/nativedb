@@ -9,13 +9,12 @@ aliases: ["0x38c16a305e8cdc8d"]
 void STOP_CONTROL_SHAKE(int control);
 ```
 
-```
 Stops the given Pad, assigned to a Control, from shaking.
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
-```
+

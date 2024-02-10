@@ -9,6 +9,5 @@ aliases: ["0xddc635d5b3262c56"]
 void DEACTIVATE_AUDIO_SLOWMO_MODE(string mode);
 ```
 
-```
 Deactivates the named slowmo mode.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xbcedb009461da156"]
 bool PHONEPHOTOEDITOR_IS_ACTIVE();
 ```
 
-```
 Checks whether the phone photo edit system is enabled
-```
+

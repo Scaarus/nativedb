@@ -9,6 +9,5 @@ aliases: ["0x70ea8da57840f9be"]
 bool UGC_GET_CONTENT_HAS_PLAYER_RECORD(int nContentIndex);
 ```
 
-```
 Whether the local player has a record This won't be the case until the player has rated, bookmarked or set player data
-```
+

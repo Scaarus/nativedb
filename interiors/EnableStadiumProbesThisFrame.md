@@ -9,6 +9,5 @@ aliases: ["0x7ecdf98587e92dec"]
 void ENABLE_STADIUM_PROBES_THIS_FRAME(bool Enable);
 ```
 
-```
 turn on the special stadium length probing in the portal tracking code, at the stadium interior location
-```
+

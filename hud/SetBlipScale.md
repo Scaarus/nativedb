@@ -9,6 +9,5 @@ aliases: ["0xd38744167b2fa257"]
 void SET_BLIP_SCALE(Blip blip, float scale);
 ```
 
-```
 Change Radar blip scale
-```
+

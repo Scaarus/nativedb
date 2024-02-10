@@ -9,6 +9,5 @@ aliases: ["0xa72835064dd63e4c"]
 int GET_MAX_NUM_NETWORK_PICKUPS();
 ```
 
-```
 Returns the maximum number of pickups supported by the network game.
-```
+

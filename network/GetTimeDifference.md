@@ -9,6 +9,5 @@ aliases: ["0xa2c6fc031d46fff0"]
 int GET_TIME_DIFFERENCE(int Time1, int Time2);
 ```
 
-```
 Return INT representing time between Time1 and Time2
-```
+

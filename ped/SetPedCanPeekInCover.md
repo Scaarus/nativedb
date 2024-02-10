@@ -9,6 +9,5 @@ aliases: ["0xc514825c507e3736"]
 void SET_PED_CAN_PEEK_IN_COVER(Ped ped, bool AllowPeek);
 ```
 
-```
 Sets the ped can peek whilst in cover
-```
+

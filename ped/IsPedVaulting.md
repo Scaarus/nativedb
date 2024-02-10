@@ -9,6 +9,5 @@ aliases: ["0x117c70d1f5730b5e"]
 bool IS_PED_VAULTING(Ped ped);
 ```
 
-```
 Return if a ped is currently climbing or vaulting or doing a drop down.
-```
+

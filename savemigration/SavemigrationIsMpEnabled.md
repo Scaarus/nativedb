@@ -9,6 +9,5 @@ aliases: ["0x84b418e93894ac1c"]
 bool SAVEMIGRATION_IS_MP_ENABLED();
 ```
 
-```
 Returns TRUE if save migration is enabled.
-```
+

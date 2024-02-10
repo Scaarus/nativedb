@@ -9,6 +9,5 @@ aliases: ["0x1f2aa07f00b3217a"]
 void SET_VEHICLE_MOD_KIT(Vehicle vehicle, int kitIndex);
 ```
 
-```
 Activates a mod kit on the specified vehicle
-```
+

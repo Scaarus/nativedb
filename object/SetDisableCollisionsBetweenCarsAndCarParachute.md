@@ -9,6 +9,5 @@ aliases: ["0x8caab2bd3ea58bd4"]
 void SET_DISABLE_COLLISIONS_BETWEEN_CARS_AND_CAR_PARACHUTE(bool DisableCollisions);
 ```
 
-```
 Disables collisions between all vehicles and all vehicle parachutes
-```
+

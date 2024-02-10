@@ -9,9 +9,8 @@ aliases: ["0x965fec691d55e9bf"]
 void TASK_PLANT_BOMB(Ped ped, Vector3 vTargetPosition, float fTargetHeading);
 ```
 
-```
 Gives designated ped the task to plant a bomb at a given position and heading
-```
+
 
 ## Parameters
 * **ped**: 

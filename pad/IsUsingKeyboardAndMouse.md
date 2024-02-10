@@ -9,13 +9,12 @@ aliases: ["0xa571d46727e2b718"]
 bool IS_USING_KEYBOARD_AND_MOUSE(int control);
 ```
 
-```
 Returns true if the player is using keyboard and mouse controls.
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
-```
+

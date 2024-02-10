@@ -9,6 +9,5 @@ aliases: ["0x8879ee09268305d5"]
 void UNPAUSE_PLAYBACK_RECORDED_VEHICLE(Vehicle vehicle);
 ```
 
-```
 Unpauses the playback for a recorded vehicle
-```
+

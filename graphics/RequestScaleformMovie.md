@@ -9,8 +9,7 @@ aliases: ["0x11fe353cf9733e6f"]
 Scaleform REQUEST_SCALEFORM_MOVIE(string filename);
 ```
 
-```
 Requests that a scaleform movie is streamed in
 
 Requests that a scaleform movie is streamed in (only allows 1 instance of a movie active at one time)
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x9c30613d50a6adef"]
 void WASH_DECALS_IN_RANGE(Vector3 pos, float range, float washAmount);
 ```
 
-```
 Wash all decals within the range of a position
-```
+

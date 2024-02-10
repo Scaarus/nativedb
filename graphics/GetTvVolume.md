@@ -9,6 +9,5 @@ aliases: ["0x2170813d3dd8661b"]
 float GET_TV_VOLUME();
 ```
 
-```
 Returns the current TV volume in decibels
-```
+

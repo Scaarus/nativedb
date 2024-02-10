@@ -9,11 +9,10 @@ aliases: ["0x0e7e72961ba18619"]
 bool START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE(string fxName, Ped ped, Vector3 vecPosition, Vector3 vecRotation, int boneTag, float scale, bool invertAxisX, bool invertAxisY, bool invertAxisZ);
 ```
 
-```
 Trigger a set piece (non looped) particle effect on a ped bone with an offset position and orientation.
 
-Possible values for boneTag:
-| Index | Name |
+## boneTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Null |
 | 0 | Root |
@@ -77,7 +76,7 @@ Possible values for boneTag:
 STRING STRING
 
 Triggers a named particle effect on a ped bone at an offset position and rotation. This should only be used with non-looped particle effects. The particle effect will then play and tidy itself up when finished. There is no access to the particle effect once it has been triggered.
-```
+
 
 ## Parameters
 * **fxName**: the name of the particle effect to be triggered PED_INDEX

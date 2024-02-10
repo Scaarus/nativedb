@@ -9,6 +9,5 @@ aliases: ["0x6e08bf5b3722bac9"]
 bool DOES_CARGOBOB_HAVE_PICKUP_MAGNET(Vehicle vehicle);
 ```
 
-```
 Determines if the given cargobob currently has a pick-up magnet gadget.
-```
+

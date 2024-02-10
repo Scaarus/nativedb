@@ -9,8 +9,7 @@ aliases: ["0x3eb1fe9e8e908e15"]
 void TASK_COWER(Ped ped, int Time);
 ```
 
-```
 Gives the ped a cower task.
 
 Not approved for use in network scripts
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x2e0dc353342c4a6d"]
 bool IS_PROJECTILE_TYPE_IN_AREA(Vector3 MinPosition, Vector3 MaxPosition, Hash weaponHash, bool IsPlayer);
 ```
 
-```
 Checks that a projectile object of the specified type is in the area.
-```
+

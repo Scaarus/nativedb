@@ -9,6 +9,5 @@ aliases: ["0x755d6d5267cbbd7e"]
 bool ARE_PLANE_PROPELLERS_INTACT(Vehicle vehicle);
 ```
 
-```
 Query if plane's propellers are intact
-```
+

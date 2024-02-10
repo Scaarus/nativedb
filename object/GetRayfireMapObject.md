@@ -9,6 +9,5 @@ aliases: ["0xb48fced898292e52"]
 Rayfire GET_RAYFIRE_MAP_OBJECT(Vector3 Pos, float fRadius, string RayfireName);
 ```
 
-```
 Gets the map ray fire object at given coord in the given radius.
-```
+

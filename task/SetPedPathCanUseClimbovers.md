@@ -9,6 +9,5 @@ aliases: ["0x8e06a6fe76c9eff4"]
 void SET_PED_PATH_CAN_USE_CLIMBOVERS(Ped ped, bool UseClimbovers);
 ```
 
-```
 Sets if a peds path finding can use climbovers.
-```
+

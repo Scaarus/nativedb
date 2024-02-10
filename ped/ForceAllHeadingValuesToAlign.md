@@ -9,6 +9,5 @@ aliases: ["0xff287323b0e2c69a"]
 void FORCE_ALL_HEADING_VALUES_TO_ALIGN(Ped ped);
 ```
 
-```
 Makes all of the heading values the same, so the ped doesn't attempt to turn.
-```
+

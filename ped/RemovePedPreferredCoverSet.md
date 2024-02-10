@@ -9,6 +9,5 @@ aliases: ["0xfddb234cf74073d9"]
 void REMOVE_PED_PREFERRED_COVER_SET();
 ```
 
-```
 Removes a peds preferred cover set
-```
+

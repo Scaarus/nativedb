@@ -9,6 +9,5 @@ aliases: ["0x228d3d94f8a11c3c"]
 bool HAS_THIS_CUTSCENE_LOADED(string SceneName);
 ```
 
-```
 Checks that the cutscene has been streamed in.
-```
+

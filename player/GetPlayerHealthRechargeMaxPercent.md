@@ -9,6 +9,5 @@ aliases: ["0x8bc515bae4aaf8ff"]
 float GET_PLAYER_HEALTH_RECHARGE_MAX_PERCENT(Player player);
 ```
 
-```
 Returns the current max percentage that a player's health can recharge to, as a float between 0.0 and 1.0
-```
+

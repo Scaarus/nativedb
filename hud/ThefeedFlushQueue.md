@@ -9,7 +9,6 @@ aliases: ["0xa8fdb297a8d25fba"]
 void THEFEED_FLUSH_QUEUE();
 ```
 
-```
 Flushes the "The Feed" queue and removes all the displayed feed items.
 none
-```
+

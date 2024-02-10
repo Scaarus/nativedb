@@ -9,6 +9,5 @@ aliases: ["0xdb283fde680fe72e"]
 bool STAT_SET_POS(int Hash, float X, float Y, float Z, bool coderAssert);
 ```
 
-```
 Set the value of an Date stat.
-```
+

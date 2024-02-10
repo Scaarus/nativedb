@@ -9,6 +9,5 @@ aliases: ["0x42fb3b532d526e6c"]
 void NETWORK_REQUEST_CLOUD_TUNABLES();
 ```
 
-```
 Requests the cloud tunables file.
-```
+

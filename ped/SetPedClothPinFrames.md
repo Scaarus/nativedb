@@ -9,6 +9,5 @@ aliases: ["0x78c4e9961db3eb5b"]
 void SET_PED_CLOTH_PIN_FRAMES(Ped ped, int pinFrames);
 ```
 
-```
 Set custom cloth pose on the ped
-```
+

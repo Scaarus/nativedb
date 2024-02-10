@@ -9,6 +9,5 @@ aliases: ["0xdeadc0dedeadc0de"]
 void UPDATE_LIGHTS_ON_ENTITY(Entity entity);
 ```
 
-```
 Forces a re-calculate of all lights and their bounding boxes that are attached to this entity
-```
+

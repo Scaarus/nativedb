@@ -9,9 +9,8 @@ aliases: ["0x92aefb5f6e294023"]
 void PREVENT_COLLECTION_OF_PORTABLE_PICKUP(bool Prevent, bool LocalOnly);
 ```
 
-```
 Sets a portable pickup to be uncollectable
-```
+
 
 ## Parameters
 * **Prevent**: 

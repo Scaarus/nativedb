@@ -9,11 +9,10 @@ aliases: ["0x480142959d337d00"]
 void TASK_VEHICLE_DRIVE_WANDER(Vehicle vehicle, float CruiseSpeed, int Mode);
 ```
 
-```
 Tells a ped to wander about in a car.
 
-Possible values for Mode:
-| Index | Name |
+## Mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -50,4 +49,4 @@ Possible values for Mode:
 
 
 DRIVINGMODE is commands_vehicle.sch
-```
+

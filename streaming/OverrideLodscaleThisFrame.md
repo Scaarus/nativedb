@@ -9,8 +9,7 @@ aliases: ["0xa76359fc80b2438e"]
 void OVERRIDE_LODSCALE_THIS_FRAME(float fLodScale);
 ```
 
-```
 script calls this every frame to override the global LOD scale. when the script stops calling it, the value automatically blends back to default
 
 override the global LOD scale this frame
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x79c0e43eb9b944e2"]
 bool SET_TABLE_GAMES_CAMERA_THIS_UPDATE(int cameraType);
 ```
 
-```
 Overrides the third person camera to be a Table Games Camera on this update only. Returns TRUE if successful.
 
-Possible values for cameraType:
-| Index | Name |
+## cameraType Values:
+| Value | Name |
 | --- | --- |
 | 80 | Black Jack |
 | 81 | Lucky Wheel |
@@ -23,7 +22,7 @@ Possible values for cameraType:
 | 85 | Inside Track |
 | 86 | Love Professor P1 |
 | 87 | Love Professor P2 |
-```
+
 
 ## Parameters
 * **cameraType**: The of the custom table games camera to be used.

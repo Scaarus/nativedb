@@ -9,6 +9,5 @@ aliases: ["0xa7c4f2c6e744a550"]
 int GET_VEHICLE_MAX_NUMBER_OF_PASSENGERS(Vehicle vehicle);
 ```
 
-```
 Get the max number of pasengers a vehicle can have.
-```
+

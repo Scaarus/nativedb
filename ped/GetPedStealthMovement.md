@@ -9,6 +9,5 @@ aliases: ["0x7c2ac9ca66575fbf"]
 bool GET_PED_STEALTH_MOVEMENT(Ped ped);
 ```
 
-```
 This command gets whether the ped is using stealthy movement
-```
+

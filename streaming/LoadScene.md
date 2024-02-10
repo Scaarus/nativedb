@@ -9,6 +9,5 @@ aliases: ["0x4448eb75b4904bdb"]
 void LOAD_SCENE(Vector3 Position);
 ```
 
-```
 Load scene at position
-```
+

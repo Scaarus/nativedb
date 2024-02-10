@@ -9,6 +9,5 @@ aliases: ["0xef6212c2efef1a23"]
 void NETWORK_SET_VOICE_CHANNEL(int nVoiceChannel);
 ```
 
-```
 Sets the voice channel for the local player. Only players in the same channel can communicate over voice chat.
-```
+

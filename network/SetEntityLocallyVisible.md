@@ -9,6 +9,5 @@ aliases: ["0x241e289b5c059edc"]
 void SET_ENTITY_LOCALLY_VISIBLE(Entity entity);
 ```
 
-```
 Sets the entity visible only on the local machine. Can be called on clones. Must be called every frame while you require the entity to be invisible
-```
+

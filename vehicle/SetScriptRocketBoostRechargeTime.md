@@ -9,6 +9,5 @@ aliases: ["0xe00f2ab100b76e89"]
 void SET_SCRIPT_ROCKET_BOOST_RECHARGE_TIME(float rechargeTime);
 ```
 
-```
 sets the time it takes to recharge the rocket boost
-```
+

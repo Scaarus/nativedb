@@ -9,6 +9,5 @@ aliases: ["0x9f260bfb59adbca3"]
 void REMOVE_PLAYER_TARGETABLE_ENTITY(Player player, Entity entity);
 ```
 
-```
 Remove entity added to targetable array via ADD_PLAYER_TARGETABLE_ENTITY
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xfe3f9c29f7b32bd5"]
 float GET_VEHICLE_DOOR_ANGLE_RATIO(Vehicle vehicle, int DoorNumber);
 ```
 
-```
 Gets the door angle of a door between 0.0 and 1.0.
 
-Possible values for DoorNumber:
-| Index | Name |
+## DoorNumber Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
@@ -25,4 +24,4 @@ Possible values for DoorNumber:
 
 
 SC_DOOR_LIST is in commands_vehicle.sch
-```
+

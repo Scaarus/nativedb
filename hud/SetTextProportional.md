@@ -9,6 +9,5 @@ aliases: ["0x038c1f517d7fdcf8"]
 void SET_TEXT_PROPORTIONAL(bool TextProportionalFlag);
 ```
 
-```
 Sets the spacing of the text proporional.
-```
+

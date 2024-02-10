@@ -9,9 +9,8 @@ aliases: ["0xc6941b4a3a8fbbb9"]
 void PLAY_PED_AMBIENT_SPEECH_AND_CLONE_NATIVE(Ped ped, string Context, string Params, bool SyncOverNetwork);
 ```
 
-```
 Plays a line of a ped's ambient dialogue and clones it across the network.
-```
+
 
 ## Parameters
 * **ped**: 

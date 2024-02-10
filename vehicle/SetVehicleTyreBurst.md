@@ -9,11 +9,10 @@ aliases: ["0xec6a202ee4960385"]
 void SET_VEHICLE_TYRE_BURST(Vehicle vehicle, int WheelNumber, bool InstantBurst, float Damage);
 ```
 
-```
 Sets a vehicles tyre burst.
 
-Possible values for WheelNumber:
-| Index | Name |
+## WheelNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Car Front Left |
 | 52 | Car Front Right |
@@ -26,4 +25,4 @@ Possible values for WheelNumber:
 
 
 InstantBurst set to true will play burst VFX and tyres will switch to rims
-```
+

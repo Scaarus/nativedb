@@ -9,9 +9,8 @@ aliases: ["0x44f7cbc1beb3327d"]
 void SET_DISPATCH_TIME_BETWEEN_SPAWN_ATTEMPTS(int dispatchType, float fTimeBetwenSpawnAttempts);
 ```
 
-```
-Possible values for dispatchType:
-| Index | Name |
+## dispatchType Values:
+| Value | Name |
 | --- | --- |
 | 1 | Police Automobile |
 | 41 | Police Helicopter |
@@ -32,4 +31,4 @@ Possible values for dispatchType:
 
 
 Sets the time between spawn attempts for the dispatch service.
-```
+

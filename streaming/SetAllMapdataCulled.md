@@ -9,11 +9,10 @@ aliases: ["0x4e52e752c76e7e7a"]
 void SET_ALL_MAPDATA_CULLED(bool Culled);
 ```
 
-```
 it may be useful for script to cull all of the map data (e.g. during UI screens for multiplayer etc)
 
 Sets all of the map data to be culled (or not)
-```
+
 
 ## Parameters
 * **Culled**: true to cull all map data, false to undo

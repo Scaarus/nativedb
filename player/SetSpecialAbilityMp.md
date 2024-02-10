@@ -9,6 +9,5 @@ aliases: ["0xb214d570ead7f81a"]
 void SET_SPECIAL_ABILITY_MP(Player player, int abilityType, int abilitySlot);
 ```
 
-```
 Set the player's special ability in MP
-```
+

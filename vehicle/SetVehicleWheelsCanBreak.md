@@ -9,6 +9,5 @@ aliases: ["0x29b18b4fd460ca8f"]
 void SET_VEHICLE_WHEELS_CAN_BREAK(Vehicle vehicle, bool CanBreakWheelsFlag);
 ```
 
-```
 Sets if a vehicles wheels can break.
-```
+

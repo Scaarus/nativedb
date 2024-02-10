@@ -9,6 +9,5 @@ aliases: ["0xf1f8157b8c3f171c"]
 void SET_VEHICLE_STARTUP_REV_SOUND(Vehicle vehicle, string SoundName, string SetName);
 ```
 
-```
 Set the startup rev sound that this vehicle should use
-```
+

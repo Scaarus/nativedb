@@ -9,6 +9,5 @@ aliases: ["0xeb0a72181d4aa4ad"]
 bool STAT_CLEAR_SLOT_FOR_RELOAD(int slot);
 ```
 
-```
 Call this on slot that has failed load and needs to be reloaded.
-```
+

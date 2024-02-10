@@ -9,6 +9,5 @@ aliases: ["0xe4f6e8d07a2f0f51"]
 bool SC_PAUSE_NEWS_INIT_STARTER_PACK(bool isOwned);
 ```
 
-```
 Initialize Social Club Pause Menu News Controller
-```
+

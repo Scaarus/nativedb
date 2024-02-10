@@ -9,7 +9,6 @@ aliases: ["0x14d8518e9760f08f"]
 void DISABLE_SCRIPT_BRAIN_SET();
 ```
 
-```
 Disable all the script brains with the specified set id
 set should be a power of 2 (1, 2, 4, 8, 16, 32, ...)
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x247acbc4abbc9d1c"]
 void STOP_CODE_GAMEPLAY_HINT(bool StopImmediately);
 ```
 
-```
 Stops any active code gameplay hint.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x69240733738c19a0"]
 bool IS_AUTO_SAVE_IN_PROGRESS();
 ```
 
-```
 Returns TRUE if an autosave is currently in progress or has been queued to be done after other savegame operations have finished.
-```
+

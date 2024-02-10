@@ -9,6 +9,5 @@ aliases: ["0xa7a932170592b50e"]
 bool DOES_CAM_EXIST(Camera camera);
 ```
 
-```
 Does this camera still exist.
-```
+

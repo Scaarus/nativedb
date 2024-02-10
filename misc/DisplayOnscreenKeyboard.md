@@ -9,9 +9,8 @@ aliases: ["0x00dc833f2568dbf6"]
 void DISPLAY_ONSCREEN_KEYBOARD(int keyboardTypeFlag, string prompt, string description, string initialValue1, string initialValue2, string initialValue3, string initialValue4, int maxLength);
 ```
 
-```
-Possible values for keyboardTypeFlag:
-| Index | Name |
+## keyboardTypeFlag Values:
+| Value | Name |
 | --- | --- |
 | 89 | English |
 | 90 | Localised |
@@ -23,7 +22,7 @@ Possible values for keyboardTypeFlag:
 
 
 Displays the system keyboard
-```
+
 
 ## Parameters
 * **keyboardTypeFlag**: 

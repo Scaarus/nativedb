@@ -9,6 +9,5 @@ aliases: ["0x991251afc3981f84"]
 bool IS_CUTSCENE_ACTIVE();
 ```
 
-```
 Checks if a cutscene is active, that it is either streaming or playing
-```
+

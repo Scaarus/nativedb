@@ -9,6 +9,5 @@ aliases: ["0x41bd2a6b006af756"]
 Player INT_TO_PLAYERINDEX(int Arg);
 ```
 
-```
 Converts an int to a player index.
-```
+

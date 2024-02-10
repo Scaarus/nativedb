@@ -9,6 +9,5 @@ aliases: ["0x298b91ae825e5705"]
 bool IS_PED_IN_ANY_HELI(Ped ped);
 ```
 
-```
 Checks that the ped is in a helicopter model.
-```
+

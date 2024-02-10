@@ -9,6 +9,5 @@ aliases: ["0xfac18e7356bd3210"]
 void NETWORK_HIDE_PROJECTILE_IN_CUTSCENE();
 ```
 
-```
 Call this before starting cutscene to hide all projectiles during cutscene
-```
+

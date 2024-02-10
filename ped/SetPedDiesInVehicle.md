@@ -9,6 +9,5 @@ aliases: ["0x2a30922c90c9b42c"]
 void SET_PED_DIES_IN_VEHICLE(Ped ped, bool DieInCarFlag);
 ```
 
-```
 Sets the ped to die in the vehicle or play a special anim outside the vehicle.
-```
+

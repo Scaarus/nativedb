@@ -9,6 +9,5 @@ aliases: ["0xd7021272eb0a451e"]
 void PRESET_INTERIOR_AMBIENT_CACHE(string ModifierName);
 ```
 
-```
 Preset the interior cache using the specified modifier, may reduce flickers/transition in some cases.
-```
+

@@ -9,9 +9,8 @@ aliases: ["0xa2746eeae3e577cd"]
 void ANIMATED_SHAKE_CAM(Camera camera, string AnimDictionary, string AnimClipName, string ShakeName, float fAmplitudeScalar);
 ```
 
-```
 Set a camera animation to play on scripted camera.
-```
+
 
 ## Parameters
 * **camera**: 

@@ -9,8 +9,7 @@ aliases: ["0xe6f13851780394da"]
 void SET_HELI_TURBULENCE_SCALAR(Vehicle vehicle, float scalar);
 ```
 
-```
 allows you to increase or decrease turbulence from script
 
 scale the turbulence by value. 1.0 is default tuning
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x7d304c1c955e3e12"]
 Vector3 GET_CAM_ROT(Camera camera, int RotOrder);
 ```
 
-```
 Get the camera's rotation in Euler angles (in degrees.)
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -22,4 +21,4 @@ Possible values for RotOrder:
 | 4 | Zxy |
 | 5 | Zyx |
 | 6 | Max |
-```
+

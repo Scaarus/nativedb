@@ -9,6 +9,5 @@ aliases: ["0x28d1a16553c51776"]
 void SET_ENTITY_ANIM_SPEED(Entity entity, string pAnimDictName, string pAnimName, float AnimSpeed);
 ```
 
-```
 Sets entity's current anim speed.
-```
+

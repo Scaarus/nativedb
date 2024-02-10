@@ -9,6 +9,5 @@ aliases: ["0x6100b3cefd43452e"]
 void CLEAR_DEFAULT_PRIMARY_TASK(Ped ped);
 ```
 
-```
 Restarts the default primary task for this ped
-```
+

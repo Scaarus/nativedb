@@ -9,13 +9,12 @@ aliases: ["0x46b05bcae43856b0"]
 bool PED_HAS_SEXINESS_FLAG_SET(Ped ped, int flag);
 ```
 
-```
 Returns true if the specified sexiness flag is set on the ped, false otherwise
 
-Possible values for flag:
-| Index | Name |
+## flag Values:
+| Value | Name |
 | --- | --- |
 | 1 | Jeer At Hot Ped |
 | 2 | Jeer Scenario Anim |
 | 4 | Hot Person |
-```
+

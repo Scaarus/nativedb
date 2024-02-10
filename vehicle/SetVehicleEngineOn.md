@@ -9,8 +9,7 @@ aliases: ["0x2497c4717c8b881e"]
 void SET_VEHICLE_ENGINE_ON(Vehicle vehicle, bool EngineOnFlag, bool NoDelay, bool OnlyStartWithPlayerInput);
 ```
 
-```
 Sets the vehicles engine.
 
 bNoDelay only has an effect when EngineOnFlag is TRUE. If bNoDelay is TRUE then the engine will start immediately.
-```
+

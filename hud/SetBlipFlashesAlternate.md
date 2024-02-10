@@ -9,6 +9,5 @@ aliases: ["0x2e8d9498c56dd0d1"]
 void SET_BLIP_FLASHES_ALTERNATE(Blip blip, bool OnOff);
 ```
 
-```
 Flash a radar blip (alternative time)
-```
+

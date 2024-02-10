@@ -9,11 +9,10 @@ aliases: ["0x2df9038c90ad5264"]
 void SPAWNPOINTS_START_SEARCH(Vector3 vSearchOrigin, float fSearchRadius, float fMaxDistZ, int iFlags, float fMinimumSpacing, int iMaxSearchDurationMS);
 ```
 
-```
 Starts an asynchronous seach for spawnpoints Only a single search may be performed at any time; there is no queueing mechanism
 
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | May Spawn In Interior |
@@ -25,4 +24,4 @@ Possible values for iFlags:
 
 
 vSearchOrigin, fSearchRadius and fMaxDistZ define an upright cylinder Optional 'fMinimumSpacing' specifies a minimum distance which must exist between returned points If optional 'iMaxSearchDurationMS' param is non-zero, search will enter a 'failed' state if this milliseconds duration is
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xc8a9481a01e63c28"]
 void SET_PED_RANDOM_COMPONENT_VARIATION(int race);
 ```
 
-```
 Randomly sets the drawables and textures for a ped from those available.
 
-Possible values for race:
-| Index | Name |
+## race Values:
+| Value | Name |
 | --- | --- |
 | 0 | Universal |
 | 150 | White |
@@ -29,4 +28,4 @@ Possible values for race:
 
 
 Ensures that any skin tones which appear in different textures will be consistent for a characte
-```
+

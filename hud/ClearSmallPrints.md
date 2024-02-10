@@ -9,6 +9,5 @@ aliases: ["0x2cea2839313c09ac"]
 void CLEAR_SMALL_PRINTS();
 ```
 
-```
 This is the same as CLEAR_PRINTS except that it doesn?t clear big messages.
-```
+

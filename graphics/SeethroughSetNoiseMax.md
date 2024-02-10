@@ -9,6 +9,5 @@ aliases: ["0xfebfbfdfb66039de"]
 void SEETHROUGH_SET_NOISE_MAX(float param);
 ```
 
-```
 SeeThrough Effect : Set the maximum amount of image noise
-```
+

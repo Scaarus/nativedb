@@ -9,6 +9,5 @@ aliases: ["0x741a3d8380319a81"]
 void NETWORK_REQUEST_TO_BE_HOST_OF_THIS_SCRIPT();
 ```
 
-```
 Requests that the local player becomes the host of the script *** PLEASE DO NOT ABUSE THIS, WE MUST ALWAYS TRY AND ALLOW MIGRATION WHENEVER POSSIBLE!! **
-```
+

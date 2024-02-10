@@ -9,8 +9,7 @@ aliases: ["0x632106cc96e82e91"]
 float TAN();
 ```
 
-```
 Caluclates the tan.
 
 see http:en.wikipedia.orgwikiInverse_trigonometric_function
-```
+

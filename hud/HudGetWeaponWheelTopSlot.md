@@ -9,11 +9,10 @@ aliases: ["0xa13e93403f26c812"]
 Hash HUD_GET_WEAPON_WHEEL_TOP_SLOT(int iSlotIndex);
 ```
 
-```
 Gets the top WEAPON_TYPE at the specified slot index. Slot index 0 is the "Pistol" slot, with indices incrementing clockwise NOTES: Valid slot indices are 0 to 7. This function will return WEAPONTYPE_INVALID for any empty slots
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | WEAPONTYPE_INVALID |
 | 1 | WEAPONTYPE_UNARMED |
@@ -344,4 +343,4 @@ Possible return values:
 | 326 | WEAPONTYPE_DLC_VEHICLE_TORPEDO |
 | 327 | WEAPONTYPE_DLC_VEHICLE_SPYCARGUN |
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
-```
+

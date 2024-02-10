@@ -9,11 +9,10 @@ aliases: ["0x89215ec747df244a"]
 Ped GET_FOCUS_PED_ON_SCREEN(float maxDistanceFromCamera, int screenPositionTestBoneTag, float maxScreenWidthRatioAroundCentreForTestBone, float maxScreenHeightRatioAroundCentreForTestBone, float minRelativeHeadingScore, float maxScreenCentreScoreBoost, float maxScreenRatioAroundCentreForScoreBoost, int losTestBoneTag1, int losTestBoneTag2);
 ```
 
-```
 Finds the best candidate on-screen focus/subject ped.
 
-Possible values for screenPositionTestBoneTag:
-| Index | Name |
+## screenPositionTestBoneTag Values:
+| Value | Name |
 | --- | --- |
 | -1 | Null |
 | 0 | Root |
@@ -72,7 +71,7 @@ Possible values for screenPositionTestBoneTag:
 | 64112 | R Finger21 |
 | 64113 | R Finger22 |
 | 64729 | L Clavicle |
-```
+
 
 ## Parameters
 * **maxDistanceFromCamera**: The maximum valid distance from the camera to candidate peds.

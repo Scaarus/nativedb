@@ -9,6 +9,5 @@ aliases: ["0xb7b873520c84c118"]
 void SET_COP_BLIP_SPRITE_AS_STANDARD();
 ```
 
-```
 All cop ped blips will use the default sprite
-```
+

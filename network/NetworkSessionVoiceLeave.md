@@ -9,6 +9,5 @@ aliases: ["0x6793e42be02b575d"]
 bool NETWORK_SESSION_VOICE_LEAVE();
 ```
 
-```
 Leave a voice session (as host or client)
-```
+

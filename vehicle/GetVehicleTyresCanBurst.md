@@ -9,6 +9,5 @@ aliases: ["0x678b9bb8c3f58feb"]
 bool GET_VEHICLE_TYRES_CAN_BURST(Vehicle vehicle);
 ```
 
-```
 Gets if a vehicles tyres can burst.
-```
+

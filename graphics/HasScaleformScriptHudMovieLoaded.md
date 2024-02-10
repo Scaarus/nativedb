@@ -9,11 +9,10 @@ aliases: ["0xdf6e5987d2b4d140"]
 bool HAS_SCALEFORM_SCRIPT_HUD_MOVIE_LOADED(int iComponentId);
 ```
 
-```
 Returns whether the requested scaleform script hud movie is streamed in yet
 
-Possible values for iComponentId:
-| Index | Name |
+## iComponentId Values:
+| Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |
 | 20 | Drugs Purse 02 |
@@ -39,4 +38,4 @@ Possible values for iComponentId:
 
 
 Returns whether the requested scaleform script hud movie is streamed in yet
-```
+

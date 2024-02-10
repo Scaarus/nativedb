@@ -9,6 +9,5 @@ aliases: ["0xc56fbf2f228e1dac"]
 int GET_TINT_INDEX_FOR_LAST_GEN_HAIR_TEXTURE(Hash modelHash, int hairDrawableId, int hairTextureId);
 ```
 
-```
 Returns the tint index that best matches the specified hair texture from last gen peds
-```
+

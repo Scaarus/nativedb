@@ -9,6 +9,5 @@ aliases: ["0xa213b11dff526300"]
 bool DLC_CHECK_COMPAT_PACK_CONFIGURATION();
 ```
 
-```
 Detects if a DLC pack is present
-```
+

@@ -9,10 +9,9 @@ aliases: ["0x07eab372c8841d99"]
 bool NETWORK_CHECK_TEXT_COMMUNICATION_PRIVILEGES(int nPrivilegeType, int nGamerIndex, bool CheckHasPrivilege);
 ```
 
-```
-Possible values for nPrivilegeType:
-| Index | Name |
+## nPrivilegeType Values:
+| Value | Name |
 | --- | --- |
 | 69 | Everyone |
 | 70 | Friends |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x742d6fd43115af73"]
 void PULSE_BLIP(Blip blip);
 ```
 
-```
 Starts a pulsing effect on a blip - one off call
-```
+

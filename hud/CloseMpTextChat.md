@@ -9,6 +9,5 @@ aliases: ["0x1ac8f4ad40e22127"]
 void CLOSE_MP_TEXT_CHAT();
 ```
 
-```
 Force the MP Text Chat (behaves similar to pressing ESC button)
-```
+

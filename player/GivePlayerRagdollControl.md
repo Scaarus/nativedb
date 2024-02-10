@@ -9,6 +9,5 @@ aliases: ["0x3c49c870e66f0a28"]
 void GIVE_PLAYER_RAGDOLL_CONTROL(Player player, bool GiveControl);
 ```
 
-```
 Gives the player control of the ragdoll.
-```
+

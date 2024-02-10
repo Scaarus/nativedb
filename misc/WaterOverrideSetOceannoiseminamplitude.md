@@ -9,6 +9,5 @@ aliases: ["0x31727907b2c43c55"]
 void WATER_OVERRIDE_SET_OCEANNOISEMINAMPLITUDE(float value);
 ```
 
-```
 Set some values in water overrides.
-```
+

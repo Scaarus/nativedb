@@ -9,11 +9,10 @@ aliases: ["0xa1dd317ea8fd4f29"]
 void SET_VEHICLE_DAMAGE(Vehicle vehicle, Vector3 DamagePosition, float Damage, float Deformation, bool localDamage);
 ```
 
-```
 Applies damage deformation to a vehicle.
 
 Ths only deforms the car and does not knock off doors etc. the values paassed in to damage and deformation are direct forces.
-```
+
 
 ## Parameters
 * **vehicle**: 

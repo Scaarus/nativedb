@@ -9,6 +9,5 @@ aliases: ["0x57fff03e423a4c0b"]
 void SET_SUPER_JUMP_THIS_FRAME(Player player);
 ```
 
-```
 Set the player to super jump this frame
-```
+

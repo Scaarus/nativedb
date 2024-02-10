@@ -9,8 +9,7 @@ aliases: ["0xc45c27ef50f36adc"]
 void SET_VEHICLE_USE_PLAYER_LIGHT_SETTINGS(Vehicle vehicle, bool state);
 ```
 
-```
 Force a vehicle to behave as if it was driven by a player (meaning longer, bigger lights, use with care).
 
 PARAM
-```
+

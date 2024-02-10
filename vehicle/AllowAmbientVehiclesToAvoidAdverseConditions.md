@@ -9,9 +9,8 @@ aliases: ["0xb264c4d2f2b0a78b"]
 void ALLOW_AMBIENT_VEHICLES_TO_AVOID_ADVERSE_CONDITIONS(bool Allow);
 ```
 
-```
 Allowdisable ambient vehicles pathing around adverse conditions
-```
+
 
 ## Parameters
 * **Allow**: Whether to enable it or not (default is TRUE enabled)

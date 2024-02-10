@@ -9,6 +9,5 @@ aliases: ["0x22a249a53034450a"]
 void DONT_RENDER_IN_GAME_UI(bool val);
 ```
 
-```
 supresses the rendering of the in game UI (i.e. multiplayer mission 'locators'/'coronas'
-```
+

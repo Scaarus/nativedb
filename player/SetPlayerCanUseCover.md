@@ -9,6 +9,5 @@ aliases: ["0xd465a8599dff6814"]
 void SET_PLAYER_CAN_USE_COVER(bool CanUseCover);
 ```
 
-```
 Sets if the player can use cover.
-```
+

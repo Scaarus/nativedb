@@ -9,11 +9,10 @@ aliases: ["0xa01bc64dd4bfbbac"]
 int GET_IN_VEHICLE_CLIPSET_HASH_FOR_SEAT(Vehicle vehicle, int seat);
 ```
 
-```
 Gets the the in vehicle clipset hash of the vehicle seat.
 
-Possible values for seat:
-| Index | Name |
+## seat Values:
+| Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
 | -1 | Driver |
@@ -26,4 +25,4 @@ Possible values for seat:
 | 40 | Extra Right 2 |
 | 41 | Extra Left 3 |
 | 42 | Extra Right 3 |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x92659b4ce1863cb3"]
 int GET_PLAYER_MAX_ARMOUR(Player player);
 ```
 
-```
 Gets the players max armour value.
-```
+

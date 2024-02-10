@@ -9,6 +9,5 @@ aliases: ["0xe361c5c71c431a4f"]
 void SET_PED_PATH_CAN_DROP_FROM_HEIGHT(Ped ped, bool Drop);
 ```
 
-```
 Sets if a peds path finding can drop from ladders.
-```
+

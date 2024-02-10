@@ -9,6 +9,5 @@ aliases: ["0xe7dcb5b874bcd96e"]
 void ADD_TEXT_COMPONENT_FLOAT(float FloatToAdd, int NumberOfDecimalPlaces);
 ```
 
-```
 Use ~1~ to mark the position in your line of text where you want this float inserted
-```
+

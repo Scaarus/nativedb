@@ -9,6 +9,5 @@ aliases: ["0x276b6ce369c33678"]
 void DISPLAY_AREA_NAME(bool Value);
 ```
 
-```
 Displays the area name.
-```
+

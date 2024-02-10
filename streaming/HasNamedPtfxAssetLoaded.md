@@ -9,6 +9,5 @@ aliases: ["0x8702416e512ec454"]
 bool HAS_NAMED_PTFX_ASSET_LOADED(string ptFxAssetName);
 ```
 
-```
 Query if the named particle asset has loaded (only use if not loading the one associated with this script)
-```
+

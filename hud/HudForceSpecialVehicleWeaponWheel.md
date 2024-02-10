@@ -9,6 +9,5 @@ aliases: ["0x488043841bbe156f"]
 void HUD_FORCE_SPECIAL_VEHICLE_WEAPON_WHEEL();
 ```
 
-```
 Allows an override for using blazer5 vehicle UI outside FPS mode (per-frame)
-```
+

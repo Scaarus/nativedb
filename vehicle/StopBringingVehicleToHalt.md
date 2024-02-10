@@ -9,6 +9,5 @@ aliases: ["0x7c06330bfdda182e"]
 void STOP_BRINGING_VEHICLE_TO_HALT(Vehicle vehicle);
 ```
 
-```
 Stops bringing the vehicle to a halt
-```
+

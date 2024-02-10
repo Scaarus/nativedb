@@ -9,8 +9,7 @@ aliases: ["0x614da022990752dc"]
 void SET_PED_SHOOT_RATE(Ped ped, int ShootRate);
 ```
 
-```
 ShootRate should be an integer greater than 0. 100 = Normal shoot rate, lower values will slow the rate, higher values will increase it.
 
 ShootRate default value = 100
-```
+

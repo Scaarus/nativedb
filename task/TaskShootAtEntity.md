@@ -9,11 +9,10 @@ aliases: ["0x08da95e8298ae772"]
 void TASK_SHOOT_AT_ENTITY(Entity entity, int Time, int FiringType);
 ```
 
-```
 Gives a shoot at entity task.
 
-Possible values for FiringType:
-| Index | Name |
+## FiringType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 16 | 1 Burst Uses Firing Type Default As It'S No Longer A Valid Type |
@@ -24,4 +23,4 @@ Possible values for FiringType:
 
 
 If -1 is passed to Time the ped will never give up on the task.
-```
+

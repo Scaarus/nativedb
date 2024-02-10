@@ -9,8 +9,7 @@ aliases: ["0x5f15302936e07111"]
 void SET_TEXT_RENDER_ID(int RenderIndex);
 ```
 
-```
 Set the render target to be used for rendering.
 
 The rendertarget ID can be obtained through the <...>_RENDERTARGET_RENDER_ID Functions.
-```
+

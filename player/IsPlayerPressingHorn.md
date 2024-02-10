@@ -9,6 +9,5 @@ aliases: ["0xfa1e2bf8b10598f9"]
 bool IS_PLAYER_PRESSING_HORN();
 ```
 
-```
 Returns TRUE if the specified Player is in a vehicle and is pressing the Horn button.
-```
+

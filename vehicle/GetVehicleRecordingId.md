@@ -9,6 +9,5 @@ aliases: ["0x21543c612379db3c"]
 int GET_VEHICLE_RECORDING_ID(int FileNumber, string pRecordingName);
 ```
 
-```
 Get recording id from number and name
-```
+

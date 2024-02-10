@@ -9,6 +9,5 @@ aliases: ["0x797ac7cb535ba28f"]
 bool IS_SCREEN_FADING_OUT();
 ```
 
-```
 Is the screen fading OUT ( getting darker )
-```
+

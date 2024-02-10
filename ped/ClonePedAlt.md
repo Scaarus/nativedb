@@ -9,6 +9,5 @@ aliases: ["0x668fd40bcba5de48"]
 Ped CLONE_PED_ALT(Ped ped, bool RegisterAsNetworkObject, bool ScriptHostObject, bool LinkBlends, bool CloneCompressedDamage);
 ```
 
-```
 Creates a new ped by cloning an existing one.
-```
+

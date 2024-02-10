@@ -9,6 +9,5 @@ aliases: ["0xac678e40be7c74d2"]
 void CLEAR_ENTITY_LAST_WEAPON_DAMAGE(Entity entity);
 ```
 
-```
 Clear the damaged by last weapon information on an entity
-```
+

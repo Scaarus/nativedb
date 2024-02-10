@@ -9,6 +9,5 @@ aliases: ["0x66c7bb2416ed3fce"]
 void PLAYSTATS_DRONE_USAGE(int time, int endReason, int totalDroneTases);
 ```
 
-```
 Telemetry for drone usage
-```
+

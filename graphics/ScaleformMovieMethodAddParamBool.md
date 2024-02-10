@@ -9,6 +9,5 @@ aliases: ["0xc58424ba936eb458"]
 void SCALEFORM_MOVIE_METHOD_ADD_PARAM_BOOL(bool param);
 ```
 
-```
 passes a BOOL to the method call. Must be wrapped in a BEGIN & END call but can include other ADD_PARAM calls
-```
+

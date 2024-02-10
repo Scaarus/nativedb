@@ -9,6 +9,5 @@ aliases: ["0x6726bdccc1932f0e"]
 bool IS_INTERIOR_READY();
 ```
 
-```
 Is pinned interior in a state ready for further script commands?
-```
+

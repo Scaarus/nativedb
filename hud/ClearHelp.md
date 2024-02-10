@@ -9,6 +9,5 @@ aliases: ["0x8dfced7a656f8802"]
 void CLEAR_HELP(bool ClearNow);
 ```
 
-```
 call to stop displaying the current help message
-```
+

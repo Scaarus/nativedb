@@ -9,6 +9,5 @@ aliases: ["0xc7e7181c09f33b69"]
 void LOBBY_SET_AUTO_MP_RANDOM_JOB(bool IsAuto);
 ```
 
-```
 Allows script to set the auto multiplayer random job parameter
-```
+

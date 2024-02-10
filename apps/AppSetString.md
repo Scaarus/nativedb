@@ -9,6 +9,5 @@ aliases: ["0x3ff2fcec4b7721b4"]
 void APP_SET_STRING(string name, string value);
 ```
 
-```
 Sets the string value for the current block
-```
+

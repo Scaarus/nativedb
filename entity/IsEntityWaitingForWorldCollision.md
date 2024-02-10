@@ -9,6 +9,5 @@ aliases: ["0xd05bff0c0a12c68f"]
 bool IS_ENTITY_WAITING_FOR_WORLD_COLLISION(Entity entity);
 ```
 
-```
 Cheks if the entity is waiting for world collision to stream in.
-```
+

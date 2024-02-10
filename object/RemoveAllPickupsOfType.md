@@ -9,11 +9,10 @@ aliases: ["0x27f9d613092159cf"]
 void REMOVE_ALL_PICKUPS_OF_TYPE(int Type);
 ```
 
-```
 Remove objects of certain pickup type.
 
-Possible values for Type:
-| Index | Name |
+## Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | PICKUP_HEALTH_STANDARD |
 | 1 | PICKUP_ARMOUR_STANDARD |
@@ -201,4 +200,4 @@ Possible values for Type:
 | 183 | PICKUP_WEAPON_DLC_METALDETECTOR |
 | 184 | PICKUP_WEAPON_DLC_TACTICALRIFLE |
 | 185 | PICKUP_WEAPON_DLC_PRECISIONRIFLE |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x971d38760fbc02ef"]
 void SET_PED_KEEP_TASK(Ped ped, bool KeepTasksFlag);
 ```
 
-```
 Sets a ped will keep thier script created task when the mission ends or MARK_CHAR_AS_NO_LONGER_NEEDED is called
-```
+

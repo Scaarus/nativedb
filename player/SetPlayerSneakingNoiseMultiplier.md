@@ -9,11 +9,10 @@ aliases: ["0xb2c1a29588a9f47c"]
 void SET_PLAYER_SNEAKING_NOISE_MULTIPLIER(Player player, float Mult);
 ```
 
-```
 Allows script to control how noisy a player is for AI reaction purposes. This multiplier affects the player while sneaking.
 
 Sets how noisy a player is while sneaking for AI reaction purposes.
-```
+
 
 ## Parameters
 * **player**: 

@@ -9,6 +9,5 @@ aliases: ["0x7504c0f113ab50fc"]
 bool IS_TAXI_LIGHT_ON(Vehicle vehicle);
 ```
 
-```
 Checks if the taxi light is on
-```
+

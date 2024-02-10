@@ -9,6 +9,5 @@ aliases: ["0xe33d59da70b58fdf"]
 bool IS_SPHERE_VISIBLE(Vector3 Position);
 ```
 
-```
 Is this sphere visible in this viewport.
-```
+

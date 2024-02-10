@@ -9,6 +9,5 @@ aliases: ["0xe2c9439ed45dea60"]
 int CREATE_TRACKED_POINT();
 ```
 
-```
 Create a new tracked point, return 0 if none where available
-```
+

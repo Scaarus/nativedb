@@ -9,6 +9,5 @@ aliases: ["0xcaa15f13ebd417ff"]
 void SET_NUMBER_OF_PARKED_VEHICLES(int NewNumberOfParkedCars);
 ```
 
-```
 Sets the number of parked cars budget.
-```
+

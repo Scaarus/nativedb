@@ -9,6 +9,5 @@ aliases: ["0xe78503b10c4314e0"]
 void RESET_TREVOR_RAGE();
 ```
 
-```
 Undo the overriding of Trevor's rage context
-```
+

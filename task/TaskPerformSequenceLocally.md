@@ -9,6 +9,5 @@ aliases: ["0x8c33220c8d78ca0d"]
 void TASK_PERFORM_SEQUENCE_LOCALLY(Ped ped, Sequence sequence);
 ```
 
-```
 Tells a ped to perform a given sequence which is not synced over the network.
-```
+

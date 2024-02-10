@@ -9,6 +9,5 @@ aliases: ["0x9a73240b49945c76"]
 int GET_CLOUD_TIME_AS_INT();
 ```
 
-```
 Return cloud time as int (in seconds since midnight 1970-01-01) This will not do what you expect after sometime in ~2038
-```
+

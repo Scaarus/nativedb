@@ -9,6 +9,5 @@ aliases: ["0x13d2b8add79640f2"]
 int GET_CLOCK_MINUTES();
 ```
 
-```
 gets the current number of minutes on the clock
-```
+

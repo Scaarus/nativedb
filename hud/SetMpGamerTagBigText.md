@@ -9,6 +9,5 @@ aliases: ["0x7b7723747ccb55b6"]
 void SET_MP_GAMER_TAG_BIG_TEXT(int iPlayerNum, string BigText);
 ```
 
-```
 Sets the big text in the gamer tag.
-```
+

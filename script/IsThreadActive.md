@@ -9,6 +9,5 @@ aliases: ["0x46e9ae36d8fa6417"]
 bool IS_THREAD_ACTIVE(int thread);
 ```
 
-```
 Returns TRUE if the thread is still running
-```
+

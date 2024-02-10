@@ -9,6 +9,5 @@ aliases: ["0x1086127b3a63505e"]
 void SEETHROUGH_SET_COLOR_NEAR(int r, int g, int b);
 ```
 
-```
 SeeThrough Effect : Set the near object colors
-```
+

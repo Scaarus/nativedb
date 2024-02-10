@@ -9,11 +9,10 @@ aliases: ["0xb2a16444ead9ae47"]
 void TASK_GO_TO_COORD_WHILE_AIMING_AT_ENTITY(Ped ped, Vector3 GoToCoord, Entity entity, float MoveBlendRatio, bool Shoot, float TargetDistance, float SlowDistance, bool UseNavMesh, int iNavFlags, bool InstantBlendToAim, int FiringPatternHash, int iTimer);
 ```
 
-```
 The ped will move to the GoToCoord while aiming at the AimAtEntity
 
-Possible values for iNavFlags:
-| Index | Name |
+## iNavFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | No Stopping |
@@ -31,8 +30,8 @@ Possible values for iNavFlags:
 | 32768 | Pull From Edge Extra |
 
 
-Possible values for FiringPatternHash:
-| Index | Name |
+## FiringPatternHash Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 16 | 1 Burst Uses Firing Type Default As It'S No Longer A Valid Type |
@@ -40,4 +39,4 @@ Possible values for FiringPatternHash:
 | 18 | Random Bursts Fire Random Bursts For The Time, Can Change The Frequency Using Set Ped Shoot Rate |
 | 19 | Clip Uses Firing Type Default As It'S No Longer A Valid Type |
 | 20 | Continuous Fires At The Maximum Rate For The Duration, Reloading If The Clips Empty |
-```
+

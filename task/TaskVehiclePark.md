@@ -9,11 +9,10 @@ aliases: ["0x0f3e34e968ea374e"]
 void TASK_VEHICLE_PARK(Ped ped, Vehicle vehicle, Vector3 ParkingSpaceCoords, float DirectionDegrees, int ParkType, float ToleranceDegrees, bool KeepLightsOn);
 ```
 
-```
 Gives the vehicle a task to park in the specified manner
 
-Possible values for ParkType:
-| Index | Name |
+## ParkType Values:
+| Value | Name |
 | --- | --- |
 | 283 | Parallel |
 | 284 | Perpendicular Nose In |
@@ -23,7 +22,7 @@ Possible values for ParkType:
 | 288 | Back Out Perpendicular Space |
 | 289 | Passenger Exit |
 | 290 | Pull Over Immediate |
-```
+
 
 ## Parameters
 * **ped**: 

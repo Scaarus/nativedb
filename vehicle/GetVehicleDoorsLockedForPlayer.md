@@ -9,6 +9,5 @@ aliases: ["0xf6af6cb341349015"]
 bool GET_VEHICLE_DOORS_LOCKED_FOR_PLAYER(Vehicle vehicle, Player player);
 ```
 
-```
 Returns true if the doors are locked the given player. Only used in the network game.
-```
+

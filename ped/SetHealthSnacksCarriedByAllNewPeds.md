@@ -9,9 +9,8 @@ aliases: ["0xff4803bc019852d9"]
 void SET_HEALTH_SNACKS_CARRIED_BY_ALL_NEW_PEDS(float fProbability, int HealthGiven);
 ```
 
-```
 Sets the probability and amount of health d
-```
+
 
 ## Parameters
 * **fProbability**: between 0 (peds never drop snacks) and 1 (peds always drop snacks)

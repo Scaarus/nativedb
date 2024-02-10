@@ -9,12 +9,11 @@ aliases: ["0x72d918c99bcacc54"]
 bool NETWORK_HAVE_USER_CONTENT_PRIVILEGES(int nPrivilegeType);
 ```
 
-```
 Returns true if the local player has user generated content privileges
 
-Possible values for nPrivilegeType:
-| Index | Name |
+## nPrivilegeType Values:
+| Value | Name |
 | --- | --- |
 | 69 | Everyone |
 | 70 | Friends |
-```
+

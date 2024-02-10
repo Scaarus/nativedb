@@ -9,6 +9,5 @@ aliases: ["0xdfebd56d9bd1eb16"]
 int PLAY_POLICE_REPORT(string ReportName, float applyValue);
 ```
 
-```
 Plays a police report.
-```
+

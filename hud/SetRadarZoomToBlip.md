@@ -9,8 +9,7 @@ aliases: ["0xf98e4b3e56afc7b1"]
 void SET_RADAR_ZOOM_TO_BLIP(Blip blip, float fOffset);
 ```
 
-```
 zooms in/out enough so that the passed blip is on the edge of the minimap
 
 Must be called every frame - keeps it locked to a blip
-```
+

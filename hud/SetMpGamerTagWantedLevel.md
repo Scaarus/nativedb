@@ -9,6 +9,5 @@ aliases: ["0xcf228e2aa03099c3"]
 void SET_MP_GAMER_TAG_WANTED_LEVEL(int iPlayerNum, int iWantedLevel);
 ```
 
-```
 sets the wanted level on the player head tag
-```
+

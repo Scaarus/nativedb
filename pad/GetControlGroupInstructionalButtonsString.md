@@ -9,19 +9,18 @@ aliases: ["0x80c2fd58d720c801"]
 string GET_CONTROL_GROUP_INSTRUCTIONAL_BUTTONS_STRING(int control, int actionGroup, bool allowXOSwap);
 ```
 
-```
 Return an encoded string of the icon to show of a CONTROL_ACTION. empty string will be returned on error!
 
-Possible values for control:
-| Index | Name |
+## control Values:
+| Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
 | 1 | CAMERA_CONTROL |
 | 2 | FRONTEND_CONTROL |
 
 
-Possible values for actionGroup:
-| Index | Name |
+## actionGroup Values:
+| Value | Name |
 | --- | --- |
 | 0 | INPUTGROUP_MOVE |
 | 366 | INPUTGROUP_LOOK |
@@ -56,4 +55,4 @@ Possible values for actionGroup:
 | 395 | INPUTGROUP_SNIPER_ZOOM_SECONDARY |
 | 396 | INPUTGROUP_VEH_HYDRAULICS_CONTROL |
 | 397 | MAX_INPUTGROUPS |
-```
+

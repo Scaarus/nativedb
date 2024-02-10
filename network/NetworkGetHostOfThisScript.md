@@ -9,6 +9,5 @@ aliases: ["0xc7b4d79b01fa7a5c"]
 Participant NETWORK_GET_HOST_OF_THIS_SCRIPT();
 ```
 
-```
 Returns the participant that is host (in charge of) this script session
-```
+

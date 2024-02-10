@@ -9,6 +9,5 @@ aliases: ["0xd966d51aa5b28bb9"]
 void GIVE_WEAPON_COMPONENT_TO_PED(Ped ped, Hash weaponHash, Hash componentHash);
 ```
 
-```
 Give a weapon component to a ped
-```
+

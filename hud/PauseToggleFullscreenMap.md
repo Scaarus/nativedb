@@ -9,9 +9,8 @@ aliases: ["0x2de6c5e2e996f178"]
 void PAUSE_TOGGLE_FULLSCREEN_MAP(bool Open);
 ```
 
-```
 Toggles between fullscreen pause map and menu previously open
-```
+
 
 ## Parameters
 * **Open**: true opens into fullscreen map, false returns to previous menu

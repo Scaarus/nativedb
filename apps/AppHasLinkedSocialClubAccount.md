@@ -9,6 +9,5 @@ aliases: ["0x71eee69745088da0"]
 bool APP_HAS_LINKED_SOCIAL_CLUB_ACCOUNT();
 ```
 
-```
 Returns true if player account is linked to a rockstar account
-```
+

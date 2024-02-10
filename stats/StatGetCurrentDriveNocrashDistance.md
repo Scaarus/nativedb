@@ -9,6 +9,5 @@ aliases: ["0xba9749cc94c1fd85"]
 float STAT_GET_CURRENT_DRIVE_NOCRASH_DISTANCE();
 ```
 
-```
 PURPOSE Get the current value of the drive without crashing distance
-```
+

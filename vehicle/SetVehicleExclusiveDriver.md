@@ -9,6 +9,5 @@ aliases: ["0xb5c51b5502e85e83"]
 void SET_VEHICLE_EXCLUSIVE_DRIVER(Vehicle vehicle, Ped ped, int driverIndex);
 ```
 
-```
 Lock a vehicle to a specific driver.
-```
+

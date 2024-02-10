@@ -9,6 +9,5 @@ aliases: ["0xa3c53804bdb68ed2"]
 void END_BEING_BOSS(int m_endingReason, int time);
 ```
 
-```
 PURPOSE Ends being a boss
-```
+

@@ -9,8 +9,7 @@ aliases: ["0x513403fb9c56211f"]
 void SET_GAMEPLAY_HINT_FOV(float fov);
 ```
 
-```
 Sets the field of view (fov) value in degrees
 
 Call at the start of the hint to avoid pops
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x59e727a1c9d3e31a"]
 void SET_RADAR_AS_INTERIOR_THIS_FRAME(int iInteriorHash, float fPosX, float fPosY, int iInteriorRotation, int iInteriorLevel);
 ```
 
-```
 set radar to appear as if inside an interior for 1 frame:
-```
+

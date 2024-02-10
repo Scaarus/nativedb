@@ -9,11 +9,10 @@ aliases: ["0x83cdb10ea29b370b"]
 void TASK_PLAY_ANIM_ADVANCED(Ped ped, string pAnimDictName, Vector3 pos, Vector3 rot, float fBlendInDelta, float fBlendOutDelta, int nTimeToPlay, int AnimFlags, float startPhase, int RotOrder, int ikFlags);
 ```
 
-```
 Plays an anim task on a ped with a reposition and reorientation at the beginning.
 
-Possible values for AnimFlags:
-| Index | Name |
+## AnimFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Looping |
@@ -49,8 +48,8 @@ Possible values for AnimFlags:
 | 1073741824 | Use Full Blending |
 
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -61,8 +60,8 @@ Possible values for RotOrder:
 | 6 | Max |
 
 
-Possible values for ikFlags:
-| Index | Name |
+## ikFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | Disable Leg Ik |
@@ -82,7 +81,7 @@ Possible values for ikFlags:
 
 
 As for task_play_anim, but provides the function to specify an inital position and rotation to playback the anim from
-```
+
 
 ## Parameters
 * **ped**: 

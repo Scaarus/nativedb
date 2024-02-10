@@ -9,6 +9,5 @@ aliases: ["0x3c7d42d58f770b54"]
 void ATTACH_VEHICLE_TO_TRAILER(Vehicle vehicle, Vehicle vehicle, float InverseMassScale);
 ```
 
-```
 Attaches a vehicle to a trailer
-```
+

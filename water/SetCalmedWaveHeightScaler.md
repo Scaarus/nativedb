@@ -9,6 +9,5 @@ aliases: ["0x547237aa71ab44de"]
 void SET_CALMED_WAVE_HEIGHT_SCALER(float scaler);
 ```
 
-```
 Sets the amount waves within calming quads are scaled by. This is only applied to the extra calming quads added by script
-```
+

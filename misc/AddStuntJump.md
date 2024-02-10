@@ -9,11 +9,10 @@ aliases: ["0x1a992da297a4630c"]
 int ADD_STUNT_JUMP(Vector3 startMax, Vector3 endMin, Vector3 endMax, Vector3 cameraPos, int Reward, int set, bool camOptional);
 ```
 
-```
 Adds a stunt jump area in the map.
 
 The first two vector parameters define a box which will start the stunt jump. The 3rd and 4th vector parameters define a box which will complete the stunt jump (if the player enters that area within a few seconds) The camera will change to a fixed camera at the given position.
-```
+
 
 ## Parameters
 * **startMax**: 

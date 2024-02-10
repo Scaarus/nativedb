@@ -9,6 +9,5 @@ aliases: ["0xae306f2a904bf86e"]
 void SET_CAM_FAR_CLIP(Camera camera, float FarClip);
 ```
 
-```
 Set the camera's far clip distance (in m.)
-```
+

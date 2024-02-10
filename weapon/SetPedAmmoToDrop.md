@@ -9,6 +9,5 @@ aliases: ["0xa4efef9440a5b0ef"]
 void SET_PED_AMMO_TO_DROP(Ped ped, int AmmoAmount);
 ```
 
-```
 Specifies how much ammo the ped will drop when he dies. ****Only works in MP at the moment***
-```
+

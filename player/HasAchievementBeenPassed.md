@@ -9,6 +9,5 @@ aliases: ["0x867365e111a3b6eb"]
 bool HAS_ACHIEVEMENT_BEEN_PASSED(int AchievementId);
 ```
 
-```
 Verify if an achievement has been completed
-```
+

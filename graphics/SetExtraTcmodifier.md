@@ -9,6 +9,5 @@ aliases: ["0x5096fd9ccb49056d"]
 void SET_EXTRA_TCMODIFIER(string ModifierName);
 ```
 
-```
 Set the extra TC modifiers, it will be used on top of every other modifier, script, code or otherwise.
-```
+

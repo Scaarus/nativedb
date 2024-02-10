@@ -9,8 +9,7 @@ aliases: ["0x4879e4fe39074cdf"]
 bool ARE_WIDESCREEN_BORDERS_ACTIVE();
 ```
 
-```
 Are the widescreen borders still visible on the screen.
 
 set via SET_WIDESCREEN_BORDERS
-```
+

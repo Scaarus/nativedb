@@ -9,6 +9,5 @@ aliases: ["0xe787bf1c5cf823c9"]
 void SET_NOISEOVERIDE(bool onOff);
 ```
 
-```
 Turn noise overide on/off
-```
+

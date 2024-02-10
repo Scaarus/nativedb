@@ -9,6 +9,5 @@ aliases: ["0xe41ca53051197a27"]
 bool IS_BLIP_ON_MINIMAP(Blip blip);
 ```
 
-```
 Returns whether blip is placed on the minimap
-```
+

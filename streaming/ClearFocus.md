@@ -9,8 +9,7 @@ aliases: ["0x31b73d1ea9f01da2"]
 void CLEAR_FOCUS();
 ```
 
-```
 The game focus is used for loading map data, collisions, object population etc. If this has been overridden by script, it is important to clear it afterwards
 
 Clears the overridden game focus and sets it to the player ped again (default)
-```
+

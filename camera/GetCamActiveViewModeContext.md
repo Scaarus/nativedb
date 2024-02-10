@@ -9,11 +9,10 @@ aliases: ["0x19cafa3c87f7c2ff"]
 cam_view_mode_context GET_CAM_ACTIVE_VIEW_MODE_CONTEXT();
 ```
 
-```
 Returns the view mode context for the active gameplay camera. This may then be used with commands such as GET_CAM_VIEW_MODE_FOR_CONTEXT and SET_CAM_VIEW_MODE_FOR_CONTEXT. See CAM_VIEW_MODE_CONTEXT enumeration.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | CAM_VIEW_MODE_CONTEXT_ON_FOOT |
 | 30 | CAM_VIEW_MODE_CONTEXT_IN_VEHICLE |
@@ -24,4 +23,4 @@ Possible return values:
 | 35 | CAM_VIEW_MODE_CONTEXT_IN_HELI |
 | 36 | CAM_VIEW_MODE_CONTEXT_IN_TURRET |
 | 37 | NUM_CAM_VIEW_MODE_CONTEXTS |
-```
+

@@ -9,9 +9,8 @@ aliases: ["0xf44a5456ac3f4f97"]
 void REMOVE_SCALEFORM_SCRIPT_HUD_MOVIE(int iComponentId);
 ```
 
-```
-Possible values for iComponentId:
-| Index | Name |
+## iComponentId Values:
+| Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |
 | 20 | Drugs Purse 02 |
@@ -37,4 +36,4 @@ Possible values for iComponentId:
 
 
 removes a scripted hud movie
-```
+

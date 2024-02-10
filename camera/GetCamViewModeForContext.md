@@ -9,11 +9,10 @@ aliases: ["0xee778f8c7e1142e2"]
 cam_view_mode GET_CAM_VIEW_MODE_FOR_CONTEXT(int Context);
 ```
 
-```
 Gets the camera view mode for the specified context.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | CAM_VIEW_MODE_THIRD_PERSON_NEAR |
 | 38 | CAM_VIEW_MODE_THIRD_PERSON_MEDIUM |
@@ -24,8 +23,8 @@ Possible return values:
 | 43 | CAM_VIEW_MODE_THIRD_PERSON |
 
 
-Possible values for Context:
-| Index | Name |
+## Context Values:
+| Value | Name |
 | --- | --- |
 | 0 | CAM_VIEW_MODE_CONTEXT_ON_FOOT |
 | 30 | CAM_VIEW_MODE_CONTEXT_IN_VEHICLE |
@@ -36,7 +35,7 @@ Possible values for Context:
 | 35 | CAM_VIEW_MODE_CONTEXT_IN_HELI |
 | 36 | CAM_VIEW_MODE_CONTEXT_IN_TURRET |
 | 37 | NUM_CAM_VIEW_MODE_CONTEXTS |
-```
+
 
 ## Parameters
 * **Context**: The view mode context to be queried. See CAM_VIEW_MODE_CONTEXT enumeration.

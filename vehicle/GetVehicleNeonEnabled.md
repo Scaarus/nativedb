@@ -9,14 +9,13 @@ aliases: ["0x8c4b92553e4766a5"]
 bool GET_VEHICLE_NEON_ENABLED(Vehicle vehicle, int eNeon);
 ```
 
-```
 gets whether a car's particular neon is enabled
 
-Possible values for eNeon:
-| Index | Name |
+## eNeon Values:
+| Value | Name |
 | --- | --- |
 | 0 | Left |
 | 334 | Right |
 | 335 | Front |
 | 336 | Back |
-```
+

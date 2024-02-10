@@ -9,9 +9,8 @@ aliases: ["0x238ffe5c7b0498a6"]
 void END_TEXT_COMMAND_DISPLAY_HELP(int iHelpId, bool DisplayForever, bool PlaySound, int OverrideDuration);
 ```
 
-```
-Possible values for iHelpId:
-| Index | Name |
+## iHelpId Values:
+| Value | Name |
 | --- | --- |
 | 0 | HELP_TEXT_SLOT_STANDARD |
 | 1193 | HELP_TEXT_SLOT_FLOATING_1 |
@@ -21,4 +20,4 @@ Possible values for iHelpId:
 
 
 can specify an OverrideDuration in milliseconds. Use the default of -1 to use the standard time which is based on the number of words
-```
+

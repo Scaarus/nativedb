@@ -9,11 +9,10 @@ aliases: ["0x2382ab11450ae7ba"]
 void SET_APPLY_WAYPOINT_OF_PLAYER(Player player, int color);
 ```
 
-```
 Sets a player id who's waypoint will override the local player's waypoint.
 
-Possible values for color:
-| Index | Name |
+## color Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,4 +249,4 @@ Possible values for color:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

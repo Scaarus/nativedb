@@ -9,11 +9,10 @@ aliases: ["0xa699957e60d80214"]
 bool NETWORK_HAS_ROS_PRIVILEGE(int privilegeId);
 ```
 
-```
 Returns true if the ROS privilege ID is valid.
 
-Possible values for privilegeId:
-| Index | Name |
+## privilegeId Values:
+| Value | Name |
 | --- | --- |
 | 0 | Privilegeid None |
 | 1 | Privilegeid Create Ticket |
@@ -42,4 +41,4 @@ Possible values for privilegeId:
 | 24 | Privilegeid Played Last Gen |
 | 25 | Privilegeid Unlock Special Edition |
 | 26 | Num Privilegeid |
-```
+

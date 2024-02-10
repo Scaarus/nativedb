@@ -9,6 +9,5 @@ aliases: ["0xd1c9b92bdd3f151d"]
 void CHANGE_UNIFORM(int bossId1, int bossId2, int uniform);
 ```
 
-```
 PURPOSE When Changing Uniform
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xc70b5fae151982d8"]
 bool IS_PED_PLANTING_BOMB(Ped ped);
 ```
 
-```
 Checks that a ped is planting a bomb
-```
+

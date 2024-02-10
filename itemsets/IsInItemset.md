@@ -9,6 +9,5 @@ aliases: ["0x2d0fc594d1e9c107"]
 bool IS_IN_ITEMSET(Item item, Itemset itemset);
 ```
 
-```
 Check if a given item is in the set.
-```
+

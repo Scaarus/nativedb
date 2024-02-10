@@ -9,8 +9,7 @@ aliases: ["0x2801d0012266df07"]
 void CLEAR_GPS_DISABLED_ZONE_AT_INDEX(int index);
 ```
 
-```
 Clears the gps disabled zone at the provided index
 
 Clears the gps disabled zone at the provided index
-```
+

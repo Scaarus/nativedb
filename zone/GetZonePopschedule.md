@@ -9,6 +9,5 @@ aliases: ["0x4334bc40aa0cb4bb"]
 int GET_ZONE_POPSCHEDULE(int zoneId);
 ```
 
-```
 Return popschedule id set for a zone
-```
+

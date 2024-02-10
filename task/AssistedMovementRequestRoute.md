@@ -9,6 +9,5 @@ aliases: ["0x817268968605947a"]
 void ASSISTED_MOVEMENT_REQUEST_ROUTE(string RouteName);
 ```
 
-```
 Requests the specified assisted-movement route to be active
-```
+

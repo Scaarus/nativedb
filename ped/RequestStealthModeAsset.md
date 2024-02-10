@@ -9,8 +9,7 @@ aliases: ["0x2a0a62fcdee16d4f"]
 void REQUEST_STEALTH_MODE_ASSET(string StealthMode);
 ```
 
-```
 Requests the stealth mode assets
 
 Used to prevent delays for missions peds getting in stealth mode, forcing stealth mode
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xd7591b0065afaa7a"]
 void RESET_VEHICLE_STUCK_TIMER(Vehicle vehicle, int StuckType);
 ```
 
-```
 Resets a vehicles stuck check.
 
-Possible values for StuckType:
-| Index | Name |
+## StuckType Values:
+| Value | Name |
 | --- | --- |
 | 0 | On Roof |
 | 330 | On Side |
@@ -23,4 +22,4 @@ Possible values for StuckType:
 
 
 eVehStuckTypes is in ciommands_vehicle.sch
-```
+

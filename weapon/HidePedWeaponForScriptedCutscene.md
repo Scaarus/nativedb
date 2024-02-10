@@ -9,6 +9,5 @@ aliases: ["0x6f6981d2253c208f"]
 void HIDE_PED_WEAPON_FOR_SCRIPTED_CUTSCENE(Ped ped, bool HideWeaponFlag);
 ```
 
-```
 Hide a characters weapons while playing a scripted cutscene
-```
+

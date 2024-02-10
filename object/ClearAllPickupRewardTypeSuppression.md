@@ -9,6 +9,5 @@ aliases: ["0xa2c1f5e92afe49ed"]
 void CLEAR_ALL_PICKUP_REWARD_TYPE_SUPPRESSION();
 ```
 
-```
 Clears all suppression pickup flags
-```
+

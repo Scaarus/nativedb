@@ -9,7 +9,6 @@ aliases: ["0x25f87b30c382fca7"]
 void THEFEED_HIDE_THIS_FRAME();
 ```
 
-```
 Hides the feed for an update.
 none
-```
+

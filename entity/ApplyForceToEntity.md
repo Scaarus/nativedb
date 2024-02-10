@@ -9,11 +9,10 @@ aliases: ["0xc5f68be9613e2d18"]
 void APPLY_FORCE_TO_ENTITY(Entity entity, int ApplyType, Vector3 vForce, Vector3 vOffset, int Component, bool LocalForce, bool LocalOffset, bool ScaleByMass, bool triggerAudio, bool ScaleByTimeWarp);
 ```
 
-```
 Apply a force to an entity.
 
-Possible values for ApplyType:
-| Index | Name |
+## ApplyType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Force |
 | 1 | Impulse Caution A Single Impact Applied At A Point In Time, Will Produce A Step Change In Velocity. If Applied Continuously Will Produce An Acceleration That Is Dependant On Frame Rate And May Also Break The Physics Engine, I.E. Please Do |
@@ -24,7 +23,7 @@ Possible values for ApplyType:
 
 
 APPLY_FORCE_TYPE see enum Vector force to be applied
-```
+
 
 ## Parameters
 * **entity**: 

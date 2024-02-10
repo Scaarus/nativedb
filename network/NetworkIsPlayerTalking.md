@@ -9,6 +9,5 @@ aliases: ["0x031e11f3d447647e"]
 bool NETWORK_IS_PLAYER_TALKING(Player player);
 ```
 
-```
 Returns true if the given player is currently chatting.
-```
+

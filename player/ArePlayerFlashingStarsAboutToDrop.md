@@ -9,6 +9,5 @@ aliases: ["0xafaf86043e5874e9"]
 bool ARE_PLAYER_FLASHING_STARS_ABOUT_TO_DROP();
 ```
 
-```
 If the player has a wanted level and is outside the circle this command returns true
-```
+

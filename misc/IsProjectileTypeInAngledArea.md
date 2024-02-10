@@ -9,6 +9,5 @@ aliases: ["0xf0bc12401061dea0"]
 bool IS_PROJECTILE_TYPE_IN_ANGLED_AREA(Vector3 vecAngledAreaPoint1, Vector3 vecAngledAreaPoint2, float DistanceOfOppositeFace, Hash weaponHash, bool IsPlayer);
 ```
 
-```
 Checks that a projectile object of the specified type is in the angled area.
-```
+

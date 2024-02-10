@@ -9,6 +9,5 @@ aliases: ["0x5b74ea8cfd5e3e7e"]
 bool IS_SWITCH_SKIPPING_DESCENT();
 ```
 
-```
 returns true if active switch will skip the descent entirely
-```
+

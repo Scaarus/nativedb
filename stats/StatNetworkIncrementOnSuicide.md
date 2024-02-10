@@ -9,6 +9,5 @@ aliases: ["0x428eaf89e24f6c36"]
 void STAT_NETWORK_INCREMENT_ON_SUICIDE(int Hash, float value);
 ```
 
-```
 Increments the stat with the new value when the player commits suicide in the network game.
-```
+

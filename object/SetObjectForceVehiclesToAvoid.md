@@ -9,6 +9,5 @@ aliases: ["0x77f33f2ccf64b3aa"]
 void SET_OBJECT_FORCE_VEHICLES_TO_AVOID(bool ForceAvoid);
 ```
 
-```
 Set to TRUE to force vehicles to ignore the height check and avoid this object regardless of how tall it is
-```
+

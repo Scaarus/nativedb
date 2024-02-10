@@ -9,6 +9,5 @@ aliases: ["0x9bddc73cc6a115d4"]
 void SET_CARGOBOB_PICKUP_MAGNET_SET_AMBIENT_MODE(Vehicle vehicle, bool affectsVehicles, bool affectsObjects);
 ```
 
-```
 Set the magnet to affect all objects andor vehicles.
-```
+

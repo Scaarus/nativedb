@@ -9,11 +9,10 @@ aliases: ["0x0759591819534f7b"]
 void TASK_FOLLOW_WAYPOINT_RECORDING(Ped ped, string RecordingName, int iStartingProgress, int iFlags, int iTargetProgress);
 ```
 
-```
 Instructs the ped to follow the named recording, starting at the given waypoint & optionally terminating at a specified waypoint
 
-Possible values for iFlags:
-| Index | Name |
+## iFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Turn To Face Waypoint Heading At End |
@@ -29,4 +28,4 @@ Possible values for iFlags:
 | 1024 | Allow Steering Around Peds |
 | 2048 | Suppress Exactstop |
 | 4096 | Slow More For Corners |
-```
+

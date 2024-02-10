@@ -9,11 +9,10 @@ aliases: ["0xe39b4ff4fdebde27"]
 void TASK_GOTO_ENTITY_OFFSET(Entity entity, int Time, float SeekRadius, float SeekAngle, float MoveBlendRatio, int OffsetFlags);
 ```
 
-```
 Tells the ped to go to an offset from the target entity. A combination of flags from the ESEEK_ENTITY_OFFSET_FLAGS enum may be passed in.
 
-Possible values for OffsetFlags:
-| Index | Name |
+## OffsetFlags Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Offset Orientates With Entity |
@@ -23,4 +22,4 @@ Possible values for OffsetFlags:
 The destination point is SeekRadiusFloat metres from the other entity’s position. The exact destination position is calculated using the other entity’s heading offset by SeekAngleFloat degree
 
 if Time is chosen to be -1 the ped will never warp.
-```
+

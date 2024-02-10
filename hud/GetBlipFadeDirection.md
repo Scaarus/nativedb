@@ -9,6 +9,5 @@ aliases: ["0x2c173ae2bdb9385e"]
 int GET_BLIP_FADE_DIRECTION(Blip blip);
 ```
 
-```
 Returns a value to indicate whether a blip is fading and whether it is fading in or out
-```
+

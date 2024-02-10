@@ -9,9 +9,8 @@ aliases: ["0x46f917f6b4128fe4"]
 void PLAYSTATS_AWARD_XP(int amount, int type, int category);
 ```
 
-```
 Tells the PlayStats that the player won XP
-```
+
 
 ## Parameters
 * **amount**: amount of xp

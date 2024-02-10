@@ -9,11 +9,10 @@ aliases: ["0xf314cf4f0211894e"]
 void REPLACE_HUD_COLOUR_WITH_RGBA(int destHudColour, int Red, int Green, int Blue, int AlphaParam);
 ```
 
-```
 replaces destHudColour with passed rgba
 
-Possible values for destHudColour:
-| Index | Name |
+## destHudColour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,4 +249,4 @@ Possible values for destHudColour:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

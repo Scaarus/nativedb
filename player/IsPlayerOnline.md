@@ -9,6 +9,5 @@ aliases: ["0xf25d331dc2627bbc"]
 bool IS_PLAYER_ONLINE();
 ```
 
-```
 Returns true if the player is online - implies he is also signed in locally.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xcd79a550999d7d4f"]
 bool DOES_AIR_DEFENCE_SPHERE_EXIST(int SphereIndex);
 ```
 
-```
 Returns true if the specified air defence sphere exists
-```
+

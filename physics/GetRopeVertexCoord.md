@@ -9,6 +9,5 @@ aliases: ["0xea61ca8e80f09e4d"]
 Vector3 GET_ROPE_VERTEX_COORD(int vtxIndex);
 ```
 
-```
 Return the coordinates of specific rope vertex.
-```
+

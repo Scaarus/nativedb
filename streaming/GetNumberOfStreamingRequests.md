@@ -9,6 +9,5 @@ aliases: ["0x4060057271cebc89"]
 int GET_NUMBER_OF_STREAMING_REQUESTS();
 ```
 
-```
 Return how many objects are on the streaming request list.
-```
+

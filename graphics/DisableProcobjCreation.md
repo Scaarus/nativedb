@@ -9,6 +9,5 @@ aliases: ["0x1612c45f9e3e0d44"]
 void DISABLE_PROCOBJ_CREATION();
 ```
 
-```
 Disables procedural objects creation
-```
+

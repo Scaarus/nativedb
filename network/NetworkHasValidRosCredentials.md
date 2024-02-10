@@ -9,6 +9,5 @@ aliases: ["0x85443ff4c328f53b"]
 bool NETWORK_HAS_VALID_ROS_CREDENTIALS();
 ```
 
-```
 Returns TRUE if the local player has ROS credentials
-```
+

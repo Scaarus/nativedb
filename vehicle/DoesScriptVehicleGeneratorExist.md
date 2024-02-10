@@ -9,6 +9,5 @@ aliases: ["0xf6086bc836400876"]
 bool DOES_SCRIPT_VEHICLE_GENERATOR_EXIST(Vehicle_Generator vehicle_generator);
 ```
 
-```
 Returns true if the vehicle generator exists, false otherwise.
-```
+

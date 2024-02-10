@@ -9,11 +9,10 @@ aliases: ["0x7bae68775557ae0b"]
 void SET_PLAYER_PREVIOUS_VARIATION_DATA(Player player, int ComponentNumber, int DrawableID, int AltDrawableID, int TextureID, int PaletteID);
 ```
 
-```
 Manually sets the previous variation data, restored when the parachute / scuba prop is removed as part of CTaskTakeOffPedVariation.
 
-Possible values for ComponentNumber:
-| Index | Name |
+## ComponentNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Head |
 | 139 | Berd |
@@ -27,4 +26,4 @@ Possible values for ComponentNumber:
 | 147 | Special2 Pv Comp Task |
 | 148 | Decl ? |
 | 149 | Jbib |
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x5c48b75732c8456c"]
 void ATTACH_ENTITY_BONE_TO_ENTITY_BONE(Entity entity, int FirstEntityBoneIndex, int SecondEntityBoneIndex, bool DoInitialWarp, bool CollideWithEntity);
 ```
 
-```
 Attaches an entity to another entity using a none physical attachment.
 
 None physical attachment - collision is turned off for entity.
-```
+
 
 ## Parameters
 * **entity**: 

@@ -9,11 +9,10 @@ aliases: ["0xb6871b0555b02996"]
 int END_TEXT_COMMAND_THEFEED_POST_VERSUS_TU(string ch1TXD, string ch1TXN, int iVal1, string ch2TXD, string ch2TXN, int iVal2, int iCustomColor1, int iCustomColor2);
 ```
 
-```
 Displays the MP Versus feed component used when you die in multiplayer
 
-Possible values for iCustomColor1:
-| Index | Name |
+## iCustomColor1 Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,7 +249,7 @@ Possible values for iCustomColor1:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+
 
 ## Parameters
 * **ch1TXD**: Ped 1 Headshot TXN

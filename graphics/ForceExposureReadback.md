@@ -9,6 +9,5 @@ aliases: ["0x814af7dcaacc597b"]
 void FORCE_EXPOSURE_READBACK(bool onOff);
 ```
 
-```
 Forces exposure readback to be available on CPU. Use to fix exposure problems on SLI/Crossfire.
-```
+

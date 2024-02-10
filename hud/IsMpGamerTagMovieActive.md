@@ -9,6 +9,5 @@ aliases: ["0x6e0eb3eb47c8d7aa"]
 bool IS_MP_GAMER_TAG_MOVIE_ACTIVE();
 ```
 
-```
 Returns true when the MP Gamer Tag class is ready to be used.
-```
+

@@ -9,11 +9,10 @@ aliases: ["0x186d5cb5e7b0ff7b"]
 void START_CUTSCENE(int flags);
 ```
 
-```
 Starts a streamed cut scene.
 
-Possible values for flags:
-| Index | Name |
+## flags Values:
+| Value | Name |
 | --- | --- |
 | 0 | No Options |
 | 1 | Player Targetable |
@@ -30,4 +29,4 @@ Possible values for flags:
 | 2048 | Suppress Fp Transition Flash |
 | 4096 | Use Fp Camera Blend Out Mode |
 | 8192 | Exits Into Cover |
-```
+

@@ -9,11 +9,10 @@ aliases: ["0xd8f66a3a60c62153"]
 event_names GET_EVENT_AT_INDEX(int eventQueue, int eventIndex);
 ```
 
-```
 Returns the type of the event located at the given index on the given event queue.
 
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | -1 | EVENT_INVALID |
 | 0 | EVENT_ACQUAINTANCE_PED_DISLIKE |
@@ -271,11 +270,11 @@ Possible return values:
 | 252 | NUM_ERRORS_EVENTTYPE |
 
 
-Possible values for eventQueue:
-| Index | Name |
+## eventQueue Values:
+| Value | Name |
 | --- | --- |
 | 0 | SCRIPT_EVENT_QUEUE_AI |
 | 1 | SCRIPT_EVENT_QUEUE_NETWORK |
 | 2 | SCRIPT_EVENT_QUEUE_ERRORS |
 | 3 | NUM_SCRIPT_EVENT_QUEUES |
-```
+

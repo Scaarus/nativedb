@@ -9,6 +9,5 @@ aliases: ["0xd27058a1ca2b13ee"]
 void DATAFILE_CREATE(int datafileIndex);
 ```
 
-```
 Creates a new datafile object
-```
+

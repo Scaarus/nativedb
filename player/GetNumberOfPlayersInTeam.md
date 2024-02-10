@@ -9,6 +9,5 @@ aliases: ["0x1fc200409f10e6f1"]
 int GET_NUMBER_OF_PLAYERS_IN_TEAM();
 ```
 
-```
 Get the number of players in a team
-```
+

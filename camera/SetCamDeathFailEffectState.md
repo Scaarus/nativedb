@@ -9,16 +9,15 @@ aliases: ["0x80c8b1846639bb19"]
 void SET_CAM_DEATH_FAIL_EFFECT_STATE(int State);
 ```
 
-```
 Pushes the death/fail camera effect through its states. You must ensure this is reset to CAM_DEATH_FAIL_EFFECT_INACTIVE once the sequence is complete.
 
-Possible values for State:
-| Index | Name |
+## State Values:
+| Value | Name |
 | --- | --- |
 | 0 | Inactive |
 | 1 | Intro |
 | 2 | Outro |
-```
+
 
 ## Parameters
 * **State**: The desired state to apply. See the definition of CAM_DEATH_FAIL_EFFECT_STATE for a list of valid states.

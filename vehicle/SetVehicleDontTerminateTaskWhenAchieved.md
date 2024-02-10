@@ -9,6 +9,5 @@ aliases: ["0x76d26a22750e849e"]
 void SET_VEHICLE_DONT_TERMINATE_TASK_WHEN_ACHIEVED(Vehicle vehicle);
 ```
 
-```
 Tells the vehicle not to quit it's task when its achieved
-```
+

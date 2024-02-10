@@ -9,6 +9,5 @@ aliases: ["0xe91f1b65f2b48d57"]
 void REMOVE_DECALS_FROM_VEHICLE(Vehicle vehicle);
 ```
 
-```
 Removes all decals on a particular vehicle
-```
+

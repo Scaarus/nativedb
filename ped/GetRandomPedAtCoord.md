@@ -9,11 +9,10 @@ aliases: ["0x876046a8e3a4b71c"]
 Ped GET_RANDOM_PED_AT_COORD(Vector3 CentrePosition, Vector3 LocateDimensions, int ExclusionPedType);
 ```
 
-```
 Gets a ped index in the given area.
 
-Possible values for ExclusionPedType:
-| Index | Name |
+## ExclusionPedType Values:
+| Value | Name |
 | --- | --- |
 | -1 | Invalid |
 | 0 | Player1 |
@@ -47,4 +46,4 @@ Possible values for ExclusionPedType:
 | 61 | Animal |
 | 62 | Army |
 | 63 | Last Pedtype |
-```
+

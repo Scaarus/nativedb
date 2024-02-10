@@ -9,6 +9,5 @@ aliases: ["0xe05dd0e9707003a3"]
 void SET_VEHICLE_USED_FOR_PILOT_SCHOOL(Vehicle vehicle, bool isUsedForPilotSchool);
 ```
 
-```
 Mark the vehicle as used for pilot school
-```
+

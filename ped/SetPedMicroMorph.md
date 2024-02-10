@@ -9,11 +9,10 @@ aliases: ["0x71a5c1dba060049e"]
 void SET_PED_MICRO_MORPH(Ped ped, int morphType, float blend);
 ```
 
-```
 Sets a micro morph on the specified ped
 
-Possible values for morphType:
-| Index | Name |
+## morphType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Nose Width |
 | 13 | Nose Height |
@@ -35,4 +34,4 @@ Possible values for morphType:
 | 29 | Chin Pointed |
 | 30 | Chin Bum |
 | 31 | Neck Male |
-```
+

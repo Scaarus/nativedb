@@ -9,11 +9,10 @@ aliases: ["0x2a179df17ccf04cd"]
 void CLEAR_ADDITIONAL_TEXT(int SlotNumber, bool ClearPreviousBriefs);
 ```
 
-```
 Call this command to remove the text from the previous attempt at the mission from the previous briefs screen.
 
-Possible values for SlotNumber:
-| Index | Name |
+## SlotNumber Values:
+| Value | Name |
 | --- | --- |
 | 1002 | MISSION_TEXT_SLOT |
 | 1003 | PHONE_TEXT_SLOT |
@@ -41,4 +40,4 @@ Possible values for SlotNumber:
 
 
 You will probably always want to call this command with TRUE for bClearPreviousBriefs. The reason for adding this command was for the situation where the player fails a mission and then replays it.
-```
+

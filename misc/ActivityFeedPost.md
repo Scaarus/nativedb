@@ -9,6 +9,5 @@ aliases: ["0x8951eb9c6906d3c8"]
 void ACTIVITY_FEED_POST();
 ```
 
-```
 Posts and closes the current Activity Feed
-```
+

@@ -9,6 +9,5 @@ aliases: ["0xd1942374085c8469"]
 void SET_BLOCK_WANTED_FLASH(bool BlockFlashing);
 ```
 
-```
 Stops the minimap from flashing while wanted.
-```
+

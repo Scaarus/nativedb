@@ -9,6 +9,5 @@ aliases: ["0xe45b7f222de47e09"]
 bool IS_PED_STRAFING(Ped ped);
 ```
 
-```
 Returns true if the ped is sprinting
-```
+

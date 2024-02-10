@@ -9,6 +9,5 @@ aliases: ["0xed8286f71a819baa"]
 void SET_CARGOBOB_PICKUP_MAGNET_PULL_STRENGTH(Vehicle vehicle, float magnetPullStrength);
 ```
 
-```
 Set how strongly the magnet pulls itself towards the nearest entity.
-```
+

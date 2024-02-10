@@ -9,11 +9,10 @@ aliases: ["0xbfd8727aea3cceba"]
 void SET_CAM_PARAMS(Camera camera, Vector3 vPos, Vector3 vRot, float FOV, int Duration, int GraphTypePos, int GraphTypeRot, int RotOrder);
 ```
 
-```
 Sets the camera's position, rotation and field of view. More info
 
-Possible values for GraphTypePos:
-| Index | Name |
+## GraphTypePos Values:
+| Value | Name |
 | --- | --- |
 | 0 | Linear |
 | 1 | Sin Accel Decel Accelerates At Start, Decelerates At End |
@@ -47,8 +46,8 @@ Possible values for GraphTypePos:
 | 29 | Max The Maximum Number Of Graph Types, Do Not Use. |
 
 
-Possible values for RotOrder:
-| Index | Name |
+## RotOrder Values:
+| Value | Name |
 | --- | --- |
 | 0 | Xyz |
 | 1 | Xzy |
@@ -60,4 +59,4 @@ Possible values for RotOrder:
 
 
 If duration is set > 0 the camera will interp to the specified settings.
-```
+

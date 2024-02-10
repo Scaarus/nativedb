@@ -9,6 +9,5 @@ aliases: ["0xa44ff770dfbc5dae"]
 void REGISTER_NOIR_LENS_EFFECT();
 ```
 
-```
 Registers the film noir lens effect each frame this is called
-```
+

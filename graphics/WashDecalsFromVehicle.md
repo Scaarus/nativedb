@@ -9,6 +9,5 @@ aliases: ["0x5b712761429dbc14"]
 void WASH_DECALS_FROM_VEHICLE(Vehicle vehicle, float washAmount);
 ```
 
-```
 Washes the decals off a vehicle (by washAmount each time it's called)
-```
+

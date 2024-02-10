@@ -9,6 +9,5 @@ aliases: ["0xef7d17bc6c85264c"]
 bool LOBBY_AUTO_MULTIPLAYER_FREEMODE();
 ```
 
-```
 Returns TRUE If the game will automatically launch into the multiplayer game in freemode
-```
+

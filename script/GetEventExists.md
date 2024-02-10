@@ -9,11 +9,10 @@ aliases: ["0x936e6168a9bcedb5"]
 bool GET_EVENT_EXISTS(int eventQueue, int eventType);
 ```
 
-```
 Returns TRUE if the given type of event is on the given event queue
 
-Possible values for eventQueue:
-| Index | Name |
+## eventQueue Values:
+| Value | Name |
 | --- | --- |
 | 0 | SCRIPT_EVENT_QUEUE_AI |
 | 1 | SCRIPT_EVENT_QUEUE_NETWORK |
@@ -21,8 +20,8 @@ Possible values for eventQueue:
 | 3 | NUM_SCRIPT_EVENT_QUEUES |
 
 
-Possible values for eventType:
-| Index | Name |
+## eventType Values:
+| Value | Name |
 | --- | --- |
 | -1 | EVENT_INVALID |
 | 0 | EVENT_ACQUAINTANCE_PED_DISLIKE |
@@ -278,4 +277,4 @@ Possible values for eventType:
 | 250 | EVENT_ERRORS_INSTRUCTION_LIMIT |
 | 251 | EVENT_ERRORS_STACK_OVERFLOW |
 | 252 | NUM_ERRORS_EVENTTYPE |
-```
+

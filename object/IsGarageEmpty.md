@@ -9,9 +9,8 @@ aliases: ["0x90e47239ea1980b8"]
 bool IS_GARAGE_EMPTY(int GarageHash, bool OnAllMachines, int boxIndex);
 ```
 
-```
 Returns TRUE if the Garage has any objects inside or partially inside
-```
+
 
 ## Parameters
 * **GarageHash**: 

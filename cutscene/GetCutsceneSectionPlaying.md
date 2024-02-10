@@ -9,6 +9,5 @@ aliases: ["0x49010a6a396553d8"]
 int GET_CUTSCENE_SECTION_PLAYING();
 ```
 
-```
 Gets the current cutscene anim section playing.
-```
+

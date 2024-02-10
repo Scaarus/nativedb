@@ -9,6 +9,5 @@ aliases: ["0x85b6c850546fdde2"]
 bool ARE_ENTITIES_ENTIRELY_INSIDE_GARAGE(int GarageHash, bool peds, bool vehs, bool objs, int boxIndex);
 ```
 
-```
 Returns TRUE if all entities of the specified type are entirely within the garge
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x60734cc207c9833c"]
 void ALLOW_SONAR_BLIPS(bool Set);
 ```
 
-```
 turns on/off sonar blips on the minimap
-```
+

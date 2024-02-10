@@ -9,6 +9,5 @@ aliases: ["0x34ad89078831a4bc"]
 void SET_ALL_VEHICLE_GENERATORS_ACTIVE();
 ```
 
-```
 Sets all generators map and script active.
-```
+

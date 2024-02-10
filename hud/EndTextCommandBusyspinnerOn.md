@@ -9,9 +9,8 @@ aliases: ["0xbd12f8228410d9b4"]
 void END_TEXT_COMMAND_BUSYSPINNER_ON(int iIcon);
 ```
 
-```
 Displays the busy spinner message.
-```
+
 
 ## Parameters
 * **iIcon**: 2=Spinner 4=Star

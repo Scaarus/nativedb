@@ -9,6 +9,5 @@ aliases: ["0x06a3524161c502ba"]
 void REQUEST_CUT_FILE(string pCutName);
 ```
 
-```
 Requests a cut file, the metadata for a cutscene
-```
+

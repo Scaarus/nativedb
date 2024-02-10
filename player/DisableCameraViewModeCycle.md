@@ -9,6 +9,5 @@ aliases: ["0x5501b7a5cdb79d37"]
 void DISABLE_CAMERA_VIEW_MODE_CYCLE(Player player);
 ```
 
-```
 Disables the view mode switch this frame
-```
+

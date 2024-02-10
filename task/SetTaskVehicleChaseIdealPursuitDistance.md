@@ -9,8 +9,7 @@ aliases: ["0x639b642facbe4edd"]
 void SET_TASK_VEHICLE_CHASE_IDEAL_PURSUIT_DISTANCE(Ped ped, float fIdealPursuitDistance);
 ```
 
-```
 Sets the ideal pursuit distance when chasing a vehicle.
 
 Sets the ideal pursuit distance when chasing a vehicle. The ped must be running TASK_VEHICLE_CHASE.
-```
+

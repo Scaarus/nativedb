@@ -9,6 +9,5 @@ aliases: ["0x87b63e25a529d526"]
 int GET_VEHICLE_LIVERY_COUNT(Vehicle vehicle);
 ```
 
-```
 Return the number of liveries for this vehicle
-```
+

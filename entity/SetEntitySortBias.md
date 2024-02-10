@@ -9,6 +9,5 @@ aliases: ["0x5c3b791d580e0bc2"]
 void SET_ENTITY_SORT_BIAS(Entity entity, float bias);
 ```
 
-```
 Set a bias to be applied to an entity's sort distance
-```
+

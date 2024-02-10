@@ -9,11 +9,10 @@ aliases: ["0x10706dc6ad2d49c0"]
 void RESTART_FRONTEND_MENU(frontend_menu_version iMenuVersion, int HighlightTab);
 ```
 
-```
 restarts the frontend menu if its already active with new header details
 
-Possible values for HighlightTab:
-| Index | Name |
+## HighlightTab Values:
+| Value | Name |
 | --- | --- |
 | -1 | MENU_UNIQUE_ID_INVALID |
 | 0 | ,	MENU_UNIQUE_ID_START |
@@ -176,4 +175,4 @@ Possible values for HighlightTab:
 | 157 | ,	MENU_UNIQUE_ID_CREDITS |
 | 158 | ,	MENU_UNIQUE_ID_LEGAL |
 | 159 | ,	MENU_UNIQUE_ID_CREDITS_LEGAL |
-```
+

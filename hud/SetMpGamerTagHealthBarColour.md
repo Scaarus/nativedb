@@ -9,11 +9,10 @@ aliases: ["0x3158c77a7e888ab4"]
 void SET_MP_GAMER_TAG_HEALTH_BAR_COLOUR(int iPlayerNum, int hudColour);
 ```
 
-```
 colourises the health bar over the player's head.
 
-Possible values for hudColour:
-| Index | Name |
+## hudColour Values:
+| Value | Name |
 | --- | --- |
 | 0 | Pure White |
 | 1 | White |
@@ -250,4 +249,4 @@ Possible values for hudColour:
 | 232 | Placeholder 09 |
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
-```
+

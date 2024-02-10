@@ -9,6 +9,5 @@ aliases: ["0x016c090630df1f89"]
 bool IS_GAMEPLAY_CAM_SHAKING();
 ```
 
-```
 Is the gameplay camera currently shaking?
-```
+

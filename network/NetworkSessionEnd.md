@@ -9,9 +9,8 @@ aliases: ["0xa02e59562d711006"]
 bool NETWORK_SESSION_END(bool ReturnToLobby, bool Blacklist);
 ```
 
-```
 Ends a network session
-```
+
 
 ## Parameters
 * **ReturnToLobby**: FALSE to leave this session, TRUE to remain (and return to the lobby state)

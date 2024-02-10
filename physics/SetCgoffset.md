@@ -9,6 +9,5 @@ aliases: ["0xd8fa3908d7b86904"]
 void SET_CGOFFSET(Vector3 cgOffset);
 ```
 
-```
 set center of gravity offset
-```
+

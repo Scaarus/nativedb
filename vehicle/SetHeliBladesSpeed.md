@@ -9,8 +9,7 @@ aliases: ["0xfd280b4d7f3abc4d"]
 void SET_HELI_BLADES_SPEED(Vehicle vehicle, float SpeedRatio);
 ```
 
-```
 Sets the helli blades to given speed
 
 Full speed is 1.0f
-```
+

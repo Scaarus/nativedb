@@ -9,11 +9,10 @@ aliases: ["0x2a1f4f37f95bad08"]
 void TOGGLE_VEHICLE_MOD(Vehicle vehicle, int modSlot, bool toggleOn);
 ```
 
-```
 Toggles a toggle mod on or off.
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -67,4 +66,4 @@ Possible values for modSlot:
 
 
 This can only be used with the toggle mods specified in the enum
-```
+

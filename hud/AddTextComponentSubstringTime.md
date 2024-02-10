@@ -9,11 +9,10 @@ aliases: ["0x1115f16b8ab9e8bf"]
 void ADD_TEXT_COMPONENT_SUBSTRING_TIME(int TimeInMillseconds, int TimeFormat);
 ```
 
-```
 Takes a time in milliseconds and converts it to a string. Use ~a~ to mark the position in your line of text where you want this substring inserted
 
-Possible values for TimeFormat:
-| Index | Name |
+## TimeFormat Values:
+| Value | Name |
 | --- | --- |
 | 1 | Ime Format Milliseconds |
 | 2 | Ime Format Seconds |
@@ -27,4 +26,4 @@ Possible values for TimeFormat:
 | 512 | Ext Format Hide Milliseconds Units Digit |
 | 1024 | Ext Format Hide Milliseconds Tens Digit |
 | 2048 | Ext Format Use Dot For Millisecond Divider |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x92bac8acf88cec26"]
 bool IS_INTERIOR_CAPPED();
 ```
 
-```
 return true if the interior has been capped
-```
+

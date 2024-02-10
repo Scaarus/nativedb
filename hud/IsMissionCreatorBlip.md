@@ -9,6 +9,5 @@ aliases: ["0x26f49bf3381d933d"]
 bool IS_MISSION_CREATOR_BLIP(Blip blip);
 ```
 
-```
 Returns whether blip is a "mission creator" blip
-```
+

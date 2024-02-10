@@ -9,6 +9,5 @@ aliases: ["0x5fbae526203990c9"]
 void HIDE_MINIMAP_EXTERIOR_MAP_THIS_FRAME();
 ```
 
-```
 hides the exterior minimap map this frame
-```
+

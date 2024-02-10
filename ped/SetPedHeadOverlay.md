@@ -9,11 +9,10 @@ aliases: ["0x48f44967fa05cc1e"]
 void SET_PED_HEAD_OVERLAY(Ped ped, int slot, int tex, float blend);
 ```
 
-```
 Sets an overlay texture for the blended head of the given ped.
 
-Possible values for slot:
-| Index | Name |
+## slot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Blemishes |
 | 1 | Facial Hair |
@@ -31,7 +30,7 @@ Possible values for slot:
 
 
 This function sets an overlay texture on a blended head. The ped index given needs to be an MP ped with a blended head, which means SET_PED_HEAD_BLEND_DATA needs to have already been called on this ped before this function is called.
-```
+
 
 ## Parameters
 * **ped**: 

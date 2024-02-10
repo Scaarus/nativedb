@@ -9,6 +9,5 @@ aliases: ["0x8ef52acaecc51d9c"]
 void NETWORK_SET_SPECTATOR_TO_NON_SPECTATOR_TEXT_CHAT(bool isEnabled);
 ```
 
-```
 Enable/Disable text chat from spectators to non-spectators
-```
+

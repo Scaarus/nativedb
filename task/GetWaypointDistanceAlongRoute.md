@@ -9,6 +9,5 @@ aliases: ["0xa5b769058763e497"]
 float GET_WAYPOINT_DISTANCE_ALONG_ROUTE(string RecordingName, int iWaypoint);
 ```
 
-```
 Retrieves the distance along the route in meters of the specified waypoint
-```
+

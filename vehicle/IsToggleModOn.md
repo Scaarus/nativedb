@@ -9,11 +9,10 @@ aliases: ["0x84b233a8c8fc8ae7"]
 bool IS_TOGGLE_MOD_ON(Vehicle vehicle, int modSlot);
 ```
 
-```
 Return if the toggle mod on the given slot is turned on or off. More...
 
-Possible values for modSlot:
-| Index | Name |
+## modSlot Values:
+| Value | Name |
 | --- | --- |
 | 0 | Spoiler |
 | 204 | Bumper F |
@@ -67,4 +66,4 @@ Possible values for modSlot:
 
 
 Note that modSlot has to be one of the toggle mods or the function always returns false
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x876928dddfccc9cd"]
 bool HAS_PEDHEADSHOT_IMG_UPLOAD_FAILED();
 ```
 
-```
 Queries whether the upload request slot has failed
-```
+

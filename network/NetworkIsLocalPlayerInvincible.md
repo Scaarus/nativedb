@@ -9,6 +9,5 @@ aliases: ["0x8a8694b48715b000"]
 bool NETWORK_IS_LOCAL_PLAYER_INVINCIBLE();
 ```
 
-```
 Returns true if the local player is currently invincible as set by NETWORK_RESURRECT_LOCAL_PLAYER or NETWORK_SET_LOCAL_PLAYER_INVINCIBLE_TIME
-```
+

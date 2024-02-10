@@ -9,6 +9,5 @@ aliases: ["0x4487c259f0f70977"]
 void SET_ENTITY_ANIM_CURRENT_TIME(Entity entity, string pAnimDictName, string pAnimName, float NewAnimCurrentTime);
 ```
 
-```
 Sets the phase of the anim between 0.0 and 1.0
-```
+

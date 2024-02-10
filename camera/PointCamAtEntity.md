@@ -9,9 +9,8 @@ aliases: ["0x5640bff86b16e8dc"]
 void POINT_CAM_AT_ENTITY(Camera camera, Entity entity, Vector3 vecOffset, bool OffsetIsRelative);
 ```
 
-```
 Points the camera at an entity.
-```
+
 
 ## Parameters
 * **camera**: 

@@ -9,8 +9,7 @@ aliases: ["0xd46923fc481ca285"]
 void HIDE_HELP_TEXT_THIS_FRAME();
 ```
 
-```
 Hides help text this frame. More info
 
 Must be called every frame
-```
+

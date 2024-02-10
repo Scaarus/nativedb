@@ -9,6 +9,5 @@ aliases: ["0xfaee099c6f890bb8"]
 void SET_ENTITY_PROOFS(Entity entity, bool BulletProofFlag, bool FlameProofFlag, bool ExplosionProofFlag, bool CollisionProofFlag, bool MeleeProofFlag, bool SteamProofFlag, bool DontResetDamageFlagsOnCleanupMissionState, bool SmokeProofFlag);
 ```
 
-```
 Set the proofs on entity: Bullet, Flame, Explosion, Colision, Melee
-```
+

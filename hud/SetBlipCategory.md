@@ -9,11 +9,10 @@ aliases: ["0x234cdd44d996fd9a"]
 void SET_BLIP_CATEGORY(Blip blip, int category);
 ```
 
-```
 Sets the category of this blip
 
-Possible values for category:
-| Index | Name |
+## category Values:
+| Value | Name |
 | --- | --- |
 | 3 | Jobs |
 | 947 | My Jobs My Jobs |
@@ -25,4 +24,4 @@ Possible values for category:
 | 953 | Property Properties |
 | 954 | Apartment Owned Apartments |
 | 955 | Other Anything Else |
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x1461c72c889e343e"]
 void START_ROPE_WINDING();
 ```
 
-```
 Start rope winding
-```
+

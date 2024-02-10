@@ -9,6 +9,5 @@ aliases: ["0xe45087d85f468bc2"]
 void SET_MISSION_NAME_FOR_UGC_MISSION(bool Active, string pMissionName);
 ```
 
-```
 sets the current mission name to display on the HUD as the name entered for a UGC mission
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5fc472c501ccadb3"]
 bool GET_IS_PLAYER_DRIVING_ON_HIGHWAY(Player player);
 ```
 
-```
 If the player is driving on a highway, returns true otherwise false.
-```
+

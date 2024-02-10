@@ -9,11 +9,10 @@ aliases: ["0xf4c8cf9e353afeca"]
 void SHAKE_SCRIPT_GLOBAL(string ShakeName, float fAmplitudeScalar);
 ```
 
-```
 Apply a predefined shake globally to the rendered result of all active scripted cameras.
 
 Valid shake names are as
-```
+
 
 ## Parameters
 * **ShakeName**: 

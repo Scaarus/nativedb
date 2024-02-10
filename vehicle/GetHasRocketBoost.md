@@ -9,6 +9,5 @@ aliases: ["0x36d782f68b309bda"]
 bool GET_HAS_ROCKET_BOOST();
 ```
 
-```
 returns true if a vehicle has a rocket boost
-```
+

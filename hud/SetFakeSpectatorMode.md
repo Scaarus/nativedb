@@ -9,6 +9,5 @@ aliases: ["0xcd74233600c4ea6b"]
 void SET_FAKE_SPECTATOR_MODE(bool Value);
 ```
 
-```
 Set a fake spectator mode to allow multiplayer name tags to be displayed at far distances.
-```
+

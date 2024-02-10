@@ -9,11 +9,10 @@ aliases: ["0xc429dceeb339e129"]
 void TASK_VEHICLE_TEMP_ACTION(Vehicle vehicle, int Action, int Time);
 ```
 
-```
 Gives the vehicle a temporary action.
 
-Possible values for Action:
-| Index | Name |
+## Action Values:
+| Value | Name |
 | --- | --- |
 | 0 | None |
 | 150 | Wait |
@@ -54,4 +53,4 @@ Possible values for Action:
 TEMPACTION is is commands_vehicle.sch
 
 These should only be used for short actions
-```
+

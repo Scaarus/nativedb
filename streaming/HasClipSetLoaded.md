@@ -9,8 +9,7 @@ aliases: ["0x318234f4f3738af3"]
 bool HAS_CLIP_SET_LOADED(string animSetName);
 ```
 
-```
 Return if an clip set is in memory.
 
 See the notes for REQUEST_CLIP_SET above
-```
+

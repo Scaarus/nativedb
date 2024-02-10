@@ -9,6 +9,5 @@ aliases: ["0xa03502fc581f7d9b"]
 float GET_FINAL_RENDERED_CAM_NEAR_DOF();
 ```
 
-```
 Gets the near Dof of the final rendered cam.
-```
+

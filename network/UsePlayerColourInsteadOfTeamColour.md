@@ -9,6 +9,5 @@ aliases: ["0x77758139ec9b66c7"]
 void USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR(bool Active);
 ```
 
-```
 forces the player colour to be used for the radar and gametag instead of team colours
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5bff36d6ed83e0ae"]
 Vector3 GET_PAUSE_MENU_POSITION();
 ```
 
-```
 Retrieves the position of the pause menu as 0 to 1 decimal percentage values. NOTE: This command will assert if the pause menu is not active
-```
+

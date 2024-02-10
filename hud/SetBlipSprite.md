@@ -9,6 +9,5 @@ aliases: ["0xdf735600a4696daf"]
 void SET_BLIP_SPRITE(Blip blip, int sprite);
 ```
 
-```
 Set the blip sprite to be rendered to the radar.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x67a5589628e0cff6"]
 bool NETWORK_HAS_SOCIAL_CLUB_ACCOUNT();
 ```
 
-```
 Returns TRUE if we have a social club account.
-```
+

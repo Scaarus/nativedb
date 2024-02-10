@@ -9,6 +9,5 @@ aliases: ["0xd6d09a6f32f49ef1"]
 bool NETWORK_SESSION_GET_KICK_VOTE(Player player);
 ```
 
-```
 Returns true if the local player has voted for "NetPlayerID" to be kicked.
-```
+

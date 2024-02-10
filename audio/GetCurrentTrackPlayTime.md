@@ -9,6 +9,5 @@ aliases: ["0x3e65cde5215832c1"]
 int GET_CURRENT_TRACK_PLAY_TIME(string radioStationName);
 ```
 
-```
 Get the time in seconds that the current track has been playing on the given radio station
-```
+

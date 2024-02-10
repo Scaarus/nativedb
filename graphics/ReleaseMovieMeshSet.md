@@ -9,6 +9,5 @@ aliases: ["0xeb119aa014e89183"]
 void RELEASE_MOVIE_MESH_SET(int id);
 ```
 
-```
 Releases a mesh set
-```
+

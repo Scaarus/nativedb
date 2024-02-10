@@ -9,9 +9,8 @@ aliases: ["0xb3c94a90d9fc9e62"]
 switch_type GET_PLAYER_SWITCH_TYPE();
 ```
 
-```
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | Auto |
 | 18 | Long |
@@ -20,4 +19,4 @@ Possible return values:
 
 
 returns the type of currently active player switch
-```
+

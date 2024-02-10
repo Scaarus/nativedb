@@ -9,6 +9,5 @@ aliases: ["0x02a0c9720b854bfa"]
 void SET_PED_AS_ENEMY(Ped ped, bool Enemy);
 ```
 
-```
 Sets the hud item to be red but otherwise does not affect the peds behaviour
-```
+

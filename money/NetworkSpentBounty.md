@@ -9,6 +9,5 @@ aliases: ["0x29b260b84947dfcc"]
 void NETWORK_SPENT_BOUNTY(int amount, bool fromBank, bool fromBankAndWallet);
 ```
 
-```
 Player was killed in a detahmatch and had a bounty.
-```
+

@@ -9,6 +9,5 @@ aliases: ["0x5873c14a52d74236"]
 int GET_VEHICLE_MODEL_VALUE(Hash modelHash);
 ```
 
-```
 Gets the monetary value of a vehicles model.
-```
+

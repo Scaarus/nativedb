@@ -9,6 +9,5 @@ aliases: ["0x944955fb2a3935c8"]
 void REQUEST_PTFX_ASSET();
 ```
 
-```
 Request streaming to load the particle asset associated with this script
-```
+

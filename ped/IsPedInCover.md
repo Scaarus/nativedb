@@ -9,8 +9,7 @@ aliases: ["0x60dfd0691a170b88"]
 bool IS_PED_IN_COVER(Ped ped, bool LimitToPedsInCoverThatAreIdle);
 ```
 
-```
 Checks if the ped is currently behind and using cover.
 
 bLimitToPedsInCoverThatAreIdle =
-```
+

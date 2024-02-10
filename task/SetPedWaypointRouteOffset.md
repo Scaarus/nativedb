@@ -9,6 +9,5 @@ aliases: ["0xed98e10b0afce4b4"]
 bool SET_PED_WAYPOINT_ROUTE_OFFSET(Ped ped, Vector3 vOffset);
 ```
 
-```
 Sets a worldpsace offset on the ped's current TASK_FOLLOW_WAYPOINT_RECORDING, which is applied to all the route points for this ped only
-```
+

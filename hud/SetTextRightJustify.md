@@ -9,8 +9,7 @@ aliases: ["0x6b3c4650bc8bee47"]
 void SET_TEXT_RIGHT_JUSTIFY(bool TextRightJustifyFlag);
 ```
 
-```
 Right justifies the text.
 
 It also moves the origin of the text to the right hand side of the text.
-```
+

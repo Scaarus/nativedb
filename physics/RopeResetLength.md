@@ -9,6 +9,5 @@ aliases: ["0xc16de94d9bea14a0"]
 void ROPE_RESET_LENGTH(bool isResetLength);
 ```
 
-```
 Reset rope length
-```
+

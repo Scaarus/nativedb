@@ -9,6 +9,5 @@ aliases: ["0x4202bbcb8684563d"]
 void RESET_EXCLUSIVE_SCENARIO_GROUP();
 ```
 
-```
 Undo the effects of any previous use of SET_EXCLUSIVE_SCENARIO_GROUP. The enabled/disabled state of individual groups is unaffected.
-```
+

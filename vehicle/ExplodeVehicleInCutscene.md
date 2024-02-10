@@ -9,6 +9,5 @@ aliases: ["0x786a4eb67b01bf0b"]
 void EXPLODE_VEHICLE_IN_CUTSCENE(Vehicle vehicle, bool AddExplosion);
 ```
 
-```
 explosed a vehicle in a cutscene
-```
+

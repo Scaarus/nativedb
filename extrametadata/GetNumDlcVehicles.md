@@ -9,6 +9,5 @@ aliases: ["0xa7a866d21cd2329b"]
 int GET_NUM_DLC_VEHICLES();
 ```
 
-```
 Returns number of available DLC vehicles
-```
+

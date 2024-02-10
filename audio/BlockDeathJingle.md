@@ -9,6 +9,5 @@ aliases: ["0xf154b8d1775b2dec"]
 void BLOCK_DEATH_JINGLE(bool locked);
 ```
 
-```
 Sets if the death jingle can play when the player dies or not
-```
+

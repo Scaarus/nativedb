@@ -9,6 +9,5 @@ aliases: ["0xd8050e0eb60cf274"]
 void SET_VEHICLE_HAS_MUTED_SIRENS(Vehicle vehicle, bool SirensAreMuted);
 ```
 
-```
 Sets whether or not a vehicle has muted sirens (still flashin)
-```
+

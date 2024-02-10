@@ -9,6 +9,5 @@ aliases: ["0xa50abc31e3cdfaff"]
 void SET_TEXT_LEADING(int iLeadingAmount);
 ```
 
-```
 sets the leading amount on the text
-```
+

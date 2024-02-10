@@ -9,9 +9,8 @@ aliases: ["0x9a62ec95ae10e011"]
 migrate_save STAT_MIGRATE_SAVEGAME_GET_STATUS();
 ```
 
-```
-Possible return values:
-| Index | Name |
+## Return Type Values:
+| Value | Name |
 | --- | --- |
 | 0 | MIGRATE_SAVE_NONE |
 | 1 | ,MIGRATE_SAVE_FAILED_SOURCE_IN_USE |
@@ -26,4 +25,4 @@ Possible return values:
 | 10 | ,MIGRATE_SAVE_FAILED_ACCT_AGE |
 | 11 | ,MIGRATE_SAVE_ERROR_DEST_ALREADY_DONE |
 | 12 | ,MIGRATE_SAVE_ERROR_TOO_RICH |
-```
+

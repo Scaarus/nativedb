@@ -9,11 +9,10 @@ aliases: ["0x46a6cc01e0826106"]
 void TASK_SHOOT_AT_COORD(int Duration, int FiringType);
 ```
 
-```
 Tells the ped to shoot at given coord.
 
-Possible values for FiringType:
-| Index | Name |
+## FiringType Values:
+| Value | Name |
 | --- | --- |
 | 0 | Default |
 | 16 | 1 Burst Uses Firing Type Default As It'S No Longer A Valid Type |
@@ -24,4 +23,4 @@ Possible values for FiringType:
 
 
 FIRING_TYPE is in commands_task.sch
-```
+

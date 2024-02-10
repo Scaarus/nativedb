@@ -9,11 +9,10 @@ aliases: ["0xd04fe6765d990a06"]
 void TASK_PED_SLIDE_TO_COORD(Ped ped, Vector3 Position, float headingDegrees, float speed);
 ```
 
-```
 Slides a ped to the given coord.
 
 speed in mss will be clamped between 0.
-```
+
 
 ## Parameters
 * **ped**: 

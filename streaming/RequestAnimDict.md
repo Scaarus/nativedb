@@ -9,6 +9,5 @@ aliases: ["0xd3bd40951412fef6"]
 void REQUEST_ANIM_DICT(string animDictionaryName);
 ```
 
-```
 Request streaming to load an animation dictionary
-```
+

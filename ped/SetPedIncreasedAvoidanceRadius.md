@@ -9,6 +9,5 @@ aliases: ["0x570389d1c3de3c6b"]
 void SET_PED_INCREASED_AVOIDANCE_RADIUS(Ped ped);
 ```
 
-```
 Instructs other peds to give this ped a wider berth; must be called every frame
-```
+

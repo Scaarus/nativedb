@@ -9,11 +9,10 @@ aliases: ["0x33d72899e24c3365"]
 bool STAT_START_RECORD_STAT(int stat, int policy);
 ```
 
-```
 Policy for the recording of the stats using the commands below. Policy for the recording of the stats using the commands below. PURPOSE Start recording a stat until stop is called. NOTES See enum above for the stats that are supported
 
-Possible values for stat:
-| Index | Name |
+## stat Values:
+| Value | Name |
 | --- | --- |
 | 76 | None |
 | 77 | Longest Wheelie Dist |
@@ -49,10 +48,10 @@ Possible values for stat:
 | 107 | Dist Wallride |
 
 
-Possible values for policy:
-| Index | Name |
+## policy Values:
+| Value | Name |
 | --- | --- |
 | 1 | Sum |
 | 2 | Greatest |
 | 3 | Lowest |
-```
+

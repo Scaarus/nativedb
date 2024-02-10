@@ -9,6 +9,5 @@ aliases: ["0xdf47fc56c71569cf"]
 void SET_PAUSE_MENU_ACTIVE(bool Active);
 ```
 
-```
 disables the pause menu per frame - false to disable the pause menu. Deprecated - please use DISABLE_FRONTEND_THIS_FRAME instead
-```
+

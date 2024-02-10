@@ -9,6 +9,5 @@ aliases: ["0x5b50abb1fe3746f4"]
 bool HAS_LOADED_SP_DATA_SET();
 ```
 
-```
 Query whether the audio has loaded the SP data set
-```
+

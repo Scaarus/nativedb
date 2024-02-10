@@ -9,11 +9,10 @@ aliases: ["0x29de5fa52d00428c"]
 void START_PLAYBACK_RECORDED_VEHICLE_USING_AI(Vehicle vehicle, int FileNumber, string pRecordingName, float CruiseSpeed, int Mode);
 ```
 
-```
 Starts the playback using the vehicle AI
 
-Possible values for Mode:
-| Index | Name |
+## Mode Values:
+| Value | Name |
 | --- | --- |
 | 1 | F Stopforcars |
 | 2 | F Stopforpeds |
@@ -50,4 +49,4 @@ Possible values for Mode:
 
 
 The veghicle wil try and
-```
+

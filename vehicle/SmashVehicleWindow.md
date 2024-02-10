@@ -9,11 +9,10 @@ aliases: ["0x9e5b5e4d2ccd2259"]
 void SMASH_VEHICLE_WINDOW(Vehicle vehicle, int WindowNumber);
 ```
 
-```
 Smashes a vehicles window.
 
-Possible values for WindowNumber:
-| Index | Name |
+## WindowNumber Values:
+| Value | Name |
 | --- | --- |
 | 0 | Ow Front Left |
 | 66 | Ow Front Right |
@@ -26,4 +25,4 @@ Possible values for WindowNumber:
 
 
 SC_WINDOW_LIST is in commands_vehicle.sch
-```
+
