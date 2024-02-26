@@ -14,12 +14,12 @@ Rolls down a given vehicle window. NB - it only snaps the window down. Probably 
 ## WindowNumber Values:
 | Value | Name |
 | --- | --- |
-| 0 | Ow Front Left |
-| 66 | Ow Front Right |
-| 67 | Ow Rear Left |
-| 68 | Ow Rear Right |
-| 69 | Ow Middle Left |
-| 70 | Ow Middle Right |
-| 71 | Screen Front |
-| 72 | Screen Rear |
+| 0 | SC_WINDOW_FRONT_LEFT |
+| 1 | SC_WINDOW_FRONT_RIGHT |
+| 2 | SC_WINDOW_REAR_LEFT |
+| 3 | SC_WINDOW_REAR_RIGHT |
+| 4 | SC_WINDOW_MIDDLE_LEFT |
+| 5 | SC_WINDOW_MIDDLE_RIGHT |
+| 6 | SC_WINDSCREEN_FRONT |
+| 7 | SC_WINDSCREEN_REAR |
 

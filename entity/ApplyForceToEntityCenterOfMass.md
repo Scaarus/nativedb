@@ -15,11 +15,11 @@ Apply a force to an entity.
 | Value | Name |
 | --- | --- |
 | 0 | Force |
-| 1 | Impulse Caution A Single Impact Applied At A Point In Time, Will Produce A Step Change In Velocity. If Applied Continuously Will Produce An Acceleration That Is Dependant On Frame Rate And May Also Break The Physics Engine, I.E. Please Do |
-| 2 | External Force Same As A Normal Force But Applied As If It Was An External Push To The Object, Through The Breaking System. This Means That Breakable Objects Will Break Apart Due To The Force You'Re Applying. |
-| 3 | External Impulse Ditto, A Nomal Impulse Plus Breaking. |
-| 4 | Torque Angular Equivalent Of Force, Causes Continuous Angular Acceleration Independent Of Framerate |
-| 5 | Angular Impulse Angular Equivalent Of Impulse, Causes Instantaneous Change In Angular Velocity |
+| 1 | Impulse (Caution A Single Impact Applied At A Point In Time, Will Produce A Step Change In Velocity. If Applied Continuously Will Produce An Acceleration That Is Dependant On Frame Rate And May Also Break The Physics Engine, I.E. Please Do) |
+| 2 | External Force (Same As A Normal Force But Applied As If It Was An External Push To The Object, Through The Breaking System. This Means That Breakable Objects Will Break Apart Due To The Force You'Re Applying.) |
+| 3 | External Impulse (Ditto, A Nomal Impulse Plus Breaking.) |
+| 4 | Torque (Angular Equivalent Of Force, Causes Continuous Angular Acceleration Independent Of Framerate) |
+| 5 | Angular Impulse (Angular Equivalent Of Impulse, Causes Instantaneous Change In Angular Velocity) |
 
 
 APPLY_FORCE_TYPE see enum, doesn't accept APPLY_TYPE_EXTERNAL_FORCE Vector force to be applied

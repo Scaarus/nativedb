@@ -14,14 +14,13 @@ Sets the global zoom level used by all follow-vehicle and vehicle-aim cameras.
 ## ZoomLevel Values:
 | Value | Name |
 | --- | --- |
-| -1 | VEHICLE_ZOOM_LEVEL_BAD |
-| 50 | VEHICLE_ZOOM_LEVEL_NEAR |
-| 51 | VEHICLE_ZOOM_LEVEL_MEDIUM |
-| 52 | VEHICLE_ZOOM_LEVEL_FAR |
-| 53 | VEHICLE_ZOOM_LEVEL_CINEMATIC |
-| 54 | VEHICLE_ZOOM_LEVEL_BONNET |
-| 55 | NUM_VEHICLE_ZOOM_LEVELS |
+| -1 | Bad |
+| 0 | Near |
+| 1 | Medium |
+| 2 | Far |
+| 3 | Cinematic |
+| 4 | Bonnet |
 
 
-Deprecated! Please now use SET_FOLLOW_VEHICLE_CAM_VIEW_MODE
+Deprecated! Please now use [SET_FOLLOW_VEHICLE_CAM_VIEW_MODE](#_0xAC253D7842768F48)
 

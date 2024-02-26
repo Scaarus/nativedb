@@ -139,7 +139,7 @@ Sets the given ped config flag bit
 | 122 | Disable Melee |
 | 123 | Disable Unarmed Drivebys |
 | 124 | Just Gets Pulled Out When Electrocuted |
-| 125 | Unused  Replace  Me |
+| 125 | Unused Replace Me |
 | 126 | Will Not Hotwire Law Enforcement Vehicle |
 | 127 | Will Commandeer Rather Than Jack |
 | 128 | Can Be Agitated |
@@ -216,10 +216,10 @@ Sets the given ped config flag bit
 | 199 | Dont Activate Ragdoll On Vehicle Collision When Dead |
 | 200 | Has Been In Armed Combat |
 | 201 | Use Diminishing Ammo Rate |
-| 202 | Avoidance  Ignore  All |
-| 203 | Avoidance  Ignored By  All |
-| 204 | Avoidance  Ignore  Group1 |
-| 205 | Avoidance  Member Of  Group1 |
+| 202 | Avoidance Ignore All |
+| 203 | Avoidance Ignored By All |
+| 204 | Avoidance Ignore Group1 |
+| 205 | Avoidance Member Of Group1 |
 | 206 | Forced To Use Specific Group Seat Index |
 | 207 | Low Physics Lod May Place On Nav Mesh |
 | 208 | Disable Explosion Reactions |
@@ -283,7 +283,7 @@ Sets the given ped config flag bit
 | 266 | Allow Player Lock On If Friendly |
 | 267 | Use Camera Heading For Desired Direction Lock On Test |
 | 268 | Teleport To Leader Vehicle |
-| 269 | Avoidance  Ignore  Weird Ped Buffer |
+| 269 | Avoidance Ignore Weird Ped Buffer |
 | 270 | On Stair Slope |
 | 271 | Has Played Nmgetup |
 | 272 | Dont Blip Cop |
@@ -404,7 +404,7 @@ Sets the given ped config flag bit
 | 387 | Switching Characters In First Person |
 | 388 | Is Climbing Ladder |
 | 389 | Has Bare Feet |
-| 390 | Unused  Replace  Me 2 |
+| 390 | Unused Replace Me 2 |
 | 391 | Go On Without Vehicle If It Is Unable To Get Back To Road |
 | 392 | Block Dropping Health Snacks On Death |
 | 393 | Reset Last Vehicle On Vehicle Exit |

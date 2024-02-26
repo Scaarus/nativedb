@@ -15,13 +15,13 @@ Sets color 2 to a mod color on the specified vehicle. More...
 | Value | Name |
 | --- | --- |
 | 0 | Metallic |
-| 277 | Classic |
-| 278 | Pearlescent |
-| 279 | Matte |
-| 280 | Metals |
-| 281 | Chrome |
-| 282 | Chameleon |
-| 283 | None If This Is Set, The Vehicle Doesn'T Use Mod Colors, It Uses The Regular Color System |
+| 1 | Classic |
+| 2 | Pearlescent |
+| 3 | Matte |
+| 4 | Metals |
+| 5 | Chrome |
+| 6 | Chameleon |
+| 7 | None (If This Is Set, The Vehicle Doesn'T Use Mod Colors, It Uses The Regular Color System) |
 
 
 specColIndex only applies to MCT_PEARLESCENT

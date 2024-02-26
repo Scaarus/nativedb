@@ -11,5 +11,5 @@ void SET_ROADS_BACK_TO_ORIGINAL(Vector3 PositionMin, Vector3 PositionMax, bool N
 
 Sets all vehicle nodes back to their original state. (as per the map data).
 
-It is not cool to call a SET_ROADS_IN_AREA(true) to undo a SET_ROADS_IN_AREA(false) because the nodes that were originally off would now be on.
+It is not cool to call a [SET_ROADS_IN_AREA](#_0xBF1A602B5BA52FEE)(true) to undo a SET_ROADS_IN_AREA(false) because the nodes that were originally off would now be on.
 

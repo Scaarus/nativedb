@@ -20,5 +20,4 @@ Gets the game play cams rotation.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 

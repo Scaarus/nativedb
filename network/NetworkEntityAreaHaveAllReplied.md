@@ -9,5 +9,5 @@ aliases: ["0x4df7cfff471a7fb1"]
 bool NETWORK_ENTITY_AREA_HAVE_ALL_REPLIED(int areaID);
 ```
 
-Checks if all players have replied to say whether this area is occupied or not The areaID is the ID returned by NETWORK_ADD_ENTITY_AREA
+Checks if all players have replied to say whether this area is occupied or not The areaID is the ID returned by [NETWORK_ADD_ENTITY_AREA](#_0x494C8FB299290269)
 

@@ -6,7 +6,7 @@ aliases: ["0xc3287ee3050fb74c"]
 
 ```c
 // 0xC3287EE3050FB74C
-weapon_group GET_WEAPONTYPE_GROUP(Hash weaponHash);
+int GET_WEAPONTYPE_GROUP(Hash weaponHash);
 ```
 
 Return which group this weapon type is placed in
@@ -15,23 +15,23 @@ Return which group this weapon type is placed in
 | Value | Name |
 | --- | --- |
 | 0 | Invalid |
-| 948 | Melee |
-| 949 | Pistol |
-| 950 | Smg |
-| 951 | Rifle |
-| 952 | Mg |
-| 953 | Shotgun |
-| 954 | Sniper |
-| 955 | Heavy |
-| 956 | Thrown |
-| 957 | Rubbergun |
-| 958 | Stungun |
-| 959 | Fireextinguisher |
-| 960 | Petrolcan |
-| 961 | Loudhailer |
-| 962 | Digiscanner |
-| 963 | Nightvision |
-| 964 | Parachute |
-| 965 | Jetpack |
-| 966 | Metaldetector |
+| 1 | Melee |
+| 2 | Pistol |
+| 3 | Smg |
+| 4 | Rifle |
+| 5 | Mg |
+| 6 | Shotgun |
+| 7 | Sniper |
+| 8 | Heavy |
+| 9 | Thrown |
+| 10 | Rubbergun |
+| 11 | Stungun |
+| 12 | Fireextinguisher |
+| 13 | Petrolcan |
+| 14 | Loudhailer |
+| 15 | Digiscanner |
+| 16 | Nightvision |
+| 17 | Parachute |
+| 18 | Jetpack |
+| 19 | Metaldetector |
 

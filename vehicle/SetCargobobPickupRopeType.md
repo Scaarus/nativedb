@@ -14,6 +14,6 @@ Set what kind of pick-up rope gadget the cargobob will have when deployed.
 ## type Values:
 | Value | Name |
 | --- | --- |
-| 309 | Hook |
-| 310 | Magnet |
+| 0 | Hook |
+| 1 | Magnet |
 

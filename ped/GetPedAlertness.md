@@ -6,7 +6,7 @@ aliases: ["0xf6aa118530443fd2"]
 
 ```c
 // 0xF6AA118530443FD2
-alertness_state GET_PED_ALERTNESS(Ped ped);
+int GET_PED_ALERTNESS(Ped ped);
 ```
 
 Gets a peds alertness state (returns -1 if invalid)

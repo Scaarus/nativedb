@@ -11,7 +11,7 @@ void SET_NOISINESSOVERIDE(float value);
 
 Set the amount of noise filter applied.
 
-Won't do anything unless noise overide has been turned on : SET_NOISEOVERIDE(TRUE).
+Won't do anything unless noise overide has been turned on : [SET_NOISEOVERIDE](#_0xE787BF1C5CF823C9)(TRUE).
 
 
 ## Parameters

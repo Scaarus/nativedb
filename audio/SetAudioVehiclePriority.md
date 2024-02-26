@@ -14,8 +14,7 @@ Sets the priority for the given vehicle. This is a hint for the audio system as 
 ## priority Values:
 | Value | Name |
 | --- | --- |
-| 153 | Normal |
-| 154 | Medium |
-| 155 | High |
-| 156 | Max |
+| 0 | Normal |
+| 1 | Medium |
+| 2 | High |
 

@@ -8,3 +8,6 @@ aliases: ["0x86e0660e4f5c956d"]
 // 0x86E0660E4F5C956D
 void NETWORK_CLEAR_GET_GAMER_STATUS();
 ```
+
+Gamer status
+

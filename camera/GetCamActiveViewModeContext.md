@@ -6,21 +6,20 @@ aliases: ["0x19cafa3c87f7c2ff"]
 
 ```c
 // 0x19CAFA3C87F7C2FF
-cam_view_mode_context GET_CAM_ACTIVE_VIEW_MODE_CONTEXT();
+int GET_CAM_ACTIVE_VIEW_MODE_CONTEXT();
 ```
 
-Returns the view mode context for the active gameplay camera. This may then be used with commands such as GET_CAM_VIEW_MODE_FOR_CONTEXT and SET_CAM_VIEW_MODE_FOR_CONTEXT. See CAM_VIEW_MODE_CONTEXT enumeration.
+Returns the view mode context for the active gameplay camera. This may then be used with commands such as [GET_CAM_VIEW_MODE_FOR_CONTEXT](#_0xEE778F8C7E1142E2) and [SET_CAM_VIEW_MODE_FOR_CONTEXT](#_0x2A2173E46DAECD12). See CAM_VIEW_MODE_CONTEXT enumeration.
 
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 0 | CAM_VIEW_MODE_CONTEXT_ON_FOOT |
-| 30 | CAM_VIEW_MODE_CONTEXT_IN_VEHICLE |
-| 31 | CAM_VIEW_MODE_CONTEXT_ON_BIKE |
-| 32 | CAM_VIEW_MODE_CONTEXT_IN_BOAT |
-| 33 | CAM_VIEW_MODE_CONTEXT_IN_AIRCRAFT |
-| 34 | CAM_VIEW_MODE_CONTEXT_IN_SUBMARINE |
-| 35 | CAM_VIEW_MODE_CONTEXT_IN_HELI |
-| 36 | CAM_VIEW_MODE_CONTEXT_IN_TURRET |
-| 37 | NUM_CAM_VIEW_MODE_CONTEXTS |
+| 0 | On Foot |
+| 1 | In Vehicle |
+| 2 | On Bike |
+| 3 | In Boat |
+| 4 | In Aircraft |
+| 5 | In Submarine |
+| 6 | In Heli |
+| 7 | In Turret |
 

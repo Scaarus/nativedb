@@ -6,7 +6,7 @@ aliases: ["0xcbad6729f7b1f4fc"]
 
 ```c
 // 0xCBAD6729F7B1F4FC
-elevelindex GET_INDEX_OF_CURRENT_LEVEL();
+int GET_INDEX_OF_CURRENT_LEVEL();
 ```
 
 Returns the index of the currently loaded level.
@@ -14,14 +14,14 @@ Returns the index of the currently loaded level.
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
+| 0 | Testbed |
 | 1 | Gta5 |
-| 69 | Testbed |
-| 70 | Vfx Test |
-| 71 | Nm Test |
-| 72 | Net Test |
-| 73 | Anim Test |
-| 74 | Cp Testbed |
-| 75 | Tools Test |
-| 76 | Waterbed |
-| 77 | Gfx Test |
+| 2 | Vfx Test |
+| 3 | Nm Test |
+| 4 | Net Test |
+| 5 | Anim Test |
+| 6 | Cp Testbed |
+| 7 | Tools Test |
+| 8 | Waterbed |
+| 9 | Gfx Test |
 

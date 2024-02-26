@@ -6,7 +6,7 @@ aliases: ["0x316db59cd14c1774"]
 
 ```c
 // 0x316DB59CD14C1774
-void PLAYSTATS_BUSINESS_BATTLE_ENDED(struct_business_battle_ended data);
+void PLAYSTATS_BUSINESS_BATTLE_ENDED(Any* data);
 ```
 
 Telemetry for Business battle ended

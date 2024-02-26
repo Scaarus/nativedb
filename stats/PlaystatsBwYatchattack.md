@@ -6,5 +6,5 @@ aliases: ["0xd1a1ee3b4fa8e760"]
 
 ```c
 // 0xD1A1EE3B4FA8E760
-void PLAYSTATS_BW_YATCHATTACK(scrbwyatchattack data);
+void PLAYSTATS_BW_YATCHATTACK(Any* data);
 ```

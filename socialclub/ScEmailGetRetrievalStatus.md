@@ -6,17 +6,17 @@ aliases: ["0x16da8172459434aa"]
 
 ```c
 // 0x16DA8172459434AA
-eemail_retrieval_status SC_EMAIL_GET_RETRIEVAL_STATUS();
+int SC_EMAIL_GET_RETRIEVAL_STATUS();
 ```
 
-Returns the retrieval status after SC_EMAIL_RETRIEVE_EMAILS has been called
+Returns the retrieval status after [SC_EMAIL_RETRIEVE_EMAILS](#_0x040ADDCBAFA1018A) has been called
 
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 17 | None |
-| 18 | Pending |
-| 19 | Failed |
-| 20 | Succeeded |
-| 21 | Cancelled |
+| 0 | None |
+| 1 | Pending |
+| 2 | Failed |
+| 3 | Succeeded |
+| 4 | Cancelled |
 

@@ -11,7 +11,3 @@ float UGC_GET_CONTENT_RATING(int nContentIndex, bool Xv);
 
 Access to rating information (FLOAT values from 0.0 to 1.0)
 
-
-## Parameters
-* **nContentIndex**: 
-* **Xv**: Determines whether the ratings are aggregated across all versions or just the latest version

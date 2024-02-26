@@ -34,9 +34,9 @@ void SWITCH_TO_MULTI_FIRSTPART(Ped ped, int flags, int type);
 | Value | Name |
 | --- | --- |
 | 0 | Auto |
-| 18 | Long |
-| 19 | Medium |
-| 20 | Short |
+| 1 | Long |
+| 2 | Medium |
+| 3 | Short |
 
 
 only use LONG switch here unless you've already checked the distance using GET_IDEAL_SWITCH_TYPE

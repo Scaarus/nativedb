@@ -12,9 +12,9 @@ bool CREATE_INCIDENT_WITH_ENTITY(Entity entity, int iNumUnits, float fTime, Inci
 ## assassinsLevel Values:
 | Value | Name |
 | --- | --- |
+| 0 | Med |
 | 1 | Low |
-| 56 | Med |
-| 57 | High |
+| 2 | High |
 
 
 - DISPATCH_TYPE is the type of units to be

@@ -6,7 +6,7 @@ aliases: ["0x48de78af2c8885b8"]
 
 ```c
 // 0x48DE78AF2C8885B8
-bool NETWORK_CLAN_GET_MEMBERSHIP_DESC(network_clan_desc memberInfo, int membershipIndex);
+bool NETWORK_CLAN_GET_MEMBERSHIP_DESC(Any* memberInfo, int membershipIndex);
 ```
 
 Get the CREW memberships description for the local gamer.

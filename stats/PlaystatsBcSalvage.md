@@ -6,8 +6,5 @@ aliases: ["0x7d36291161859389"]
 
 ```c
 // 0x7D36291161859389
-void PLAYSTATS_BC_SALVAGE(scrbcsalvage data);
+void PLAYSTATS_BC_SALVAGE(Any* data);
 ```
-
-Send metric for Boss challenge Salvage
-

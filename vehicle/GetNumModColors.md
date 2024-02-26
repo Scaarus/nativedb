@@ -15,13 +15,13 @@ Returns the number of available color for a specific color type. More...
 | Value | Name |
 | --- | --- |
 | 0 | Metallic |
-| 277 | Classic |
-| 278 | Pearlescent |
-| 279 | Matte |
-| 280 | Metals |
-| 281 | Chrome |
-| 282 | Chameleon |
-| 283 | None If This Is Set, The Vehicle Doesn'T Use Mod Colors, It Uses The Regular Color System |
+| 1 | Classic |
+| 2 | Pearlescent |
+| 3 | Matte |
+| 4 | Metals |
+| 5 | Chrome |
+| 6 | Chameleon |
+| 7 | None (If This Is Set, The Vehicle Doesn'T Use Mod Colors, It Uses The Regular Color System) |
 
 
 If base is false it willr eturn the index of the specular color index. This only applies for MCT_PEARLESCENT, the rest have only one index

@@ -6,5 +6,5 @@ aliases: ["0xfcc228e07217fcac"]
 
 ```c
 // 0xFCC228E07217FCAC
-void PLAYSTATS_BW_SIGHTSEER(scrbwsightseer data);
+void PLAYSTATS_BW_SIGHTSEER(Any* data);
 ```

@@ -9,5 +9,5 @@ aliases: ["0x308f96458b7087cc"]
 int UGC_TEXTURE_DOWNLOAD_REQUEST(int nFileID, int nFileVersion, int nLanguage, string textureName, bool useCacheWithoutCloudChecks);
 ```
 
-Variant of TEXTURE_DOWNLOAD_REQUEST that uses UGC namespace. Same comments apply
+Variant of [TEXTURE_DOWNLOAD_REQUEST](#_0x16160DA74A8E74A2) that uses UGC namespace. Same comments apply
 

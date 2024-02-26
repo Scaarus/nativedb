@@ -15,6 +15,6 @@ set player targeting level (e.g. to increase/lower remote player target threat.
 | Value | Name |
 | --- | --- |
 | 0 | Everyone |
-| 65 | Strangers |
-| 66 | Attackers |
+| 1 | Strangers |
+| 2 | Attackers |
 

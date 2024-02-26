@@ -9,5 +9,5 @@ aliases: ["0x33a8f7f7d5f7f33c"]
 void SET_PED_HEARING_RANGE(Ped ped, float HearingRange);
 ```
 
-This command sets how far a ped can hear. More info in wiki.
+This command sets how far a ped can hear. in wiki.
 

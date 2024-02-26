@@ -15,5 +15,5 @@ Sets a sequence to repeat.
 | Value | Name |
 | --- | --- |
 | 0 | Not |
-| 8 | Forever |
+| 1 | Forever |
 

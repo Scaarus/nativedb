@@ -12,11 +12,10 @@ void END_TEXT_COMMAND_DISPLAY_HELP(int iHelpId, bool DisplayForever, bool PlaySo
 ## iHelpId Values:
 | Value | Name |
 | --- | --- |
-| 0 | HELP_TEXT_SLOT_STANDARD |
-| 1193 | HELP_TEXT_SLOT_FLOATING_1 |
-| 1194 | HELP_TEXT_SLOT_FLOATING_2 |
-| 1195 | HELP_TEXT_SLOT_FLOATING_3 |
-| 1196 | MAX_HELP_TEXT_SLOTS |
+| 0 | Standard |
+| 1 | Floating 1 |
+| 2 | Floating 2 |
+| 3 | Floating 3 |
 
 
 You can specify an OverrideDuration in milliseconds. Use the default of -1 to use the standard time which is based on the number of words

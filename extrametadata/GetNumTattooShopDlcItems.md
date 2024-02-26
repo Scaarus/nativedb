@@ -11,11 +11,13 @@ int GET_NUM_TATTOO_SHOP_DLC_ITEMS(int tattoo_faction);
 
 Gets the number of extra tattoo shop items for a given faction
 
+Keep in sync with code in commands_extrametadata.cpp
+
 ## tattoo_faction Values:
 | Value | Name |
 | --- | --- |
 | 0 | Sp Michael |
-| 17 | Sp Franklin |
-| 18 | Sp Trevor |
-| 19 | Mp Fm |
+| 1 | Sp Franklin |
+| 2 | Sp Trevor |
+| 3 | Mp Fm |
 

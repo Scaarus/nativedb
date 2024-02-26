@@ -10,5 +10,6 @@ void RESET_PARTICLE_FX_OVERRIDE(string ptFxToOverride);
 ```
 
 Removes a particle effect override
+
 Removes the override set up for ptFxToOverride
 

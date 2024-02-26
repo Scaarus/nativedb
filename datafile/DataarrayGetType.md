@@ -6,7 +6,7 @@ aliases: ["0x3a0014adb172a3c5"]
 
 ```c
 // 0x3A0014ADB172A3C5
-datafile_type DATAARRAY_GET_TYPE(Any* arr, int index);
+int DATAARRAY_GET_TYPE(Any* arr, int index);
 ```
 
 Gets the type of value stored a the specified index in an array
@@ -23,7 +23,3 @@ Gets the type of value stored a the specified index in an array
 | 6 | Dict |
 | 7 | Array |
 
-
-## Parameters
-* **arr**: The array
-* **index**: The index into the array

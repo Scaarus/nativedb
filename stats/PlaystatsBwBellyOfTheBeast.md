@@ -6,5 +6,5 @@ aliases: ["0xa6f54bb2ffca35ea"]
 
 ```c
 // 0xA6F54BB2FFCA35EA
-void PLAYSTATS_BW_BELLY_OF_THE_BEAST(scrbwbellyofthebeast data);
+void PLAYSTATS_BW_BELLY_OF_THE_BEAST(Any* data);
 ```

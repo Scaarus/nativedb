@@ -14,5 +14,5 @@ Default behaviour is to never save during a jobactivity. We can use this comamnd
 ## save Values:
 | Value | Name |
 | --- | --- |
-| 38 |  |
+| 0 | Stat Savetype Default |
 

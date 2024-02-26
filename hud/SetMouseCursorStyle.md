@@ -14,16 +14,16 @@ sets the style of the mouse pointer
 ## style Values:
 | Value | Name |
 | --- | --- |
+| 0 | Arrow Dimmed |
 | 1 | Arrow |
-| 862 | Arrow Dimmed |
-| 863 | Hand Open |
-| 864 | Hand Grab |
-| 865 | Hand Middle Finger |
-| 866 | Arrow Left |
-| 867 | Arrow Right |
-| 868 | Arrow Up |
-| 869 | Arrow Down |
-| 870 | Arrow Trimming |
-| 871 | Arrow Plus |
-| 872 | Arrow Minus |
+| 2 | Hand Open |
+| 3 | Hand Grab |
+| 4 | Hand Middle Finger |
+| 5 | Arrow Left |
+| 6 | Arrow Right |
+| 7 | Arrow Up |
+| 8 | Arrow Down |
+| 9 | Arrow Trimming |
+| 10 | Arrow Plus |
+| 11 | Arrow Minus |
 

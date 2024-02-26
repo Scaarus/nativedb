@@ -9,13 +9,13 @@ aliases: ["0x5f2013f8bc24ee69"]
 void SET_PLAYER_SHORT_SWITCH_STYLE(int style);
 ```
 
-must be called AFTER START_PLAYER_SWITCH, overrides the style the short range player switch will use
+must be called AFTER [START_PLAYER_SWITCH](#_0xFAA23F2CBA159D67), overrides the style the short range player switch will use
 
 ## style Values:
 | Value | Name |
 | --- | --- |
 | 0 | Rotation |
-| 15 | Translation |
-| 16 | Zoom To Head |
-| 17 | Zoom In Out |
+| 1 | Translation |
+| 2 | Zoom To Head |
+| 3 | Zoom In Out |
 

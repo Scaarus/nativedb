@@ -6,7 +6,7 @@ aliases: ["0x899ba936634a322e"]
 
 ```c
 // 0x899BA936634A322E
-ray_fire_map_object_state GET_STATE_OF_RAYFIRE_MAP_OBJECT(Rayfire rayfire);
+int GET_STATE_OF_RAYFIRE_MAP_OBJECT(Rayfire rayfire);
 ```
 
 Get the state of the rayfire map object.

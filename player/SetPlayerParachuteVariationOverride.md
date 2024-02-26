@@ -13,17 +13,17 @@ void SET_PLAYER_PARACHUTE_VARIATION_OVERRIDE(Player player, int ComponentNumber,
 | Value | Name |
 | --- | --- |
 | 0 | Head |
-| 139 | Berd |
-| 140 | Hair |
-| 141 | Torso |
-| 142 | Leg |
-| 143 | Hand |
-| 144 | Feet |
-| 145 | Teeth |
-| 146 | Special Pv Comp Accs |
-| 147 | Special2 Pv Comp Task |
-| 148 | Decl ? |
-| 149 | Jbib |
+| 1 | Berd |
+| 2 | Hair |
+| 3 | Torso |
+| 4 | Leg |
+| 5 | Hand |
+| 6 | Feet |
+| 7 | Teeth |
+| 8 | Special (Pv Comp Accs) |
+| 9 | Special2 (Pv Comp Task) |
+| 10 | Decl (?) |
+| 11 | Jbib |
 
 
 An override for parachute variation. Used to sync up script and code.

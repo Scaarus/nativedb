@@ -20,7 +20,6 @@ Task to start a move network of the type passed with custom start pos and orient
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 ## flags Values:

@@ -16,16 +16,15 @@ Returns whether the mouse pointer is currently rolled over the instructional but
 | --- | --- |
 | -1 | None |
 | 0 | Drag Out |
-| 873 | Drag Over |
-| 874 | Down |
-| 875 | Move |
-| 876 | Up |
-| 877 | Press |
-| 878 | Release |
-| 879 | Release Outside |
-| 880 | Roll Out |
-| 881 | Roll Over |
-| 882 | Max |
+| 1 | Drag Over |
+| 2 | Down |
+| 3 | Move |
+| 4 | Up |
+| 5 | Press |
+| 6 | Release |
+| 7 | Release Outside |
+| 8 | Roll Out |
+| 9 | Roll Over |
 
 
 iScaleformMovieId -- The scaleform movie id to check for mouse events evtType -- Type of mouse event that occurs (This will be written to if TRUE is returned) iUID -- Unique ID for the item that triggered the mouse event (This will be written to if TRUE is returned) iContext -- The context that this item occured. This can be a column index, submenu, etc. (This will be written to if TRUE is returned)

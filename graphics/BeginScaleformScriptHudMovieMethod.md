@@ -13,26 +13,26 @@ bool BEGIN_SCALEFORM_SCRIPT_HUD_MOVIE_METHOD(int iScriptHudId, string cMethodNam
 | Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |
-| 20 | Drugs Purse 02 |
-| 21 | Drugs Purse 03 |
-| 22 | Drugs Purse 04 |
-| 23 | Mp Tag Cash From Bank |
-| 24 | Mp Tag Packages |
-| 25 | Mp Tag Cuff Keys |
-| 26 | Mp Tag Download Data |
-| 27 | Mp Tag If Ped Following |
-| 28 | Mp Tag Key Card |
-| 29 | Mp Tag Random Object |
-| 30 | Mp Tag Remote Control |
-| 31 | Mp Tag Cash From Safe |
-| 32 | Mp Tag Weapons Package |
-| 33 | Mp Tag Keys |
-| 34 | Mp Vehicle |
-| 35 | Mp Vehicle Heli |
-| 36 | Mp Vehicle Plane |
-| 37 | Player Switch Alert |
-| 38 | Mp Rank Bar |
-| 39 | Director Mode |
+| 1 | Drugs Purse 02 |
+| 2 | Drugs Purse 03 |
+| 3 | Drugs Purse 04 |
+| 4 | Mp Tag Cash From Bank |
+| 5 | Mp Tag Packages |
+| 6 | Mp Tag Cuff Keys |
+| 7 | Mp Tag Download Data |
+| 8 | Mp Tag If Ped Following |
+| 9 | Mp Tag Key Card |
+| 10 | Mp Tag Random Object |
+| 11 | Mp Tag Remote Control |
+| 12 | Mp Tag Cash From Safe |
+| 13 | Mp Tag Weapons Package |
+| 14 | Mp Tag Keys |
+| 15 | Mp Vehicle |
+| 16 | Mp Vehicle Heli |
+| 17 | Mp Vehicle Plane |
+| 18 | Player Switch Alert |
+| 19 | Mp Rank Bar |
+| 20 | Director Mode |
 
 
 script hud component id, actionscript method name. Will return true if successul and false if not

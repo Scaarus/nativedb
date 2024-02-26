@@ -9,7 +9,7 @@ aliases: ["0xfb5045b7c42b75bf"]
 void SET_WEATHER_TYPE_OVERTIME_PERSIST(string NewWeather, float time);
 ```
 
-Sets the weather type overt time, once time has passed and the transition is done, it will behave like a SET_WEATHER_TYPE_NOW_PERSIST.
+Sets the weather type overt time, once time has passed and the transition is done, it will behave like a [SET_WEATHER_TYPE_NOW_PERSIST](#_0xED712CA327900C8A).
 
 time is the transition time, in seconds.
 

@@ -8,3 +8,6 @@ aliases: ["0x140e6a44870a11ce"]
 // 0x140E6A44870A11CE
 void NETWORK_CLEAR_OFFLINE_INVITE_PENDING();
 ```
+
+Offline pending invites query
+

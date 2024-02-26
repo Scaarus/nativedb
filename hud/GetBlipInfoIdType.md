@@ -6,7 +6,7 @@ aliases: ["0xbe9b0959ffd0779b"]
 
 ```c
 // 0xBE9B0959FFD0779B
-eradar_blip_type GET_BLIP_INFO_ID_TYPE(Blip blip);
+int GET_BLIP_INFO_ID_TYPE(Blip blip);
 ```
 
 Report if seen
@@ -15,15 +15,15 @@ Report if seen
 | Value | Name |
 | --- | --- |
 | 0 | Unused |
-| 977 | Vehicle |
-| 978 | Char |
-| 979 | Object |
-| 980 | Coords |
-| 981 | Contact |
-| 982 | Pickup |
-| 983 | Radius |
-| 984 | Weapon Pickup |
-| 985 | Cop |
-| 986 | Stealth |
-| 987 | Area |
+| 1 | Vehicle |
+| 2 | Char |
+| 3 | Object |
+| 4 | Coords |
+| 5 | Contact |
+| 6 | Pickup |
+| 7 | Radius |
+| 8 | Weapon Pickup |
+| 9 | Cop |
+| 10 | Stealth |
+| 11 | Area |
 

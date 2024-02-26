@@ -6,7 +6,7 @@ aliases: ["0x470555300d10b2a5"]
 
 ```c
 // 0x470555300D10B2A5
-switch_state GET_PLAYER_SWITCH_STATE();
+int GET_PLAYER_SWITCH_STATE();
 ```
 
 returns current state of player switch, as per enum SWITCH_STATE

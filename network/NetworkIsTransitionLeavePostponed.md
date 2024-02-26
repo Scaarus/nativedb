@@ -8,3 +8,6 @@ aliases: ["0xc571d0e77d8bbc29"]
 // 0xC571D0E77D8BBC29
 bool NETWORK_IS_TRANSITION_LEAVE_POSTPONED();
 ```
+
+Transition session queries
+

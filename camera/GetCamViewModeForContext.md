@@ -6,7 +6,7 @@ aliases: ["0xee778f8c7e1142e2"]
 
 ```c
 // 0xEE778F8C7E1142E2
-cam_view_mode GET_CAM_VIEW_MODE_FOR_CONTEXT(int Context);
+int GET_CAM_VIEW_MODE_FOR_CONTEXT(int Context);
 ```
 
 Gets the camera view mode for the specified context.
@@ -14,27 +14,24 @@ Gets the camera view mode for the specified context.
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 0 | CAM_VIEW_MODE_THIRD_PERSON_NEAR |
-| 38 | CAM_VIEW_MODE_THIRD_PERSON_MEDIUM |
-| 39 | CAM_VIEW_MODE_THIRD_PERSON_FAR |
-| 40 | CAM_VIEW_MODE_CINEMATIC |
-| 41 | CAM_VIEW_MODE_FIRST_PERSON |
-| 42 | NUM_CAM_VIEW_MODES |
-| 43 | CAM_VIEW_MODE_THIRD_PERSON |
-
+| 0 | Third Person Near |
+| 1 | Third Person Medium |
+| 2 | Third Person Far |
+| 3 | Cinematic |
+| 4 | First Person |
+| 6 | Third Person |
 
 ## Context Values:
 | Value | Name |
 | --- | --- |
-| 0 | CAM_VIEW_MODE_CONTEXT_ON_FOOT |
-| 30 | CAM_VIEW_MODE_CONTEXT_IN_VEHICLE |
-| 31 | CAM_VIEW_MODE_CONTEXT_ON_BIKE |
-| 32 | CAM_VIEW_MODE_CONTEXT_IN_BOAT |
-| 33 | CAM_VIEW_MODE_CONTEXT_IN_AIRCRAFT |
-| 34 | CAM_VIEW_MODE_CONTEXT_IN_SUBMARINE |
-| 35 | CAM_VIEW_MODE_CONTEXT_IN_HELI |
-| 36 | CAM_VIEW_MODE_CONTEXT_IN_TURRET |
-| 37 | NUM_CAM_VIEW_MODE_CONTEXTS |
+| 0 | On Foot |
+| 1 | In Vehicle |
+| 2 | On Bike |
+| 3 | In Boat |
+| 4 | In Aircraft |
+| 5 | In Submarine |
+| 6 | In Heli |
+| 7 | In Turret |
 
 
 ## Parameters

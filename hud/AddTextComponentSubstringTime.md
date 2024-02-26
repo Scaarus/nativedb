@@ -14,16 +14,16 @@ Takes a time in milliseconds and converts it to a string. Use ~a~ to mark the po
 ## TimeFormat Values:
 | Value | Name |
 | --- | --- |
-| 1 | Ime Format Milliseconds |
-| 2 | Ime Format Seconds |
-| 4 | Ime Format Minutes |
-| 8 | Ime Format Hours |
-| 16 | Ime Format Days |
-| 32 | Ext Format Hide Leading Units Equal To Zero |
-| 64 | Ext Format Hide Leading Zeros On Leading Units |
-| 128 | Ext Format Show Unit Dividers As Letters |
-| 256 | Ext Format Hide Unit Letter For Smallest Units |
-| 512 | Ext Format Hide Milliseconds Units Digit |
-| 1024 | Ext Format Hide Milliseconds Tens Digit |
-| 2048 | Ext Format Use Dot For Millisecond Divider |
+| 1 | TIME_FORMAT_MILLISECONDS |
+| 2 | TIME_FORMAT_SECONDS |
+| 4 | TIME_FORMAT_MINUTES |
+| 8 | TIME_FORMAT_HOURS |
+| 16 | TIME_FORMAT_DAYS |
+| 32 | TEXT_FORMAT_HIDE_LEADING_UNITS_EQUAL_TO_ZERO |
+| 64 | TEXT_FORMAT_HIDE_LEADING_ZEROS_ON_LEADING_UNITS |
+| 128 | TEXT_FORMAT_SHOW_UNIT_DIVIDERS_AS_LETTERS |
+| 256 | TEXT_FORMAT_HIDE_UNIT_LETTER_FOR_SMALLEST_UNITS |
+| 512 | TEXT_FORMAT_HIDE_MILLISECONDS_UNITS_DIGIT |
+| 1024 | TEXT_FORMAT_HIDE_MILLISECONDS_TENS_DIGIT |
+| 2048 | TEXT_FORMAT_USE_DOT_FOR_MILLISECOND_DIVIDER |
 

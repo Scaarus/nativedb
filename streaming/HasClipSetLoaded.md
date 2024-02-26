@@ -11,5 +11,5 @@ bool HAS_CLIP_SET_LOADED(string animSetName);
 
 Return if an clip set is in memory.
 
-See the notes for REQUEST_CLIP_SET above
+See the notes for [REQUEST_CLIP_SET](#_0xD2A71E1A77418A49) above
 

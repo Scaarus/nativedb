@@ -13,5 +13,5 @@ Checks if an area is ocupied by an entity/entities..
 
 ExludedEntityIndex (Optional) allows for an entity that is ignored by the area check. bCheckAlive will only look for living peds if true
 
-Only cosinder using this if IS_AREA_OCCUPIED is not working properly. This version is more expensive, but should be more accurate.
+Only cosinder using this if [IS_AREA_OCCUPIED](#_0xA61B4DF533DCB56E) is not working properly. This version is more expensive, but should be more accurate.
 

@@ -9,7 +9,7 @@ aliases: ["0x5cae833b0ee0c500"]
 bool UGC_LOAD_OFFLINE_QUERY(int nCategory);
 ```
 
-Offline query data loading
+Offline query data loading 
 
 ## nCategory Values:
 | Value | Name |

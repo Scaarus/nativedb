@@ -15,39 +15,39 @@ Gives the vehicle a temporary action.
 | Value | Name |
 | --- | --- |
 | 0 | None |
-| 150 | Wait |
-| 151 | Emptytobereused |
-| 152 | Reverse |
-| 153 | Handbraketurnleft |
-| 154 | Handbraketurnright |
-| 155 | Handbrakestraight |
-| 156 | Turnleft |
-| 157 | Turnright |
-| 158 | Goforward |
-| 159 | Swerveleft |
-| 160 | Swerveright |
-| 161 | Emptytobereused2 |
-| 162 | Reverse Left |
-| 163 | Reverse Right |
-| 164 | Plane Fly Up |
-| 165 | Plane Fly Straight |
-| 166 | Plane Sharp Left |
-| 167 | Plane Sharp Right |
-| 168 | Headon Collision |
-| 169 | Swerveleft Stop |
-| 170 | Swerveright Stop |
-| 171 | Reverse Straight |
-| 172 | Boost Use Steering Angle |
-| 173 | Brake |
-| 174 | Handbraketurnleft Intelligent |
-| 175 | Handbraketurnright Intelligent |
-| 176 | Handbrakestraight Intelligent |
-| 177 | Reverse Straight Hard |
-| 178 | Emptytobereused3 |
-| 179 | Burnout |
-| 180 | Rev Engine |
-| 181 | Goforward Hard |
-| 182 | Surface Submarine |
+| 1 | Wait |
+| 2 | Emptytobereused |
+| 3 | Reverse |
+| 4 | Handbraketurnleft |
+| 5 | Handbraketurnright |
+| 6 | Handbrakestraight |
+| 7 | Turnleft |
+| 8 | Turnright |
+| 9 | Goforward |
+| 10 | Swerveleft |
+| 11 | Swerveright |
+| 12 | Emptytobereused2 |
+| 13 | Reverse Left |
+| 14 | Reverse Right |
+| 15 | Plane Fly Up |
+| 16 | Plane Fly Straight |
+| 17 | Plane Sharp Left |
+| 18 | Plane Sharp Right |
+| 19 | Headon Collision |
+| 20 | Swerveleft Stop |
+| 21 | Swerveright Stop |
+| 22 | Reverse Straight |
+| 23 | Boost Use Steering Angle |
+| 24 | Brake |
+| 25 | Handbraketurnleft Intelligent |
+| 26 | Handbraketurnright Intelligent |
+| 27 | Handbrakestraight Intelligent |
+| 28 | Reverse Straight Hard |
+| 29 | Emptytobereused3 |
+| 30 | Burnout |
+| 31 | Rev Engine |
+| 32 | Goforward Hard |
+| 33 | Surface Submarine |
 
 
 TEMPACTION is is commands_vehicle.sch

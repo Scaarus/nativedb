@@ -10,5 +10,6 @@ int GET_LOCAL_PLAYER_GAMEPAD_AIM_STATE();
 ```
 
 Returns current player aim state (sometimes GET_PROFILE_SETTINGS doesn't return the correct one if not saved)
+
 Will return the gamepad setting even if the player is playing on the keyboard and mouse.
 

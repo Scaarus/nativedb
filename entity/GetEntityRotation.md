@@ -20,7 +20,6 @@ Gets the rotation of an entity.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 The angles are between -180 and 180 not between 0 to 360

@@ -11,5 +11,5 @@ int SET_BINK_MOVIE(string MovieName);
 
 Allocates memory and loads the specified movie file.
 
-To display the movie, call PLAY_BINK_MOVIE every frame. Once you've finished with the movie, call RELEASE_BINK_MOVIE to free the memory.
+To display the movie, call [PLAY_BINK_MOVIE](#_0x70D2CC8A542A973C) every frame. Once you've finished with the movie, call [RELEASE_BINK_MOVIE](#_0x04D950EEFA4EED8C) to free the memory.
 

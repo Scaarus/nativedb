@@ -9,5 +9,5 @@ aliases: ["0x80fe4f3ab4e1b62a"]
 void THEFEED_CLEAR_FROZEN_POST();
 ```
 
-Clears any frozen posts caused by THEFEED_FREEZE_NEXT_POST
+Clears any frozen posts caused by [THEFEED_FREEZE_NEXT_POST](#_0xFDEC055AB549E328)
 

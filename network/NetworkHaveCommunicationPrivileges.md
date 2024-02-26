@@ -14,8 +14,8 @@ Returns true if the player has communication / voicechat privileges.
 ## nPrivilegeType Values:
 | Value | Name |
 | --- | --- |
-| 69 | Everyone |
-| 70 | Friends |
+| 0 | Everyone |
+| 1 | Friends |
 
 
 Privilege Check Type (One of PRIVILEGE_CHECK)

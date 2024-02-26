@@ -15,12 +15,12 @@ Sets scripted gfx draw order. The default setting is GFX_ORDER_AFTER_HUD
 | Value | Name |
 | --- | --- |
 | 0 | Before Hud Priority Low |
-| 5 | Before Hud Standard |
-| 6 | Before Hud Priority High |
-| 7 | After Hud Priority Low |
-| 8 | After Hud Standard |
-| 9 | After Hud Priority High |
-| 10 | After Fade Priority Low |
-| 11 | After Fade Standard |
-| 12 | After Fade Priority High |
+| 1 | Before Hud (Standard) |
+| 2 | Before Hud Priority High |
+| 3 | After Hud Priority Low |
+| 4 | After Hud (Standard) |
+| 5 | After Hud Priority High |
+| 6 | After Fade Priority Low |
+| 7 | After Fade (Standard) |
+| 8 | After Fade Priority High |
 

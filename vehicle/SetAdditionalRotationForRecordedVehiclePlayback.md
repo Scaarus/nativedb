@@ -20,7 +20,6 @@ Applies an additional rotation to a plane upon which a vehicle recording is curr
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 ## Parameters

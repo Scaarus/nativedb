@@ -14,11 +14,11 @@ Stop a certain group of peds from using a certain group of speech contexts. Note
 ## Target Values:
 | Value | Name |
 | --- | --- |
-| 8 | Player |
-| 9 | Npcs |
-| 10 | Buddys |
-| 11 | Everyone |
-| 12 | Targets Total |
+| 0 | Player |
+| 1 | Npcs |
+| 2 | Buddys |
+| 3 | Everyone |
+| 4 | Targets Total |
 
 
 ## Parameters

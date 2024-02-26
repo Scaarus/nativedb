@@ -6,7 +6,7 @@ aliases: ["0xd8afb345a9c5ccbb"]
 
 ```c
 // 0xD8AFB345A9C5CCBB
-void PLAYSTATS_FM_HEIST_PREP_ENDED(struct_fm_heist_prep_ended data);
+void PLAYSTATS_FM_HEIST_PREP_ENDED(Any* data);
 ```
 
 Telemetry for missions - called at the end.

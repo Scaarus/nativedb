@@ -13,7 +13,7 @@ void PLAY_TENNIS_DIVE_ANIM(Ped ped, int Direction, float DiveHorizontal, float D
 | Value | Name |
 | --- | --- |
 | 0 | Bh |
-| 88 | Fh |
+| 1 | Fh |
 
 
 Play tennis dive animation

@@ -6,7 +6,7 @@ aliases: ["0x4737980e8a283806"]
 
 ```c
 // 0x4737980E8A283806
-bool SC_EMAIL_GET_EMAIL_AT_INDEX(int index, scremail_data emailData);
+bool SC_EMAIL_GET_EMAIL_AT_INDEX(int index, Any* emailData);
 ```
 
 Returns the retrieved email at the given index

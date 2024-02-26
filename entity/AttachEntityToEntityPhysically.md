@@ -20,7 +20,6 @@ Attaches an entity to another entity using a physical attachment.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 Physical attachment using rage constraints - entities are still physically active in the world.

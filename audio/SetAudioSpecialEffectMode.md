@@ -14,7 +14,7 @@ Controls the global audio special effect mode
 ## mode Values:
 | Value | Name |
 | --- | --- |
-| 157 | Normal |
-| 158 | Underwater |
-| 159 | Stoned |
+| 0 | Normal |
+| 1 | Underwater |
+| 2 | Stoned |
 

@@ -6,7 +6,7 @@ aliases: ["0x031c55ed33227371"]
 
 ```c
 // 0x031C55ED33227371
-datafile_type DATADICT_GET_TYPE(Any* dict, string name);
+int DATADICT_GET_TYPE(Any* dict, string name);
 ```
 
 Gets the data type for the data corresponding to a name in the dictionary

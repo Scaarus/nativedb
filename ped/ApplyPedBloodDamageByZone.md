@@ -15,23 +15,23 @@ Applies new style ped blood damage on a ped by specifying a specific zone and di
 | Value | Name |
 | --- | --- |
 | 0 | Torso |
-| 160 | Head |
-| 161 | Left Arm |
-| 162 | Right Arm |
-| 163 | Left Leg |
-| 164 | Right Leg |
-| 165 | Medals |
-| 166 | Invalid |
+| 1 | Head |
+| 2 | Left Arm |
+| 3 | Right Arm |
+| 4 | Left Leg |
+| 5 | Right Leg |
+| 6 | Medals |
+| 7 | Invalid |
 
 
 ## type Values:
 | Value | Name |
 | --- | --- |
 | 0 | Bullet Small |
-| 167 | Bullet Large Larger Caliber Bullet Wound |
-| 168 | Shotgun Small Close Range Shotgun Splatter Wound? |
-| 169 | Shotgun Large Far Shotgun Splatter Wound |
-| 170 | Stab A Stab Style Wound (Streches Along The Suppolied Direction) |
+| 1 | Bullet Large (Larger Caliber Bullet Wound) |
+| 2 | Shotgun Small (Close Range Shotgun Splatter Wound?) |
+| 3 | Shotgun Large (Far Shotgun Splatter Wound) |
+| 4 | Stab (A Stab Style Wound (Streches Along The Suppolied Direction)) |
 
 
 you can use the widgets in "Peds/Ped Damage/Test Blood by UV" to test u,v values for different zones, etc

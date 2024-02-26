@@ -10,5 +10,6 @@ bool PED_HAS_USE_SCENARIO_TASK(Ped ped);
 ```
 
 Returns TRUE if the ped has the USE_SCENARIO task.
-Use IS_PED_ACTIVE_IN_SCENARIO to check if the ped is not doing intro/exit
+
+Use [IS_PED_ACTIVE_IN_SCENARIO](#_0xAA135F9482C82CC3) to check if the ped is not doing intro/exit
 

@@ -9,12 +9,17 @@ aliases: ["0xcae55f48d3d7875c"]
 void NETWORK_SESSION_ADD_ACTIVE_MATCHMAKING_GROUP(int nGroup);
 ```
 
+Functions to allow script to set the matchmaking group for the local player and the maximum number of players in each group
+
 ## nGroup Values:
 | Value | Name |
 | --- | --- |
-| 64 | Freemoder |
-| 65 | Cop |
-| 66 | Vagos |
-| 67 | Lost |
-| 68 | Sctv |
+| 0 | Freemoder |
+| 1 | Cop |
+| 2 | Vagos |
+| 3 | Lost |
+| 4 | Sctv |
 
+
+## Parameters
+* **nGroup**: One of MATCHMAKING_GROUP

@@ -8,3 +8,6 @@ aliases: ["0x62a0296c1bb1ceb3"]
 // 0x62A0296C1BB1CEB3
 bool NETWORK_REQUEST_INVITE_CONFIRMED_EVENT();
 ```
+
+Query pending invite
+

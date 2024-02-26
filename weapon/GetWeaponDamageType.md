@@ -6,7 +6,7 @@ aliases: ["0x3be0bb12d25fb305"]
 
 ```c
 // 0x3BE0BB12D25FB305
-damage_type GET_WEAPON_DAMAGE_TYPE(Hash weaponHash);
+int GET_WEAPON_DAMAGE_TYPE(Hash weaponHash);
 ```
 
 Get the weapon damage type
@@ -15,19 +15,19 @@ Get the weapon damage type
 | Value | Name |
 | --- | --- |
 | 0 | Unknown |
-| 1251 | None |
-| 1252 | Melee |
-| 1253 | Bullet |
-| 1254 | Bullet Rubber |
-| 1255 | Explosive |
-| 1256 | Fire |
-| 1257 | Collision |
-| 1258 | Fall |
-| 1259 | Drown |
-| 1260 | Electric |
-| 1261 | Barbed Wire |
-| 1262 | Fire Extinguisher |
-| 1263 | Smoke |
-| 1264 | Water Cannon |
-| 1265 | Tranquilizer |
+| 1 | None |
+| 2 | Melee |
+| 3 | Bullet |
+| 4 | Bullet Rubber |
+| 5 | Explosive |
+| 6 | Fire |
+| 7 | Collision |
+| 8 | Fall |
+| 9 | Drown |
+| 10 | Electric |
+| 11 | Barbed Wire |
+| 12 | Fire Extinguisher |
+| 13 | Smoke |
+| 14 | Water Cannon |
+| 15 | Tranquilizer |
 

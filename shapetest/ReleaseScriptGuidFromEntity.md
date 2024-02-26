@@ -9,5 +9,5 @@ aliases: ["0x2b3334bca57cd799"]
 void RELEASE_SCRIPT_GUID_FROM_ENTITY(Entity entity);
 ```
 
-GET_SHAPE_TEST_RESULT and GET_SHAPE_TEST_RESULT_INCLUDING_MATERIAL create a temporary script GUID for the EntityIndex that they return. Call this to free that script GUID. This command won't do anything if it's called on a script-created entity so you shouldn't need to check that yourself before calling this command.
+[GET_SHAPE_TEST_RESULT](#_0x3D87450E15D98694) and [GET_SHAPE_TEST_RESULT_INCLUDING_MATERIAL](#_0x65287525D951F6BE) create a temporary script GUID for the EntityIndex that they return. Call this to free that script GUID. This command won't do anything if it's called on a script-created entity so you shouldn't need to check that yourself before calling this command.
 

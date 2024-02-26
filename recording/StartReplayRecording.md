@@ -13,5 +13,5 @@ void START_REPLAY_RECORDING(int startParam);
 | Value | Name |
 | --- | --- |
 | 0 | Highlight |
-| 19 | Director |
+| 1 | Director |
 

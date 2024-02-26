@@ -20,6 +20,3 @@ Functions to allow script to set the matchmaking group for the local player and 
 | 67 | Lost |
 | 68 | Sctv |
 
-
-## Parameters
-* **nGroup**: One of MATCHMAKING_GROUP

@@ -19,4 +19,4 @@ Allows script to override the cop perception parameters. This affects all code-s
 * **fMinAzimuthAngle**: MIN horizontal field of view for the ped (doesn't affect rendered cone blip).
 * **fMaxAzimuthAngle**: MAX horizontal field of view for the ped (doesn't affect rendered cone blip).
 * **fCentreOfGazeMaxAngle**: Defines the central angle.
-* **fRearViewSeeingRangeOverride**: Override rear view mirror perception range (when in vehicle). Will use default range (fSeeingRange) if set to -1.0f. More info on all of these params in the wiki.
+* **fRearViewSeeingRangeOverride**: Override rear view mirror perception range (when in vehicle). Will use default range (fSeeingRange) if set to -1.0f. on all of these params in the wiki.

@@ -9,7 +9,7 @@ aliases: ["0x04d950eefa4eed8c"]
 void RELEASE_BINK_MOVIE(int MovieId);
 ```
 
-Frees the memory allocated to the movie. More info
+Frees the memory allocated to the movie.
 
-This command should be called when you are finished with a movie. It frees up the memory allocated by SET_BINK_MOVIE.
+This command should be called when you are finished with a movie. It frees up the memory allocated by [SET_BINK_MOVIE](#_0x338D9F609FD632DB).
 

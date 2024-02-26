@@ -11,5 +11,5 @@ void CLEAN_ITEMSET(Itemset itemset);
 
 Clean out any invalid items from the item set.
 
-Generally not needed if using the autoClean option with CREATE_ITEMSET.
+Generally not needed if using the autoClean option with [CREATE_ITEMSET](#_0x35AD299F50D91B24).
 

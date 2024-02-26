@@ -15,35 +15,35 @@ colourises parts of a players head tag
 | Value | Name |
 | --- | --- |
 | 0 | Gamer Name |
-| 913 | Crew Tag |
-| 914 | Health Bar |
-| 915 | Big Text |
-| 916 | Audio |
-| 917 | Using Menu |
-| 918 | Passive Mode |
-| 919 | Wanted Level |
-| 920 | Driver |
-| 921 | Co Driver |
-| 922 | Tagged |
-| 923 | Gamer Name Nearby |
-| 924 | Arrow |
-| 925 | Packages |
-| 926 | If Ped Following |
-| 927 | Rank |
-| 928 | Typing |
-| 929 | Package Large |
-| 930 | Trackify |
-| 931 | Gang Ceo |
-| 932 | Gang Biker |
-| 933 | Biker Arrow |
-| 934 | Mc Role President |
-| 935 | Mc Role Vice President |
-| 936 | Mc Role Road Captain |
-| 937 | Mc Role Sargeant |
-| 938 | Mc Role Enforcer |
-| 939 | Mc Role Prospect |
-| 940 | Transmitter |
-| 941 | Bomb |
+| 1 | Crew Tag |
+| 2 | Health Bar |
+| 3 | Big Text |
+| 4 | Audio |
+| 5 | Using Menu |
+| 6 | Passive Mode |
+| 7 | Wanted Level |
+| 8 | Driver |
+| 9 | Co Driver |
+| 10 | Tagged |
+| 11 | Gamer Name Nearby |
+| 12 | Arrow |
+| 13 | Packages |
+| 14 | If Ped Following |
+| 15 | Rank |
+| 16 | Typing |
+| 17 | Package Large |
+| 18 | Trackify |
+| 19 | Gang Ceo |
+| 20 | Gang Biker |
+| 21 | Biker Arrow |
+| 22 | Mc Role President |
+| 23 | Mc Role Vice President |
+| 24 | Mc Role Road Captain |
+| 25 | Mc Role Sargeant |
+| 26 | Mc Role Enforcer |
+| 27 | Mc Role Prospect |
+| 28 | Transmitter |
+| 29 | Bomb |
 
 
 ## hudColour Values:
@@ -177,7 +177,7 @@ colourises parts of a players head tag
 | 125 | Damage |
 | 126 | Pinklight |
 | 127 | Pm Mitem Highlight |
-| 128 | Script Variable Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command |
+| 128 | Script Variable (Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command) |
 | 129 | Yoga |
 | 130 | Tennis |
 | 131 | Golf |
@@ -214,7 +214,7 @@ colourises parts of a players head tag
 | 162 | Chop |
 | 163 | Pausemap Tint Half |
 | 164 | North Blue Official |
-| 165 | Script Variable 2 Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command |
+| 165 | Script Variable 2 (Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command) |
 | 166 | H |
 | 167 | Hdark |
 | 168 | T |

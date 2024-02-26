@@ -15,6 +15,6 @@ Used to test if the player has performed a WRECKLESS_TYPE. This will be valid ov
 | Value | Name |
 | --- | --- |
 | 0 | On Pavement |
-| 60 | Ran Red Light |
-| 61 | Drove Against Traffic |
+| 1 | Ran Red Light |
+| 2 | Drove Against Traffic |
 

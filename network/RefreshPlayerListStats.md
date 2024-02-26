@@ -14,11 +14,11 @@ Checks for when the playerlist changes, and triggers for the new stats to be gra
 ## type Values:
 | Value | Name |
 | --- | --- |
+| 0 | Joined |
+| 1 | Corona Players |
+| 2 | Invitable Session Players |
+| 3 | Matched Players |
+| 4 | Corona Playlist |
+| 5 | Directory |
 | 100 | Last Job |
-| 250 | Joined |
-| 251 | Corona Players |
-| 252 | Invitable Session Players |
-| 253 | Matched Players |
-| 254 | Corona Playlist |
-| 255 | Directory |
 

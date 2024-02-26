@@ -9,6 +9,6 @@ aliases: ["0x32888337579a5970"]
 void THEFEED_HIDE();
 ```
 
-Hide the feed until THEFEED_SHOW() is called
+Hide the feed until [THEFEED_SHOW](#_0x15CFA549788D35EF)() is called
 none
 

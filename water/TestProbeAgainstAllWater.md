@@ -6,7 +6,7 @@ aliases: ["0x8974647ed222ea5f"]
 
 ```c
 // 0x8974647ED222EA5F
-script_water_test_result TEST_PROBE_AGAINST_ALL_WATER(Vector3 StartPos, Vector3 EndPos, int BlockingFlags, Vector3 IntersectionPos);
+int TEST_PROBE_AGAINST_ALL_WATER(Vector3 StartPos, Vector3 EndPos, int BlockingFlags, Vector3 IntersectionPos);
 ```
 
 Test a directed probe against all water, including rivers

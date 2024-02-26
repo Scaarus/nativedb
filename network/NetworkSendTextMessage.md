@@ -6,7 +6,7 @@ aliases: ["0x3a214f2ec889b100"]
 
 ```c
 // 0x3A214F2EC889B100
-bool NETWORK_SEND_TEXT_MESSAGE(string szTextMessage, gamer_handle hGamer);
+bool NETWORK_SEND_TEXT_MESSAGE(string szTextMessage, Any* hGamer);
 ```
 
 Send an unencrypted text message to another player

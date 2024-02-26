@@ -15,7 +15,7 @@ sets the script widescreen format
 | Value | Name |
 | --- | --- |
 | 0 | Auto |
-| 859 | Centre Keep 4:3 Perspective Centred In 16:9 |
-| 860 | Left Keep 4:3 Perspective But Align To The Left In 16:9 |
-| 861 | Right Keep 4:3 Perspective But Align To The Right In 16:9 |
+| 1 | Centre (Keep 4:3 Perspective Centred In 16:9) |
+| 2 | Left (Keep 4:3 Perspective But Align To The Left In 16:9) |
+| 3 | Right (Keep 4:3 Perspective But Align To The Right In 16:9) |
 

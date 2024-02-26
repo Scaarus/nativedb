@@ -10,6 +10,7 @@ void PAUSE_MENU_REDRAW_INSTRUCTIONAL_BUTTONS(int iUniqueId);
 ```
 
 Redraws the currently active menus instructional buttons. Useful if you've adjusted contexts
+
 DO NOT SPAM THIS. It'll force a redraw and look ugly and be slow and everyone will laugh at you
 
 

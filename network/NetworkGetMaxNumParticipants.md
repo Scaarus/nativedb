@@ -9,5 +9,5 @@ aliases: ["0xa6c90fbc38e395ee"]
 int NETWORK_GET_MAX_NUM_PARTICIPANTS();
 ```
 
-Returns the maximum number of players that can participate in this script (the number passed into NETWORK_SET_THIS_SCRIPT_IS_NETWORK_SCRIPT())
+Returns the maximum number of players that can participate in this script (the number passed into [NETWORK_SET_THIS_SCRIPT_IS_NETWORK_SCRIPT](#_0x1CA59E306ECB80A5)())
 

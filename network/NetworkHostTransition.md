@@ -16,10 +16,10 @@ Host a transition session
 | --- | --- |
 | -1 | Invalid |
 | 0 | General |
-| 232 | Specific |
-| 233 | Playlist |
-| 234 | Event |
-| 235 | Tournament |
+| 1 | Specific |
+| 2 | Playlist |
+| 3 | Event |
+| 4 | Tournament |
 
 
 ## nContentCreator Values:

@@ -6,7 +6,7 @@ aliases: ["0x5c3d0a935f535c4c"]
 
 ```c
 // 0x5C3D0A935F535C4C
-material_names GET_LAST_MATERIAL_HIT_BY_ENTITY(Entity entity);
+int GET_LAST_MATERIAL_HIT_BY_ENTITY(Entity entity);
 ```
 
 Returns the last material hit by an entity if any, this frame(INVALID_MATERIAL otherwise). Materials should be identified using the enums in material_enums.sch.

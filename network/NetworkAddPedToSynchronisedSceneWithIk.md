@@ -9,7 +9,7 @@ aliases: ["0xa5eafe473e45c442"]
 void NETWORK_ADD_PED_TO_SYNCHRONISED_SCENE_WITH_IK(Ped ped, int NetworkSceneID, string animDictionary, string anim, float blendInDelta, float blendOutDelta, int flags, int ragdollFlags, float moverBlendInDelta, int ikFlags);
 ```
 
-Adds a ped and associated animation data to a previous created network synchronised scene. Extends NETWORK_ADD_PED_TO_SYNCHRONISED_SCENE to support IK flags.
+Adds a ped and associated animation data to a previous created network synchronised scene. Extends [NETWORK_ADD_PED_TO_SYNCHRONISED_SCENE](#_0x742A637471BCECD9) to support IK flags.
 
 ## flags Values:
 | Value | Name |

@@ -6,22 +6,21 @@ aliases: ["0xe496a53ba5f50a56"]
 
 ```c
 // 0xE496A53BA5F50A56
-cloud_load_failure_codes STAT_CLOUD_SLOT_LOAD_FAILED_CODE(int slot);
+int STAT_CLOUD_SLOT_LOAD_FAILED_CODE(int slot);
 ```
 
-Returns LOAD failure code. Only returns a error if STAT_CLOUD_SLOT_LOAD_FAILED() return also TRUE.
+Returns LOAD failure code. Only returns a error if [STAT_CLOUD_SLOT_LOAD_FAILED](#_0x7F2C4CDF2E82DF4C)() return also TRUE.
 
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 27 | None |
-| 28 | Failed To Load |
-| 29 | File Corrupt |
-| 30 | Server Timeout |
-| 31 | Server Error |
-| 32 | File Not Found |
-| 33 | Dirty Cloud Read |
-| 34 | Dirty Profile Stat Read |
-| 35 | Refresh Savemigration Status |
-| 36 | Max |
+| 0 | None |
+| 1 | Failed To Load |
+| 2 | File Corrupt |
+| 3 | Server Timeout |
+| 4 | Server Error |
+| 5 | File Not Found |
+| 6 | Dirty Cloud Read |
+| 7 | Dirty Profile Stat Read |
+| 8 | Refresh Savemigration Status |
 

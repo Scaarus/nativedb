@@ -6,7 +6,7 @@ aliases: ["0xdaf80797fc534bec"]
 
 ```c
 // 0xDAF80797FC534BEC
-void PLAYSTATS_GUNRUNNING_RND(struct_gunrunning_rnd data);
+void PLAYSTATS_GUNRUNNING_RND(Any* data);
 ```
 
 Telemetry sent whenever a player starts or ends R&D OR Production.

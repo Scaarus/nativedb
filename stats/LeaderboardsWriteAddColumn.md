@@ -257,8 +257,3 @@ Set a integerfloat value in a column. Must be used after calling LEADERBOARDS2_W
 | 247 | Freemode Arena Career Rank Id |
 | 248 | Freemode Arena Career Vehicle Id |
 
-
-## Parameters
-* **fieldId**: Field ID of the column being set.
-* **ivalue**: 
-* **fvalue**: 

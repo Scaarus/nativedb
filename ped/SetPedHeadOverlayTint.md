@@ -33,6 +33,6 @@ Sets the tint index for the specified head blend overlay slot
 | Value | Name |
 | --- | --- |
 | 0 | None |
-| 32 | Hair |
-| 33 | Makeup |
+| 1 | Hair |
+| 2 | Makeup |
 

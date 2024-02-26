@@ -14,9 +14,9 @@ Sets the formation a group can take
 ## GroupFormation Values:
 | Value | Name |
 | --- | --- |
-| 106 | Loose |
-| 107 | Surround Facing Inwards |
-| 108 | Surround Facing Ahead |
-| 109 | Line Abreast |
-| 110 | Follow In Line |
+| 0 | Loose |
+| 1 | Surround Facing Inwards |
+| 2 | Surround Facing Ahead |
+| 3 | Line Abreast |
+| 4 | Follow In Line |
 

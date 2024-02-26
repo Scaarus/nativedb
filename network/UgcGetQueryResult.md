@@ -6,7 +6,7 @@ aliases: ["0xedf7f927136c224b"]
 
 ```c
 // 0xEDF7F927136C224B
-ugc_error UGC_GET_QUERY_RESULT();
+int UGC_GET_QUERY_RESULT();
 ```
 
 ## Return Type Values:

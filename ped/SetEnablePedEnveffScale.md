@@ -9,5 +9,5 @@ aliases: ["0xd2c5aa0c0e8d0f1e"]
 void SET_ENABLE_PED_ENVEFF_SCALE(Ped ped, bool Enable);
 ```
 
-Enable to true, before using SET_PED_ENVEFF_SCALE
+Enable to true, before using [SET_PED_ENVEFF_SCALE](#_0xBF29516833893561)
 

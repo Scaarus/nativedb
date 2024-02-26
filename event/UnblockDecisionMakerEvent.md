@@ -9,7 +9,7 @@ aliases: ["0xd7cd9cf34f2c99e8"]
 void UNBLOCK_DECISION_MAKER_EVENT(int DecisionMakerId, int EventType);
 ```
 
-Unblocks the specified Event if it was blocked via BLOCK_DECISION_MAKER_EVENT
+Unblocks the specified Event if it was blocked via [BLOCK_DECISION_MAKER_EVENT](#_0xE42FCDFD0E4196F7)
 
 ## DecisionMakerId Values:
 | Value | Name |
@@ -24,258 +24,255 @@ Unblocks the specified Event if it was blocked via BLOCK_DECISION_MAKER_EVENT
 ## EventType Values:
 | Value | Name |
 | --- | --- |
-| -1 | EVENT_INVALID |
-| 0 | EVENT_ACQUAINTANCE_PED_DISLIKE |
-| 1 | EVENT_ACQUAINTANCE_PED_HATE |
-| 2 | EVENT_ACQUAINTANCE_PED_LIKE |
-| 3 | EVENT_ACQUAINTANCE_PED_RESPECT |
-| 4 | EVENT_ACQUAINTANCE_PED_WANTED |
-| 5 | EVENT_ACQUAINTANCE_PED_DEAD |
-| 6 | EVENT_AGITATED |
-| 7 | EVENT_AGITATED_ACTION |
-| 8 | EVENT_ENCROACHING_PED |
-| 9 | EVENT_CALL_FOR_COVER |
-| 10 | EVENT_CAR_UNDRIVEABLE |
-| 11 | EVENT_CLIMB_LADDER_ON_ROUTE |
-| 12 | EVENT_CLIMB_NAVMESH_ON_ROUTE |
-| 13 | EVENT_COMBAT_TAUNT |
-| 14 | EVENT_COMMUNICATE_EVENT |
-| 15 | EVENT_COP_CAR_BEING_STOLEN |
-| 16 | EVENT_CRIME_REPORTED |
-| 17 | EVENT_DAMAGE |
-| 18 | EVENT_DEAD_PED_FOUND |
-| 19 | EVENT_DEATH |
-| 20 | EVENT_DRAGGED_OUT_CAR |
-| 21 | EVENT_DUMMY_CONVERSION |
-| 22 | EVENT_EXPLOSION |
-| 23 | EVENT_EXPLOSION_HEARD |
-| 24 | EVENT_FIRE_NEARBY |
-| 25 | EVENT_FLUSH_TASKS |
-| 26 | EVENT_FOOT_STEP_HEARD |
-| 27 | EVENT_GET_OUT_OF_WATER |
-| 28 | EVENT_GIVE_PED_TASK |
-| 29 | EVENT_GUN_AIMED_AT |
-| 30 | EVENT_HELP_AMBIENT_FRIEND |
-| 31 | EVENT_INJURED_CRY_FOR_HELP |
-| 32 | EVENT_CRIME_CRY_FOR_HELP |
-| 33 | EVENT_IN_AIR |
-| 34 | EVENT_IN_WATER |
-| 35 | EVENT_INCAPACITATED |
-| 36 | EVENT_LEADER_ENTERED_CAR_AS_DRIVER |
-| 37 | EVENT_LEADER_ENTERED_COVER |
-| 38 | EVENT_LEADER_EXITED_CAR_AS_DRIVER |
-| 39 | EVENT_LEADER_HOLSTERED_WEAPON |
-| 40 | EVENT_LEADER_LEFT_COVER |
-| 41 | EVENT_LEADER_UNHOLSTERED_WEAPON |
-| 42 | EVENT_MELEE_ACTION |
-| 43 | EVENT_MUST_LEAVE_BOAT |
-| 44 | EVENT_NEW_TASK |
-| 45 | EVENT_NONE |
-| 46 | EVENT_OBJECT_COLLISION |
-| 47 | EVENT_ON_FIRE |
-| 48 | EVENT_OPEN_DOOR |
-| 49 | EVENT_SHOVE_PED |
-| 50 | EVENT_PED_COLLISION_WITH_PED |
-| 51 | EVENT_PED_COLLISION_WITH_PLAYER |
-| 52 | EVENT_PED_ENTERED_MY_VEHICLE |
-| 53 | EVENT_PED_JACKING_MY_VEHICLE |
-| 54 | EVENT_PED_ON_CAR_ROOF |
-| 55 | EVENT_PED_TO_CHASE |
-| 56 | EVENT_PED_TO_FLEE |
-| 57 | EVENT_PLAYER_COLLISION_WITH_PED |
-| 58 | EVENT_PLAYER_LOCK_ON_TARGET |
-| 59 | EVENT_POTENTIAL_BE_WALKED_INTO |
-| 60 | EVENT_POTENTIAL_BLAST |
-| 61 | EVENT_POTENTIAL_GET_RUN_OVER |
-| 62 | EVENT_POTENTIAL_WALK_INTO_FIRE |
-| 63 | EVENT_POTENTIAL_WALK_INTO_OBJECT |
-| 64 | EVENT_POTENTIAL_WALK_INTO_VEHICLE |
-| 65 | EVENT_PROVIDING_COVER |
-| 66 | EVENT_RADIO_TARGET_POSITION |
-| 67 | EVENT_RAN_OVER_PED |
-| 68 | EVENT_REACTION_COMBAT_VICTORY |
-| 69 | EVENT_REACTION_ENEMY_PED |
-| 70 | EVENT_REACTION_INVESTIGATE_DEAD_PED |
-| 71 | EVENT_REACTION_INVESTIGATE_THREAT |
-| 72 | EVENT_REQUEST_HELP_WITH_CONFRONTATION |
-| 73 | EVENT_RESPONDED_TO_THREAT |
-| 74 | EVENT_REVIVED |
-| 75 | EVENT_SCRIPT_COMMAND |
-| 76 | EVENT_SHOCKING_BROKEN_GLASS |
-| 77 | EVENT_SHOCKING_CAR_ALARM |
-| 78 | EVENT_SHOCKING_CAR_CHASE |
-| 79 | EVENT_SHOCKING_CAR_CRASH |
-| 80 | EVENT_SHOCKING_BICYCLE_CRASH |
-| 81 | EVENT_SHOCKING_CAR_PILE_UP |
-| 82 | EVENT_SHOCKING_CAR_ON_CAR |
-| 83 | EVENT_SHOCKING_DANGEROUS_ANIMAL |
-| 84 | EVENT_SHOCKING_DEAD_BODY |
-| 85 | EVENT_SHOCKING_DRIVING_ON_PAVEMENT |
-| 86 | EVENT_SHOCKING_BICYCLE_ON_PAVEMENT |
-| 87 | EVENT_SHOCKING_ENGINE_REVVED |
-| 88 | EVENT_SHOCKING_EXPLOSION |
-| 89 | EVENT_SHOCKING_FIRE |
-| 90 | EVENT_SHOCKING_GUN_FIGHT |
-| 91 | EVENT_SHOCKING_GUNSHOT_FIRED |
-| 92 | EVENT_SHOCKING_HELICOPTER_OVERHEAD |
-| 93 | EVENT_SHOCKING_PARACHUTER_OVERHEAD |
-| 94 | EVENT_SHOCKING_PED_KNOCKED_INTO_BY_PLAYER |
-| 95 | EVENT_SHOCKING_HORN_SOUNDED |
-| 96 | EVENT_SHOCKING_IN_DANGEROUS_VEHICLE |
-| 97 | EVENT_SHOCKING_INJURED_PED |
-| 98 | EVENT_SHOCKING_MAD_DRIVER |
-| 99 | EVENT_SHOCKING_MAD_DRIVER_EXTREME |
-| 100 | EVENT_SHOCKING_MAD_DRIVER_BICYCLE |
-| 101 | EVENT_SHOCKING_MUGGING |
-| 102 | EVENT_SHOCKING_NON_VIOLENT_WEAPON_AIMED_AT |
-| 103 | EVENT_SHOCKING_PED_RUN_OVER |
-| 104 | EVENT_SHOCKING_PED_SHOT |
-| 105 | EVENT_SHOCKING_PLANE_FLY_BY |
-| 106 | EVENT_SHOCKING_POTENTIAL_BLAST |
-| 107 | EVENT_SHOCKING_PROPERTY_DAMAGE |
-| 108 | EVENT_SHOCKING_RUNNING_PED |
-| 109 | EVENT_SHOCKING_RUNNING_STAMPEDE |
-| 110 | EVENT_SHOCKING_SEEN_CAR_STOLEN |
-| 111 | EVENT_SHOCKING_SEEN_CONFRONTATION |
-| 112 | EVENT_SHOCKING_SEEN_GANG_FIGHT |
-| 113 | EVENT_SHOCKING_SEEN_INSULT |
-| 114 | EVENT_SHOCKING_SEEN_MELEE_ACTION |
-| 115 | EVENT_SHOCKING_SEEN_NICE_CAR |
-| 116 | EVENT_SHOCKING_SEEN_PED_KILLED |
-| 117 | EVENT_SHOCKING_SEEN_VEHICLE_TOWED |
-| 118 | EVENT_SHOCKING_SEEN_WEAPON_THREAT |
-| 119 | EVENT_SHOCKING_SEEN_WEIRD_PED |
-| 120 | EVENT_SHOCKING_SEEN_WEIRD_PED_APPROACHING |
-| 121 | EVENT_SHOCKING_SIREN |
-| 122 | EVENT_SHOCKING_STUDIO_BOMB |
-| 123 | EVENT_SHOCKING_VISIBLE_WEAPON |
-| 124 | EVENT_SHOT_FIRED |
-| 125 | EVENT_SHOT_FIRED_BULLET_IMPACT |
-| 126 | EVENT_SHOT_FIRED_WHIZZED_BY |
-| 127 | EVENT_FRIENDLY_AIMED_AT |
-| 128 | EVENT_SHOT_FRIENDLY_NEAR_MISS |
-| 129 | EVENT_SHOUT_BLOCKING_LOS |
-| 130 | EVENT_SHOUT_TARGET_POSITION |
-| 131 | EVENT_STATIC_COUNT_REACHED_MAX |
-| 132 | EVENT_STUCK_IN_AIR |
-| 133 | EVENT_SUSPICIOUS_ACTIVITY |
-| 134 | EVENT_SWITCH_2_NM_TASK |
-| 135 | EVENT_UNIDENTIFIED_PED |
-| 136 | EVENT_VEHICLE_COLLISION |
-| 137 | EVENT_VEHICLE_DAMAGE_WEAPON |
-| 138 | EVENT_VEHICLE_ON_FIRE |
-| 139 | EVENT_WHISTLING_HEARD |
-| 140 | EVENT_DISTURBANCE |
-| 141 | EVENT_ENTITY_DAMAGED |
-| 142 | EVENT_ENTITY_DESTROYED |
-| 143 | EVENT_WRITHE |
-| 144 | EVENT_HURT_TRANSITION |
-| 145 | EVENT_PLAYER_UNABLE_TO_ENTER_VEHICLE |
-| 146 | EVENT_SCENARIO_FORCE_ACTION |
-| 147 | EVENT_STAT_VALUE_CHANGED |
-| 148 | EVENT_PLAYER_DEATH |
-| 149 | EVENT_PED_SEEN_DEAD_PED |
-| 150 | NUM_AI_EVENTTYPE |
-| 151 | EVENT_NETWORK_PLAYER_JOIN_SESSION |
-| 152 | EVENT_NETWORK_PLAYER_LEFT_SESSION |
-| 153 | EVENT_NETWORK_PLAYER_JOIN_SCRIPT |
-| 154 | EVENT_NETWORK_PLAYER_LEFT_SCRIPT |
-| 155 | EVENT_NETWORK_STORE_PLAYER_LEFT |
-| 156 | EVENT_NETWORK_SESSION_START |
-| 157 | EVENT_NETWORK_SESSION_END |
-| 158 | EVENT_NETWORK_START_MATCH |
-| 159 | EVENT_NETWORK_END_MATCH |
-| 160 | EVENT_NETWORK_REMOVED_FROM_SESSION_DUE_TO_STALL |
-| 161 | EVENT_NETWORK_REMOVED_FROM_SESSION_DUE_TO_COMPLAINTS |
-| 162 | EVENT_NETWORK_CONNECTION_TIMEOUT |
-| 163 | EVENT_NETWORK_PED_DROPPED_WEAPON |
-| 164 | EVENT_NETWORK_PLAYER_SPAWN |
-| 165 | EVENT_NETWORK_PLAYER_COLLECTED_PICKUP |
-| 166 | EVENT_NETWORK_PLAYER_COLLECTED_AMBIENT_PICKUP |
-| 167 | EVENT_NETWORK_PLAYER_COLLECTED_PORTABLE_PICKUP |
-| 168 | EVENT_NETWORK_PLAYER_DROPPED_PORTABLE_PICKUP |
-| 169 | EVENT_NETWORK_INVITE_ARRIVED |
-| 170 | EVENT_NETWORK_INVITE_ACCEPTED |
-| 171 | EVENT_NETWORK_INVITE_CONFIRMED |
-| 172 | EVENT_NETWORK_INVITE_REJECTED |
-| 173 | EVENT_NETWORK_SUMMON |
-| 174 | EVENT_NETWORK_SCRIPT_EVENT |
-| 175 | EVENT_NETWORK_PLAYER_SIGNED_OFFLINE |
-| 176 | EVENT_NETWORK_SIGN_IN_STATE_CHANGED |
-| 177 | EVENT_NETWORK_SIGN_IN_CHANGE_ACTIONED |
-| 178 | EVENT_NETWORK_NETWORK_ROS_CHANGED |
-| 179 | EVENT_NETWORK_NETWORK_BAIL |
-| 180 | EVENT_NETWORK_HOST_MIGRATION |
-| 181 | EVENT_NETWORK_FIND_SESSION |
-| 182 | EVENT_NETWORK_HOST_SESSION |
-| 183 | EVENT_NETWORK_JOIN_SESSION |
-| 184 | EVENT_NETWORK_JOIN_SESSION_RESPONSE |
-| 185 | EVENT_NETWORK_CHEAT_TRIGGERED |
-| 186 | EVENT_NETWORK_DAMAGE_ENTITY |
-| 187 | EVENT_NETWORK_PLAYER_ARREST |
-| 188 | EVENT_NETWORK_TIMED_EXPLOSION |
-| 189 | EVENT_NETWORK_PRIMARY_CLAN_CHANGED |
-| 190 | EVENT_NETWORK_CLAN_JOINED |
-| 191 | EVENT_NETWORK_CLAN_LEFT |
-| 192 | EVENT_NETWORK_CLAN_INVITE_RECEIVED |
-| 193 | EVENT_VOICE_SESSION_STARTED |
-| 194 | EVENT_VOICE_SESSION_ENDED |
-| 195 | EVENT_VOICE_CONNECTION_REQUESTED |
-| 196 | EVENT_VOICE_CONNECTION_RESPONSE |
-| 197 | EVENT_VOICE_CONNECTION_TERMINATED |
-| 198 | EVENT_TEXT_MESSAGE_RECEIVED |
-| 199 | EVENT_CLOUD_FILE_RESPONSE |
-| 200 | EVENT_NETWORK_PICKUP_RESPAWNED |
-| 201 | EVENT_NETWORK_PRESENCE_STAT_UPDATE |
-| 202 | EVENT_NETWORK_PED_LEFT_BEHIND |
-| 203 | EVENT_NETWORK_INBOX_MSGS_RCVD |
-| 204 | EVENT_NETWORK_ATTEMPT_HOST_MIGRATION |
-| 205 | EVENT_NETWORK_INCREMENT_STAT |
-| 206 | EVENT_NETWORK_SESSION_EVENT |
-| 207 | EVENT_NETWORK_TRANSITION_STARTED |
-| 208 | EVENT_NETWORK_TRANSITION_EVENT |
-| 209 | EVENT_NETWORK_TRANSITION_MEMBER_JOINED |
-| 210 | EVENT_NETWORK_TRANSITION_MEMBER_LEFT |
-| 211 | EVENT_NETWORK_TRANSITION_PARAMETER_CHANGED |
-| 212 | EVENT_NETWORK_CLAN_KICKED |
-| 213 | EVENT_NETWORK_TRANSITION_STRING_CHANGED |
-| 214 | EVENT_NETWORK_TRANSITION_GAMER_INSTRUCTION |
-| 215 | EVENT_NETWORK_PRESENCE_INVITE |
-| 216 | EVENT_NETWORK_PRESENCE_INVITE_REMOVED |
-| 217 | EVENT_NETWORK_PRESENCE_INVITE_REPLY |
-| 218 | EVENT_NETWORK_CASH_TRANSACTION_LOG |
-| 219 | EVENT_NETWORK_CLAN_RANK_CHANGE |
-| 220 | EVENT_NETWORK_VEHICLE_UNDRIVABLE |
-| 221 | EVENT_NETWORK_PRESENCE_TRIGGER |
-| 222 | EVENT_NETWORK_EMAIL_RECEIVED |
-| 223 | EVENT_NETWORK_FOLLOW_INVITE_RECEIVED |
-| 224 | EVENT_NETWORK_ADMIN_INVITED |
-| 225 | EVENT_NETWORK_SPECTATE_LOCAL |
-| 226 | EVENT_NETWORK_CLOUD_EVENT |
-| 227 | EVENT_NETWORK_SHOP_TRANSACTION |
-| 228 | EVENT_NETWORK_PERMISSION_CHECK_RESULT |
-| 229 | EVENT_NETWORK_APP_LAUNCHED |
-| 230 | EVENT_NETWORK_ONLINE_PERMISSIONS_UPDATED |
-| 231 | EVENT_NETWORK_SYSTEM_SERVICE_EVENT |
-| 232 | EVENT_NETWORK_REQUEST_DELAY |
-| 233 | EVENT_NETWORK_SOCIAL_CLUB_ACCOUNT_LINKED |
-| 234 | EVENT_NETWORK_SCADMIN_PLAYER_UPDATED |
-| 235 | EVENT_NETWORK_SCADMIN_RECEIVED_CASH |
-| 236 | EVENT_NETWORK_CLAN_INVITE_REQUEST_RECEIVED |
-| 237 | EVENT_NETWORK_MARKETING_EMAIL_RECEIVED |
-| 238 | EVENT_NETWORK_STUNT_PERFORMED |
-| 239 | EVENT_NETWORK_FIRED_DUMMY_PROJECTILE |
-| 240 | EVENT_NETWORK_PLAYER_ENTERED_VEHICLE |
-| 241 | EVENT_NETWORK_PLAYER_ACTIVATED_SPECIAL_ABILITY |
-| 242 | EVENT_NETWORK_PLAYER_DEACTIVATED_SPECIAL_ABILITY |
-| 243 | EVENT_NETWORK_PLAYER_SPECIAL_ABILITY_FAILED_ACTIVATION |
-| 244 | EVENT_NETWORK_FIRED_VEHICLE_PROJECTILE |
-| 245 | EVENT_NETWORK_SC_MEMBERSHIP_STATUS |
-| 246 | EVENT_NETWORK_SC_BENEFITS_STATUS |
-| 247 | NUM_NETWORK_EVENTTYPE |
-| 248 | EVENT_ERRORS_UNKNOWN_ERRORS |
-| 249 | EVENT_ERRORS_ARRAY_OVERFLOW |
-| 250 | EVENT_ERRORS_INSTRUCTION_LIMIT |
-| 251 | EVENT_ERRORS_STACK_OVERFLOW |
-| 252 | NUM_ERRORS_EVENTTYPE |
+| -1 | Invalid |
+| 0 | Acquaintance Ped Dislike |
+| 1 | Acquaintance Ped Hate |
+| 2 | Acquaintance Ped Like |
+| 3 | Acquaintance Ped Respect |
+| 4 | Acquaintance Ped Wanted |
+| 5 | Acquaintance Ped Dead |
+| 6 | Agitated |
+| 7 | Agitated Action |
+| 8 | Encroaching Ped |
+| 9 | Call For Cover |
+| 10 | Car Undriveable |
+| 11 | Climb Ladder On Route |
+| 12 | Climb Navmesh On Route |
+| 13 | Combat Taunt |
+| 14 | Communicate Event |
+| 15 | Cop Car Being Stolen |
+| 16 | Crime Reported |
+| 17 | Damage |
+| 18 | Dead Ped Found |
+| 19 | Death |
+| 20 | Dragged Out Car |
+| 21 | Dummy Conversion |
+| 22 | Explosion |
+| 23 | Explosion Heard |
+| 24 | Fire Nearby |
+| 25 | Flush Tasks |
+| 26 | Foot Step Heard |
+| 27 | Get Out Of Water |
+| 28 | Give Ped Task |
+| 29 | Gun Aimed At |
+| 30 | Help Ambient Friend |
+| 31 | Injured Cry For Help |
+| 32 | Crime Cry For Help |
+| 33 | In Air |
+| 34 | In Water |
+| 35 | Incapacitated |
+| 36 | Leader Entered Car As Driver |
+| 37 | Leader Entered Cover |
+| 38 | Leader Exited Car As Driver |
+| 39 | Leader Holstered Weapon |
+| 40 | Leader Left Cover |
+| 41 | Leader Unholstered Weapon |
+| 42 | Melee Action |
+| 43 | Must Leave Boat |
+| 44 | New Task |
+| 45 | None |
+| 46 | Object Collision |
+| 47 | On Fire |
+| 48 | Open Door |
+| 49 | Shove Ped |
+| 50 | Ped Collision With Ped |
+| 51 | Ped Collision With Player |
+| 52 | Ped Entered My Vehicle |
+| 53 | Ped Jacking My Vehicle |
+| 54 | Ped On Car Roof |
+| 55 | Ped To Chase |
+| 56 | Ped To Flee |
+| 57 | Player Collision With Ped |
+| 58 | Player Lock On Target |
+| 59 | Potential Be Walked Into |
+| 60 | Potential Blast |
+| 61 | Potential Get Run Over |
+| 62 | Potential Walk Into Fire |
+| 63 | Potential Walk Into Object |
+| 64 | Potential Walk Into Vehicle |
+| 65 | Providing Cover |
+| 66 | Radio Target Position |
+| 67 | Ran Over Ped |
+| 68 | Reaction Combat Victory |
+| 69 | Reaction Enemy Ped |
+| 70 | Reaction Investigate Dead Ped |
+| 71 | Reaction Investigate Threat |
+| 72 | Request Help With Confrontation |
+| 73 | Responded To Threat |
+| 74 | Revived |
+| 75 | Script Command |
+| 76 | Shocking Broken Glass |
+| 77 | Shocking Car Alarm |
+| 78 | Shocking Car Chase |
+| 79 | Shocking Car Crash |
+| 80 | Shocking Bicycle Crash |
+| 81 | Shocking Car Pile Up |
+| 82 | Shocking Car On Car |
+| 83 | Shocking Dangerous Animal |
+| 84 | Shocking Dead Body |
+| 85 | Shocking Driving On Pavement |
+| 86 | Shocking Bicycle On Pavement |
+| 87 | Shocking Engine Revved |
+| 88 | Shocking Explosion |
+| 89 | Shocking Fire |
+| 90 | Shocking Gun Fight |
+| 91 | Shocking Gunshot Fired |
+| 92 | Shocking Helicopter Overhead |
+| 93 | Shocking Parachuter Overhead |
+| 94 | Shocking Ped Knocked Into By Player |
+| 95 | Shocking Horn Sounded |
+| 96 | Shocking In Dangerous Vehicle |
+| 97 | Shocking Injured Ped |
+| 98 | Shocking Mad Driver |
+| 99 | Shocking Mad Driver Extreme |
+| 100 | Shocking Mad Driver Bicycle |
+| 101 | Shocking Mugging |
+| 102 | Shocking Non Violent Weapon Aimed At |
+| 103 | Shocking Ped Run Over |
+| 104 | Shocking Ped Shot |
+| 105 | Shocking Plane Fly By |
+| 106 | Shocking Potential Blast |
+| 107 | Shocking Property Damage |
+| 108 | Shocking Running Ped |
+| 109 | Shocking Running Stampede |
+| 110 | Shocking Seen Car Stolen |
+| 111 | Shocking Seen Confrontation |
+| 112 | Shocking Seen Gang Fight |
+| 113 | Shocking Seen Insult |
+| 114 | Shocking Seen Melee Action |
+| 115 | Shocking Seen Nice Car |
+| 116 | Shocking Seen Ped Killed |
+| 117 | Shocking Seen Vehicle Towed |
+| 118 | Shocking Seen Weapon Threat |
+| 119 | Shocking Seen Weird Ped |
+| 120 | Shocking Seen Weird Ped Approaching |
+| 121 | Shocking Siren |
+| 122 | Shocking Studio Bomb |
+| 123 | Shocking Visible Weapon |
+| 124 | Shot Fired |
+| 125 | Shot Fired Bullet Impact |
+| 126 | Shot Fired Whizzed By |
+| 127 | Friendly Aimed At |
+| 128 | Shot Friendly Near Miss |
+| 129 | Shout Blocking Los |
+| 130 | Shout Target Position |
+| 131 | Static Count Reached Max |
+| 132 | Stuck In Air |
+| 133 | Suspicious Activity |
+| 134 | Switch 2 Nm Task |
+| 135 | Unidentified Ped |
+| 136 | Vehicle Collision |
+| 137 | Vehicle Damage Weapon |
+| 138 | Vehicle On Fire |
+| 139 | Whistling Heard |
+| 140 | Disturbance |
+| 141 | Entity Damaged |
+| 142 | Entity Destroyed |
+| 143 | Writhe |
+| 144 | Hurt Transition |
+| 145 | Player Unable To Enter Vehicle |
+| 146 | Scenario Force Action |
+| 147 | Stat Value Changed |
+| 148 | Player Death |
+| 149 | Ped Seen Dead Ped |
+| 151 | Network Player Join Session |
+| 152 | Network Player Left Session |
+| 153 | Network Player Join Script |
+| 154 | Network Player Left Script |
+| 155 | Network Store Player Left |
+| 156 | Network Session Start |
+| 157 | Network Session End |
+| 158 | Network Start Match |
+| 159 | Network End Match |
+| 160 | Network Removed From Session Due To Stall |
+| 161 | Network Removed From Session Due To Complaints |
+| 162 | Network Connection Timeout |
+| 163 | Network Ped Dropped Weapon |
+| 164 | Network Player Spawn |
+| 165 | Network Player Collected Pickup |
+| 166 | Network Player Collected Ambient Pickup |
+| 167 | Network Player Collected Portable Pickup |
+| 168 | Network Player Dropped Portable Pickup |
+| 169 | Network Invite Arrived |
+| 170 | Network Invite Accepted |
+| 171 | Network Invite Confirmed |
+| 172 | Network Invite Rejected |
+| 173 | Network Summon |
+| 174 | Network Script Event |
+| 175 | Network Player Signed Offline |
+| 176 | Network Sign In State Changed |
+| 177 | Network Sign In Change Actioned |
+| 178 | Network Network Ros Changed |
+| 179 | Network Network Bail |
+| 180 | Network Host Migration |
+| 181 | Network Find Session |
+| 182 | Network Host Session |
+| 183 | Network Join Session |
+| 184 | Network Join Session Response |
+| 185 | Network Cheat Triggered |
+| 186 | Network Damage Entity |
+| 187 | Network Player Arrest |
+| 188 | Network Timed Explosion |
+| 189 | Network Primary Clan Changed |
+| 190 | Network Clan Joined |
+| 191 | Network Clan Left |
+| 192 | Network Clan Invite Received |
+| 193 | Voice Session Started |
+| 194 | Voice Session Ended |
+| 195 | Voice Connection Requested |
+| 196 | Voice Connection Response |
+| 197 | Voice Connection Terminated |
+| 198 | Text Message Received |
+| 199 | Cloud File Response |
+| 200 | Network Pickup Respawned |
+| 201 | Network Presence Stat Update |
+| 202 | Network Ped Left Behind |
+| 203 | Network Inbox Msgs Rcvd |
+| 204 | Network Attempt Host Migration |
+| 205 | Network Increment Stat |
+| 206 | Network Session Event |
+| 207 | Network Transition Started |
+| 208 | Network Transition Event |
+| 209 | Network Transition Member Joined |
+| 210 | Network Transition Member Left |
+| 211 | Network Transition Parameter Changed |
+| 212 | Network Clan Kicked |
+| 213 | Network Transition String Changed |
+| 214 | Network Transition Gamer Instruction |
+| 215 | Network Presence Invite |
+| 216 | Network Presence Invite Removed |
+| 217 | Network Presence Invite Reply |
+| 218 | Network Cash Transaction Log |
+| 219 | Network Clan Rank Change |
+| 220 | Network Vehicle Undrivable |
+| 221 | Network Presence Trigger |
+| 222 | Network Email Received |
+| 223 | Network Follow Invite Received |
+| 224 | Network Admin Invited |
+| 225 | Network Spectate Local |
+| 226 | Network Cloud Event |
+| 227 | Network Shop Transaction |
+| 228 | Network Permission Check Result |
+| 229 | Network App Launched |
+| 230 | Network Online Permissions Updated |
+| 231 | Network System Service Event |
+| 232 | Network Request Delay |
+| 233 | Network Social Club Account Linked |
+| 234 | Network Scadmin Player Updated |
+| 235 | Network Scadmin Received Cash |
+| 236 | Network Clan Invite Request Received |
+| 237 | Network Marketing Email Received |
+| 238 | Network Stunt Performed |
+| 239 | Network Fired Dummy Projectile |
+| 240 | Network Player Entered Vehicle |
+| 241 | Network Player Activated Special Ability |
+| 242 | Network Player Deactivated Special Ability |
+| 243 | Network Player Special Ability Failed Activation |
+| 244 | Network Fired Vehicle Projectile |
+| 245 | Network Sc Membership Status |
+| 246 | Network Sc Benefits Status |
+| 248 | Errors Unknown Errors |
+| 249 | Errors Array Overflow |
+| 250 | Errors Instruction Limit |
+| 251 | Errors Stack Overflow |
 

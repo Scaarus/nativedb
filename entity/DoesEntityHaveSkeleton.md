@@ -9,5 +9,5 @@ aliases: ["0x764eb96874effdc1"]
 bool DOES_ENTITY_HAVE_SKELETON(Entity entity);
 ```
 
-HAS_ANIM_EVENT_FIRED requires the entity to have a skeleton. You can use this command to check that the entity has a skeleton before calling that command.
+[HAS_ANIM_EVENT_FIRED](#_0xEAF4CD9EA3E7E922) requires the entity to have a skeleton. You can use this command to check that the entity has a skeleton before calling that command.
 

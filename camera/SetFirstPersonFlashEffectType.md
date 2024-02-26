@@ -15,10 +15,10 @@ Sets the type of flash that will be initiated by a scripted camera blend out to 
 | Value | Name |
 | --- | --- |
 | 0 | Neutral |
-| 77 | Michael Michael'S Character Colour |
-| 78 | Franklin Franklin'S Character Colour |
-| 79 | Trevor Trevor'S Character Colour |
+| 1 | Michael (Michael'S Character Colour) |
+| 2 | Franklin (Franklin'S Character Colour) |
+| 3 | Trevor (Trevor'S Character Colour) |
 
 
-Must be called before RENDER_SCRIPT_CAMS(FALSE ) to change the type of the auto flash. Note that the auto flash will only happen if you specify an interpolation out of 300 ms or more in your RENDER_SCRIPT_CAMS call, and the player is set in first person mode.
+Must be called before [RENDER_SCRIPT_CAMS](#_0x07E5B515DB0636FC)(FALSE ) to change the type of the auto flash. Note that the auto flash will only happen if you specify an interpolation out of 300 ms or more in your RENDER_SCRIPT_CAMS call, and the player is set in first person mode.
 

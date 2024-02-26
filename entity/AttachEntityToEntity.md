@@ -20,7 +20,6 @@ Attaches an entity to another entity with a non physical attachement.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 None physical attachment - collision is turned off for entity.

@@ -9,7 +9,7 @@ aliases: ["0x4aacb96203d11a31"]
 void CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED(Player player);
 ```
 
-Call this once before you start checking HAS_PLAYER_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED
+Call this once before you start checking [HAS_PLAYER_DAMAGED_AT_LEAST_ONE_NON_ANIMAL_PED](#_0xE4B90F367BD81752)
 
 Exclude the animals.
 

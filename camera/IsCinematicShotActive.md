@@ -14,7 +14,7 @@ Check that cinematic shot is active, will return a valid result a frame after cr
 ## Shot Values:
 | Value | Name |
 | --- | --- |
-| 74 | Camera Man |
-| 75 | Heli Chase |
-| 76 | Vehicle Mounted Camera |
+| 0 | Camera Man |
+| 1 | Heli Chase |
+| 2 | Vehicle Mounted Camera |
 

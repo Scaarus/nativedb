@@ -14,9 +14,9 @@ Sets an animals mood
 ## Mood Values:
 | Value | Name |
 | --- | --- |
-| 5 | Angry |
-| 6 | Playful |
-| 7 | Num Moods |
+| 0 | Angry |
+| 1 | Playful |
+| 2 | Num Moods |
 
 
 ## Parameters

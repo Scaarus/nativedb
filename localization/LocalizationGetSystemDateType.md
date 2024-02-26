@@ -6,7 +6,7 @@ aliases: ["0xa8ae43aec1a61314"]
 
 ```c
 // 0xA8AE43AEC1A61314
-date_format LOCALIZATION_GET_SYSTEM_DATE_TYPE();
+int LOCALIZATION_GET_SYSTEM_DATE_TYPE();
 ```
 
 Used to check the language/region date formatting of the system
@@ -14,11 +14,9 @@ Used to check the language/region date formatting of the system
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 0 | DATE_FORMAT_DMY |
-| 13 | DATE_FORMAT_MDY |
-| 14 | DATE_FORMAT_YMD |
-| 15 | MAX_DATE_FORMATS |
-
+| 0 | Dmy |
+| 1 | Mdy |
+| 2 | Ymd |
 
 Returns the current system date formatting type
 

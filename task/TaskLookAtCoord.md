@@ -38,10 +38,10 @@ Gives the ped a look at coord task.
 | Value | Name |
 | --- | --- |
 | 0 | Very Low |
-| 265 | Low |
-| 266 | Medium |
-| 267 | High |
-| 268 | Very High |
+| 1 | Low |
+| 2 | Medium |
+| 3 | High |
+| 4 | Very High |
 
 
 If LookTime is -1 the ped will perform the task forever. The optional flags parameter is made by combining any of the following flags from commands_task.sch.

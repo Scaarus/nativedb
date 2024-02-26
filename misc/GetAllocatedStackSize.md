@@ -9,7 +9,7 @@ aliases: ["0x8b3ca62b1ef19b62"]
 int GET_ALLOCATED_STACK_SIZE();
 ```
 
-Gets the size of the calling scripts allocated stack size. More info
+Gets the size of the calling scripts allocated stack size.
 
 Each script is an allocate stack of memory. This returns that value.
 

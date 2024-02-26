@@ -20,7 +20,6 @@ Changes the root position and orientation of an existing synchronized scene.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 Use this command to change a synchronised scene's origin after it has been created

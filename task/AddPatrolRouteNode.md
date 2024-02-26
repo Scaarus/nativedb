@@ -11,7 +11,7 @@ void ADD_PATROL_ROUTE_NODE(string NodeType, Vector3 vNodePosition, Vector3 NodeL
 
 Adds a patrol route node. Moreinfo..
 
-This can only be called once OPEN_PATROL_ROUTE has been called. There cane be a maximum of 16 nodes per route.
+This can only be called once [OPEN_PATROL_ROUTE](#_0xA36BFB5EE89F3D82) has been called. There cane be a maximum of 16 nodes per route.
 
 
 ## Parameters

@@ -6,7 +6,7 @@ aliases: ["0x690b76bd2763e068"]
 
 ```c
 // 0x690B76BD2763E068
-savemigration_status_codes SAVEMIGRATION_MP_GET_STATUS();
+int SAVEMIGRATION_MP_GET_STATUS();
 ```
 
 Get the current status of the users save migration, if it returns SAVEMIGRATION_STATUS_OK if the user can enter a multiplayer session.

@@ -6,7 +6,7 @@ aliases: ["0x5bd5f255321c4aaf"]
 
 ```c
 // 0x5BD5F255321C4AAF
-migration_result_codes STAT_MIGRATE_CHECK_GET_IS_PLATFORM_AVAILABLE();
+int STAT_MIGRATE_CHECK_GET_IS_PLATFORM_AVAILABLE();
 ```
 
 ## Return Type Values:

@@ -8,6 +8,3 @@ aliases: ["0x6bc0acd0673acebe"]
 // 0x6BC0ACD0673ACEBE
 void GET_BOSS_GOON_UUID(int valueA, int valueB);
 ```
-
-PURPOSE Retrieve the local boss goon UUID.
-

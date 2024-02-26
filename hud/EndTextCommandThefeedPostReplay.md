@@ -18,8 +18,3 @@ Displays a Replay feed component (used when you press DPAD down)
 | 1255 | REPLAY_BUTTON |
 | 1256 | ACTION_REPLAY |
 
-
-## Parameters
-* **eReplayType**: only use REPLAY_BUTTON_ICON (for now)
-* **iIcon**: 
-* **sSubtitle**: optional subtitle (not needed for current mockups)

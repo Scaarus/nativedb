@@ -11,7 +11,7 @@ void ATTACH_SYNCHRONIZED_SCENE_TO_ENTITY(Entity entity, int bone);
 
 Attaches a synced scene to an entity.
 
-Use this command to attach a synchronized scene to an entity. Once attached, the root of the scene will follow the ped until DETACH_SYNCHRONIZED_SCENE is called. When attached, the scene's origin becomes an offset from the parent object.
+Use this command to attach a synchronized scene to an entity. Once attached, the root of the scene will follow the ped until [DETACH_SYNCHRONIZED_SCENE](#_0x6D38F1F04CBB37EA) is called. When attached, the scene's origin becomes an offset from the parent object.
 
 
 ## Parameters

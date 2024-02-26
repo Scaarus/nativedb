@@ -10,5 +10,6 @@ void SET_PARTICLE_FX_OVERRIDE(string ptFxToOverride, string ptFxToUseInstead);
 ```
 
 Adds a particle effect override
+
 All requests to play ptFxToOverride will play ptFxToUseInstead instead
 

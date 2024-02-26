@@ -32,5 +32,5 @@ Tells a ped to follow the navmesh to the given coord.
 
 Time is an INT value specifying milliseconds. If the ped has not achieved the target within the allotted time then the ped will be teleported to the target. if Time is chosen to be -1 the ped will never warp.
 
-IMPORTANT NOTE : Sometimes a path may not be able to be found. This could happen because there simply isn't any way to get there, or maybe a bunch of dynamic objects have blocked the way, or maybe the destination is too far away. In this case the ped will simply stand still. To identify when this has happened, you can use GET_NAVMESH_ROUTE_RESULT. This will help you find situations where peds cannot get to their target.
+IMPORTANT NOTE : Sometimes a path may not be able to be found. This could happen because there simply isn't any way to get there, or maybe a bunch of dynamic objects have blocked the way, or maybe the destination is too far away. In this case the ped will simply stand still. To identify when this has happened, you can use [GET_NAVMESH_ROUTE_RESULT](#_0x632E831F382A0FA8). This will help you find situations where peds cannot get to their target.
 

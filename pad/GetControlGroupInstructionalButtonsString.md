@@ -22,37 +22,36 @@ Return an encoded string of the icon to show of a CONTROL_ACTION. empty string w
 ## actionGroup Values:
 | Value | Name |
 | --- | --- |
-| 0 | INPUTGROUP_MOVE |
-| 366 | INPUTGROUP_LOOK |
-| 367 | INPUTGROUP_WHEEL |
-| 368 | INPUTGROUP_CELLPHONE_NAVIGATE |
-| 369 | INPUTGROUP_CELLPHONE_NAVIGATE_UD |
-| 370 | INPUTGROUP_CELLPHONE_NAVIGATE_LR |
-| 371 | INPUTGROUP_FRONTEND_DPAD_ALL |
-| 372 | INPUTGROUP_FRONTEND_DPAD_UD |
-| 373 | INPUTGROUP_FRONTEND_DPAD_LR |
-| 374 | INPUTGROUP_FRONTEND_LSTICK_ALL |
-| 375 | INPUTGROUP_FRONTEND_RSTICK_ALL |
-| 376 | INPUTGROUP_FRONTEND_GENERIC_UD |
-| 377 | INPUTGROUP_FRONTEND_GENERIC_LR |
-| 378 | INPUTGROUP_FRONTEND_GENERIC_ALL |
-| 379 | INPUTGROUP_FRONTEND_BUMPERS |
-| 380 | INPUTGROUP_FRONTEND_TRIGGERS |
-| 381 | INPUTGROUP_FRONTEND_STICKS |
-| 382 | INPUTGROUP_SCRIPT_DPAD_ALL |
-| 383 | INPUTGROUP_SCRIPT_DPAD_UD |
-| 384 | INPUTGROUP_SCRIPT_DPAD_LR |
-| 385 | INPUTGROUP_SCRIPT_LSTICK_ALL |
-| 386 | INPUTGROUP_SCRIPT_RSTICK_ALL |
-| 387 | INPUTGROUP_SCRIPT_BUMPERS |
-| 388 | INPUTGROUP_SCRIPT_TRIGGERS |
-| 389 | INPUTGROUP_WEAPON_WHEEL_CYCLE |
-| 390 | INPUTGROUP_FLY |
-| 391 | INPUTGROUP_SUB |
-| 392 | INPUTGROUP_VEH_MOVE_ALL |
-| 393 | INPUTGROUP_CURSOR |
-| 394 | INPUTGROUP_CURSOR_SCROLL |
-| 395 | INPUTGROUP_SNIPER_ZOOM_SECONDARY |
-| 396 | INPUTGROUP_VEH_HYDRAULICS_CONTROL |
-| 397 | MAX_INPUTGROUPS |
+| 0 | Move |
+| 1 | Look |
+| 2 | Wheel |
+| 3 | Cellphone Navigate |
+| 4 | Cellphone Navigate Ud |
+| 5 | Cellphone Navigate Lr |
+| 6 | Frontend Dpad All |
+| 7 | Frontend Dpad Ud |
+| 8 | Frontend Dpad Lr |
+| 9 | Frontend Lstick All |
+| 10 | Frontend Rstick All |
+| 11 | Frontend Generic Ud |
+| 12 | Frontend Generic Lr |
+| 13 | Frontend Generic All |
+| 14 | Frontend Bumpers |
+| 15 | Frontend Triggers |
+| 16 | Frontend Sticks |
+| 17 | Script Dpad All |
+| 18 | Script Dpad Ud |
+| 19 | Script Dpad Lr |
+| 20 | Script Lstick All |
+| 21 | Script Rstick All |
+| 22 | Script Bumpers |
+| 23 | Script Triggers |
+| 24 | Weapon Wheel Cycle |
+| 25 | Fly |
+| 26 | Sub |
+| 27 | Veh Move All |
+| 28 | Cursor |
+| 29 | Cursor Scroll |
+| 30 | Sniper Zoom Secondary |
+| 31 | Veh Hydraulics Control |
 

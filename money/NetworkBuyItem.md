@@ -14,5 +14,5 @@ Player bought something in a shop extra1 - client view of the current inventory.
 ## type Values:
 | Value | Name |
 | --- | --- |
-| 35 |  |
+| 0 | Purchase Weapons |
 

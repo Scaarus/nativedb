@@ -11,5 +11,5 @@ void UNHINT_AMBIENT_AUDIO_BANK();
 
 Unloads a ambient audio bank.
 
-This is a legacy function: please use UNHINT_SCRIPT_AUDIO_BANK instead
+This is a legacy function: please use [UNHINT_SCRIPT_AUDIO_BANK](#_0x9AC92EED5E4793AB) instead
 

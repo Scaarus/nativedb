@@ -15,16 +15,16 @@ Randomly sets the drawables and textures for a ped from those available.
 | Value | Name |
 | --- | --- |
 | 0 | Universal |
-| 150 | White |
-| 151 | Black |
-| 152 | Chinese |
-| 153 | Latino |
-| 154 | Arab |
-| 155 | Balkan |
-| 156 | Jamaican |
-| 157 | Korean |
-| 158 | Italian |
-| 159 | Pakistani |
+| 1 | White |
+| 2 | Black |
+| 3 | Chinese |
+| 4 | Latino |
+| 5 | Arab |
+| 6 | Balkan |
+| 7 | Jamaican |
+| 8 | Korean |
+| 9 | Italian |
+| 10 | Pakistani |
 
 
 Ensures that any skin tones which appear in different textures will be consistent for a characte

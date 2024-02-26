@@ -15,7 +15,7 @@ Adds the completed patrol route.
 | Value | Name |
 | --- | --- |
 | 0 | Casual |
-| 269 | Alert |
+| 1 | Alert |
 
 
 This can only be called once a valid a ptrol route has been added.

@@ -6,7 +6,7 @@ aliases: ["0x213aeb2b90cba7ac"]
 
 ```c
 // 0x213AEB2B90CBA7AC
-void COPY_SCRIPT_STRUCT(struct DestStruct, struct SourceStruct, int Size);
+void COPY_SCRIPT_STRUCT(Any* DestStruct, Any* SourceStruct, int Size);
 ```
 
 Copies the contents of SourceStruct into DestStruct. It's assumed that both structs are of the same type and therefore have the same size.

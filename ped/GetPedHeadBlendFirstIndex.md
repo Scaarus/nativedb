@@ -15,7 +15,7 @@ Returns the first index of the specified head blend head type
 | Value | Name |
 | --- | --- |
 | 0 | Male |
-| 249 | Female |
-| 250 | Unique Male |
-| 251 | Unique Female |
+| 1 | Female |
+| 2 | Unique Male |
+| 3 | Unique Female |
 

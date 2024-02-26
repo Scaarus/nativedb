@@ -9,7 +9,7 @@ aliases: ["0xf7ddebec43483c43"]
 void SET_PARTICLE_FX_LOOPED_OFFSETS(int ptfxId, Vector3 position, Vector3 vecRotation);
 ```
 
-Update the position and/or rotation offsets of a previously started looped particle effect. More info
+Update the position and/or rotation offsets of a previously started looped particle effect.
 
 PTFX_ID
 

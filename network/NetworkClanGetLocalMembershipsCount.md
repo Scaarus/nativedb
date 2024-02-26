@@ -10,5 +10,6 @@ int NETWORK_CLAN_GET_LOCAL_MEMBERSHIPS_COUNT();
 ```
 
 Get the CREW memberships count for the local gamer. (Number of crews we have)
+
 Returns -1 if we're waiting for the server to respond with our count. It will assert if your don't have a valid Rockstar Id.
 

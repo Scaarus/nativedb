@@ -9,7 +9,7 @@ aliases: ["0x425a920fdb9a0dda"]
 void USE_DEDICATED_STUNT_CAMERA_THIS_UPDATE(string stuntCamera);
 ```
 
-Similar to USE_VEHICLE_CAM_STUNT_SETTINGS_THIS_UPDATE, but instead it uses a dedicated camera and not a group of settings. The system will still try to detect if the stunt camera is needed based by the vehicle orientation.
+Similar to [USE_VEHICLE_CAM_STUNT_SETTINGS_THIS_UPDATE](#_0x6493CF69859B116A), but instead it uses a dedicated camera and not a group of settings. The system will still try to detect if the stunt camera is needed based by the vehicle orientation.
 
 
 ## Parameters

@@ -16,35 +16,35 @@ Displays the stats message/icon in the top left of the HUD
 | --- | --- |
 | -1 | Invalid |
 | 0 | Call For Backup |
-| 1200 | Call A Car |
-| 1201 | Stamina |
-| 1202 | Swim Speed |
-| 1203 | Run Faster |
-| 1204 | Unburstable Tyres |
-| 1205 | Jack Faster |
-| 1206 | Hold Drugs Purse |
-| 1207 | Kit Ammo |
-| 1208 | Kit Smoke Grenade |
-| 1209 | Kit Parachute |
-| 1210 | Kit Green Smoke |
-| 1211 | Health Armour Upgrades |
-| 1212 | Health Health Upgrades |
-| 1213 | Driving |
-| 1214 | Driveby |
-| 1215 | Reliability |
-| 1216 | Shooting |
-| 1217 | Hacking |
-| 1218 | Badcop |
-| 1219 | Hatecops |
-| 1220 | Hatevagos |
-| 1221 | Hatelost |
-| 1222 | Special Ability Capacity |
-| 1223 | Lung Capacity |
-| 1224 | Strength |
-| 1225 | Bike Skill |
-| 1226 | Flying Ability |
-| 1227 | Stealth Ability |
-| 1228 | Mechanic Ability |
+| 1 | Call A Car |
+| 2 | Stamina |
+| 3 | Swim Speed |
+| 4 | Run Faster |
+| 5 | Unburstable Tyres |
+| 6 | Jack Faster |
+| 7 | Hold Drugs Purse |
+| 8 | Kit Ammo |
+| 9 | Kit Smoke Grenade |
+| 10 | Kit Parachute |
+| 11 | Kit Green Smoke |
+| 12 | Health Armour Upgrades |
+| 13 | Health Health Upgrades |
+| 14 | Driving |
+| 15 | Driveby |
+| 16 | Reliability |
+| 17 | Shooting |
+| 18 | Hacking |
+| 19 | Badcop |
+| 20 | Hatecops |
+| 21 | Hatevagos |
+| 22 | Hatelost |
+| 23 | Special Ability Capacity |
+| 24 | Lung Capacity |
+| 25 | Strength |
+| 26 | Bike Skill |
+| 27 | Flying Ability |
+| 28 | Stealth Ability |
+| 29 | Mechanic Ability |
 
 
 ## Parameters

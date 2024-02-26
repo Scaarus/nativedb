@@ -6,7 +6,7 @@ aliases: ["0x497420e022796b3f"]
 
 ```c
 // 0x497420E022796B3F
-language_type LOCALIZATION_GET_SYSTEM_LANGUAGE();
+int LOCALIZATION_GET_SYSTEM_LANGUAGE();
 ```
 
 Used to check the language/region of the system
@@ -28,7 +28,6 @@ Used to check the language/region of the system
 | 10 | Japanese |
 | 11 | Mexican |
 | 12 | Chinese Simplified |
-
 
 Returns the current system language
 

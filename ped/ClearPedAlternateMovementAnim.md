@@ -14,10 +14,10 @@ MAkes the ped go back to using its original walk anim.
 ## type Values:
 | Value | Name |
 | --- | --- |
-| 254 | Idle |
-| 255 | Walk |
-| 256 | Run |
-| 257 | Sprint |
+| 0 | Idle |
+| 1 | Walk |
+| 2 | Run |
+| 3 | Sprint |
 
 
 Specifies a new movement animation to use when the ped is moving around

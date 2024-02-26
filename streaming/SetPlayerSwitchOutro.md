@@ -20,7 +20,6 @@ use this immediately after starting a player switch if the first frame of the ou
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 overrides the end scene for the player switch

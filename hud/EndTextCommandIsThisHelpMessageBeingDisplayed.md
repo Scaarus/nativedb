@@ -12,9 +12,8 @@ bool END_TEXT_COMMAND_IS_THIS_HELP_MESSAGE_BEING_DISPLAYED(int iHelpId);
 ## iHelpId Values:
 | Value | Name |
 | --- | --- |
-| 0 | HELP_TEXT_SLOT_STANDARD |
-| 1193 | HELP_TEXT_SLOT_FLOATING_1 |
-| 1194 | HELP_TEXT_SLOT_FLOATING_2 |
-| 1195 | HELP_TEXT_SLOT_FLOATING_3 |
-| 1196 | MAX_HELP_TEXT_SLOTS |
+| 0 | Standard |
+| 1 | Floating 1 |
+| 2 | Floating 2 |
+| 3 | Floating 3 |
 

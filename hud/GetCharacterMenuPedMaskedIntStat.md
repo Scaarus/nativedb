@@ -10,5 +10,6 @@ bool GET_CHARACTER_MENU_PED_MASKED_INT_STAT(int Hash, int data, int offSet, int 
 ```
 
 Get the value of an masked Int, UInt8, UInt16, UInt32 and UInt64 stat.
+
 This allows scripters to specify a character slot.
 

@@ -15,7 +15,7 @@ set targeting mode (0 = hardlock, 1 = softlock, 2 = freeaim).
 | Value | Name |
 | --- | --- |
 | 0 | Gta Traditional |
-| 62 | Assisted Aim |
-| 63 | Assisted Freeaim |
-| 64 | Freeaim |
+| 1 | Assisted Aim |
+| 2 | Assisted Freeaim |
+| 3 | Freeaim |
 

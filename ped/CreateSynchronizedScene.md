@@ -20,7 +20,6 @@ Creates a new scene origin for playing back synchronized anims across multiple e
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 Creates a common scene origin which can be used to playback synchronised animations across multiple peds and objects

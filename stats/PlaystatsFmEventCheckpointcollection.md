@@ -6,5 +6,5 @@ aliases: ["0x3de3aa516fb126a4"]
 
 ```c
 // 0x3DE3AA516FB126A4
-void PLAYSTATS_FM_EVENT_CHECKPOINTCOLLECTION(scrfmeventambmission_checkpointcollection data);
+void PLAYSTATS_FM_EVENT_CHECKPOINTCOLLECTION(Any* data);
 ```

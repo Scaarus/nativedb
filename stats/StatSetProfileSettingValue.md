@@ -10,7 +10,6 @@ void STAT_SET_PROFILE_SETTING_VALUE(int setting, int newValue);
 ```
 
 Call this when the player needs to set a profile setting.
-Possible settings are - MP_CREATOR_RACES_SAVED, MP_CREATOR_DM_SAVED and MP_CREATOR_CTF_SAVED.
 
 ## setting Values:
 | Value | Name |

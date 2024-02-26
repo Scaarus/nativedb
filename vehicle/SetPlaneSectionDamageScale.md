@@ -14,17 +14,17 @@ Sets the amount damage is scaled by on the given plane section
 ## section Values:
 | Value | Name |
 | --- | --- |
-| 311 | WING_L |
-| 312 | WING_R |
-| 313 | TAIL |
-| 314 | ENGINE_L |
-| 315 | ENGINE_R |
-| 316 | ELEVATOR_L |
-| 317 | ELEVATOR_R |
-| 318 | AILERON_L |
-| 319 | AILERON_R |
-| 320 | RUDDER |
-| 321 | RUDDER_2 |
-| 322 | AIRBRAKE_L |
-| 323 | AIRBRAKE_R |
+| 0 | WING_L |
+| 1 | WING_R |
+| 2 | TAIL |
+| 3 | ENGINE_L |
+| 4 | ENGINE_R |
+| 5 | ELEVATOR_L |
+| 6 | ELEVATOR_R |
+| 7 | AILERON_L |
+| 8 | AILERON_R |
+| 9 | RUDDER |
+| 10 | RUDDER_2 |
+| 11 | AIRBRAKE_L |
+| 12 | AIRBRAKE_R |
 

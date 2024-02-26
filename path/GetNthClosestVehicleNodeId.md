@@ -21,7 +21,7 @@ Will return if can the nth ( n = 1 being closest) closest vehicle node (by index
 | 8 | Ignore Switched Off Deadends |
 
 
-As GET_NTH_CLOSEST_VEHICLE_NODE... but returns a node index. This node index MUST be used within this frame as it's validity is not guaranteed outside.
+As [GET_NTH_CLOSEST_VEHICLE_NODE](#_0xE50E52416CCF948B)... but returns a node index. This node index MUST be used within this frame as it's validity is not guaranteed outside.
 
 
 ## Parameters

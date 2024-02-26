@@ -6,7 +6,7 @@ aliases: ["0x3c891a251567dfce"]
 
 ```c
 // 0x3C891A251567DFCE
-respawn_query_results NETWORK_QUERY_RESPAWN_RESULTS();
+int NETWORK_QUERY_RESPAWN_RESULTS();
 ```
 
 This command queries progress & retrieves spawn coordinates
@@ -18,6 +18,5 @@ This command queries progress & retrieves spawn coordinates
 | 1 | Succeeded |
 | 2 | Still Working |
 | 3 | No Search Active |
-
 Return value is one of the RESPAWN_QUERY_RESULTS enumerated type vOutSpawnPos,
 

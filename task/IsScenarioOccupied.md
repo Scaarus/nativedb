@@ -11,7 +11,7 @@ bool IS_SCENARIO_OCCUPIED(float fRange, bool OnlyUsersActuallyAtScenario);
 
 Check if the closest scenario to a given point is occupied by some user.
 
-Returns FALSE if no scenario was even found in this location (use DOES_SCENARIO_EXIST_IN_AREA to check, if needed)
+Returns FALSE if no scenario was even found in this location (use [DOES_SCENARIO_EXIST_IN_AREA](#_0x5A59271FFADD33C1) to check, if needed)
 
 
 ## Parameters

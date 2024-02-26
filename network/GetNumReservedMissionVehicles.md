@@ -13,8 +13,8 @@ int GET_NUM_RESERVED_MISSION_VEHICLES(bool ForAllScripts, int reservationType);
 | Value | Name |
 | --- | --- |
 | 0 | All |
-| 236 | Local Only |
-| 237 | Global Only |
+| 1 | Local Only |
+| 2 | Global Only |
 
 
 ## Parameters

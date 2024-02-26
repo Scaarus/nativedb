@@ -11,7 +11,7 @@ void DRAW_SCALEFORM_MOVIE_FULLSCREEN_MASKED(Scaleform scaleform, Scaleform scale
 
 Renders two movies with masking between.
 
-movie id (retrieved from REQUEST_SCALEFORM_MOVIE). The size is always
+movie id (retrieved from [REQUEST_SCALEFORM_MOVIE](#_0x11FE353CF9733E6F)). The size is always
 
 movies are drawn in order, with the latest drawn on top.
 

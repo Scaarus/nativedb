@@ -11,5 +11,5 @@ void SET_TASK_VEHICLE_CHASE_IDEAL_PURSUIT_DISTANCE(Ped ped, float fIdealPursuitD
 
 Sets the ideal pursuit distance when chasing a vehicle.
 
-Sets the ideal pursuit distance when chasing a vehicle. The ped must be running TASK_VEHICLE_CHASE.
+Sets the ideal pursuit distance when chasing a vehicle. The ped must be running [TASK_VEHICLE_CHASE](#_0x3C08A8E30363B353).
 

@@ -13,7 +13,7 @@ void SET_TEXT_JUSTIFICATION(int Justification);
 | Value | Name |
 | --- | --- |
 | 0 | Centre |
-| 1261 | Left Default |
-| 1262 | Right |
-| 1263 | Justify |
+| 1 | Left (Default) |
+| 2 | Right |
+| 3 | Justify |
 

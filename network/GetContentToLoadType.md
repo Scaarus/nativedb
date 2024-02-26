@@ -6,7 +6,7 @@ aliases: ["0x8b0c2964ba471961"]
 
 ```c
 // 0x8B0C2964BA471961
-ugc_type GET_CONTENT_TO_LOAD_TYPE();
+int GET_CONTENT_TO_LOAD_TYPE();
 ```
 
 Returns the type of UGC to load.
@@ -15,8 +15,8 @@ Returns the type of UGC to load.
 | Value | Name |
 | --- | --- |
 | 0 | Mission |
-| 99 | Mission Playlist |
-| 100 | Life Invader Post |
-| 101 | Photo |
-| 102 | Challenge |
+| 1 | Mission Playlist |
+| 2 | Life Invader Post |
+| 3 | Photo |
+| 4 | Challenge |
 

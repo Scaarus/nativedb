@@ -15,7 +15,7 @@ Tells a ped to follow a point route.
 | Value | Name |
 | --- | --- |
 | 0 | Single |
-| 9 | Return Go Once Then Return Back Once Following The Route Backwards |
-| 10 | Season As Above But For Forever |
-| 11 | Loop Treat The Points As A Loop, I.E Follow It To The End Then Directly Back To The First Position, Forever. |
+| 1 | Return (Go Once Then Return Back Once Following The Route Backwards) |
+| 2 | Season (As Above But For Forever) |
+| 3 | Loop (Treat The Points As A Loop, I.E Follow It To The End Then Directly Back To The First Position, Forever.) |
 

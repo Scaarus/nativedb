@@ -9,5 +9,5 @@ aliases: ["0xe41885592b08b097"]
 void TASK_VEHICLE_AIM_AT_PED(Ped ped, Ped ped);
 ```
 
-The ped will aim from a vehicle the other ped passed. Using: Driveby weapons Vehicle mounted weapons Depending on what is currently selected in their inventory. SEE ALSO TASK_VEHICLE_AIM_AT_COORD
+The ped will aim from a vehicle the other ped passed. Using: Driveby weapons Vehicle mounted weapons Depending on what is currently selected in their inventory. SEE ALSO [TASK_VEHICLE_AIM_AT_COORD](#_0x447C1E9EF844BC0F)
 

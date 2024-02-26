@@ -14,7 +14,7 @@ Checks if the entity's root is located in the given area defined by a centre poi
 ## TM_MODE Values:
 | Value | Name |
 | --- | --- |
-| 0 | Any Any Mode Of Transport Bike, Car Plane, On Foot Etc |
-| 1 | On Foot The Ped Is On Foot |
-| 2 | In Vehicle The Ped Is In A Vehicle Not On Foot |
+| 0 | Any (Any Mode Of Transport Bike, Car Plane, On Foot Etc) |
+| 1 | On Foot (The Ped Is On Foot) |
+| 2 | In Vehicle (The Ped Is In A Vehicle Not On Foot) |
 

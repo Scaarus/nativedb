@@ -15,17 +15,17 @@ Gets the index of the current texture variation for the specified ped component 
 | Value | Name |
 | --- | --- |
 | 0 | Head |
-| 139 | Berd |
-| 140 | Hair |
-| 141 | Torso |
-| 142 | Leg |
-| 143 | Hand |
-| 144 | Feet |
-| 145 | Teeth |
-| 146 | Special Pv Comp Accs |
-| 147 | Special2 Pv Comp Task |
-| 148 | Decl ? |
-| 149 | Jbib |
+| 1 | Berd |
+| 2 | Hair |
+| 3 | Torso |
+| 4 | Leg |
+| 5 | Hand |
+| 6 | Feet |
+| 7 | Teeth |
+| 8 | Special (Pv Comp Accs) |
+| 9 | Special2 (Pv Comp Task) |
+| 10 | Decl (?) |
+| 11 | Jbib |
 
 
 Each ped model can have several drawables for each component. Each drawable can have several textures.

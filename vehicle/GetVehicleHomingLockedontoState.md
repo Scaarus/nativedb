@@ -6,7 +6,7 @@ aliases: ["0x6eaaefc76acc311f"]
 
 ```c
 // 0x6EAAEFC76ACC311F
-homing_lockon_state GET_VEHICLE_HOMING_LOCKEDONTO_STATE(Vehicle vehicle);
+int GET_VEHICLE_HOMING_LOCKEDONTO_STATE(Vehicle vehicle);
 ```
 
 Checks if someone else is locked onto this vehicle

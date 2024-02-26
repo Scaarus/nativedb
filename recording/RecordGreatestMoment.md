@@ -13,20 +13,20 @@ void RECORD_GREATEST_MOMENT(int greatestMoment, int startTime, int duration);
 | Value | Name |
 | --- | --- |
 | 0 | FIVE_START_CRIMINAL |
-| 5 | CHAIN_REACTION |
-| 6 | BIRD_DOWN |
-| 7 | SCOPED |
-| 8 | TOP_GUN |
-| 9 | AIRTIME |
-| 10 | UNTOUCHABLE |
-| 11 | WHEELIE_RIDER |
-| 12 | BUCKLE_UP |
-| 13 | ROLLED_OVER |
-| 14 | DIZZYING_LAWS |
-| 15 | YANK_THE_CORD |
-| 16 | ANIMAUL |
-| 17 | FULLY_MODDED |
-| 18 | GLORY_HOLE |
+| 1 | CHAIN_REACTION |
+| 2 | BIRD_DOWN |
+| 3 | SCOPED |
+| 4 | TOP_GUN |
+| 5 | AIRTIME |
+| 6 | UNTOUCHABLE |
+| 7 | WHEELIE_RIDER |
+| 8 | BUCKLE_UP |
+| 9 | ROLLED_OVER |
+| 10 | DIZZYING_LAWS |
+| 11 | YANK_THE_CORD |
+| 12 | ANIMAUL |
+| 13 | FULLY_MODDED |
+| 14 | GLORY_HOLE |
 
 
 Record a greatest moment

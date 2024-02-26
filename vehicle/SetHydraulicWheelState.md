@@ -15,23 +15,23 @@ Sets whether the hydraulic state of one of the wheels
 | Value | Name |
 | --- | --- |
 | 0 | Car Front Left |
-| 52 | Car Front Right |
-| 53 | Car Mid Left |
-| 54 | Car Mid Right |
-| 55 | Car Rear Left |
-| 56 | Car Rear Right |
-| 57 | Bike Front |
-| 58 | Bike Rear |
+| 1 | Car Front Right |
+| 2 | Car Mid Left |
+| 3 | Car Mid Right |
+| 4 | Car Rear Left |
+| 5 | Car Rear Right |
+| 6 | Bike Front |
+| 7 | Bike Rear |
 
 
 ## state Values:
 | Value | Name |
 | --- | --- |
 | 0 | Wheel Free |
-| 337 | Wheel Locked |
-| 338 | Wheel Bounce |
-| 339 | All Free |
-| 340 | All Lock Up |
-| 341 | All Lock Down |
-| 342 | All Bounce |
+| 1 | Wheel Locked |
+| 2 | Wheel Bounce |
+| 3 | All Free |
+| 4 | All Lock Up |
+| 5 | All Lock Down |
+| 6 | All Bounce |
 

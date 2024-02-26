@@ -6,7 +6,7 @@ aliases: ["0xd6429a016084f1a5"]
 
 ```c
 // 0xD6429A016084F1A5
-pickup_type GET_PICKUP_TYPE_FROM_WEAPON_HASH(Hash weaponHash);
+int GET_PICKUP_TYPE_FROM_WEAPON_HASH(Hash weaponHash);
 ```
 
 Returns the pickup type from a weapon type.
@@ -14,190 +14,189 @@ Returns the pickup type from a weapon type.
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 0 | PICKUP_HEALTH_STANDARD |
-| 1 | PICKUP_ARMOUR_STANDARD |
-| 2 | PICKUP_HEALTH_SNACK |
-| 3 | PICKUP_MONEY_VARIABLE |
-| 4 | PICKUP_MONEY_CASE |
-| 5 | PICKUP_MONEY_WALLET |
-| 6 | PICKUP_MONEY_PURSE |
-| 7 | PICKUP_MONEY_DEP_BAG |
-| 8 | PICKUP_MONEY_MED_BAG |
-| 9 | PICKUP_MONEY_PAPER_BAG |
-| 10 | PICKUP_MONEY_SECURITY_CASE |
-| 11 | PICKUP_GANG_ATTACK_MONEY |
-| 12 | PICKUP_WEAPON_PISTOL |
-| 13 | PICKUP_WEAPON_COMBATPISTOL |
-| 14 | PICKUP_WEAPON_DLC_PISTOL50 |
-| 15 | PICKUP_WEAPON_APPISTOL |
-| 16 | PICKUP_WEAPON_MICROSMG |
-| 17 | PICKUP_WEAPON_SMG |
-| 18 | PICKUP_WEAPON_DLC_ASSAULTSMG |
-| 19 | PICKUP_WEAPON_ASSAULTRIFLE |
-| 20 | PICKUP_WEAPON_CARBINERIFLE |
-| 21 | PICKUP_WEAPON_ADVANCEDRIFLE |
-| 22 | PICKUP_WEAPON_MG |
-| 23 | PICKUP_WEAPON_COMBATMG |
-| 24 | PICKUP_WEAPON_DLC_ASSAULTMG |
-| 25 | PICKUP_WEAPON_PUMPSHOTGUN |
-| 26 | PICKUP_WEAPON_SAWNOFFSHOTGUN |
-| 27 | PICKUP_WEAPON_DLC_BULLPUPSHOTGUN |
-| 28 | PICKUP_WEAPON_ASSAULTSHOTGUN |
-| 29 | PICKUP_WEAPON_SNIPERRIFLE |
-| 30 | PICKUP_WEAPON_DLC_ASSAULTSNIPER |
-| 31 | PICKUP_WEAPON_HEAVYSNIPER |
-| 32 | PICKUP_WEAPON_GRENADELAUNCHER |
-| 33 | PICKUP_WEAPON_RPG |
-| 34 | PICKUP_WEAPON_MINIGUN |
-| 35 | PICKUP_WEAPON_GRENADE |
-| 36 | PICKUP_WEAPON_SMOKEGRENADE |
-| 37 | PICKUP_WEAPON_STICKYBOMB |
-| 38 | PICKUP_WEAPON_MOLOTOV |
-| 39 | PICKUP_WEAPON_STUNGUN |
-| 40 | PICKUP_WEAPON_RUBBERGUN |
-| 41 | PICKUP_WEAPON_DLC_PROGRAMMABLEAR |
-| 42 | PICKUP_WEAPON_FIREEXTINGUISHER |
-| 43 | PICKUP_WEAPON_PETROLCAN |
-| 44 | PICKUP_WEAPON_LOUDHAILER |
-| 45 | PICKUP_WEAPON_KNIFE |
-| 46 | PICKUP_WEAPON_NIGHTSTICK |
-| 47 | PICKUP_WEAPON_HAMMER |
-| 48 | PICKUP_WEAPON_BAT |
-| 49 | PICKUP_WEAPON_CROWBAR |
-| 50 | PICKUP_WEAPON_GOLFCLUB |
-| 51 | PICKUP_AMMO_BULLET_MP |
-| 52 | PICKUP_AMMO_MISSILE_MP |
-| 53 | PICKUP_AMMO_GRENADELAUNCHER_MP |
-| 54 | PICKUP_AMMO_PISTOL |
-| 55 | PICKUP_AMMO_SMG |
-| 56 | PICKUP_AMMO_RIFLE |
-| 57 | PICKUP_AMMO_MG |
-| 58 | PICKUP_AMMO_SHOTGUN |
-| 59 | PICKUP_AMMO_SNIPER |
-| 60 | PICKUP_AMMO_GRENADELAUNCHER |
-| 61 | PICKUP_AMMO_RPG |
-| 62 | PICKUP_AMMO_MINIGUN |
-| 63 | PICKUP_AMMO_DLC_RUBBERGUN |
-| 64 | PICKUP_AMMO_DLC_HARPOON |
-| 65 | PICKUP_AMMO_DLC_FLAREGUN |
-| 66 | PICKUP_AMMO_DLC_FIREWORK |
-| 67 | PICKUP_AMMO_DLC_AMRIFLE |
-| 68 | PICKUP_AMMO_DLC_CROSSBOW |
-| 69 | PICKUP_AMMO_DLC_HOMINGLAUNCHER |
-| 70 | PICKUP_AMMO_EMPLAUNCHER |
-| 71 | PICKUP_VEHICLE_HEALTH_STANDARD |
-| 72 | PICKUP_VEHICLE_HEALTH_STANDARD_LOW_GLOW |
-| 73 | PICKUP_VEHICLE_ARMOUR_STANDARD |
-| 74 | PICKUP_VEHICLE_WEAPON_PISTOL |
-| 75 | PICKUP_VEHICLE_WEAPON_COMBATPISTOL |
-| 76 | NUM_PICKUPS |
-| 77 | PICKUP_VEHICLE_WEAPON_APPISTOL |
-| 78 | PICKUP_VEHICLE_WEAPON_MICROSMG |
-| 79 | PICKUP_VEHICLE_WEAPON_SMG |
-| 80 | PICKUP_VEHICLE_WEAPON_SAWNOFF |
-| 81 | PICKUP_VEHICLE_WEAPON_DLC_ASSAULTSMG |
-| 82 | PICKUP_VEHICLE_WEAPON_GRENADE |
-| 83 | PICKUP_VEHICLE_WEAPON_SMOKEGRENADE |
-| 84 | PICKUP_VEHICLE_WEAPON_STICKYBOMB |
-| 85 | PICKUP_VEHICLE_WEAPON_MOLOTOV |
-| 86 | PICKUP_VEHICLE_CUSTOM_SCRIPT |
-| 87 | PICKUP_VEHICLE_CUSTOM_SCRIPT_NO_ROTATE |
-| 88 | PICKUP_VEHICLE_CUSTOM_SCRIPT_LOW_GLOW |
-| 89 | PICKUP_VEHICLE_MONEY_VARIABLE |
-| 90 | PICKUP_PORTABLE_CRATE_UNFIXED |
-| 91 | PICKUP_PORTABLE_CRATE_UNFIXED_INCAR |
-| 92 | PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_SMALL |
-| 93 | PICKUP_PORTABLE_CRATE_UNFIXED_INCAR_WITH_PASSENGERS |
-| 94 | PICKUP_PORTABLE_CRATE_UNFIXED_INAIRVEHICLE_WITH_PASSENGERS |
-| 95 | PICKUP_PORTABLE_CRATE_UNFIXED_INAIRVEHICLE_WITH_PASSENGERS_UPRIGHT |
-| 96 | PICKUP_PORTABLE_CRATE_FIXED_INCAR_WITH_PASSENGERS |
-| 97 | PICKUP_PORTABLE_CRATE_UNFIXED_LOW_GLOW |
-| 98 | PICKUP_PORTABLE_CRATE_FIXED_INCAR |
-| 99 | PICKUP_PORTABLE_CRATE_FIXED_INCAR_SMALL |
-| 100 | PICKUP_PORTABLE_PACKAGE |
-| 101 | PICKUP_PORTABLE_DLC_VEHICLE_PACKAGE |
-| 102 | PICKUP_PORTABLE_PACKAGE_LARGE_RADIUS |
-| 103 | PICKUP_SUBMARINE |
-| 104 | PICKUP_PARACHUTE |
-| 105 | PICKUP_CUSTOM_SCRIPT |
-| 106 | PICKUP_HANDCUFF_KEY |
-| 107 | PICKUP_CAMERA |
-| 108 | PICKUP_WEAPON_DLC_BOTTLE |
-| 109 | PICKUP_WEAPON_DLC_SPECIALCARBINE |
-| 110 | PICKUP_WEAPON_DLC_SNSPISTOL |
-| 111 | PICKUP_WEAPON_DLC_BULLPUPRIFLE |
-| 112 | PICKUP_WEAPON_DLC_HEAVYPISTOL |
-| 113 | PICKUP_WEAPON_DLC_DAGGER |
-| 114 | PICKUP_WEAPON_DLC_VINTAGEPISTOL |
-| 115 | PICKUP_WEAPON_DLC_GUSENBERG |
-| 116 | PICKUP_WEAPON_DLC_HARPOON |
-| 117 | PICKUP_WEAPON_DLC_FLAREGUN |
-| 118 | PICKUP_WEAPON_DLC_FIREWORK |
-| 119 | PICKUP_WEAPON_DLC_JETPACK |
-| 120 | PICKUP_WEAPON_DLC_MUSKET |
-| 121 | PICKUP_WEAPON_DLC_AMRIFLE |
-| 122 | PICKUP_WEAPON_DLC_CROSSBOW |
-| 123 | PICKUP_TYPE_INVALID |
-| 124 | PICKUP_WEAPON_DLC_HEAVYSHOTGUN |
-| 125 | PICKUP_WEAPON_DLC_MARKSMANRIFLE |
-| 126 | PICKUP_WEAPON_DLC_HOMINGLAUNCHER |
-| 127 | PICKUP_WEAPON_DLC_PROXMINE |
-| 128 | PICKUP_WEAPON_DLC_COMBATPDW |
-| 129 | PICKUP_WEAPON_DLC_KNUCKLE |
-| 130 | PICKUP_WEAPON_DLC_MARKSMANPISTOL |
-| 131 | PICKUP_WEAPON_DLC_HATCHET |
-| 132 | PICKUP_WEAPON_DLC_RAILGUN |
-| 133 | PICKUP_WEAPON_DLC_COMPACTRIFLE |
-| 134 | PICKUP_WEAPON_DLC_DBSHOTGUN |
-| 135 | PICKUP_WEAPON_DLC_MACHETE |
-| 136 | PICKUP_WEAPON_DLC_MACHINEPISTOL |
-| 137 | PICKUP_WEAPON_DLC_FLASHLIGHT |
-| 138 | PICKUP_WEAPON_DLC_REVOLVER |
-| 139 | PICKUP_WEAPON_DLC_SWITCHBLADE |
-| 140 | PICKUP_WEAPON_DLC_AUTOSHOTGUN |
-| 141 | PICKUP_WEAPON_DLC_BATTLEAXE |
-| 142 | PICKUP_WEAPON_DLC_COMPACTLAUNCHER |
-| 143 | PICKUP_WEAPON_DLC_MINISMG |
-| 144 | PICKUP_WEAPON_DLC_PIPEBOMB |
-| 145 | PICKUP_WEAPON_DLC_POOLCUE |
-| 146 | PICKUP_WEAPON_DLC_WRENCH |
-| 147 | PICKUP_WEAPON_DLC_ASSAULTRIFLE_MK2 |
-| 148 | PICKUP_WEAPON_DLC_CARBINERIFLE_MK2 |
-| 149 | PICKUP_WEAPON_DLC_COMBATMG_MK2 |
-| 150 | PICKUP_WEAPON_DLC_HEAVYSNIPER_MK2 |
-| 151 | PICKUP_WEAPON_DLC_PISTOL_MK2 |
-| 152 | PICKUP_WEAPON_DLC_SMG_MK2 |
-| 153 | PICKUP_WEAPON_DLC_BULLPUPRIFLE_MK2 |
-| 154 | PICKUP_WEAPON_DLC_MARKSMANRIFLE_MK2 |
-| 155 | PICKUP_WEAPON_DLC_PUMPSHOTGUN_MK2 |
-| 156 | PICKUP_WEAPON_DLC_REVOLVER_MK2 |
-| 157 | PICKUP_WEAPON_DLC_SNSPISTOL_MK2 |
-| 158 | PICKUP_WEAPON_DLC_SPECIALCARBINE_MK2 |
-| 159 | PICKUP_WEAPON_DLC_DOUBLEACTION |
-| 160 | PICKUP_WEAPON_DLC_STONE_HATCHET |
-| 161 | PICKUP_WEAPON_DLC_RAYPISTOL |
-| 162 | PICKUP_WEAPON_DLC_RAYCARBINE |
-| 163 | PICKUP_WEAPON_DLC_RAYMINIGUN |
-| 164 | PICKUP_WEAPON_DLC_CERAMICPISTOL |
-| 165 | PICKUP_WEAPON_DLC_HAZARDCAN |
-| 166 | PICKUP_WEAPON_DLC_NAVYREVOLVER |
-| 167 | PICKUP_WEAPON_DLC_GADGETPISTOL |
-| 168 | PICKUP_WEAPON_DLC_MILITARYRIFLE |
-| 169 | PICKUP_WEAPON_DLC_COMBATSHOTGUN |
-| 170 | PICKUP_WEAPON_DLC_COMPACTSMG |
-| 171 | PICKUP_WEAPON_DLC_RIOTSMG |
-| 172 | PICKUP_WEAPON_DLC_BATON |
-| 173 | PICKUP_WEAPON_DLC_BZGAS_MK2 |
-| 174 | PICKUP_WEAPON_DLC_RIOTSHOTGUN |
-| 175 | PICKUP_WEAPON_DLC_FLASHGRENADE |
-| 176 | PICKUP_WEAPON_DLC_STUNGUNCNC |
-| 177 | PICKUP_WEAPON_DLC_POLICERIFLE |
-| 178 | PICKUP_WEAPON_DLC_STUNGRENADE |
-| 179 | PICKUP_WEAPON_DLC_HEAVYRIFLE |
-| 180 | PICKUP_WEAPON_DLC_EMPLAUNCHER |
-| 181 | PICKUP_WEAPON_DLC_FERTILIZERCAN |
-| 182 | PICKUP_WEAPON_DLC_STUNGUN_MP |
-| 183 | PICKUP_WEAPON_DLC_METALDETECTOR |
-| 184 | PICKUP_WEAPON_DLC_TACTICALRIFLE |
-| 185 | PICKUP_WEAPON_DLC_PRECISIONRIFLE |
+| 0 | Health Standard |
+| 1 | Armour Standard |
+| 2 | Health Snack |
+| 3 | Money Variable |
+| 4 | Money Case |
+| 5 | Money Wallet |
+| 6 | Money Purse |
+| 7 | Money Dep Bag |
+| 8 | Money Med Bag |
+| 9 | Money Paper Bag |
+| 10 | Money Security Case |
+| 11 | Gang Attack Money |
+| 12 | Weapon Pistol |
+| 13 | Weapon Combatpistol |
+| 14 | Weapon Dlc Pistol50 |
+| 15 | Weapon Appistol |
+| 16 | Weapon Microsmg |
+| 17 | Weapon Smg |
+| 18 | Weapon Dlc Assaultsmg |
+| 19 | Weapon Assaultrifle |
+| 20 | Weapon Carbinerifle |
+| 21 | Weapon Advancedrifle |
+| 22 | Weapon Mg |
+| 23 | Weapon Combatmg |
+| 24 | Weapon Dlc Assaultmg |
+| 25 | Weapon Pumpshotgun |
+| 26 | Weapon Sawnoffshotgun |
+| 27 | Weapon Dlc Bullpupshotgun |
+| 28 | Weapon Assaultshotgun |
+| 29 | Weapon Sniperrifle |
+| 30 | Weapon Dlc Assaultsniper |
+| 31 | Weapon Heavysniper |
+| 32 | Weapon Grenadelauncher |
+| 33 | Weapon Rpg |
+| 34 | Weapon Minigun |
+| 35 | Weapon Grenade |
+| 36 | Weapon Smokegrenade |
+| 37 | Weapon Stickybomb |
+| 38 | Weapon Molotov |
+| 39 | Weapon Stungun |
+| 40 | Weapon Rubbergun |
+| 41 | Weapon Dlc Programmablear |
+| 42 | Weapon Fireextinguisher |
+| 43 | Weapon Petrolcan |
+| 44 | Weapon Loudhailer |
+| 45 | Weapon Knife |
+| 46 | Weapon Nightstick |
+| 47 | Weapon Hammer |
+| 48 | Weapon Bat |
+| 49 | Weapon Crowbar |
+| 50 | Weapon Golfclub |
+| 51 | Ammo Bullet Mp |
+| 52 | Ammo Missile Mp |
+| 53 | Ammo Grenadelauncher Mp |
+| 54 | Ammo Pistol |
+| 55 | Ammo Smg |
+| 56 | Ammo Rifle |
+| 57 | Ammo Mg |
+| 58 | Ammo Shotgun |
+| 59 | Ammo Sniper |
+| 60 | Ammo Grenadelauncher |
+| 61 | Ammo Rpg |
+| 62 | Ammo Minigun |
+| 63 | Ammo Dlc Rubbergun |
+| 64 | Ammo Dlc Harpoon |
+| 65 | Ammo Dlc Flaregun |
+| 66 | Ammo Dlc Firework |
+| 67 | Ammo Dlc Amrifle |
+| 68 | Ammo Dlc Crossbow |
+| 69 | Ammo Dlc Hominglauncher |
+| 70 | Ammo Emplauncher |
+| 71 | Vehicle Health Standard |
+| 72 | Vehicle Health Standard Low Glow |
+| 73 | Vehicle Armour Standard |
+| 74 | Vehicle Weapon Pistol |
+| 75 | Vehicle Weapon Combatpistol |
+| 77 | Vehicle Weapon Appistol |
+| 78 | Vehicle Weapon Microsmg |
+| 79 | Vehicle Weapon Smg |
+| 80 | Vehicle Weapon Sawnoff |
+| 81 | Vehicle Weapon Dlc Assaultsmg |
+| 82 | Vehicle Weapon Grenade |
+| 83 | Vehicle Weapon Smokegrenade |
+| 84 | Vehicle Weapon Stickybomb |
+| 85 | Vehicle Weapon Molotov |
+| 86 | Vehicle Custom Script |
+| 87 | Vehicle Custom Script No Rotate |
+| 88 | Vehicle Custom Script Low Glow |
+| 89 | Vehicle Money Variable |
+| 90 | Portable Crate Unfixed |
+| 91 | Portable Crate Unfixed Incar |
+| 92 | Portable Crate Unfixed Incar Small |
+| 93 | Portable Crate Unfixed Incar With Passengers |
+| 94 | Portable Crate Unfixed Inairvehicle With Passengers |
+| 95 | Portable Crate Unfixed Inairvehicle With Passengers Upright |
+| 96 | Portable Crate Fixed Incar With Passengers |
+| 97 | Portable Crate Unfixed Low Glow |
+| 98 | Portable Crate Fixed Incar |
+| 99 | Portable Crate Fixed Incar Small |
+| 100 | Portable Package |
+| 101 | Portable Dlc Vehicle Package |
+| 102 | Portable Package Large Radius |
+| 103 | Submarine |
+| 104 | Parachute |
+| 105 | Custom Script |
+| 106 | Handcuff Key |
+| 107 | Camera |
+| 108 | Weapon Dlc Bottle |
+| 109 | Weapon Dlc Specialcarbine |
+| 110 | Weapon Dlc Snspistol |
+| 111 | Weapon Dlc Bullpuprifle |
+| 112 | Weapon Dlc Heavypistol |
+| 113 | Weapon Dlc Dagger |
+| 114 | Weapon Dlc Vintagepistol |
+| 115 | Weapon Dlc Gusenberg |
+| 116 | Weapon Dlc Harpoon |
+| 117 | Weapon Dlc Flaregun |
+| 118 | Weapon Dlc Firework |
+| 119 | Weapon Dlc Jetpack |
+| 120 | Weapon Dlc Musket |
+| 121 | Weapon Dlc Amrifle |
+| 122 | Weapon Dlc Crossbow |
+| 123 | Type Invalid |
+| 124 | Weapon Dlc Heavyshotgun |
+| 125 | Weapon Dlc Marksmanrifle |
+| 126 | Weapon Dlc Hominglauncher |
+| 127 | Weapon Dlc Proxmine |
+| 128 | Weapon Dlc Combatpdw |
+| 129 | Weapon Dlc Knuckle |
+| 130 | Weapon Dlc Marksmanpistol |
+| 131 | Weapon Dlc Hatchet |
+| 132 | Weapon Dlc Railgun |
+| 133 | Weapon Dlc Compactrifle |
+| 134 | Weapon Dlc Dbshotgun |
+| 135 | Weapon Dlc Machete |
+| 136 | Weapon Dlc Machinepistol |
+| 137 | Weapon Dlc Flashlight |
+| 138 | Weapon Dlc Revolver |
+| 139 | Weapon Dlc Switchblade |
+| 140 | Weapon Dlc Autoshotgun |
+| 141 | Weapon Dlc Battleaxe |
+| 142 | Weapon Dlc Compactlauncher |
+| 143 | Weapon Dlc Minismg |
+| 144 | Weapon Dlc Pipebomb |
+| 145 | Weapon Dlc Poolcue |
+| 146 | Weapon Dlc Wrench |
+| 147 | Weapon Dlc Assaultrifle Mk2 |
+| 148 | Weapon Dlc Carbinerifle Mk2 |
+| 149 | Weapon Dlc Combatmg Mk2 |
+| 150 | Weapon Dlc Heavysniper Mk2 |
+| 151 | Weapon Dlc Pistol Mk2 |
+| 152 | Weapon Dlc Smg Mk2 |
+| 153 | Weapon Dlc Bullpuprifle Mk2 |
+| 154 | Weapon Dlc Marksmanrifle Mk2 |
+| 155 | Weapon Dlc Pumpshotgun Mk2 |
+| 156 | Weapon Dlc Revolver Mk2 |
+| 157 | Weapon Dlc Snspistol Mk2 |
+| 158 | Weapon Dlc Specialcarbine Mk2 |
+| 159 | Weapon Dlc Doubleaction |
+| 160 | Weapon Dlc Stone Hatchet |
+| 161 | Weapon Dlc Raypistol |
+| 162 | Weapon Dlc Raycarbine |
+| 163 | Weapon Dlc Rayminigun |
+| 164 | Weapon Dlc Ceramicpistol |
+| 165 | Weapon Dlc Hazardcan |
+| 166 | Weapon Dlc Navyrevolver |
+| 167 | Weapon Dlc Gadgetpistol |
+| 168 | Weapon Dlc Militaryrifle |
+| 169 | Weapon Dlc Combatshotgun |
+| 170 | Weapon Dlc Compactsmg |
+| 171 | Weapon Dlc Riotsmg |
+| 172 | Weapon Dlc Baton |
+| 173 | Weapon Dlc Bzgas Mk2 |
+| 174 | Weapon Dlc Riotshotgun |
+| 175 | Weapon Dlc Flashgrenade |
+| 176 | Weapon Dlc Stunguncnc |
+| 177 | Weapon Dlc Policerifle |
+| 178 | Weapon Dlc Stungrenade |
+| 179 | Weapon Dlc Heavyrifle |
+| 180 | Weapon Dlc Emplauncher |
+| 181 | Weapon Dlc Fertilizercan |
+| 182 | Weapon Dlc Stungun Mp |
+| 183 | Weapon Dlc Metaldetector |
+| 184 | Weapon Dlc Tacticalrifle |
+| 185 | Weapon Dlc Precisionrifle |
 

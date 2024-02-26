@@ -20,10 +20,9 @@ Renders a scaleform movie to the screen.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
-movie id (retrieved from REQUEST_SCALEFORM_MOVIE), position, xyz rotation angles in degrees, movie scale, size in world space
+movie id (retrieved from [REQUEST_SCALEFORM_MOVIE](#_0x11FE353CF9733E6F)), position, xyz rotation angles in degrees, movie scale, size in world space
 
 movies are drawn in order, with the latest drawn on top.
 

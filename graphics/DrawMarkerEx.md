@@ -68,5 +68,4 @@ void DRAW_MARKER_EX(int MarkerType, Vector3 scrVecPosition, Vector3 scrVecDirect
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 

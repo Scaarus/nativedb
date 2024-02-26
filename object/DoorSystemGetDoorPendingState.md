@@ -6,7 +6,7 @@ aliases: ["0x4bc2854478f3a749"]
 
 ```c
 // 0x4BC2854478F3A749
-door_state_enum DOOR_SYSTEM_GET_DOOR_PENDING_STATE(int doorEnumHash);
+int DOOR_SYSTEM_GET_DOOR_PENDING_STATE(int doorEnumHash);
 ```
 
 Get the pending state of a door managed by the door system

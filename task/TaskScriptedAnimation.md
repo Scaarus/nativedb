@@ -6,7 +6,7 @@ aliases: ["0x126ef75f1e17abe5"]
 
 ```c
 // 0x126EF75F1E17ABE5
-void TASK_SCRIPTED_ANIMATION(Ped ped, anim_data priorityLow, anim_data priorityMid, anim_data priorityHigh, float fTaskBlendInDuration, float fTaskBlendOutDuration);
+void TASK_SCRIPTED_ANIMATION(Ped ped, Any* priorityLow, Any* priorityMid, Any* priorityHigh, float fTaskBlendInDuration, float fTaskBlendOutDuration);
 ```
 
 Starts a task that will play back on or more anims.

@@ -6,10 +6,10 @@ aliases: ["0xfe26117a5841b2ff"]
 
 ```c
 // 0xFE26117A5841B2FF
-crewemblemrequeststate GET_VEHICLE_CREW_EMBLEM_REQUEST_STATE(Vehicle vehicle, int badgeIndex);
+int GET_VEHICLE_CREW_EMBLEM_REQUEST_STATE(Vehicle vehicle, int badgeIndex);
 ```
 
-Gets the current state of a vehicle crew emblem request made using ADD_VEHICLE_CREW_EMBLEM CERS_NOT_ACTIVE - means that an error has occured as no request is found for this vehicle CERS_REQUESTING_BADGE - means that the request is still in progress (still requesting the texture from the cloud) CERS_APPLYING_DECAL - means that the request is still in progress (still applying the decal) CERS_SUCCEEDED - means that the request has succeeded CERS_FAILED - means that the request has failed Note that if CERS_SUCCEEDED or CERS_FAILED are returned the request will automatically be made not active (CERS_NOT_ACTIVE) so querying it again will produce an error
+Gets the current state of a vehicle crew emblem request made using [ADD_VEHICLE_CREW_EMBLEM](#_0x428BDCB9DA58DA53) CERS_NOT_ACTIVE - means that an error has occured as no request is found for this vehicle CERS_REQUESTING_BADGE - means that the request is still in progress (still requesting the texture from the cloud) CERS_APPLYING_DECAL - means that the request is still in progress (still applying the decal) CERS_SUCCEEDED - means that the request has succeeded CERS_FAILED - means that the request has failed Note that if CERS_SUCCEEDED or CERS_FAILED are returned the request will automatically be made not active (CERS_NOT_ACTIVE) so querying it again will produce an error
 
 ## Return Type Values:
 | Value | Name |

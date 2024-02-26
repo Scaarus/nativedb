@@ -9,5 +9,5 @@ aliases: ["0x9747292807126eda"]
 bool NETWORK_IS_MULTIPLAYER_DISABLED();
 ```
 
-Return TRUE if multiplayer disabled. Call after NETWORK_CAN_ENTER_MULTIPLAYER
+Return TRUE if multiplayer disabled. Call after [NETWORK_CAN_ENTER_MULTIPLAYER](#_0x7E782A910C362C25)
 

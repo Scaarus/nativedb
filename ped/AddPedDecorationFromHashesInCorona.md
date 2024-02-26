@@ -11,7 +11,7 @@ void ADD_PED_DECORATION_FROM_HASHES_IN_CORONA(Ped ped, int CollectionNameHash, i
 
 Applies a decoration (tattoos, patches, etc.) to the specified ped.
 
-Same as ADD_PED_DECORATION_FROM_HASHES, but only to be used in a corona screen with non-player cloned peds
+Same as [ADD_PED_DECORATION_FROM_HASHES](#_0x5F5D1665E352A839), but only to be used in a corona screen with non-player cloned peds
 
 
 ## Parameters

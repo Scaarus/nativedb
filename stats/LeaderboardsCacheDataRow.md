@@ -11,6 +11,3 @@ bool LEADERBOARDS_CACHE_DATA_ROW(leaderboardcacheddisplaydata info);
 
 Cache leaderboard display data.
 
-
-## Parameters
-* **info**: Row display data that should be cached.

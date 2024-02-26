@@ -14,7 +14,7 @@ Puts the ped into the hurt state, a target needs to be provided
 ## StartState Values:
 | Value | Name |
 | --- | --- |
-| 0 |  |
+| 0 | Shm Onground |
 
 
 MinFireLoops is atleast how many times the ped will be going in the shoot from ground

@@ -6,7 +6,7 @@ aliases: ["0x5d5caff661ddf6fc"]
 
 ```c
 // 0x5D5CAFF661DDF6FC
-void GET_SHOP_PED_PROP(int nameHash, scrshoppedprop componentItem);
+void GET_SHOP_PED_PROP(int nameHash, Any* componentItem);
 ```
 
 Looks up a component item based on the supplied name hash and returns its information

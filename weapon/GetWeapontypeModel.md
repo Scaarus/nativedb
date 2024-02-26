@@ -9,5 +9,5 @@ aliases: ["0xf46cdc33180fda94"]
 Hash GET_WEAPONTYPE_MODEL(Hash weaponHash);
 ```
 
-Return the model used by a weapon type. More info
+Return the model used by a weapon type.
 

@@ -6,5 +6,8 @@ aliases: ["0xdeb2b99a1af1a2a6"]
 
 ```c
 // 0xDEB2B99A1AF1A2A6
-int NETWORK_START_USER_CONTENT_PERMISSIONS_CHECK(gamer_handle hGamer);
+int NETWORK_START_USER_CONTENT_PERMISSIONS_CHECK(Any* hGamer);
 ```
+
+Starts a communication permisson check Returns unique ID that can be used when receiving EVENT_NETWORK_PERMISSION_CHECK_RESULT
+

@@ -6,7 +6,7 @@ aliases: ["0x10706dc6ad2d49c0"]
 
 ```c
 // 0x10706DC6AD2D49C0
-void RESTART_FRONTEND_MENU(frontend_menu_version iMenuVersion, int HighlightTab);
+void RESTART_FRONTEND_MENU(Any* iMenuVersion, int HighlightTab);
 ```
 
 restarts the frontend menu if its already active with new header details

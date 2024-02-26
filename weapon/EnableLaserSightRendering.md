@@ -11,3 +11,5 @@ void ENABLE_LASER_SIGHT_RENDERING();
 
 Toggles the rendering of the laser sights on weapons
 
+Keep in sync with code in commands_weapon.cpp ~> General Purpose Commands <~
+

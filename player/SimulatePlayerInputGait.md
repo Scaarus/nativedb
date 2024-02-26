@@ -11,6 +11,8 @@ void SIMULATE_PLAYER_INPUT_GAIT(Player player, float moveBlendRatio, int timer, 
 
 This will simulate the player's controller input. This simulation would move the player actor forward until the left stick is touched or the timer is reached.
 
+To skip tranisation when coming out a cut scene, e.g., form idle to run, the vignette leadout should sequence the player to the run node.
+
 
 ## Parameters
 * **player**: 

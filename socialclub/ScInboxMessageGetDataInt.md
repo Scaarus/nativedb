@@ -11,8 +11,3 @@ bool SC_INBOX_MESSAGE_GET_DATA_INT(int msgIndex, string name, int value);
 
 Retrieve the given named value of the given type from the message at the given index.
 
-
-## Parameters
-* **msgIndex**: index of the message in the inbox
-* **name**: name of teh varialbevalue in the message
-* **value**: The value of the variables if found and set

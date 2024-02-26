@@ -20,7 +20,6 @@ Create a camera with its param of a given name.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 Valid camera names are as

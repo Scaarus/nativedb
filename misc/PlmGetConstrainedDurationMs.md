@@ -9,5 +9,5 @@ aliases: ["0xabb2fa71c83a1b72"]
 int PLM_GET_CONSTRAINED_DURATION_MS();
 ```
 
-Returns the amount of time in ms that we've been in constrained mode. Should only be called when PLM_IS_IN_CONSTRAINED_MODE() returns true.
+Returns the amount of time in ms that we've been in constrained mode. Should only be called when [PLM_IS_IN_CONSTRAINED_MODE](#_0x684A41975F077262)() returns true.
 

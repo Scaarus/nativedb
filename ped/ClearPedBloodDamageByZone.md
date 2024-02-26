@@ -15,13 +15,13 @@ clears the blood damage that has been applied to the specified ped on the specif
 | Value | Name |
 | --- | --- |
 | 0 | Torso |
-| 160 | Head |
-| 161 | Left Arm |
-| 162 | Right Arm |
-| 163 | Left Leg |
-| 164 | Right Leg |
-| 165 | Medals |
-| 166 | Invalid |
+| 1 | Head |
+| 2 | Left Arm |
+| 3 | Right Arm |
+| 4 | Left Leg |
+| 5 | Right Leg |
+| 6 | Medals |
+| 7 | Invalid |
 
 
 ## Parameters

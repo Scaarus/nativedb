@@ -6,5 +6,5 @@ aliases: ["0x88087ee1f28024ae"]
 
 ```c
 // 0x88087EE1F28024AE
-void PLAYSTATS_BW_HUNT_THE_BOSS(scrbwhunttheboss data);
+void PLAYSTATS_BW_HUNT_THE_BOSS(Any* data);
 ```

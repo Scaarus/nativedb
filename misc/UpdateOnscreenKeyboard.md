@@ -6,7 +6,7 @@ aliases: ["0x0cf2b696bbf945ae"]
 
 ```c
 // 0x0CF2B696BBF945AE
-osk_status UPDATE_ONSCREEN_KEYBOARD();
+int UPDATE_ONSCREEN_KEYBOARD();
 ```
 
 ## Return Type Values:
@@ -17,7 +17,6 @@ osk_status UPDATE_ONSCREEN_KEYBOARD();
 | 1 | Success |
 | 2 | Cancelled |
 | 3 | Failed |
-
 
 Updates the system keyboard, and returns its status. This should be called periodically until a non-PENDING status is returned.
 

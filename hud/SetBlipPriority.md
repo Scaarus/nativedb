@@ -14,17 +14,17 @@ Change priority for Radar blip
 ## priority Values:
 | Value | Name |
 | --- | --- |
-| 1 | Priority Lowest |
-| 965 | Priority Low Lowest |
-| 966 | Priority Low |
-| 967 | Priority Low Med |
-| 968 | Priority Med |
-| 969 | Priority Med High |
-| 970 | Priority High |
-| 971 | Priority High Highest |
-| 972 | Priority Highest |
-| 973 |  Priority Highest Special Low Need Additional Added In For 1730606 |
-| 974 |  Priority Highes Special Med Need Additional Priority Added In For 1730606 |
-| 975 |  Priority Highest Special High Need Additional Priority Added In For 1730606 |
-| 976 | Priority Over Centre Blip |
+| 0 | BLIPPRIORITY_LOW_LOWEST |
+| 1 | BLIPPRIORITY_LOWEST |
+| 2 | BLIPPRIORITY_LOW |
+| 3 | BLIPPRIORITY_LOW_MED |
+| 4 | BLIPPRIORITY_MED |
+| 5 | BLIPPRIORITY_MED_HIGH |
+| 6 | BLIPPRIORITY_HIGH |
+| 7 | BLIPPRIORITY_HIGH_HIGHEST |
+| 8 | BLIPPRIORITY_HIGHEST |
+| 9 | BLIP_PRIORITY_HIGHEST_SPECIAL_LOW (need additional added in for 1730606) |
+| 10 | BLIP_PRIORITY_HIGHES_SPECIAL_MED (need additional priority added in for 1730606) |
+| 11 | BLIP_PRIORITY_HIGHEST_SPECIAL_HIGH (need additional priority added in for 1730606) |
+| 12 | BLIPPRIORITY_OVER_CENTRE_BLIP |
 

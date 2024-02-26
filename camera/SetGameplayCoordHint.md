@@ -15,15 +15,15 @@ Sets the gameplay to hint a coord.
 | Value | Name |
 | --- | --- |
 | 0 | Default |
-| 56 | No Fov / 1511508800 |
-| 57 | Vehicle High Zoom 1726668277 |
-| 58 | Arm3 Vehicle -244429742 |
-| 59 | Agency Heist 3B Sky Diving 1213015174 |
-| 60 | Family3 House Vehicle -1123838900 |
-| 61 | Arm2 Mcs6 Vehicle 2010485655 |
-| 62 | Killer Cam 1844968929 |
-| 63 | Family3 Coach On Balcony Vehicle Hint Helper -87780624 |
-| 64 | Chop Hint Helper 193150208 |
+| 1 | No Fov (/ 1511508800) |
+| 2 | Vehicle High Zoom (1726668277) |
+| 3 | Arm3 Vehicle (-244429742) |
+| 4 | Agency Heist 3B Sky Diving (1213015174) |
+| 5 | Family3 House Vehicle (-1123838900) |
+| 6 | Arm2 Mcs6 Vehicle (2010485655) |
+| 7 | Killer Cam (1844968929) |
+| 8 | Family3 Coach On Balcony Vehicle Hint Helper (-87780624) |
+| 9 | Chop Hint Helper (193150208) |
 
 
 iDwellTime = how long cam looks at the entity.

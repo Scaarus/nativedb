@@ -6,7 +6,7 @@ aliases: ["0xc30713a383bfbf0e"]
 
 ```c
 // 0xC30713A383BFBF0E
-bool LEADERBOARDS2_READ_BY_HANDLE(leaderboard2readdata in_lbData, gamer_handle handleData);
+bool LEADERBOARDS2_READ_BY_HANDLE(Any* in_lbData, Any* handleData);
 ```
 
 Read a leaderboard from a Gamer.

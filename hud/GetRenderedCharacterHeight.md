@@ -13,12 +13,12 @@ float GET_RENDERED_CHARACTER_HEIGHT(float TextYScale, int TextFont);
 | Value | Name |
 | --- | --- |
 | 0 | Standard |
-| 988 | Cursive |
-| 989 | Rockstar Tag |
-| 990 | Leaderboard |
-| 991 | Condensed |
-| 992 | Style Fixed Width Numbers |
-| 993 | Condensed Not Gamername |
-| 994 | Style Pricedown |
-| 995 | Style Taxi |
+| 1 | Cursive |
+| 2 | Rockstar Tag |
+| 3 | Leaderboard |
+| 4 | Condensed |
+| 5 | Style Fixed Width Numbers |
+| 6 | Condensed Not Gamername |
+| 7 | Style Pricedown |
+| 8 | Style Taxi |
 

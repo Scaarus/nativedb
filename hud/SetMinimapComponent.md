@@ -15,24 +15,24 @@ Sets a component on the minimap on/off - returns false if component is not valid
 | Value | Name |
 | --- | --- |
 | 0 | Runway 1 |
-| 892 | Runway 2 Countryside |
-| 893 | Runway 3 Countryside Small |
-| 894 | Runway 4 Military |
-| 895 | Prison Grounds Prison Interior |
-| 896 | Debug Map Areas Debug Coloured Map Areas |
-| 897 | King Hill 1 |
-| 898 | King Hill 2 |
-| 899 | King Hill 3 |
-| 900 | King Hill 4 |
-| 901 | King Hill 5 |
-| 902 | King Hill 6 |
-| 903 | King Hill 7 |
-| 904 | King Hill 8 |
-| 905 | King Hill 9 |
-| 906 | King Hill 10 |
-| 907 | King Hill 11 |
-| 908 | King Hill 12 |
-| 909 | King Hill 13 |
+| 1 | Runway 2 (Countryside) |
+| 2 | Runway 3 (Countryside Small) |
+| 3 | Runway 4 (Military) |
+| 4 | Prison Grounds (Prison Interior) |
+| 5 | Debug Map Areas (Debug Coloured Map Areas) |
+| 6 | King Hill 1 |
+| 7 | King Hill 2 |
+| 8 | King Hill 3 |
+| 9 | King Hill 4 |
+| 10 | King Hill 5 |
+| 11 | King Hill 6 |
+| 12 | King Hill 7 |
+| 13 | King Hill 8 |
+| 14 | King Hill 9 |
+| 15 | King Hill 10 |
+| 16 | King Hill 11 |
+| 17 | King Hill 12 |
+| 18 | King Hill 13 |
 
 
 ## color Values:
@@ -166,7 +166,7 @@ Sets a component on the minimap on/off - returns false if component is not valid
 | 125 | Damage |
 | 126 | Pinklight |
 | 127 | Pm Mitem Highlight |
-| 128 | Script Variable Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command |
+| 128 | Script Variable (Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command) |
 | 129 | Yoga |
 | 130 | Tennis |
 | 131 | Golf |
@@ -203,7 +203,7 @@ Sets a component on the minimap on/off - returns false if component is not valid
 | 162 | Chop |
 | 163 | Pausemap Tint Half |
 | 164 | North Blue Official |
-| 165 | Script Variable 2 Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command |
+| 165 | Script Variable 2 (Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command) |
 | 166 | H |
 | 167 | Hdark |
 | 168 | T |

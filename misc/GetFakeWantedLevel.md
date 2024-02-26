@@ -9,5 +9,5 @@ aliases: ["0x4c9296cbcd1b971e"]
 int GET_FAKE_WANTED_LEVEL();
 ```
 
-returns whatever has been passed to SET_FAKE_WANTED_LEVEL previously
+returns whatever has been passed to [SET_FAKE_WANTED_LEVEL](#_0x1454F2448DE30163) previously
 

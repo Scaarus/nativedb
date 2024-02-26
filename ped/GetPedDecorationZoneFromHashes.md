@@ -6,7 +6,7 @@ aliases: ["0x9fd452bfbe7a7a8b"]
 
 ```c
 // 0x9FD452BFBE7A7A8B
-ped_decoration_zone GET_PED_DECORATION_ZONE_FROM_HASHES(int CollectionNameHash, int PresetNameHash);
+int GET_PED_DECORATION_ZONE_FROM_HASHES(int CollectionNameHash, int PresetNameHash);
 ```
 
 Same as GET_PED_DECORATION_ZONE but with hashes
@@ -15,13 +15,13 @@ Same as GET_PED_DECORATION_ZONE but with hashes
 | Value | Name |
 | --- | --- |
 | 0 | Torso |
-| 160 | Head |
-| 161 | Left Arm |
-| 162 | Right Arm |
-| 163 | Left Leg |
-| 164 | Right Leg |
-| 165 | Medals |
-| 166 | Invalid |
+| 1 | Head |
+| 2 | Left Arm |
+| 3 | Right Arm |
+| 4 | Left Leg |
+| 5 | Right Leg |
+| 6 | Medals |
+| 7 | Invalid |
 
 
 ## Parameters

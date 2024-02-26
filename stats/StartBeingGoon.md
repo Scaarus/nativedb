@@ -9,15 +9,13 @@ aliases: ["0x96e6d5150dbf1c09"]
 void START_BEING_GOON(int bossId1, int bossId2, int inviteMode);
 ```
 
-PURPOSE Type of invite when started being a Goon PURPOSE Start being a goon
-
 ## inviteMode Values:
 | Value | Name |
 | --- | --- |
-| 108 | Debug |
-| 109 | Nearby |
-| 110 | Friends |
-| 111 | Crew |
-| 112 | Individual |
-| 113 | Looking For Work |
+| 0 | Debug |
+| 1 | Nearby |
+| 2 | Friends |
+| 3 | Crew |
+| 4 | Individual |
+| 5 | Looking For Work |
 

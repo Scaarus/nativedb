@@ -15,23 +15,23 @@ Sets a micro morph on the specified ped
 | Value | Name |
 | --- | --- |
 | 0 | Nose Width |
-| 13 | Nose Height |
-| 14 | Nose Length |
-| 15 | Nose Profile |
-| 16 | Nose Tip |
-| 17 | Nose Broke |
-| 18 | Brow Height |
-| 19 | Brow Depth |
-| 20 | Cheek Height |
-| 21 | Cheek Depth |
-| 22 | Cheek Puffed |
-| 23 | Eyes Size |
-| 24 | Lips Size |
-| 25 | Jaw Width |
-| 26 | Jaw Round |
-| 27 | Chin Height |
-| 28 | Chin Depth |
-| 29 | Chin Pointed |
-| 30 | Chin Bum |
-| 31 | Neck Male |
+| 1 | Nose Height |
+| 2 | Nose Length |
+| 3 | Nose Profile |
+| 4 | Nose Tip |
+| 5 | Nose Broke |
+| 6 | Brow Height |
+| 7 | Brow Depth |
+| 8 | Cheek Height |
+| 9 | Cheek Depth |
+| 10 | Cheek Puffed |
+| 11 | Eyes Size |
+| 12 | Lips Size |
+| 13 | Jaw Width |
+| 14 | Jaw Round |
+| 15 | Chin Height |
+| 16 | Chin Depth |
+| 17 | Chin Pointed |
+| 18 | Chin Bum |
+| 19 | Neck Male |
 

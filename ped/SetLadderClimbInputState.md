@@ -15,6 +15,6 @@ Control AI peds on ladders
 | Value | Name |
 | --- | --- |
 | 0 | Nothing |
-| 185 | Climb Down |
-| 186 | Climb Up |
+| 1 | Climb Down |
+| 2 | Climb Up |
 

@@ -13,14 +13,14 @@ void SUPRESS_RANDOM_EVENT_THIS_FRAME(int eventType, bool Enable);
 | Value | Name |
 | --- | --- |
 | 0 | Ped Steal Vehicle |
-| 58 | Ped Jay Walk Lights |
-| 59 | Cop Pursue |
-| 60 | Cop Pursue Vehicle Flee Spawned |
-| 61 | Cop Vehicle Driving Fast |
-| 62 | Driver Slow |
-| 63 | Driver Reckless |
-| 64 | Driver Pro |
-| 65 | Ped Pursue When Hit By Car |
+| 1 | Ped Jay Walk Lights |
+| 2 | Cop Pursue |
+| 3 | Cop Pursue Vehicle Flee Spawned |
+| 4 | Cop Vehicle Driving Fast |
+| 5 | Driver Slow |
+| 6 | Driver Reckless |
+| 7 | Driver Pro |
+| 8 | Ped Pursue When Hit By Car |
 
 
 Set a random event to be enabled or disabled for this frame

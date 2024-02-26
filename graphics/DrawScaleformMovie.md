@@ -11,7 +11,7 @@ void DRAW_SCALEFORM_MOVIE(Scaleform scaleform, float CentreX, float CentreY, flo
 
 Renders a scaleform movie to the screen.
 
-movie id (retrieved from REQUEST_SCALEFORM_MOVIE), position & size, StereoFlag(0 = no stereo, 1 = reticule stereo, 2 = normal stereo)
+movie id (retrieved from [REQUEST_SCALEFORM_MOVIE](#_0x11FE353CF9733E6F)), position & size, StereoFlag(0 = no stereo, 1 = reticule stereo, 2 = normal stereo)
 
 movies are drawn in order, with the latest drawn on top.
 

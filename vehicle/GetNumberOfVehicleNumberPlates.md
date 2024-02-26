@@ -9,5 +9,5 @@ aliases: ["0x4c4d6b2644f458cb"]
 int GET_NUMBER_OF_VEHICLE_NUMBER_PLATES();
 ```
 
-Returns the number of different license plates that have been set up by the vehicle artists and can be used by SET_VEHICLE_NUMBER_PLATE_TEXT_INDEX
+Returns the number of different license plates that have been set up by the vehicle artists and can be used by [SET_VEHICLE_NUMBER_PLATE_TEXT_INDEX](#_0x9088EB5A43FFB0A1)
 

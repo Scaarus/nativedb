@@ -23,7 +23,7 @@ Create a Natural motion message.
 | Value | Name |
 | --- | --- |
 | 0 | Stop All Msg |
-| 1 | Stop All Fb Feedback Message, Must Be Next One After The Original Message, Must Have One Per Message |
+| 1 | Stop All Fb (Feedback Message, Must Be Next One After The Original Message, Must Have One Per Message) |
 | 2 | Start |
 | 3 | Active Pose Msg |
 | 4 | Active Pose Fb |
@@ -705,7 +705,7 @@ Create a Natural motion message.
 | 698 | Grab Use Head Look To Target |
 | 699 | Grab Look At Grab |
 | 700 | Grab Head Look Target |
-| 701 | Grab L Msg Extra Grab Message Just So We Can Check The 2Nd Feedback Message For Grab |
+| 701 | Grab L Msg (Extra Grab Message Just So We Can Check The 2Nd Feedback Message For Grab) |
 | 702 | Grab L Fb |
 | 703 | Headlook Msg |
 | 704 | Headlook Fb |

@@ -14,6 +14,6 @@ Returns true if the local player has user generated content privileges
 ## nPrivilegeType Values:
 | Value | Name |
 | --- | --- |
-| 69 | Everyone |
-| 70 | Friends |
+| 0 | Everyone |
+| 1 | Friends |
 

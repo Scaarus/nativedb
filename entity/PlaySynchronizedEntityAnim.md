@@ -11,7 +11,7 @@ bool PLAY_SYNCHRONIZED_ENTITY_ANIM(int SceneId, string AnimName, string AnimDict
 
 Play a synchronized anim on the entity using the synchronized scene provided. more info...
 
-Use this to add an entity with a specifically authored anim to a synchronized scene created with CREATE_SYNCHRONIZED_SCENE Note: as part of this process the entity's collision will be deactivated. To turn it back on again, use SET_ENTITY_COLLISION or pass a true value to the ActivateCollision parameter of STOP_SYNCHRONISED_ENTITY_ANIM.
+Use this to add an entity with a specifically authored anim to a synchronized scene created with CREATE_SYNCHRONIZED_SCENE Note: as part of this process the entity's collision will be deactivated. To turn it back on again, use [SET_ENTITY_COLLISION](#_0x1A9205C1B9EE827F) or pass a true value to the ActivateCollision parameter of STOP_SYNCHRONISED_ENTITY_ANIM.
 
 
 ## Parameters

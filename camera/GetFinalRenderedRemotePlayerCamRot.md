@@ -20,5 +20,4 @@ Gets the rotation of the final rendered cam for a remote player.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 

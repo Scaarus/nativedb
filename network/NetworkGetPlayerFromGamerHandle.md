@@ -6,7 +6,7 @@ aliases: ["0xce5f689cf5a0a49d"]
 
 ```c
 // 0xCE5F689CF5A0A49D
-Player NETWORK_GET_PLAYER_FROM_GAMER_HANDLE(gamer_handle gamerHandle);
+Player NETWORK_GET_PLAYER_FROM_GAMER_HANDLE(Any* gamerHandle);
 ```
 
 Returns player index of player in session matching handle (-1 if not in session)

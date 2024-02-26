@@ -6,7 +6,7 @@ aliases: ["0x5a0a3d1a186a5508"]
 
 ```c
 // 0x5A0A3D1A186A5508
-ugc_error UGC_GET_MODIFY_RESULT();
+int UGC_GET_MODIFY_RESULT();
 ```
 
 ## Return Type Values:

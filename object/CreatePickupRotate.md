@@ -20,7 +20,6 @@ Creates a pickup spawner which can be referenced by the script and will spawn a 
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 ## Parameters

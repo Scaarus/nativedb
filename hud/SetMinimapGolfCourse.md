@@ -14,14 +14,14 @@ sets the minimap to show the golf course and be in "golf course mode"
 ## iGolfCourseHole Values:
 | Value | Name |
 | --- | --- |
+| 0 | 2 |
 | 1 | 1 |
-| 883 | 2 |
-| 884 | 3 |
-| 885 | 4 |
-| 886 | 5 |
-| 887 | 6 |
-| 888 | 7 |
-| 889 | 8 |
-| 890 | 9 |
-| 891 | All |
+| 2 | 3 |
+| 3 | 4 |
+| 4 | 5 |
+| 5 | 6 |
+| 6 | 7 |
+| 7 | 8 |
+| 8 | 9 |
+| 9 | All |
 

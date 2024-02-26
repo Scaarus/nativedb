@@ -6,5 +6,5 @@ aliases: ["0xf06a6f41cb445443"]
 
 ```c
 // 0xF06A6F41CB445443
-void PLAYSTATS_BW_AIR_FREIGHT(scrbwairfreight data);
+void PLAYSTATS_BW_AIR_FREIGHT(Any* data);
 ```

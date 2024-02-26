@@ -13,10 +13,10 @@ void SET_INSTANCE_PRIORITY_HINT(int hint);
 | Value | Name |
 | --- | --- |
 | 0 | None |
-| 97 | Shooting |
-| 98 | Driving |
-| 99 | Sniping |
-| 100 | Helicam |
+| 1 | Shooting |
+| 2 | Driving |
+| 3 | Sniping |
+| 4 | Helicam |
 
 
 provide hint to game to strip out low priority map objects for specific types of missions

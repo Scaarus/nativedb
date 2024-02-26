@@ -14,10 +14,10 @@ Set the peds movment type during combat.
 ## PedCombatMoveType Values:
 | Value | Name |
 | --- | --- |
-| 193 | Stationary Stands Totally Still During Combat |
-| 194 | Defensive Seeks A Defensive Position. |
-| 195 | Willadvance Will Advance Forward In Combat |
-| 196 | Willretreat Will Retreat If The Enemy Gets Too Close |
+| 0 | Stationary (Stands Totally Still During Combat) |
+| 1 | Defensive (Seeks A Defensive Position.) |
+| 2 | Willadvance (Will Advance Forward In Combat) |
+| 3 | Willretreat (Will Retreat If The Enemy Gets Too Close) |
 
 
 COMBAT_MOVEMENT are in commands_ped.sch

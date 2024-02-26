@@ -14,6 +14,6 @@ Generate the pick up rope for cargobob
 ## pickupType Values:
 | Value | Name |
 | --- | --- |
-| 309 | Hook |
-| 310 | Magnet |
+| 0 | Hook |
+| 1 | Magnet |
 

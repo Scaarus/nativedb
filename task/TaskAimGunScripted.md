@@ -14,12 +14,12 @@ Gives player scripted gun task
 ## AimGunTaskType Values:
 | Value | Name |
 | --- | --- |
-| 271 | On Crate |
-| 272 | Hanging Upside Down |
-| 273 | On Rope |
-| 274 | Dingy Rpg |
-| 275 | Crate Rpg |
-| 276 | Crate Buddy |
-| 277 | Plane Wing |
-| 278 | Bike |
+| 0 | On Crate |
+| 1 | Hanging Upside Down |
+| 2 | On Rope |
+| 3 | Dingy Rpg |
+| 4 | Crate Rpg |
+| 5 | Crate Buddy |
+| 6 | Plane Wing |
+| 7 | Bike |
 

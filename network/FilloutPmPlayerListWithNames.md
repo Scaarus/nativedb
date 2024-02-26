@@ -6,17 +6,19 @@ aliases: ["0x716b6db9d1886106"]
 
 ```c
 // 0x716B6DB9D1886106
-bool FILLOUT_PM_PLAYER_LIST_WITH_NAMES(gamer_handle gamerHandles, text_label_63 gamerNames, int count, int type);
+bool FILLOUT_PM_PLAYER_LIST_WITH_NAMES(Any* gamerHandles, Any* gamerNames, int count, int type);
 ```
+
+Fills out the list of players in the PM Player List (clears the previous data).
 
 ## type Values:
 | Value | Name |
 | --- | --- |
+| 0 | Joined |
+| 1 | Corona Players |
+| 2 | Invitable Session Players |
+| 3 | Matched Players |
+| 4 | Corona Playlist |
+| 5 | Directory |
 | 100 | Last Job |
-| 250 | Joined |
-| 251 | Corona Players |
-| 252 | Invitable Session Players |
-| 253 | Matched Players |
-| 254 | Corona Playlist |
-| 255 | Directory |
 

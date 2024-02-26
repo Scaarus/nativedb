@@ -20,5 +20,4 @@ Gets whether the vehicle can be placed at the given location. This uses the low 
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 

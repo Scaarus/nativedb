@@ -6,13 +6,13 @@ aliases: ["0xf5bed327cea362b1"]
 
 ```c
 // 0xF5BED327CEA362B1
-photo_operation_status GET_STATUS_OF_SORTED_LIST_OPERATION(bool ScanForSaving);
+int GET_STATUS_OF_SORTED_LIST_OPERATION(bool ScanForSaving);
 ```
 
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 19 | Succeeded |
-| 20 | In Progress |
-| 21 | Failed |
+| 0 | Succeeded |
+| 1 | In Progress |
+| 2 | Failed |
 

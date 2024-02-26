@@ -11,5 +11,5 @@ void STOP_ANIM_TASK(Entity entity, string pAnimDictName, float fBlendOutDelta);
 
 Stops an anim task on a ped.
 
-Attempts to stop a play anim task initiated by TASK_PLAY_ANIM or TASK_PLAY_ANIM_ADVANCED
+Attempts to stop a play anim task initiated by [TASK_PLAY_ANIM](#_0xEA47FE3719165B94) or [TASK_PLAY_ANIM_ADVANCED](#_0x83CDB10EA29B370B)
 

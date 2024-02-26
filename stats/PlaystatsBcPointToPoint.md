@@ -6,5 +6,5 @@ aliases: ["0x73001e34f85137f8"]
 
 ```c
 // 0x73001E34F85137F8
-void PLAYSTATS_BC_POINT_TO_POINT(scrbcpointtopoint data);
+void PLAYSTATS_BC_POINT_TO_POINT(Any* data);
 ```

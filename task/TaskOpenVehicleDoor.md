@@ -17,14 +17,14 @@ Tells a ped to open a vehicle door.
 | -2 | Any Passenger |
 | -1 | Driver |
 | 0 | Front Right |
-| 35 | Back Left Back Left |
-| 36 | Back Right Back Right |
-| 37 | Extra Left 1 |
-| 38 | Extra Right 1 |
-| 39 | Extra Left 2 |
-| 40 | Extra Right 2 |
-| 41 | Extra Left 3 |
-| 42 | Extra Right 3 |
+| 1 | Back Left (Back Left) |
+| 2 | Back Right (Back Right) |
+| 3 | Extra Left 1 |
+| 4 | Extra Right 1 |
+| 5 | Extra Left 2 |
+| 6 | Extra Right 2 |
+| 7 | Extra Left 3 |
+| 8 | Extra Right 3 |
 
 
 If Time = -1 the ped will never warp to the vehicle.

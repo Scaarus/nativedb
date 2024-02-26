@@ -10,6 +10,7 @@ void PAUSE_TOGGLE_FULLSCREEN_MAP(bool Open);
 ```
 
 Toggles between fullscreen pause map and menu previously open
+
 Use to allow spectator fullscreen viewingnavigation of race map
 
 

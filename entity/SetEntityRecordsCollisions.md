@@ -9,5 +9,5 @@ aliases: ["0x0a50a1eedad01e65"]
 void SET_ENTITY_RECORDS_COLLISIONS(bool RecordsCollision);
 ```
 
-This command must be called with TRUE before you can use HAS_ENTITY_COLLIDED_WITH_ANYTHING.
+This command must be called with TRUE before you can use [HAS_ENTITY_COLLIDED_WITH_ANYTHING](#_0x8BAD02F0368D9E14).
 

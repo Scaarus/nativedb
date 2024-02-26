@@ -6,7 +6,7 @@ aliases: ["0x593feae1f73392d4"]
 
 ```c
 // 0x593FEAE1F73392D4
-frontend_menu_screen GET_SCREEN_CODE_WANTS_SCRIPT_TO_CONTROL();
+int GET_SCREEN_CODE_WANTS_SCRIPT_TO_CONTROL();
 ```
 
 This should only be called once CommandCodeWantsScriptToTakeControl returns true and will give the id of the screen code wants script to populate

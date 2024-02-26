@@ -15,6 +15,6 @@ Determines which of the two previous briefs screens (dialogue or god text) the n
 | Value | Name |
 | --- | --- |
 | 0 | No Override |
-| 1257 | Force Dialogue |
-| 1258 | Force God Text |
+| 1 | Force Dialogue |
+| 2 | Force God Text |
 

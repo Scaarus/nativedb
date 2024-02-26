@@ -14,9 +14,9 @@ Set the peds combat level.
 ## PedCombatAbilityType Values:
 | Value | Name |
 | --- | --- |
-| 197 | Poor Ped Has Low Combat Ability |
-| 198 | Average Ped Has Average Combat Ability |
-| 199 | Professional Ped Has High Combat Ability |
+| 0 | Poor (Ped Has Low Combat Ability) |
+| 1 | Average (Ped Has Average Combat Ability) |
+| 2 | Professional (Ped Has High Combat Ability) |
 
 
 COMBAT_ABILITY_LEVEL are in commands_ped.sch

@@ -14,5 +14,5 @@ Takes an integer and converts it to a string. Use ~a~ to mark the position in yo
 ## FormattingFlags Values:
 | Value | Name |
 | --- | --- |
-| 1 |  |
+| 1 | Integer Format Comma Separators |
 

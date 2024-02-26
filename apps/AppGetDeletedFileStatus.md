@@ -6,7 +6,7 @@ aliases: ["0xc9853a2be3ded1a6"]
 
 ```c
 // 0xC9853A2BE3DED1A6
-app_data_net_status APP_GET_DELETED_FILE_STATUS();
+int APP_GET_DELETED_FILE_STATUS();
 ```
 
 Returns the current status of the deleted file

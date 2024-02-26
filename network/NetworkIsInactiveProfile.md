@@ -6,7 +6,7 @@ aliases: ["0x7e58745504313a2e"]
 
 ```c
 // 0x7E58745504313A2E
-bool NETWORK_IS_INACTIVE_PROFILE(gamer_handle gamerHandle);
+bool NETWORK_IS_INACTIVE_PROFILE(Any* gamerHandle);
 ```
 
 Checks if a handle is an inactive profile

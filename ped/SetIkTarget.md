@@ -15,12 +15,12 @@ Sets the IK target for a given IK part belonging to the ped. The IK target will 
 | Value | Name |
 | --- | --- |
 | 0 | Invalid |
-| 176 | Head |
-| 177 | Spine |
-| 178 | Arm Left |
-| 179 | Arm Right |
-| 180 | Leg Left |
-| 181 | Leg Right |
+| 1 | Head |
+| 2 | Spine |
+| 3 | Arm Left |
+| 4 | Arm Right |
+| 5 | Leg Left |
+| 6 | Leg Right |
 
 
 ## Flags Values:

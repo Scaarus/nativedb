@@ -9,6 +9,5 @@ aliases: ["0xbc9cff381338cb4f"]
 bool GET_VEHICLE_HAS_PARACHUTE();
 ```
 
-Info:
 PURPOSE returns true if a vehicle has a parachute
 

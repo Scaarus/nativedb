@@ -6,7 +6,7 @@ aliases: ["0xa989044e70010abe"]
 
 ```c
 // 0xA989044E70010ABE
-bool NETWORK_CLAN_DOWNLOAD_MEMBERSHIP(gamer_handle gamerHandle);
+bool NETWORK_CLAN_DOWNLOAD_MEMBERSHIP(Any* gamerHandle);
 ```
 
 Download a Gamer Crew membership description.

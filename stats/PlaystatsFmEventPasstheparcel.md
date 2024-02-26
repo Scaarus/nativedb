@@ -6,5 +6,5 @@ aliases: ["0x419615486bbf1956"]
 
 ```c
 // 0x419615486BBF1956
-void PLAYSTATS_FM_EVENT_PASSTHEPARCEL(scrfmeventambmission_passtheparcel data);
+void PLAYSTATS_FM_EVENT_PASSTHEPARCEL(Any* data);
 ```

@@ -9,7 +9,7 @@ aliases: ["0xbc8983f38f78ed51"]
 void FORCE_CLEANUP(int ForceCleanupBitField);
 ```
 
-This command will cause all scripts that are listening for the given force cleanup event to jump back to the HAS_FORCE_CLEANUP_OCCURRED line and continue processing from there.
+This command will cause all scripts that are listening for the given force cleanup event to jump back to the [HAS_FORCE_CLEANUP_OCCURRED](#_0xC968670BFACE42D9) line and continue processing from there.
 
 
 ## Parameters

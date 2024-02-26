@@ -10,5 +10,6 @@ void OVERRIDE_MP_TEXT_CHAT_TEAM_STRING(int iOverrideHash);
 ```
 
 Allow commans to be used in conjuntion with the file name keyboard type.
+
 Must be set before opening the text input box. Will automatically return to false once the text input box closes.
 

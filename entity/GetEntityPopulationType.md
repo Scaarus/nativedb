@@ -6,7 +6,7 @@ aliases: ["0xf6f5161f4534edff"]
 
 ```c
 // 0xF6F5161F4534EDFF
-entity_population_type GET_ENTITY_POPULATION_TYPE(Entity entity);
+int GET_ENTITY_POPULATION_TYPE(Entity entity);
 ```
 
 Returns the population type of the entity

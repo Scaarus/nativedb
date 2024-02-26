@@ -6,7 +6,7 @@ aliases: ["0xef01d36b9c9d0c7b"]
 
 ```c
 // 0xEF01D36B9C9D0C7B
-void ACTIVATE_FRONTEND_MENU(frontend_menu_version iMenuVersion, bool PauseGame, int HighlightTab);
+void ACTIVATE_FRONTEND_MENU(Any* iMenuVersion, bool PauseGame, int HighlightTab);
 ```
 
 opens frontend menu

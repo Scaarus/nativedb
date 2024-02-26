@@ -9,5 +9,5 @@ aliases: ["0xe64a3ca08dfa37a9"]
 bool NETWORK_ENTITY_AREA_DOES_EXIST(int areaID);
 ```
 
-Checks if areaID is valid and points to an existing entityArea The areaID is the ID returned by NETWORK_ADD_ENTITY_AREA
+Checks if areaID is valid and points to an existing entityArea The areaID is the ID returned by [NETWORK_ADD_ENTITY_AREA](#_0x494C8FB299290269)
 

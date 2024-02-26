@@ -10,5 +10,6 @@ int SC_INBOX_GET_TOTAL_NUM_MESSAGES();
 ```
 
 Get the total number of messages in the inbox available to be processed
+
 This number may change (bigger or smaller) as we refresh our local inbox
 

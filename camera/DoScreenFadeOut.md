@@ -9,5 +9,5 @@ aliases: ["0x891b5b39ac6302af"]
 void DO_SCREEN_FADE_OUT(int time);
 ```
 
-Fade OUT the main viewport with fade TO black. More info
+Fade OUT the main viewport with fade TO black.
 

@@ -6,7 +6,7 @@ aliases: ["0x4645de9980999e93"]
 
 ```c
 // 0x4645DE9980999E93
-bool UGC_UPDATE_MISSION(string szContentID, string szDisplayName, ugc_description szDesc, ugc_description szTags, string szContentType, int datafileIndex);
+bool UGC_UPDATE_MISSION(string szContentID, string szDisplayName, Any* szDesc, Any* szTags, string szContentType, int datafileIndex);
 ```
 
 Update a UGC file - (optionally) build an updated UGC header using datafile commands before calling this. The parameters are all optional. Pass in NULL for any that should not be updated.

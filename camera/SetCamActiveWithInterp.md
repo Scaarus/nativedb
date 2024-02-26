@@ -15,9 +15,9 @@ Sets a cam active which will interpolated too.
 | Value | Name |
 | --- | --- |
 | 0 | Linear |
-| 1 | Sin Accel Decel Accelerates At Start, Decelerates At End |
-| 2 | Accel Just Acceleration |
-| 3 | Decel Just Deceleration |
+| 1 | Sin Accel Decel (Accelerates At Start, Decelerates At End) |
+| 2 | Accel (Just Acceleration) |
+| 3 | Decel (Just Deceleration) |
 | 4 | Slow In |
 | 5 | Slow Out |
 | 6 | Slow In Out |
@@ -43,7 +43,7 @@ Sets a cam active which will interpolated too.
 | 26 | Circular Ease In |
 | 27 | Circular Ease Out |
 | 28 | Circular Ease In Out |
-| 29 | Max The Maximum Number Of Graph Types, Do Not Use. |
+| 29 | Max (The Maximum Number Of Graph Types, Do Not Use.) |
 
 
 ## Parameters

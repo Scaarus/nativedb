@@ -11,5 +11,5 @@ void SET_PED_DUCKING(Ped ped, bool Duck);
 
 Sets a ped to a ducking pose.
 
-make sure that SET_PED_ALLOWED_TO_DUCK is set true
+make sure that [SET_PED_ALLOWED_TO_DUCK](#_0xDA1F1B7BE1A8766F) is set true
 

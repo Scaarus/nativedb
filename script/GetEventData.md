@@ -6,7 +6,7 @@ aliases: ["0x2902843fcd2b2d79"]
 
 ```c
 // 0x2902843FCD2B2D79
-bool GET_EVENT_DATA(int eventQueue, int eventIndex, struct data, int dataSize);
+bool GET_EVENT_DATA(int eventQueue, int eventIndex, Any* data, int dataSize);
 ```
 
 Retrieves data from the event. One of the structures defined about is passed in and filled out.
@@ -14,8 +14,7 @@ Retrieves data from the event. One of the structures defined about is passed in 
 ## eventQueue Values:
 | Value | Name |
 | --- | --- |
-| 0 | SCRIPT_EVENT_QUEUE_AI |
-| 1 | SCRIPT_EVENT_QUEUE_NETWORK |
-| 2 | SCRIPT_EVENT_QUEUE_ERRORS |
-| 3 | NUM_SCRIPT_EVENT_QUEUES |
+| 0 | Ai |
+| 1 | Network |
+| 2 | Errors |
 

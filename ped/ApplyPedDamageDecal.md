@@ -15,13 +15,13 @@ Applies a ped damage decoration (decal) to the ped, using the data defined in th
 | Value | Name |
 | --- | --- |
 | 0 | Torso |
-| 160 | Head |
-| 161 | Left Arm |
-| 162 | Right Arm |
-| 163 | Left Leg |
-| 164 | Right Leg |
-| 165 | Medals |
-| 166 | Invalid |
+| 1 | Head |
+| 2 | Left Arm |
+| 3 | Right Arm |
+| 4 | Left Leg |
+| 5 | Right Leg |
+| 6 | Medals |
+| 7 | Invalid |
 
 
 you can use the widgets in "Peds/Ped Damage/Test Damage Decals by UV (Interactive)" to test u,v values for different zones, etc

@@ -26,7 +26,7 @@ gets the position of this hud component value
 | 9 | Help Text |
 | 10 | Floating Help Text 1 |
 | 11 | Floating Help Text 2 |
-| 12 | Cash Change Used To Be New Hud Floating Help Text 3 |
+| 12 | Cash Change (Used To Be New Hud Floating Help Text 3) |
 | 13 | Reticle |
 | 14 | Subtitle Text |
 | 15 | Radio Stations |

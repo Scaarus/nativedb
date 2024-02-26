@@ -6,7 +6,7 @@ aliases: ["0x1a24a179f9b31654"]
 
 ```c
 // 0x1A24A179F9B31654
-bool NETWORK_IS_FRIEND(gamer_handle gamerHandle);
+bool NETWORK_IS_FRIEND(Any* gamerHandle);
 ```
 
 Checks if player represented by this gamer handle is a friend of the local player

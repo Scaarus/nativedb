@@ -15,25 +15,25 @@ Returns the bone index of the given ragdoll component. Only used for APPLY_FORCE
 | Value | Name |
 | --- | --- |
 | 0 | Pelvis |
-| 6 | Thigh L |
-| 7 | Calf L |
-| 8 | Foot L |
-| 9 | Thigh R |
-| 10 | Calf R |
-| 11 | Foot R |
-| 12 | Spine |
-| 13 | Spine1 |
-| 14 | Spine2 |
-| 15 | Spine3 |
-| 16 | Clavicle L |
-| 17 | Upperarm L |
-| 18 | Lowerarm L |
-| 19 | Hand L |
-| 20 | Clavicle R |
-| 21 | Upperarm R |
-| 22 | Lowerarm R |
-| 23 | Hand R |
-| 24 | Neck |
-| 25 | Head |
-| 26 | Num Components |
+| 1 | Thigh L |
+| 2 | Calf L |
+| 3 | Foot L |
+| 4 | Thigh R |
+| 5 | Calf R |
+| 6 | Foot R |
+| 7 | Spine |
+| 8 | Spine1 |
+| 9 | Spine2 |
+| 10 | Spine3 |
+| 11 | Clavicle L |
+| 12 | Upperarm L |
+| 13 | Lowerarm L |
+| 14 | Hand L |
+| 15 | Clavicle R |
+| 16 | Upperarm R |
+| 17 | Lowerarm R |
+| 18 | Hand R |
+| 19 | Neck |
+| 20 | Head |
+| 21 | Num Components |
 

@@ -6,8 +6,10 @@ aliases: ["0x9a62ec95ae10e011"]
 
 ```c
 // 0x9A62EC95AE10E011
-migrate_save STAT_MIGRATE_SAVEGAME_GET_STATUS();
+int STAT_MIGRATE_SAVEGAME_GET_STATUS();
 ```
+
+Migrate savegames from previous generation console.
 
 ## Return Type Values:
 | Value | Name |

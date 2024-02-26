@@ -14,11 +14,10 @@ Sets the global view mode used by all follow-ped cameras. Please note that the f
 ## ViewMode Values:
 | Value | Name |
 | --- | --- |
-| 0 | CAM_VIEW_MODE_THIRD_PERSON_NEAR |
-| 38 | CAM_VIEW_MODE_THIRD_PERSON_MEDIUM |
-| 39 | CAM_VIEW_MODE_THIRD_PERSON_FAR |
-| 40 | CAM_VIEW_MODE_CINEMATIC |
-| 41 | CAM_VIEW_MODE_FIRST_PERSON |
-| 42 | NUM_CAM_VIEW_MODES |
-| 43 | CAM_VIEW_MODE_THIRD_PERSON |
+| 0 | Third Person Near |
+| 1 | Third Person Medium |
+| 2 | Third Person Far |
+| 3 | Cinematic |
+| 4 | First Person |
+| 6 | Third Person |
 

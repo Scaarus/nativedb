@@ -9,7 +9,7 @@ aliases: ["0x16160da74a8e74a2"]
 int TEXTURE_DOWNLOAD_REQUEST(string cloudPath, string textureName, bool useCacheWithoutCloudChecks);
 ```
 
-Requests to download a texture from member space. The texture will not be immediately available; the user needs to query its state by calling TEXTURE_DOWNLOAD_HAS_FAILED, TEXTURE_DOWNLOAD_GET_NAME or GET_STATUS_OF_TEXTURE_DOWNLOAD
+Requests to download a texture from member space. The texture will not be immediately available; the user needs to query its state by calling [TEXTURE_DOWNLOAD_HAS_FAILED](#_0x5776ED562C134687), [TEXTURE_DOWNLOAD_GET_NAME](#_0x3448505B6E35262D) or [GET_STATUS_OF_TEXTURE_DOWNLOAD](#_0x8BD6C6DEA20E82C6)
 
 
 ## Parameters

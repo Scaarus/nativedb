@@ -15,8 +15,8 @@ Has a timer for a specific stuck check expired.
 | Value | Name |
 | --- | --- |
 | 0 | On Roof |
-| 330 | On Side |
-| 331 | Hung Up |
-| 332 | Jammed |
-| 333 | Reset All |
+| 1 | On Side |
+| 2 | Hung Up |
+| 3 | Jammed |
+| 4 | Reset All |
 

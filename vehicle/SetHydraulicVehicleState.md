@@ -15,10 +15,10 @@ Sets the state of all the vehicle wheels
 | Value | Name |
 | --- | --- |
 | 0 | Wheel Free |
-| 337 | Wheel Locked |
-| 338 | Wheel Bounce |
-| 339 | All Free |
-| 340 | All Lock Up |
-| 341 | All Lock Down |
-| 342 | All Bounce |
+| 1 | Wheel Locked |
+| 2 | Wheel Bounce |
+| 3 | All Free |
+| 4 | All Lock Up |
+| 5 | All Lock Down |
+| 6 | All Bounce |
 

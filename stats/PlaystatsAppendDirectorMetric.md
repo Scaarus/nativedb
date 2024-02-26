@@ -6,7 +6,7 @@ aliases: ["0x46326e13da4e0546"]
 
 ```c
 // 0x46326E13DA4E0546
-void PLAYSTATS_APPEND_DIRECTOR_METRIC(videoclipmetric value);
+void PLAYSTATS_APPEND_DIRECTOR_METRIC(Any* value);
 ```
 
 Metric used to track the cheaters pulling the cable in heists

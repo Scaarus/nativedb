@@ -6,7 +6,7 @@ aliases: ["0x9f7794730795e019"]
 
 ```c
 // 0x9F7794730795E019
-void SET_PED_COMBAT_ATTRIBUTES(Ped ped, combat_attribute CombatAttribute, bool ActiveSkill);
+void SET_PED_COMBAT_ATTRIBUTES(Ped ped, Any* CombatAttribute, bool ActiveSkill);
 ```
 
 Activate or deactivate the combat attributes, flags can be or'ed together.

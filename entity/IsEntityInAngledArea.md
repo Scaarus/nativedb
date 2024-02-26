@@ -14,9 +14,9 @@ Checks if a ped is in non axis aligned area, defined by coords of a face and dis
 ## TM_MODE Values:
 | Value | Name |
 | --- | --- |
-| 0 | Any Any Mode Of Transport Bike, Car Plane, On Foot Etc |
-| 1 | On Foot The Ped Is On Foot |
-| 2 | In Vehicle The Ped Is In A Vehicle Not On Foot |
+| 0 | Any (Any Mode Of Transport Bike, Car Plane, On Foot Etc) |
+| 1 | On Foot (The Ped Is On Foot) |
+| 2 | In Vehicle (The Ped Is In A Vehicle Not On Foot) |
 
 
 VecCoors1 and VecCoors2 define the midpoints of two parallel sides and AreaWidth is the width of these sides.

@@ -14,14 +14,14 @@ Overrides the third person camera to be a Table Games Camera on this update only
 ## cameraType Values:
 | Value | Name |
 | --- | --- |
-| 80 | Black Jack |
-| 81 | Lucky Wheel |
-| 82 | Slot Machine |
-| 83 | Roulette |
-| 84 | Poker |
-| 85 | Inside Track |
-| 86 | Love Professor P1 |
-| 87 | Love Professor P2 |
+| 0 | Black Jack |
+| 1 | Lucky Wheel |
+| 2 | Slot Machine |
+| 3 | Roulette |
+| 4 | Poker |
+| 5 | Inside Track |
+| 6 | Love Professor P1 |
+| 7 | Love Professor P2 |
 
 
 ## Parameters

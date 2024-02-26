@@ -27,7 +27,6 @@ Play a camera animation on the specified camera. Note that the animation must al
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 ## Parameters

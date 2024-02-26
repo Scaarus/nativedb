@@ -9,5 +9,5 @@ aliases: ["0x060d6e96f8b8e48d"]
 bool DOES_ENTITY_HAVE_DRAWABLE(Entity entity);
 ```
 
-PLAY_ENTITY_ANIM and PLAY_SYNCHRONIZED_ENTITY_ANIM require the entity to have a drawable. You can use this command to check that the entity has a drawable before attempting to play the anim.
+[PLAY_ENTITY_ANIM](#_0x7FB218262B810701) and [PLAY_SYNCHRONIZED_ENTITY_ANIM](#_0xC77720A12FE14A86) require the entity to have a drawable. You can use this command to check that the entity has a drawable before attempting to play the anim.
 

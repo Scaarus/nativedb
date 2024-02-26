@@ -6,7 +6,7 @@ aliases: ["0x648e7a5434af7969"]
 
 ```c
 // 0x648E7A5434AF7969
-bool UGC_UPDATE_CONTENT(string szContentID, ugc_paths_struct szFilePaths, int nFiles, string szDisplayName, ugc_description szDesc, ugc_description szTags, string szContentType, int datafileIndex);
+bool UGC_UPDATE_CONTENT(string szContentID, Any* szFilePaths, int nFiles, string szDisplayName, Any* szDesc, Any* szTags, string szContentType, int datafileIndex);
 ```
 
 Update a UGC file - (optionally) build an updated UGC header using datafile commands before calling this. The parameters are all optional. Pass in NULL for any that should not be updated.

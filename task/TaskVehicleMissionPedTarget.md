@@ -15,67 +15,67 @@ Tells a ped in a vehicle to target another ped in a vehicle.
 | Value | Name |
 | --- | --- |
 | 0 | None |
-| 1 | Cruise 1 |
-| 2 | Ram 2 |
-| 3 | Block 3 |
-| 4 | Goto 4 |
-| 5 | Stop 5 |
-| 6 | Attack 6 |
-| 7 | Follow 7 |
-| 8 | Flee 8 |
-| 9 | Circle 9 |
-| 10 | Escort Left 10 |
-| 11 | Escort Right 11 |
-| 12 | Escort Rear 12 |
-| 13 | Escort Front 13 |
-| 14 | Goto Racing 14 |
-| 15 | Follow Recording 15 |
-| 16 | Police Behaviour 16 |
-| 17 | Park Perpendicular 17 |
-| 18 | Park Parallel 18 |
-| 19 | Land 19 |
-| 20 | Land And Wait 20 |
-| 21 | Crash 21 |
-| 22 | Pull Over 22 |
-| 23 | Protect 23 |
+| 1 | Cruise (1) |
+| 2 | Ram (2) |
+| 3 | Block (3) |
+| 4 | Goto (4) |
+| 5 | Stop (5) |
+| 6 | Attack (6) |
+| 7 | Follow (7) |
+| 8 | Flee (8) |
+| 9 | Circle (9) |
+| 10 | Escort Left (10) |
+| 11 | Escort Right (11) |
+| 12 | Escort Rear (12) |
+| 13 | Escort Front (13) |
+| 14 | Goto Racing (14) |
+| 15 | Follow Recording (15) |
+| 16 | Police Behaviour (16) |
+| 17 | Park Perpendicular (17) |
+| 18 | Park Parallel (18) |
+| 19 | Land (19) |
+| 20 | Land And Wait (20) |
+| 21 | Crash (21) |
+| 22 | Pull Over (22) |
+| 23 | Protect (23) |
 
 
 ## mode Values:
 | Value | Name |
 | --- | --- |
-| 1 | F Stopforcars |
-| 2 | F Stopforpeds |
-| 4 | F Swervearoundallcars |
-| 8 | F Steeraroundstationarycars |
-| 16 | F Steeraroundpeds |
-| 32 | F Steeraroundobjects |
-| 64 | F Dontsteeraroundplayerped |
-| 128 | F Stopatlights |
-| 146 | F Useshortcutlinks |
-| 147 | F Useswitchedoffnodes Cruise Tasks Ignore This Anyway--Only Used For Goto'S |
-| 148 | F Prefernavmeshroute If You'Re Going To Be Primarily Driving Off Road |
-| 149 | F Planetaximode |
-| 256 | F Gooffroadwhenavoiding |
-| 512 | F Driveintooncomingtraffic |
-| 1024 | F Driveinreverse |
-| 2048 | F Usewanderfallbackinsteadofstraightline |
-| 4096 | F Avoidrestrictedareas |
-| 8192 | F Preventbackgroundpathfinding |
-| 16384 | F Adjustcruisespeedbasedonroadspeed |
-| 262144 | Rivingmode Ploughthrough |
-| 262275 | Rivingmode Stopforcars Strict |
-| 524288 | F Changelanesaroundobstructions |
-| 786468 | Rivingmode Avoidcars Reckless |
-| 786469 | Rivingmode Avoidcars |
-| 786475 | Rivingmode Stopforcars Ignorelights |
-| 786597 | Rivingmode Avoidcars Obeylights |
-| 786599 | Rivingmode Avoidcars Stopforpeds Obeylights |
-| 786603 | Rivingmode Stopforcars |
-| 16777216 | F Forcestraightline |
-| 33554432 | F Usestringpullingatjunctions |
-| 536870912 | F Avoidhighways |
-| 1073741824 | F Forcejoininroaddirection |
+| 0 | DF_UseShortCutLinks |
+| 1 | DF_StopForCars |
+| 2 | DF_StopForPeds |
+| 3 | DF_UseSwitchedOffNodes (cruise tasks ignore this anyway--only used for goto's) |
+| 4 | DF_SwerveAroundAllCars |
+| 5 | DF_PreferNavmeshRoute (if you're going to be primarily driving off road) |
+| 6 | DF_PlaneTaxiMode |
+| 8 | DF_SteerAroundStationaryCars |
+| 16 | DF_SteerAroundPeds |
+| 32 | DF_SteerAroundObjects |
+| 64 | DF_DontSteerAroundPlayerPed |
+| 128 | DF_StopAtLights |
+| 256 | DF_GoOffRoadWhenAvoiding |
+| 512 | DF_DriveIntoOncomingTraffic |
+| 1024 | DF_DriveInReverse |
+| 2048 | DF_UseWanderFallbackInsteadOfStraightLine |
+| 4096 | DF_AvoidRestrictedAreas |
+| 8192 | DF_PreventBackgroundPathfinding |
+| 16384 | DF_AdjustCruiseSpeedBasedOnRoadSpeed |
+| 262144 | DRIVINGMODE_PLOUGHTHROUGH |
+| 262275 | DRIVINGMODE_STOPFORCARS_STRICT |
+| 524288 | DF_ChangeLanesAroundObstructions |
+| 786468 | DRIVINGMODE_AVOIDCARS_RECKLESS |
+| 786469 | DRIVINGMODE_AVOIDCARS |
+| 786475 | DRIVINGMODE_STOPFORCARS_IGNORELIGHTS |
+| 786597 | DRIVINGMODE_AVOIDCARS_OBEYLIGHTS |
+| 786599 | DRIVINGMODE_AVOIDCARS_STOPFORPEDS_OBEYLIGHTS |
+| 786603 | DRIVINGMODE_STOPFORCARS |
+| 16777216 | DF_ForceStraightLine |
+| 33554432 | DF_UseStringPullingAtJunctions |
+| 536870912 | DF_AvoidHighways |
+| 1073741824 | DF_ForceJoinInRoadDirection |
 
 
-INT TargetReached (the distance at which the ai thinks the target has been reached and the car stops) FLOAT StraightLineDist (the distance at which the ai switches to heading for the target directly instead of following the nodes) (just like in sa) To pick default values (recommended) both parameters can be passed in as -1. Use TASK_CAR_MISSION_PED_TARGET to target another ped instead of a vehicle. The task status is the same as that for TASK_CAR_MISSION, i.e. use GET_SCRIPT_TASK_STATUS(a_ped, SCRIPT_TASK_CAR_MISSION, my_status) to check for both commands. TASK_CAR_MISSION_NOT_AGAINST_TRAFFIC does exaclt the same apart from the fact it won't allow cars to drive against the flow of traffic. TASK_CAR_MISSION does allow cars to drive agains the flow of traffic. DriveAgainstTraffic being true allows the car to drive on the opposite side of the road into incoming traffic
+INT TargetReached (the distance at which the ai thinks the target has been reached and the car stops) FLOAT StraightLineDist (the distance at which the ai switches to heading for the target directly instead of following the nodes) (just like in sa) To pick default values (recommended) both parameters can be passed in as -1. Use TASK_CAR_MISSION_PED_TARGET to target another ped instead of a vehicle. The task status is the same as that for TASK_CAR_MISSION, i.e. use [GET_SCRIPT_TASK_STATUS](#_0x77F1BEB8863288D5)(a_ped, SCRIPT_TASK_CAR_MISSION, my_status) to check for both commands. TASK_CAR_MISSION_NOT_AGAINST_TRAFFIC does exaclt the same apart from the fact it won't allow cars to drive against the flow of traffic. TASK_CAR_MISSION does allow cars to drive agains the flow of traffic. DriveAgainstTraffic being true allows the car to drive on the opposite side of the road into incoming traffic
 

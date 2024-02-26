@@ -14,5 +14,5 @@ Default behaviour is to save the defaul slot (0) and the current slot that the p
 ## saveType Values:
 | Value | Name |
 | --- | --- |
-| 38 |  |
+| 0 | Stat Savetype Default |
 

@@ -13,7 +13,7 @@ void SET_INSTANCE_PRIORITY_MODE(int mode);
 | Value | Name |
 | --- | --- |
 | 0 | Singleplayer |
-| 96 | Multiplayer |
+| 1 | Multiplayer |
 
 
 tell the game if we're changing between single player and multiplayer, so we can strip out low priority map objects

@@ -14,18 +14,17 @@ sets the style of the floating help text
 ## id Values:
 | Value | Name |
 | --- | --- |
-| 0 | FLOATING_HELP_TEXT_ID_1 |
-| 857 | FLOATING_HELP_TEXT_ID_2 |
-| 858 | MAX_FLOATING_HELP_TEXT_IDS |
+| 0 | 1 |
+| 1 | 2 |
 
 
 ## style Values:
 | Value | Name |
 | --- | --- |
 | 0 | Normal |
-| 999 | Taggable |
-| 1000 | Ammunation |
-| 1001 | Mp Freemode |
+| 1 | Taggable |
+| 2 | Ammunation |
+| 3 | Mp Freemode |
 
 
 ## colour Values:
@@ -159,7 +158,7 @@ sets the style of the floating help text
 | 125 | Damage |
 | 126 | Pinklight |
 | 127 | Pm Mitem Highlight |
-| 128 | Script Variable Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command |
+| 128 | Script Variable (Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command) |
 | 129 | Yoga |
 | 130 | Tennis |
 | 131 | Golf |
@@ -196,7 +195,7 @@ sets the style of the floating help text
 | 162 | Chop |
 | 163 | Pausemap Tint Half |
 | 164 | North Blue Official |
-| 165 | Script Variable 2 Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command |
+| 165 | Script Variable 2 (Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command) |
 | 166 | H |
 | 167 | Hdark |
 | 168 | T |
@@ -271,8 +270,8 @@ sets the style of the floating help text
 ## iArrowPosition Values:
 | Value | Name |
 | --- | --- |
+| 0 | East |
 | 1 | North |
-| 910 | East |
-| 911 | South |
-| 912 | West |
+| 2 | South |
+| 3 | West |
 

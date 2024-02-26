@@ -20,7 +20,6 @@ Gets the authored initial offset included by the animator, if any.
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 Used when playing multiple anims together using TASK_PLAY_ANIM. This function returns the position offset that will be automatically applied when playing the specified anim using the anim flag AF_EXTRACT_INITIAL_OFFSET from the initial position and orientation specified

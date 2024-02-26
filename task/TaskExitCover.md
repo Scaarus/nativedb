@@ -6,7 +6,7 @@ aliases: ["0x79b258e397854d29"]
 
 ```c
 // 0x79B258E397854D29
-void TASK_EXIT_COVER(cover_exit_type ExitType, Vector3 TargetPosition);
+void TASK_EXIT_COVER(Any* ExitType, Vector3 TargetPosition);
 ```
 
 Makes a ped in cover exit cleanly

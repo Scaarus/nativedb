@@ -15,7 +15,7 @@ Please keep all NATIVE definitions to a single line of code, to simplify some ex
 | Value | Name |
 | --- | --- |
 | 0 | Normal |
-| 115 | Clear |
-| 116 | Critical |
-| 117 | Lead In |
+| 1 | Clear |
+| 2 | Critical |
+| 3 | Lead In |
 

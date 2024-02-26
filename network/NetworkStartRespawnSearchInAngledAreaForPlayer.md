@@ -28,5 +28,5 @@ This command initiates a search for spawn coordinates using the navmesh, using a
 | 2048 | Prefer Randomness |
 
 
-See 'NETWORK_START_RESPAWN_SEARCH_FOR_PLAYER' above
+See '[NETWORK_START_RESPAWN_SEARCH_FOR_PLAYER](#_0x5A6FFA2433E2F14C)' above
 

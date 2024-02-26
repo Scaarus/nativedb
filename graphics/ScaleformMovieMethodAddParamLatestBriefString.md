@@ -15,6 +15,6 @@ Allows you to pass the latest help text string (of the passed type) to a scalefo
 | Value | Name |
 | --- | --- |
 | 0 | Dialog |
-| 40 | Help |
-| 41 | Mission |
+| 1 | Help |
+| 2 | Mission |
 

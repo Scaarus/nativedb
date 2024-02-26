@@ -11,9 +11,3 @@ bool UGC_GET_BOOKMARKED_CONTENT(int nOffset, int nMaxCount, string szContentType
 
 Gets UGC via pre-defined queries
 
-
-## Parameters
-* **nOffset**: Where to start reading content from (i.e. 10 will start reading from content item 10)
-* **nMaxCount**: 
-* **szContentType**: 
-* **descriptionsId**: 

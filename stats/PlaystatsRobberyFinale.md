@@ -6,7 +6,7 @@ aliases: ["0xbba55be9aaaabf44"]
 
 ```c
 // 0xBBA55BE9AAAABF44
-void PLAYSTATS_ROBBERY_FINALE(struct_robbery_finale data);
+void PLAYSTATS_ROBBERY_FINALE(Any* data);
 ```
 
 triggers after a Tuner Robbery finale mission has ended

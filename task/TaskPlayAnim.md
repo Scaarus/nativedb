@@ -17,6 +17,7 @@ Plays a anim task on a ped.
 | 0 | Default |
 | 1 | Looping |
 | 2 | Hold Last Frame |
+| 3 | Disable Forced Physics Update (Prevent Adjusting The Capsule On The Enter State (Useful If Script Is Doing A Sequence Of Scripted Anims And They Are Known To More Or Less Stand Still)) |
 | 4 | Reposition When Finished |
 | 8 | Not Interruptable |
 | 16 | Upperbody |
@@ -24,7 +25,6 @@ Plays a anim task on a ped.
 | 64 | Reorient When Finished |
 | 128 | Abort On Ped Movement |
 | 256 | Additive |
-| 264 | Disable Forced Physics Update Prevent Adjusting The Capsule On The Enter State (Useful If Script Is Doing A Sequence Of Scripted Anims And They Are Known To More Or Less Stand Still) |
 | 512 | Turn Off Collision |
 | 1024 | Override Physics |
 | 2048 | Ignore Gravity |

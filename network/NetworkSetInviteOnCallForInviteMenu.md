@@ -6,8 +6,5 @@ aliases: ["0x66f010a4b031a331"]
 
 ```c
 // 0x66F010A4B031A331
-void NETWORK_SET_INVITE_ON_CALL_FOR_INVITE_MENU(gamer_handle gamerHandle);
+void NETWORK_SET_INVITE_ON_CALL_FOR_INVITE_MENU(Any* gamerHandle);
 ```
-
-Changes the "Invited" text next to the rank by the gamer name in the player list invite menus
-

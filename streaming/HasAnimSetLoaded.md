@@ -11,5 +11,5 @@ bool HAS_ANIM_SET_LOADED(string animSetName);
 
 Return if an animation set is in memory.
 
-See the notes for REQUEST_ANIM_SET above
+See the notes for [REQUEST_ANIM_SET](#_0x6EA47DAE7FAD0EED) above
 

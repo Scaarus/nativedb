@@ -15,8 +15,8 @@ Control an aircraft's landing gear
 | Value | Name |
 | --- | --- |
 | 0 | Deploy |
-| 187 | Retract |
-| 188 | Deploy Instant |
-| 189 | Retract Instant |
-| 190 | Break |
+| 1 | Retract |
+| 2 | Deploy Instant |
+| 3 | Retract Instant |
+| 4 | Break |
 

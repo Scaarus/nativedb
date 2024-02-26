@@ -15,18 +15,18 @@ Displays the text message contact image and localised text message string in the
 | Value | Name |
 | --- | --- |
 | 0 | Blank |
-| 1242 | Message |
-| 1243 | Email |
-| 1244 | New Contact |
-| 1245 | Driver |
-| 1246 | Hacker |
-| 1247 | Shooter |
-| 1248 | Invite |
-| 1249 | Rp |
-| 1250 | Cash |
-| 1251 | Ap |
-| 1252 | Xp Alt |
-| 1253 | Cash Alt |
+| 1 | Message |
+| 2 | Email |
+| 3 | New Contact |
+| 4 | Driver |
+| 5 | Hacker |
+| 6 | Shooter |
+| 7 | Invite |
+| 8 | Rp |
+| 9 | Cash |
+| 10 | Ap |
+| 11 | Xp Alt |
+| 12 | Cash Alt |
 
 
 ## Parameters

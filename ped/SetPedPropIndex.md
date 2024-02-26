@@ -15,14 +15,14 @@ Set the id of the prop at the given position for the given ped.
 | Value | Name |
 | --- | --- |
 | 0 | Head |
-| 131 | Eyes |
-| 132 | Ears |
-| 133 | Mouth |
-| 134 | Left Hand |
-| 135 | Right Hand |
-| 136 | Left Wrist |
-| 137 | Right Wrist |
-| 138 | Hip |
+| 1 | Eyes |
+| 2 | Ears |
+| 3 | Mouth |
+| 4 | Left Hand |
+| 5 | Right Hand |
+| 6 | Left Wrist |
+| 7 | Right Wrist |
+| 8 | Hip |
 
 
 PED_PROP_POSITION in commands_ped.sch

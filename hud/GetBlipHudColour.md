@@ -6,7 +6,7 @@ aliases: ["0x729b5f1efbc0aaee"]
 
 ```c
 // 0x729B5F1EFBC0AAEE
-hud_colours GET_BLIP_HUD_COLOUR(Blip blip);
+int GET_BLIP_HUD_COLOUR(Blip blip);
 ```
 
 Returns the HUD colour of the blip (HUD_COLOURS)
@@ -142,7 +142,7 @@ Returns the HUD colour of the blip (HUD_COLOURS)
 | 125 | Damage |
 | 126 | Pinklight |
 | 127 | Pm Mitem Highlight |
-| 128 | Script Variable Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command |
+| 128 | Script Variable (Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command) |
 | 129 | Yoga |
 | 130 | Tennis |
 | 131 | Golf |
@@ -179,7 +179,7 @@ Returns the HUD colour of the blip (HUD_COLOURS)
 | 162 | Chop |
 | 163 | Pausemap Tint Half |
 | 164 | North Blue Official |
-| 165 | Script Variable 2 Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command |
+| 165 | Script Variable 2 (Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command) |
 | 166 | H |
 | 167 | Hdark |
 | 168 | T |

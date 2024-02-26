@@ -14,7 +14,6 @@ sets the floating help text based on an entity position and a screen offset
 ## id Values:
 | Value | Name |
 | --- | --- |
-| 0 | FLOATING_HELP_TEXT_ID_1 |
-| 857 | FLOATING_HELP_TEXT_ID_2 |
-| 858 | MAX_FLOATING_HELP_TEXT_IDS |
+| 0 | 1 |
+| 1 | 2 |
 

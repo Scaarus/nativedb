@@ -6,7 +6,7 @@ aliases: ["0x69d82604a1a5a254"]
 
 ```c
 // 0x69D82604A1A5A254
-bool SC_INBOX_MESSAGE_GET_UGCDATA(int index, ugcstateupdate_data out_data);
+bool SC_INBOX_MESSAGE_GET_UGCDATA(int index, Any* out_data);
 ```
 
 For UGCStatUpdate messages, get the data associated with that message

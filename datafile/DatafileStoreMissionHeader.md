@@ -9,7 +9,7 @@ aliases: ["0x2ed61456317b8178"]
 void DATAFILE_STORE_MISSION_HEADER(int datafileIndex);
 ```
 
-Copies out the mission header for UGC_CREATE_MISSION
+Copies out the mission header for [UGC_CREATE_MISSION](#_0xA5EFC3E847D60507)
 
 
 ## Parameters

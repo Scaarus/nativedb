@@ -9,5 +9,5 @@ aliases: ["0xeb709a36958abe0d"]
 bool IS_UPDATING_MP_GAMER_TAG_NAME_AND_CREW_DETAILS(int iPlayerNum);
 ```
 
-When this function returns true, the following functions shouldn't be called, SET_MP_GAMER_TAG_NAME and SET_MP_GAMER_TAG_CREW_DETAILS
+When this function returns true, the following functions shouldn't be called, [SET_MP_GAMER_TAG_NAME](#_0xDEA2B8283BAA3944) and SET_MP_GAMER_TAG_CREW_DETAILS
 

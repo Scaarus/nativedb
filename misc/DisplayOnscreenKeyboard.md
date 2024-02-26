@@ -12,13 +12,13 @@ void DISPLAY_ONSCREEN_KEYBOARD(int keyboardTypeFlag, string prompt, string descr
 ## keyboardTypeFlag Values:
 | Value | Name |
 | --- | --- |
-| 89 | English |
-| 90 | Localised |
-| 91 | Password |
-| 92 | Gamertag |
-| 93 | Email |
-| 94 | Basic English |
-| 95 | Filename |
+| 0 | English |
+| 1 | Localised |
+| 2 | Password |
+| 3 | Gamertag |
+| 4 | Email |
+| 5 | Basic English |
+| 6 | Filename |
 
 
 Displays the system keyboard

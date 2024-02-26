@@ -6,7 +6,7 @@ aliases: ["0x79cfd9827cc979b6"]
 
 ```c
 // 0x79CFD9827CC979B6
-ped_parachute_state GET_PED_PARACHUTE_STATE(Ped ped);
+int GET_PED_PARACHUTE_STATE(Ped ped);
 ```
 
 Gets the current state of the Parachuting Ped (returns PPS_INVALID if the Ped isn't Parachuting).

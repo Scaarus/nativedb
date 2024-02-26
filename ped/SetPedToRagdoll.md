@@ -15,8 +15,8 @@ Sets a ped into a rag doll state.
 | Value | Name |
 | --- | --- |
 | 0 | Relax |
-| 1326 | Nm Script |
-| 1327 | Nm Balance |
+| 1 | Nm Script |
+| 2 | Nm Balance |
 
 
 MinTime and MaxTime sets the boundary times that the ped will ragdoll for. RAGDOLL_FALL_TYPES in nm_strings.sch, bForceScriptControl will stop the ped from becoming injured so they can complete their behaviours.

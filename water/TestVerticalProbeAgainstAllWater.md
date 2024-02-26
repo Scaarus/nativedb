@@ -6,7 +6,7 @@ aliases: ["0x2b3451fa1e3142e2"]
 
 ```c
 // 0x2B3451FA1E3142E2
-script_water_test_result TEST_VERTICAL_PROBE_AGAINST_ALL_WATER(Vector3 StartPos, int BlockingFlags, float Height);
+int TEST_VERTICAL_PROBE_AGAINST_ALL_WATER(Vector3 StartPos, int BlockingFlags, float Height);
 ```
 
 Find the height of land/water at a given xy coordinate.

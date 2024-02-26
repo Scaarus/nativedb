@@ -15,9 +15,9 @@ Sets that a ped can be knocked off.
 | Value | Name |
 | --- | --- |
 | 0 | Default |
-| 128 | Never |
-| 129 | Easy |
-| 130 | Hard |
+| 1 | Never |
+| 2 | Easy |
+| 3 | Hard |
 
 
 VEHICLE_KNOCKOFF in commands_ped.sch

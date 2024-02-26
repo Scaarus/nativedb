@@ -11,5 +11,3 @@ void NETWORK_SET_PRESENCE_SESSION_INVITES_BLOCKED(bool Blocked);
 
 Allows blocking of Guide Invites and JvP so that players cannot be invited to or join the player via presence.
 
-~> PRESENCE SESSION FUNCTIONS
-

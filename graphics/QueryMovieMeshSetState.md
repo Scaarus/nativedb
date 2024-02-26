@@ -6,7 +6,7 @@ aliases: ["0x9b6e70c5ceef4eeb"]
 
 ```c
 // 0x9B6E70C5CEEF4EEB
-moviemeshsetstate QUERY_MOVIE_MESH_SET_STATE(int id);
+int QUERY_MOVIE_MESH_SET_STATE(int id);
 ```
 
 Queries the state of a mesh set

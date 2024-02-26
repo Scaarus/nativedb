@@ -14,9 +14,9 @@ Prevents shocking events of a certain type from being added to the world next fr
 ## eventShockingLevel Values:
 | Value | Name |
 | --- | --- |
-| 253 | Interesting |
-| 254 | Affects Others |
-| 255 | Potentially Dangerous |
-| 256 | Dangerous |
-| 257 | Serious Danger |
+| 0 | Interesting |
+| 1 | Affects Others |
+| 2 | Potentially Dangerous |
+| 3 | Dangerous |
+| 4 | Serious Danger |
 

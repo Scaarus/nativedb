@@ -9,7 +9,7 @@ aliases: ["0x083a2ca4f2e573bd"]
 void DRAW_DEBUG_BOX(Vector3 PositionMin, Vector3 PositionMax, int Red, int Green, int Blue, int alpha_param);
 ```
 
-Draws a debug axis aligned box. More info
+Draws a debug axis aligned box.
 
 Defaulted to blue. Colours and alpha range are
 

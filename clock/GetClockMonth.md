@@ -6,7 +6,7 @@ aliases: ["0xbbc72712e80257a1"]
 
 ```c
 // 0xBBC72712E80257A1
-month_of_year GET_CLOCK_MONTH();
+int GET_CLOCK_MONTH();
 ```
 
 gets the current month (0 is January, 11 is December)
@@ -15,15 +15,15 @@ gets the current month (0 is January, 11 is December)
 | Value | Name |
 | --- | --- |
 | 0 | JANUARY |
-| 4 | FEBRUARY |
-| 5 | MARCH |
-| 6 | APRIL |
-| 7 | MAY |
-| 8 | JUNE |
-| 9 | JULY |
-| 10 | AUGUST |
-| 11 | SEPTEMBER |
-| 12 | OCTOBER |
-| 13 | NOVEMBER |
-| 14 | DECEMBER |
+| 1 | FEBRUARY |
+| 2 | MARCH |
+| 3 | APRIL |
+| 4 | MAY |
+| 5 | JUNE |
+| 6 | JULY |
+| 7 | AUGUST |
+| 8 | SEPTEMBER |
+| 9 | OCTOBER |
+| 10 | NOVEMBER |
+| 11 | DECEMBER |
 

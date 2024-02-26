@@ -18,5 +18,4 @@ bool GET_COORDS_AND_ROTATION_OF_CLOSEST_OBJECT_OF_TYPE(Vector3 SphereCentre, flo
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 

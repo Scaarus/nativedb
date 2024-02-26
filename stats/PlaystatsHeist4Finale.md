@@ -6,7 +6,7 @@ aliases: ["0xc1e963c58664b556"]
 
 ```c
 // 0xC1E963C58664B556
-void PLAYSTATS_HEIST4_FINALE(struct_heist4_finale data);
+void PLAYSTATS_HEIST4_FINALE(Any* data);
 ```
 
 triggers after the end of Island Heist finale missions

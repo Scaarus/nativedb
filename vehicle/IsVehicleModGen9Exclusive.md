@@ -15,52 +15,52 @@ Returns TRUE if the specified vehicle mod is only available on Gen9 platforms. T
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |
-| 204 | Bumper F |
-| 205 | Bumper R |
-| 206 | Skirt |
-| 207 | Exhaust |
-| 208 | Chassis |
-| 209 | Grill |
-| 210 | Bonnet |
-| 211 | Wing L |
-| 212 | Wing R |
-| 213 | Roof |
-| 214 | Engine |
-| 215 | Brakes |
-| 216 | Gearbox |
-| 217 | Horn |
-| 218 | Suspension |
-| 219 | Armour |
-| 220 | Toggle Nitrous |
-| 221 | Toggle Turbo |
-| 222 | Toggle Subwoofer |
-| 223 | Toggle Tyre Smoke |
-| 224 | Toggle Hydraulics |
-| 225 | Toggle Xenon Lights |
-| 226 | Wheels |
-| 227 | Rear Wheels |
-| 228 | Pltholder |
-| 229 | Pltvanity |
-| 230 | Interior1 |
-| 231 | Interior2 |
-| 232 | Interior3 |
-| 233 | Interior4 |
-| 234 | Interior5 |
-| 235 | Seats |
-| 236 | Steering |
-| 237 | Knob |
-| 238 | Plaque |
-| 239 | Ice |
-| 240 | Trunk |
-| 241 | Hydro |
-| 242 | Enginebay1 |
-| 243 | Enginebay2 |
-| 244 | Enginebay3 |
-| 245 | Chassis2 |
-| 246 | Chassis3 |
-| 247 | Chassis4 |
-| 248 | Chassis5 |
-| 249 | Door L |
-| 250 | Door R |
-| 251 | Livery |
+| 1 | Bumper F |
+| 2 | Bumper R |
+| 3 | Skirt |
+| 4 | Exhaust |
+| 5 | Chassis |
+| 6 | Grill |
+| 7 | Bonnet |
+| 8 | Wing L |
+| 9 | Wing R |
+| 10 | Roof |
+| 11 | Engine |
+| 12 | Brakes |
+| 13 | Gearbox |
+| 14 | Horn |
+| 15 | Suspension |
+| 16 | Armour |
+| 17 | Toggle Nitrous |
+| 18 | Toggle Turbo |
+| 19 | Toggle Subwoofer |
+| 20 | Toggle Tyre Smoke |
+| 21 | Toggle Hydraulics |
+| 22 | Toggle Xenon Lights |
+| 23 | Wheels |
+| 24 | Rear Wheels |
+| 25 | Pltholder |
+| 26 | Pltvanity |
+| 27 | Interior1 |
+| 28 | Interior2 |
+| 29 | Interior3 |
+| 30 | Interior4 |
+| 31 | Interior5 |
+| 32 | Seats |
+| 33 | Steering |
+| 34 | Knob |
+| 35 | Plaque |
+| 36 | Ice |
+| 37 | Trunk |
+| 38 | Hydro |
+| 39 | Enginebay1 |
+| 40 | Enginebay2 |
+| 41 | Enginebay3 |
+| 42 | Chassis2 |
+| 43 | Chassis3 |
+| 44 | Chassis4 |
+| 45 | Chassis5 |
+| 46 | Door L |
+| 47 | Door R |
+| 48 | Livery |
 

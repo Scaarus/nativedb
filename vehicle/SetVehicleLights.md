@@ -15,10 +15,10 @@ Sets the vehicle lights status.
 | Value | Name |
 | --- | --- |
 | 0 | NO_VEHICLE_LIGHT_OVERRIDE |
-| 73 | FORCE_VEHICLE_LIGHTS_OFF 1 |
-| 74 | FORCE_VEHICLE_LIGHTS_ON 2 |
-| 75 | SET_VEHICLE_LIGHTS_ON 3 |
-| 76 | SET_VEHICLE_LIGHTS_OFF 4 |
+| 1 | FORCE_VEHICLE_LIGHTS_OFF (1) |
+| 2 | FORCE_VEHICLE_LIGHTS_ON (2) |
+| 3 | SET_VEHICLE_LIGHTS_ON (3) |
+| 4 | SET_VEHICLE_LIGHTS_OFF (4) |
 
 
 VEHICLE_LIGHT_SETTING is in commands_vehicle.sch

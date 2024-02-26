@@ -15,7 +15,7 @@ Sets whether a car's particular neon is enabled
 | Value | Name |
 | --- | --- |
 | 0 | Left |
-| 334 | Right |
-| 335 | Front |
-| 336 | Back |
+| 1 | Right |
+| 2 | Front |
+| 3 | Back |
 

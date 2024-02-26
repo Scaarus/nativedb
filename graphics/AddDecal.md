@@ -6,7 +6,7 @@ aliases: ["0xb302244a1839bdad"]
 
 ```c
 // 0xB302244A1839BDAD
-decal_id ADD_DECAL(int renderSettingsId, Vector3 pos, Vector3 dir, Vector3 side, float width, float height, float colR, float colG, float colB, float colA, float life, bool isLongRange, bool isDynamic, bool useComplexColn);
+Any* ADD_DECAL(int renderSettingsId, Vector3 pos, Vector3 dir, Vector3 side, float width, float height, float colR, float colG, float colB, float colA, float life, bool isLongRange, bool isDynamic, bool useComplexColn);
 ```
 
 Places a decal into the world

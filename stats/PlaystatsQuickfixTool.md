@@ -14,5 +14,5 @@ Metric set to cover the quick fix tool.
 ## anElement Values:
 | Value | Name |
 | --- | --- |
-| 0 |  |
+| 0 | Qf None |
 

@@ -6,10 +6,10 @@ aliases: ["0x4fcd976da686580c"]
 
 ```c
 // 0x4FCD976DA686580C
-cutscene_handle_search_result DOES_CUTSCENE_HANDLE_EXIST(string sSceneHandle);
+int DOES_CUTSCENE_HANDLE_EXIST(string sSceneHandle);
 ```
 
-Returns a value specifying if an entity exists in the cutscene with the provided scene handle. More info
+Returns a value specifying if an entity exists in the cutscene with the provided scene handle.
 
 ## Return Type Values:
 | Value | Name |
@@ -18,7 +18,6 @@ Returns a value specifying if an entity exists in the cutscene with the provided
 | 1 | Cutfile Still Loading |
 | 2 | Handle Exists |
 | 3 | Handle Not Found |
-
 
 Use this to determine if a cutscene entity with the given scene handle exists in the currently running cut scene
 

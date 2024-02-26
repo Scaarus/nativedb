@@ -11,7 +11,7 @@ void DRAW_SCALEFORM_MOVIE_FULLSCREEN(Scaleform scaleform, int R, int G, int B, i
 
 Renders a scaleform movie to the screen always at full screen
 
-movie id (retrieved from REQUEST_SCALEFORM_MOVIE). The size is always
+movie id (retrieved from [REQUEST_SCALEFORM_MOVIE](#_0x11FE353CF9733E6F)). The size is always
 
 movies are drawn in order, with the latest drawn on top.
 

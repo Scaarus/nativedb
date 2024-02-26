@@ -6,5 +6,5 @@ aliases: ["0x06eaf70ae066441e"]
 
 ```c
 // 0x06EAF70AE066441E
-void PLAYSTATS_BC_SMASH_AND_GRAB(scrbcsmashandgrab data);
+void PLAYSTATS_BC_SMASH_AND_GRAB(Any* data);
 ```

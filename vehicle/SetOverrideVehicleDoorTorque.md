@@ -16,9 +16,9 @@ Sets whether the door should use increased torque to drive it to position. If th
 | --- | --- |
 | -1 | Invalid |
 | 0 | Front Left |
-| 60 | Front Right |
-| 61 | Rear Left |
-| 62 | Rear Right |
-| 63 | Bonnet |
-| 64 | Boot |
+| 1 | Front Right |
+| 2 | Rear Left |
+| 3 | Rear Right |
+| 4 | Bonnet |
+| 5 | Boot |
 

@@ -9,7 +9,7 @@ aliases: ["0xcd018c591f94cb43"]
 void REQUEST_PED_RESTRICTED_VEHICLE_VISIBILITY_TRACKING(Ped ped, bool trackvehicle);
 ```
 
-When set to true and REQUEST_PED_VEHICLE_VISIBILITY_TRACKING has been set, this will use a restricted bound instead of the full vehicle ones..
+When set to true and [REQUEST_PED_VEHICLE_VISIBILITY_TRACKING](#_0x2BC338A7B21F4608) has been set, this will use a restricted bound instead of the full vehicle ones..
 
 Enable better ped's vehicle during visibility tracking
 

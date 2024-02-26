@@ -15,9 +15,9 @@ Set the help text position on a world coordinate
 | Value | Name |
 | --- | --- |
 | 0 | Normal |
-| 999 | Taggable |
-| 1000 | Ammunation |
-| 1001 | Mp Freemode |
+| 1 | Taggable |
+| 2 | Ammunation |
+| 3 | Mp Freemode |
 
 
 ## colour Values:
@@ -151,7 +151,7 @@ Set the help text position on a world coordinate
 | 125 | Damage |
 | 126 | Pinklight |
 | 127 | Pm Mitem Highlight |
-| 128 | Script Variable Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command |
+| 128 | Script Variable (Marked By ~V~. Can Be Altered With The Set Script Variable Hud Colour Script Command) |
 | 129 | Yoga |
 | 130 | Tennis |
 | 131 | Golf |
@@ -188,7 +188,7 @@ Set the help text position on a world coordinate
 | 162 | Chop |
 | 163 | Pausemap Tint Half |
 | 164 | North Blue Official |
-| 165 | Script Variable 2 Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command |
+| 165 | Script Variable 2 (Marked By ~U~. Can Be Altered With The Set Second Script Variable Hud Colour Script Command) |
 | 166 | H |
 | 167 | Hdark |
 | 168 | T |
@@ -263,8 +263,8 @@ Set the help text position on a world coordinate
 ## iArrowPosition Values:
 | Value | Name |
 | --- | --- |
+| 0 | East |
 | 1 | North |
-| 910 | East |
-| 911 | South |
-| 912 | West |
+| 2 | South |
+| 3 | West |
 

@@ -14,9 +14,9 @@ Checks if a ped is in the axis aligned area defined by the two coords. If the en
 ## TM_MODE Values:
 | Value | Name |
 | --- | --- |
-| 0 | Any Any Mode Of Transport Bike, Car Plane, On Foot Etc |
-| 1 | On Foot The Ped Is On Foot |
-| 2 | In Vehicle The Ped Is In A Vehicle Not On Foot |
+| 0 | Any (Any Mode Of Transport Bike, Car Plane, On Foot Etc) |
+| 1 | On Foot (The Ped Is On Foot) |
+| 2 | In Vehicle (The Ped Is In A Vehicle Not On Foot) |
 
 
 PARAM NOTES :

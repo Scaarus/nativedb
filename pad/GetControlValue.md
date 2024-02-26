@@ -22,368 +22,367 @@ Return controller value related to an action (range 0 to 255)
 ## action Values:
 | Value | Name |
 | --- | --- |
-| 0 | INPUT_NEXT_CAMERA |
-| 3 | INPUT_LOOK_LR |
-| 4 | INPUT_LOOK_UD |
-| 5 | INPUT_LOOK_UP_ONLY |
-| 6 | INPUT_LOOK_DOWN_ONLY |
-| 7 | INPUT_LOOK_LEFT_ONLY |
-| 8 | INPUT_LOOK_RIGHT_ONLY |
-| 9 | INPUT_CINEMATIC_SLOWMO |
-| 10 | INPUT_SCRIPTED_FLY_UD |
-| 11 | INPUT_SCRIPTED_FLY_LR |
-| 12 | INPUT_SCRIPTED_FLY_ZUP |
-| 13 | INPUT_SCRIPTED_FLY_ZDOWN |
-| 14 | INPUT_WEAPON_WHEEL_UD |
-| 15 | INPUT_WEAPON_WHEEL_LR |
-| 16 | INPUT_WEAPON_WHEEL_NEXT |
-| 17 | INPUT_WEAPON_WHEEL_PREV |
-| 18 | INPUT_SELECT_NEXT_WEAPON |
-| 19 | INPUT_SELECT_PREV_WEAPON |
-| 20 | INPUT_SKIP_CUTSCENE |
-| 21 | INPUT_CHARACTER_WHEEL |
-| 22 | INPUT_MULTIPLAYER_INFO |
-| 23 | INPUT_SPRINT |
-| 24 | INPUT_JUMP |
-| 25 | INPUT_ENTER |
-| 26 | INPUT_ATTACK |
-| 27 | INPUT_AIM |
-| 28 | INPUT_LOOK_BEHIND |
-| 29 | INPUT_PHONE |
-| 30 | INPUT_SPECIAL_ABILITY |
-| 31 | INPUT_SPECIAL_ABILITY_SECONDARY |
-| 32 | INPUT_MOVE_LR |
-| 33 | INPUT_MOVE_UD |
-| 34 | INPUT_MOVE_UP_ONLY |
-| 35 | INPUT_MOVE_DOWN_ONLY |
-| 36 | INPUT_MOVE_LEFT_ONLY |
-| 37 | INPUT_MOVE_RIGHT_ONLY |
-| 38 | INPUT_DUCK |
-| 39 | INPUT_SELECT_WEAPON |
-| 40 | INPUT_PICKUP |
-| 41 | INPUT_SNIPER_ZOOM |
-| 42 | INPUT_SNIPER_ZOOM_IN_ONLY |
-| 43 | INPUT_SNIPER_ZOOM_OUT_ONLY |
-| 44 | INPUT_SNIPER_ZOOM_IN_SECONDARY |
-| 45 | INPUT_SNIPER_ZOOM_OUT_SECONDARY |
-| 46 | INPUT_COVER |
-| 47 | INPUT_RELOAD |
-| 48 | INPUT_TALK |
-| 49 | INPUT_DETONATE |
-| 50 | INPUT_HUD_SPECIAL |
-| 51 | INPUT_ARREST |
-| 52 | INPUT_ACCURATE_AIM |
-| 53 | INPUT_CONTEXT |
-| 54 | INPUT_CONTEXT_SECONDARY |
-| 55 | INPUT_WEAPON_SPECIAL |
-| 56 | INPUT_WEAPON_SPECIAL_TWO |
-| 57 | INPUT_DIVE |
-| 58 | INPUT_DROP_WEAPON |
-| 59 | INPUT_DROP_AMMO |
-| 60 | INPUT_THROW_GRENADE |
-| 61 | INPUT_VEH_MOVE_LR |
-| 62 | INPUT_VEH_MOVE_UD |
-| 63 | INPUT_VEH_MOVE_UP_ONLY |
-| 64 | INPUT_VEH_MOVE_DOWN_ONLY |
-| 65 | INPUT_VEH_MOVE_LEFT_ONLY |
-| 66 | INPUT_VEH_MOVE_RIGHT_ONLY |
-| 67 | INPUT_VEH_SPECIAL |
-| 68 | INPUT_VEH_GUN_LR |
-| 69 | INPUT_VEH_GUN_UD |
-| 70 | INPUT_VEH_AIM |
-| 71 | INPUT_VEH_ATTACK |
-| 72 | INPUT_VEH_ATTACK2 |
-| 73 | INPUT_VEH_ACCELERATE |
-| 74 | INPUT_VEH_BRAKE |
-| 75 | INPUT_VEH_DUCK |
-| 76 | INPUT_VEH_HEADLIGHT |
-| 77 | INPUT_VEH_EXIT |
-| 78 | INPUT_VEH_HANDBRAKE |
-| 79 | INPUT_VEH_HOTWIRE_LEFT |
-| 80 | INPUT_VEH_HOTWIRE_RIGHT |
-| 81 | INPUT_VEH_LOOK_BEHIND |
-| 82 | INPUT_VEH_CIN_CAM |
-| 83 | INPUT_VEH_NEXT_RADIO |
-| 84 | INPUT_VEH_PREV_RADIO |
-| 85 | INPUT_VEH_NEXT_RADIO_TRACK |
-| 86 | INPUT_VEH_PREV_RADIO_TRACK |
-| 87 | INPUT_VEH_RADIO_WHEEL |
-| 88 | INPUT_VEH_HORN |
-| 89 | INPUT_VEH_FLY_THROTTLE_UP |
-| 90 | INPUT_VEH_FLY_THROTTLE_DOWN |
-| 91 | INPUT_VEH_FLY_YAW_LEFT |
-| 92 | INPUT_VEH_FLY_YAW_RIGHT |
-| 93 | INPUT_VEH_PASSENGER_AIM |
-| 94 | INPUT_VEH_PASSENGER_ATTACK |
-| 95 | INPUT_VEH_SPECIAL_ABILITY_FRANKLIN |
-| 96 | INPUT_VEH_STUNT_UD |
-| 97 | INPUT_VEH_CINEMATIC_UD |
-| 98 | INPUT_VEH_CINEMATIC_UP_ONLY |
-| 99 | INPUT_VEH_CINEMATIC_DOWN_ONLY |
-| 100 | INPUT_VEH_CINEMATIC_LR |
-| 101 | INPUT_VEH_SELECT_NEXT_WEAPON |
-| 102 | INPUT_VEH_SELECT_PREV_WEAPON |
-| 103 | INPUT_VEH_ROOF |
-| 104 | INPUT_VEH_JUMP This is for bikes, try INPUT_VEH_CAR_JUMP |
-| 105 | INPUT_VEH_GRAPPLING_HOOK |
-| 106 | INPUT_VEH_SHUFFLE |
-| 107 | INPUT_VEH_DROP_PROJECTILE |
-| 108 | INPUT_VEH_MOUSE_CONTROL_OVERRIDE |
-| 109 | INPUT_VEH_FLY_ROLL_LR |
-| 110 | INPUT_VEH_FLY_ROLL_LEFT_ONLY |
-| 111 | INPUT_VEH_FLY_ROLL_RIGHT_ONLY |
-| 112 | INPUT_VEH_FLY_PITCH_UD |
-| 113 | INPUT_VEH_FLY_PITCH_UP_ONLY |
-| 114 | INPUT_VEH_FLY_PITCH_DOWN_ONLY |
-| 115 | INPUT_VEH_FLY_UNDERCARRIAGE |
-| 116 | INPUT_VEH_FLY_ATTACK |
-| 117 | INPUT_VEH_FLY_SELECT_NEXT_WEAPON |
-| 118 | INPUT_VEH_FLY_SELECT_PREV_WEAPON |
-| 119 | INPUT_VEH_FLY_SELECT_TARGET_LEFT |
-| 120 | INPUT_VEH_FLY_SELECT_TARGET_RIGHT |
-| 121 | INPUT_VEH_FLY_VERTICAL_FLIGHT_MODE |
-| 122 | INPUT_VEH_FLY_DUCK |
-| 123 | INPUT_VEH_FLY_ATTACK_CAMERA |
-| 124 | INPUT_VEH_FLY_MOUSE_CONTROL_OVERRIDE |
-| 125 | INPUT_VEH_SUB_TURN_LR |
-| 126 | INPUT_VEH_SUB_TURN_LEFT_ONLY |
-| 127 | INPUT_VEH_SUB_TURN_RIGHT_ONLY |
-| 128 | INPUT_VEH_SUB_PITCH_UD |
-| 129 | INPUT_VEH_SUB_PITCH_UP_ONLY |
-| 130 | INPUT_VEH_SUB_PITCH_DOWN_ONLY |
-| 131 | INPUT_VEH_SUB_THROTTLE_UP |
-| 132 | INPUT_VEH_SUB_THROTTLE_DOWN |
-| 133 | INPUT_VEH_SUB_ASCEND |
-| 134 | INPUT_VEH_SUB_DESCEND |
-| 135 | INPUT_VEH_SUB_TURN_HARD_LEFT |
-| 136 | INPUT_VEH_SUB_TURN_HARD_RIGHT |
-| 137 | INPUT_VEH_SUB_MOUSE_CONTROL_OVERRIDE |
-| 138 | INPUT_VEH_PUSHBIKE_PEDAL |
-| 139 | INPUT_VEH_PUSHBIKE_SPRINT |
-| 140 | INPUT_VEH_PUSHBIKE_FRONT_BRAKE |
-| 141 | INPUT_VEH_PUSHBIKE_REAR_BRAKE |
-| 142 | INPUT_MELEE_ATTACK_LIGHT |
-| 143 | INPUT_MELEE_ATTACK_HEAVY |
-| 144 | INPUT_MELEE_ATTACK_ALTERNATE |
-| 145 | INPUT_MELEE_BLOCK |
-| 146 | INPUT_PARACHUTE_DEPLOY |
-| 147 | INPUT_PARACHUTE_DETACH |
-| 148 | INPUT_PARACHUTE_TURN_LR |
-| 149 | INPUT_PARACHUTE_TURN_LEFT_ONLY |
-| 150 | INPUT_PARACHUTE_TURN_RIGHT_ONLY |
-| 151 | INPUT_PARACHUTE_PITCH_UD |
-| 152 | INPUT_PARACHUTE_PITCH_UP_ONLY |
-| 153 | INPUT_PARACHUTE_PITCH_DOWN_ONLY |
-| 154 | INPUT_PARACHUTE_BRAKE_LEFT |
-| 155 | INPUT_PARACHUTE_BRAKE_RIGHT |
-| 156 | INPUT_PARACHUTE_SMOKE |
-| 157 | INPUT_PARACHUTE_PRECISION_LANDING |
-| 158 | INPUT_MAP |
-| 159 | INPUT_SELECT_WEAPON_UNARMED |
-| 160 | INPUT_SELECT_WEAPON_MELEE |
-| 161 | INPUT_SELECT_WEAPON_HANDGUN |
-| 162 | INPUT_SELECT_WEAPON_SHOTGUN |
-| 163 | INPUT_SELECT_WEAPON_SMG |
-| 164 | INPUT_SELECT_WEAPON_AUTO_RIFLE |
-| 165 | INPUT_SELECT_WEAPON_SNIPER |
-| 166 | INPUT_SELECT_WEAPON_HEAVY |
-| 167 | INPUT_SELECT_WEAPON_SPECIAL |
-| 168 | INPUT_SELECT_CHARACTER_MICHAEL |
-| 169 | INPUT_SELECT_CHARACTER_FRANKLIN |
-| 170 | INPUT_SELECT_CHARACTER_TREVOR |
-| 171 | INPUT_SELECT_CHARACTER_MULTIPLAYER |
-| 172 | INPUT_SAVE_REPLAY_CLIP |
-| 173 | INPUT_SPECIAL_ABILITY_PC This is so you can have the same input for both on foot and in-car special abilities on PC |
-| 174 | INPUT_CELLPHONE_UP |
-| 175 | INPUT_CELLPHONE_DOWN |
-| 176 | INPUT_CELLPHONE_LEFT |
-| 177 | INPUT_CELLPHONE_RIGHT |
-| 178 | INPUT_CELLPHONE_SELECT |
-| 179 | INPUT_CELLPHONE_CANCEL |
-| 180 | INPUT_CELLPHONE_OPTION |
-| 181 | INPUT_CELLPHONE_EXTRA_OPTION |
-| 182 | INPUT_CELLPHONE_SCROLL_FORWARD |
-| 183 | INPUT_CELLPHONE_SCROLL_BACKWARD |
-| 184 | INPUT_CELLPHONE_CAMERA_FOCUS_LOCK |
-| 185 | INPUT_CELLPHONE_CAMERA_GRID |
-| 186 | INPUT_CELLPHONE_CAMERA_SELFIE |
-| 187 | INPUT_CELLPHONE_CAMERA_DOF |
-| 188 | INPUT_CELLPHONE_CAMERA_EXPRESSION |
-| 189 | INPUT_FRONTEND_DOWN |
-| 190 | INPUT_FRONTEND_UP |
-| 191 | INPUT_FRONTEND_LEFT |
-| 192 | INPUT_FRONTEND_RIGHT |
-| 193 | INPUT_FRONTEND_RDOWN |
-| 194 | INPUT_FRONTEND_RUP |
-| 195 | INPUT_FRONTEND_RLEFT |
-| 196 | INPUT_FRONTEND_RRIGHT |
-| 197 | INPUT_FRONTEND_AXIS_X |
-| 198 | INPUT_FRONTEND_AXIS_Y |
-| 199 | INPUT_FRONTEND_RIGHT_AXIS_X |
-| 200 | INPUT_FRONTEND_RIGHT_AXIS_Y |
-| 201 | INPUT_FRONTEND_PAUSE |
-| 202 | INPUT_FRONTEND_PAUSE_ALTERNATE Alternate pause to get around conflict issues with Esc going back on PC. |
-| 203 | INPUT_FRONTEND_ACCEPT |
-| 204 | INPUT_FRONTEND_CANCEL |
-| 205 | INPUT_FRONTEND_X |
-| 206 | INPUT_FRONTEND_Y |
-| 207 | INPUT_FRONTEND_LB |
-| 208 | INPUT_FRONTEND_RB |
-| 209 | INPUT_FRONTEND_LT |
-| 210 | INPUT_FRONTEND_RT |
-| 211 | INPUT_FRONTEND_LS |
-| 212 | INPUT_FRONTEND_RS |
-| 213 | INPUT_FRONTEND_LEADERBOARD |
-| 214 | INPUT_FRONTEND_SOCIAL_CLUB |
-| 215 | INPUT_FRONTEND_SOCIAL_CLUB_SECONDARY |
-| 216 | INPUT_FRONTEND_DELETE |
-| 217 | INPUT_FRONTEND_ENDSCREEN_ACCEPT |
-| 218 | INPUT_FRONTEND_ENDSCREEN_EXPAND |
-| 219 | INPUT_FRONTEND_SELECT DP: ensure you update INPUT_FRONTEND_CONTROL_END if you add any more frontend input! |
-| 220 | INPUT_SCRIPT_LEFT_AXIS_X Left stick X analogue input. Values may be > 1 when using a mouse. Usually maps to movement |
-| 221 | INPUT_SCRIPT_LEFT_AXIS_Y Left stick Y analogue input. Values may be > 1 when using a mouse. Usually maps to movement |
-| 222 | INPUT_SCRIPT_RIGHT_AXIS_X Right stick X analogue input. Values may be > 1 when using a mouse. Usually maps to look. |
-| 223 | INPUT_SCRIPT_RIGHT_AXIS_Y Right stick Y analogue input. Values may be > 1 when using a mouse. Usually maps to look. |
-| 224 | INPUT_SCRIPT_RUP PS3 = TRIANGLE, 360 = Y |
-| 225 | INPUT_SCRIPT_RDOWN PS3 = X, 360 = A |
-| 226 | INPUT_SCRIPT_RLEFT PS3 = SQUARE, 360 = X |
-| 227 | INPUT_SCRIPT_RRIGHT PS3 = CIRCLE, 360 = B |
-| 228 | INPUT_SCRIPT_LB Left shoulder button |
-| 229 | INPUT_SCRIPT_RB Right shoulder button |
-| 230 | INPUT_SCRIPT_LT Left shoulder trigger  - DIGITAL ONLY |
-| 231 | INPUT_SCRIPT_RT Right shoulder trigger - DIGITAL ONLY |
-| 232 | INPUT_SCRIPT_LS Left stick L3 button, |
-| 233 | INPUT_SCRIPT_RS Right stick R3 button |
-| 234 | INPUT_SCRIPT_PAD_UP D-Pad / Directional buttons up |
-| 235 | INPUT_SCRIPT_PAD_DOWN D-Pad / Directional buttons down |
-| 236 | INPUT_SCRIPT_PAD_LEFT D-Pad / Directional buttons left |
-| 237 | INPUT_SCRIPT_PAD_RIGHT D-Pad / Directional buttons right |
-| 238 | INPUT_SCRIPT_SELECT Back button on 360, select on PS3 |
-| 239 | INPUT_CURSOR_ACCEPT Touch pad click or mouse button 1 click |
-| 240 | INPUT_CURSOR_CANCEL Mouse button 2 click |
-| 241 | INPUT_CURSOR_X The cursor X position in the range of 0...1. |
-| 242 | INPUT_CURSOR_Y The cursor Y position in the range of 0...1. |
-| 243 | INPUT_CURSOR_SCROLL_UP Scroll up, e.g. mouse wheel |
-| 244 | INPUT_CURSOR_SCROLL_DOWN Scroll down, e.g. mouse wheel |
-| 245 | INPUT_ENTER_CHEAT_CODE Brings up the cheat code input box. |
-| 246 | INPUT_INTERACTION_MENU Brings up the interaction menu. |
-| 247 | INPUT_MP_TEXT_CHAT_ALL Brings up text chat box. Message sent to all players on a server. |
-| 248 | INPUT_MP_TEXT_CHAT_TEAM Brings up text chat box. Message sent to all players on in the current team. |
-| 249 | INPUT_MP_TEXT_CHAT_FRIENDS Brings up text chat box. Message sent to all friends on a server |
-| 250 | INPUT_MP_TEXT_CHAT_CREW Brings up text chat box. Message sent to all crew on a server |
-| 251 | INPUT_PC_PUSH_TO_TALK Push to talk for VOIP |
-| 252 | INPUT_CREATOR_LS Creator Left stick equivalent for functions like field of view, etc. |
-| 253 | INPUT_CREATOR_RS Creator right stick equivalent for functions like field of view, etc. |
-| 254 | INPUT_CREATOR_LT Creator left trigger equivalent for zooming. |
-| 255 | INPUT_CREATOR_RT Creator right trigger equivalent for zooming. |
-| 256 | INPUT_CREATOR_MENU_TOGGLE Creator menu toggle on/off for PC keyboard and mouse. |
-| 257 | INPUT_CREATOR_ACCEPT Creator accept/place items button. |
-| 258 | INPUT_CREATOR_DELETE Creator delete items button. |
-| 259 | INPUT_ATTACK2 Know one knows what this does! |
-| 260 | INPUT_RAPPEL_JUMP |
-| 261 | INPUT_RAPPEL_LONG_JUMP |
-| 262 | INPUT_RAPPEL_SMASH_WINDOW |
-| 263 | INPUT_PREV_WEAPON |
-| 264 | INPUT_NEXT_WEAPON |
-| 265 | INPUT_MELEE_ATTACK1 This has been renamed to INPUT_MELEE_ATTACK_LIGHT. If this should be kept as it is, let me know thomas.randall@rockstarleeds.com |
-| 266 | INPUT_MELEE_ATTACK2 This has been renamed to INPUT_MELEE_ATTACK_HEAVY. If this should be kept as it is, let me know thomas.randall@rockstarleeds.com |
-| 267 | INPUT_WHISTLE This is mapped to nothing and is not used anywhere, it is added here so scripts work. If this should be kept let me know thomas.randall@rockstarleeds.com |
-| 268 | INPUT_MOVE_LEFT |
-| 269 | INPUT_MOVE_RIGHT |
-| 270 | INPUT_MOVE_UP |
-| 271 | INPUT_MOVE_DOWN |
-| 272 | INPUT_LOOK_LEFT |
-| 273 | INPUT_LOOK_RIGHT |
-| 274 | INPUT_LOOK_UP |
-| 275 | INPUT_LOOK_DOWN |
-| 276 | INPUT_SNIPER_ZOOM_IN |
-| 277 | INPUT_SNIPER_ZOOM_OUT |
-| 278 | INPUT_SNIPER_ZOOM_IN_ALTERNATE |
-| 279 | INPUT_SNIPER_ZOOM_OUT_ALTERNATE |
-| 280 | INPUT_VEH_MOVE_LEFT |
-| 281 | INPUT_VEH_MOVE_RIGHT |
-| 282 | INPUT_VEH_MOVE_UP |
-| 283 | INPUT_VEH_MOVE_DOWN |
-| 284 | INPUT_VEH_GUN_LEFT |
-| 285 | INPUT_VEH_GUN_RIGHT |
-| 286 | INPUT_VEH_GUN_UP |
-| 287 | INPUT_VEH_GUN_DOWN |
-| 288 | INPUT_VEH_LOOK_LEFT |
-| 289 | INPUT_VEH_LOOK_RIGHT |
-| 290 | INPUT_REPLAY_START_STOP_RECORDING |
-| 291 | INPUT_REPLAY_START_STOP_RECORDING_SECONDARY |
-| 292 | INPUT_SCALED_LOOK_LR |
-| 293 | INPUT_SCALED_LOOK_UD |
-| 294 | INPUT_SCALED_LOOK_UP_ONLY |
-| 295 | INPUT_SCALED_LOOK_DOWN_ONLY |
-| 296 | INPUT_SCALED_LOOK_LEFT_ONLY |
-| 297 | INPUT_SCALED_LOOK_RIGHT_ONLY |
-| 298 | INPUT_REPLAY_MARKER_DELETE |
-| 299 | INPUT_REPLAY_CLIP_DELETE |
-| 300 | INPUT_REPLAY_PAUSE |
-| 301 | INPUT_REPLAY_REWIND |
-| 302 | INPUT_REPLAY_FFWD |
-| 303 | INPUT_REPLAY_NEWMARKER |
-| 304 | INPUT_REPLAY_RECORD |
-| 305 | INPUT_REPLAY_SCREENSHOT |
-| 306 | INPUT_REPLAY_HIDEHUD |
-| 307 | INPUT_REPLAY_STARTPOINT |
-| 308 | INPUT_REPLAY_ENDPOINT |
-| 309 | INPUT_REPLAY_ADVANCE |
-| 310 | INPUT_REPLAY_BACK |
-| 311 | INPUT_REPLAY_TOOLS |
-| 312 | INPUT_REPLAY_RESTART |
-| 313 | INPUT_REPLAY_SHOWHOTKEY |
-| 314 | INPUT_REPLAY_CYCLEMARKERLEFT |
-| 315 | INPUT_REPLAY_CYCLEMARKERRIGHT |
-| 316 | INPUT_REPLAY_FOVINCREASE |
-| 317 | INPUT_REPLAY_FOVDECREASE |
-| 318 | INPUT_REPLAY_CAMERAUP |
-| 319 | INPUT_REPLAY_CAMERADOWN |
-| 320 | INPUT_REPLAY_SAVE |
-| 321 | INPUT_REPLAY_TOGGLETIME |
-| 322 | INPUT_REPLAY_TOGGLETIPS |
-| 323 | INPUT_REPLAY_PREVIEW |
-| 324 | INPUT_REPLAY_TOGGLE_TIMELINE |
-| 325 | INPUT_REPLAY_TIMELINE_PICKUP_CLIP |
-| 326 | INPUT_REPLAY_TIMELINE_DUPLICATE_CLIP |
-| 327 | INPUT_REPLAY_TIMELINE_PLACE_CLIP |
-| 328 | INPUT_REPLAY_CTRL |
-| 329 | INPUT_REPLAY_TIMELINE_SAVE |
-| 330 | INPUT_REPLAY_PREVIEW_AUDIO |
-| 331 | INPUT_VEH_DRIVE_LOOK |
-| 332 | INPUT_VEH_DRIVE_LOOK2 |
-| 333 | INPUT_VEH_FLY_ATTACK2 |
-| 334 | INPUT_RADIO_WHEEL_UD |
-| 335 | INPUT_RADIO_WHEEL_LR |
-| 336 | INPUT_VEH_SLOWMO_UP |
-| 337 | INPUT_VEH_SLOWMO_UP_ONLY |
-| 338 | INPUT_VEH_SLOWMO_DOWN_ONLY |
-| 339 | INPUT_VEH_HYDRAULICS_CONTROL_TOGGLE |
-| 340 | INPUT_VEH_HYDRAULICS_CONTROL_LEFT |
-| 341 | INPUT_VEH_HYDRAULICS_CONTROL_RIGHT |
-| 342 | INPUT_VEH_HYDRAULICS_CONTROL_UP |
-| 343 | INPUT_VEH_HYDRAULICS_CONTROL_DOWN |
-| 344 | INPUT_VEH_HYDRAULICS_CONTROL_LR |
-| 345 | INPUT_VEH_HYDRAULICS_CONTROL_UD |
-| 346 | INPUT_SWITCH_VISOR |
-| 347 | INPUT_VEH_MELEE_HOLD |
-| 348 | INPUT_VEH_MELEE_LEFT |
-| 349 | INPUT_VEH_MELEE_RIGHT |
-| 350 | INPUT_MAP_POI |
-| 351 | INPUT_REPLAY_SNAPMATIC_PHOTO |
-| 352 | INPUT_VEH_CAR_JUMP |
-| 353 | INPUT_VEH_ROCKET_BOOST |
-| 354 | INPUT_VEH_FLY_BOOST |
-| 355 | INPUT_VEH_PARACHUTE |
-| 356 | INPUT_VEH_BIKE_WINGS |
-| 357 | INPUT_VEH_FLY_BOMB_BAY |
-| 358 | INPUT_VEH_FLY_COUNTER |
-| 359 | INPUT_VEH_TRANSFORM |
-| 360 | INPUT_QUAD_LOCO_REVERSE |
-| 361 | INPUT_RESPAWN_FASTER |
-| 362 | INPUT_HUDMARKER_SELECT |
-| 363 | INPUT_EAT_SNACK |
-| 364 | INPUT_USE_ARMOR |
-| 365 | MAX_INPUTS |
+| 0 | Next Camera |
+| 1 | Look Lr |
+| 2 | Look Ud |
+| 3 | Look Up Only |
+| 4 | Look Down Only |
+| 5 | Look Left Only |
+| 6 | Look Right Only |
+| 7 | Cinematic Slowmo |
+| 8 | Scripted Fly Ud |
+| 9 | Scripted Fly Lr |
+| 10 | Scripted Fly Zup |
+| 11 | Scripted Fly Zdown |
+| 12 | Weapon Wheel Ud |
+| 13 | Weapon Wheel Lr |
+| 14 | Weapon Wheel Next |
+| 15 | Weapon Wheel Prev |
+| 16 | Select Next Weapon |
+| 17 | Select Prev Weapon |
+| 18 | Skip Cutscene |
+| 19 | Character Wheel |
+| 20 | Multiplayer Info |
+| 21 | Sprint |
+| 22 | Jump |
+| 23 | Enter |
+| 24 | Attack |
+| 25 | Aim |
+| 26 | Look Behind |
+| 27 | Phone |
+| 28 | Special Ability |
+| 29 | Special Ability Secondary |
+| 30 | Move Lr |
+| 31 | Move Ud |
+| 32 | Move Up Only |
+| 33 | Move Down Only |
+| 34 | Move Left Only |
+| 35 | Move Right Only |
+| 36 | Duck |
+| 37 | Select Weapon |
+| 38 | Pickup |
+| 39 | Sniper Zoom |
+| 40 | Sniper Zoom In Only |
+| 41 | Sniper Zoom Out Only |
+| 42 | Sniper Zoom In Secondary |
+| 43 | Sniper Zoom Out Secondary |
+| 44 | Cover |
+| 45 | Reload |
+| 46 | Talk |
+| 47 | Detonate |
+| 48 | Hud Special |
+| 49 | Arrest |
+| 50 | Accurate Aim |
+| 51 | Context |
+| 52 | Context Secondary |
+| 53 | Weapon Special |
+| 54 | Weapon Special Two |
+| 55 | Dive |
+| 56 | Drop Weapon |
+| 57 | Drop Ammo |
+| 58 | Throw Grenade |
+| 59 | Veh Move Lr |
+| 60 | Veh Move Ud |
+| 61 | Veh Move Up Only |
+| 62 | Veh Move Down Only |
+| 63 | Veh Move Left Only |
+| 64 | Veh Move Right Only |
+| 65 | Veh Special |
+| 66 | Veh Gun Lr |
+| 67 | Veh Gun Ud |
+| 68 | Veh Aim |
+| 69 | Veh Attack |
+| 70 | Veh Attack2 |
+| 71 | Veh Accelerate |
+| 72 | Veh Brake |
+| 73 | Veh Duck |
+| 74 | Veh Headlight |
+| 75 | Veh Exit |
+| 76 | Veh Handbrake |
+| 77 | Veh Hotwire Left |
+| 78 | Veh Hotwire Right |
+| 79 | Veh Look Behind |
+| 80 | Veh Cin Cam |
+| 81 | Veh Next Radio |
+| 82 | Veh Prev Radio |
+| 83 | Veh Next Radio Track |
+| 84 | Veh Prev Radio Track |
+| 85 | Veh Radio Wheel |
+| 86 | Veh Horn |
+| 87 | Veh Fly Throttle Up |
+| 88 | Veh Fly Throttle Down |
+| 89 | Veh Fly Yaw Left |
+| 90 | Veh Fly Yaw Right |
+| 91 | Veh Passenger Aim |
+| 92 | Veh Passenger Attack |
+| 93 | Veh Special Ability Franklin |
+| 94 | Veh Stunt Ud |
+| 95 | Veh Cinematic Ud |
+| 96 | Veh Cinematic Up Only |
+| 97 | Veh Cinematic Down Only |
+| 98 | Veh Cinematic Lr |
+| 99 | Veh Select Next Weapon |
+| 100 | Veh Select Prev Weapon |
+| 101 | Veh Roof |
+| 102 | Veh Jump (This Is For Bikes, Try Input Veh Car Jump) |
+| 103 | Veh Grappling Hook |
+| 104 | Veh Shuffle |
+| 105 | Veh Drop Projectile |
+| 106 | Veh Mouse Control Override |
+| 107 | Veh Fly Roll Lr |
+| 108 | Veh Fly Roll Left Only |
+| 109 | Veh Fly Roll Right Only |
+| 110 | Veh Fly Pitch Ud |
+| 111 | Veh Fly Pitch Up Only |
+| 112 | Veh Fly Pitch Down Only |
+| 113 | Veh Fly Undercarriage |
+| 114 | Veh Fly Attack |
+| 115 | Veh Fly Select Next Weapon |
+| 116 | Veh Fly Select Prev Weapon |
+| 117 | Veh Fly Select Target Left |
+| 118 | Veh Fly Select Target Right |
+| 119 | Veh Fly Vertical Flight Mode |
+| 120 | Veh Fly Duck |
+| 121 | Veh Fly Attack Camera |
+| 122 | Veh Fly Mouse Control Override |
+| 123 | Veh Sub Turn Lr |
+| 124 | Veh Sub Turn Left Only |
+| 125 | Veh Sub Turn Right Only |
+| 126 | Veh Sub Pitch Ud |
+| 127 | Veh Sub Pitch Up Only |
+| 128 | Veh Sub Pitch Down Only |
+| 129 | Veh Sub Throttle Up |
+| 130 | Veh Sub Throttle Down |
+| 131 | Veh Sub Ascend |
+| 132 | Veh Sub Descend |
+| 133 | Veh Sub Turn Hard Left |
+| 134 | Veh Sub Turn Hard Right |
+| 135 | Veh Sub Mouse Control Override |
+| 136 | Veh Pushbike Pedal |
+| 137 | Veh Pushbike Sprint |
+| 138 | Veh Pushbike Front Brake |
+| 139 | Veh Pushbike Rear Brake |
+| 140 | Melee Attack Light |
+| 141 | Melee Attack Heavy |
+| 142 | Melee Attack Alternate |
+| 143 | Melee Block |
+| 144 | Parachute Deploy |
+| 145 | Parachute Detach |
+| 146 | Parachute Turn Lr |
+| 147 | Parachute Turn Left Only |
+| 148 | Parachute Turn Right Only |
+| 149 | Parachute Pitch Ud |
+| 150 | Parachute Pitch Up Only |
+| 151 | Parachute Pitch Down Only |
+| 152 | Parachute Brake Left |
+| 153 | Parachute Brake Right |
+| 154 | Parachute Smoke |
+| 155 | Parachute Precision Landing |
+| 156 | Map |
+| 157 | Select Weapon Unarmed |
+| 158 | Select Weapon Melee |
+| 159 | Select Weapon Handgun |
+| 160 | Select Weapon Shotgun |
+| 161 | Select Weapon Smg |
+| 162 | Select Weapon Auto Rifle |
+| 163 | Select Weapon Sniper |
+| 164 | Select Weapon Heavy |
+| 165 | Select Weapon Special |
+| 166 | Select Character Michael |
+| 167 | Select Character Franklin |
+| 168 | Select Character Trevor |
+| 169 | Select Character Multiplayer |
+| 170 | Save Replay Clip |
+| 171 | Special Ability Pc (This Is So You Can Have The Same Input For Both On Foot And In-Car Special Abilities On Pc) |
+| 172 | Cellphone Up |
+| 173 | Cellphone Down |
+| 174 | Cellphone Left |
+| 175 | Cellphone Right |
+| 176 | Cellphone Select |
+| 177 | Cellphone Cancel |
+| 178 | Cellphone Option |
+| 179 | Cellphone Extra Option |
+| 180 | Cellphone Scroll Forward |
+| 181 | Cellphone Scroll Backward |
+| 182 | Cellphone Camera Focus Lock |
+| 183 | Cellphone Camera Grid |
+| 184 | Cellphone Camera Selfie |
+| 185 | Cellphone Camera Dof |
+| 186 | Cellphone Camera Expression |
+| 187 | Frontend Down |
+| 188 | Frontend Up |
+| 189 | Frontend Left |
+| 190 | Frontend Right |
+| 191 | Frontend Rdown |
+| 192 | Frontend Rup |
+| 193 | Frontend Rleft |
+| 194 | Frontend Rright |
+| 195 | Frontend Axis X |
+| 196 | Frontend Axis Y |
+| 197 | Frontend Right Axis X |
+| 198 | Frontend Right Axis Y |
+| 199 | Frontend Pause |
+| 200 | Frontend Pause Alternate (Alternate Pause To Get Around Conflict Issues With Esc Going Back On Pc.) |
+| 201 | Frontend Accept |
+| 202 | Frontend Cancel |
+| 203 | Frontend X |
+| 204 | Frontend Y |
+| 205 | Frontend Lb |
+| 206 | Frontend Rb |
+| 207 | Frontend Lt |
+| 208 | Frontend Rt |
+| 209 | Frontend Ls |
+| 210 | Frontend Rs |
+| 211 | Frontend Leaderboard |
+| 212 | Frontend Social Club |
+| 213 | Frontend Social Club Secondary |
+| 214 | Frontend Delete |
+| 215 | Frontend Endscreen Accept |
+| 216 | Frontend Endscreen Expand |
+| 217 | Frontend Select (Dp: Ensure You Update Input Frontend Control End If You Add Any More Frontend Input!) |
+| 218 | Script Left Axis X (Left Stick X Analogue Input. Values May Be > 1 When Using A Mouse. Usually Maps To Movement) |
+| 219 | Script Left Axis Y (Left Stick Y Analogue Input. Values May Be > 1 When Using A Mouse. Usually Maps To Movement) |
+| 220 | Script Right Axis X (Right Stick X Analogue Input. Values May Be > 1 When Using A Mouse. Usually Maps To Look.) |
+| 221 | Script Right Axis Y (Right Stick Y Analogue Input. Values May Be > 1 When Using A Mouse. Usually Maps To Look.) |
+| 222 | Script Rup (Ps3 = Triangle, 360 = Y) |
+| 223 | Script Rdown (Ps3 = X, 360 = A) |
+| 224 | Script Rleft (Ps3 = Square, 360 = X) |
+| 225 | Script Rright (Ps3 = Circle, 360 = B) |
+| 226 | Script Lb (Left Shoulder Button) |
+| 227 | Script Rb (Right Shoulder Button) |
+| 228 | Script Lt (Left Shoulder Trigger - Digital Only) |
+| 229 | Script Rt (Right Shoulder Trigger - Digital Only) |
+| 230 | Script Ls (Left Stick L3 Button,) |
+| 231 | Script Rs (Right Stick R3 Button) |
+| 232 | Script Pad Up (D-Pad / Directional Buttons Up) |
+| 233 | Script Pad Down (D-Pad / Directional Buttons Down) |
+| 234 | Script Pad Left (D-Pad / Directional Buttons Left) |
+| 235 | Script Pad Right (D-Pad / Directional Buttons Right) |
+| 236 | Script Select (Back Button On 360, Select On Ps3) |
+| 237 | Cursor Accept (Touch Pad Click Or Mouse Button 1 Click) |
+| 238 | Cursor Cancel (Mouse Button 2 Click) |
+| 239 | Cursor X (The Cursor X Position In The Range Of 0...1.) |
+| 240 | Cursor Y (The Cursor Y Position In The Range Of 0...1.) |
+| 241 | Cursor Scroll Up (Scroll Up, E.G. Mouse Wheel) |
+| 242 | Cursor Scroll Down (Scroll Down, E.G. Mouse Wheel) |
+| 243 | Enter Cheat Code (Brings Up The Cheat Code Input Box.) |
+| 244 | Interaction Menu (Brings Up The Interaction Menu.) |
+| 245 | Mp Text Chat All (Brings Up Text Chat Box. Message Sent To All Players On A Server.) |
+| 246 | Mp Text Chat Team (Brings Up Text Chat Box. Message Sent To All Players On In The Current Team.) |
+| 247 | Mp Text Chat Friends (Brings Up Text Chat Box. Message Sent To All Friends On A Server) |
+| 248 | Mp Text Chat Crew (Brings Up Text Chat Box. Message Sent To All Crew On A Server) |
+| 249 | Pc Push To Talk (Push To Talk For Voip) |
+| 250 | Creator Ls (Creator Left Stick Equivalent For Functions Like Field Of View, Etc.) |
+| 251 | Creator Rs (Creator Right Stick Equivalent For Functions Like Field Of View, Etc.) |
+| 252 | Creator Lt (Creator Left Trigger Equivalent For Zooming.) |
+| 253 | Creator Rt (Creator Right Trigger Equivalent For Zooming.) |
+| 254 | Creator Menu Toggle (Creator Menu Toggle On/Off For Pc Keyboard And Mouse.) |
+| 255 | Creator Accept (Creator Accept/Place Items Button.) |
+| 256 | Creator Delete (Creator Delete Items Button.) |
+| 257 | Attack2 (Know One Knows What This Does!) |
+| 258 | Rappel Jump |
+| 259 | Rappel Long Jump |
+| 260 | Rappel Smash Window |
+| 261 | Prev Weapon |
+| 262 | Next Weapon |
+| 263 | Melee Attack1 (This Has Been Renamed To Input Melee Attack Light. If This Should Be Kept As It Is, Let Me Know Thomas.Randall@Rockstarleeds.Com) |
+| 264 | Melee Attack2 (This Has Been Renamed To Input Melee Attack Heavy. If This Should Be Kept As It Is, Let Me Know Thomas.Randall@Rockstarleeds.Com) |
+| 265 | Whistle (This Is Mapped To Nothing And Is Not Used Anywhere, It Is Added Here So Scripts Work. If This Should Be Kept Let Me Know Thomas.Randall@Rockstarleeds.Com) |
+| 266 | Move Left |
+| 267 | Move Right |
+| 268 | Move Up |
+| 269 | Move Down |
+| 270 | Look Left |
+| 271 | Look Right |
+| 272 | Look Up |
+| 273 | Look Down |
+| 274 | Sniper Zoom In |
+| 275 | Sniper Zoom Out |
+| 276 | Sniper Zoom In Alternate |
+| 277 | Sniper Zoom Out Alternate |
+| 278 | Veh Move Left |
+| 279 | Veh Move Right |
+| 280 | Veh Move Up |
+| 281 | Veh Move Down |
+| 282 | Veh Gun Left |
+| 283 | Veh Gun Right |
+| 284 | Veh Gun Up |
+| 285 | Veh Gun Down |
+| 286 | Veh Look Left |
+| 287 | Veh Look Right |
+| 288 | Replay Start Stop Recording |
+| 289 | Replay Start Stop Recording Secondary |
+| 290 | Scaled Look Lr |
+| 291 | Scaled Look Ud |
+| 292 | Scaled Look Up Only |
+| 293 | Scaled Look Down Only |
+| 294 | Scaled Look Left Only |
+| 295 | Scaled Look Right Only |
+| 296 | Replay Marker Delete |
+| 297 | Replay Clip Delete |
+| 298 | Replay Pause |
+| 299 | Replay Rewind |
+| 300 | Replay Ffwd |
+| 301 | Replay Newmarker |
+| 302 | Replay Record |
+| 303 | Replay Screenshot |
+| 304 | Replay Hidehud |
+| 305 | Replay Startpoint |
+| 306 | Replay Endpoint |
+| 307 | Replay Advance |
+| 308 | Replay Back |
+| 309 | Replay Tools |
+| 310 | Replay Restart |
+| 311 | Replay Showhotkey |
+| 312 | Replay Cyclemarkerleft |
+| 313 | Replay Cyclemarkerright |
+| 314 | Replay Fovincrease |
+| 315 | Replay Fovdecrease |
+| 316 | Replay Cameraup |
+| 317 | Replay Cameradown |
+| 318 | Replay Save |
+| 319 | Replay Toggletime |
+| 320 | Replay Toggletips |
+| 321 | Replay Preview |
+| 322 | Replay Toggle Timeline |
+| 323 | Replay Timeline Pickup Clip |
+| 324 | Replay Timeline Duplicate Clip |
+| 325 | Replay Timeline Place Clip |
+| 326 | Replay Ctrl |
+| 327 | Replay Timeline Save |
+| 328 | Replay Preview Audio |
+| 329 | Veh Drive Look |
+| 330 | Veh Drive Look2 |
+| 331 | Veh Fly Attack2 |
+| 332 | Radio Wheel Ud |
+| 333 | Radio Wheel Lr |
+| 334 | Veh Slowmo Up |
+| 335 | Veh Slowmo Up Only |
+| 336 | Veh Slowmo Down Only |
+| 337 | Veh Hydraulics Control Toggle |
+| 338 | Veh Hydraulics Control Left |
+| 339 | Veh Hydraulics Control Right |
+| 340 | Veh Hydraulics Control Up |
+| 341 | Veh Hydraulics Control Down |
+| 342 | Veh Hydraulics Control Lr |
+| 343 | Veh Hydraulics Control Ud |
+| 344 | Switch Visor |
+| 345 | Veh Melee Hold |
+| 346 | Veh Melee Left |
+| 347 | Veh Melee Right |
+| 348 | Map Poi |
+| 349 | Replay Snapmatic Photo |
+| 350 | Veh Car Jump |
+| 351 | Veh Rocket Boost |
+| 352 | Veh Fly Boost |
+| 353 | Veh Parachute |
+| 354 | Veh Bike Wings |
+| 355 | Veh Fly Bomb Bay |
+| 356 | Veh Fly Counter |
+| 357 | Veh Transform |
+| 358 | Quad Loco Reverse |
+| 359 | Respawn Faster |
+| 360 | Hudmarker Select |
+| 361 | Eat Snack |
+| 362 | Use Armor |
 

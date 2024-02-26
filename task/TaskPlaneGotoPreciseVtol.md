@@ -9,7 +9,7 @@ aliases: ["0xf7f9dcca89e7505b"]
 void TASK_PLANE_GOTO_PRECISE_VTOL(Ped ped, Vehicle vehicle, Vector3 TargetCoords, int FlightHeight, int MinHeightAboveTerrain, bool UseDesiredOrientation, float DesiredOrientation, bool AutoPilot);
 ```
 
-Exposes more params than TASK_VEHICLE_MISSION allows, allows for greater control of VTOL planes.
+Exposes more params than [TASK_VEHICLE_MISSION](#_0x659427E0EF36BCDE) allows, allows for greater control of VTOL planes.
 
 bAutoPilot will apply the plane goto task directly to the vehicle, and apply some flags to allow this task to run with no driver
 

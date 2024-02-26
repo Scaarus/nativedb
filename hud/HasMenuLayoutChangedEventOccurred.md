@@ -9,5 +9,5 @@ aliases: ["0x2e22fefa0100275e"]
 bool HAS_MENU_LAYOUT_CHANGED_EVENT_OCCURRED();
 ```
 
-This should be checked every frame and when it returns true, check GET_MENU_LAYOUT_CHANGED_EVENT_DETAILS
+This should be checked every frame and when it returns true, check [GET_MENU_LAYOUT_CHANGED_EVENT_DETAILS](#_0x7E17BE53E1AAABAF)
 

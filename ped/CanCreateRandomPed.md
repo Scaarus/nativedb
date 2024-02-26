@@ -14,7 +14,7 @@ Call this before trying to create a ped with a random model, to ensure that a mo
 ## Ped_model Values:
 | Value | Name |
 | --- | --- |
-| 182 | Dont Care |
-| 183 | Male Ped |
-| 184 | Female Ped |
+| 0 | Dont Care |
+| 1 | Male Ped |
+| 2 | Female Ped |
 

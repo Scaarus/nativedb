@@ -9,5 +9,5 @@ aliases: ["0xf29cf591c4bf6cee"]
 void SET_PED_SEEING_RANGE(Ped ped, float SeeingRange);
 ```
 
-This command sets how far a ped can see. More info in wiki.
+This command sets how far a ped can see. in wiki.
 

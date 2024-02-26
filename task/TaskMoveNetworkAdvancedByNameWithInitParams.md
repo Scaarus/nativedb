@@ -6,7 +6,7 @@ aliases: ["0x29682e2ccf21e9b5"]
 
 ```c
 // 0x29682E2CCF21E9B5
-void TASK_MOVE_NETWORK_ADVANCED_BY_NAME_WITH_INIT_PARAMS(Ped ped, string network, move_initial_parameters initParams, Vector3 vStartPos, Vector3 vStartRot, int RotOrder, float blendDuration, bool AllowOverrideCloneUpdate, string animDictionary, int flags);
+void TASK_MOVE_NETWORK_ADVANCED_BY_NAME_WITH_INIT_PARAMS(Ped ped, string network, Any* initParams, Vector3 vStartPos, Vector3 vStartRot, int RotOrder, float blendDuration, bool AllowOverrideCloneUpdate, string animDictionary, int flags);
 ```
 
 Task to start a move network of the type passed with custom start pos and orientation When bAllowOverrideCloneUpdate is used in MP the remotely cloned ped will not update in sync with commands sent locally and it is expected that the remote machine will override the update of the clones task signals. This version allows the network to be setup with initial parameters (clipsets, floats and bools).
@@ -20,7 +20,6 @@ Task to start a move network of the type passed with custom start pos and orient
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 ## flags Values:

@@ -9,7 +9,5 @@ aliases: ["0xecf041186c5a94dc"]
 int GET_CONTENT_ID_INDEX(int contentIdHash);
 ```
 
-if content id is not found, -1 is returned
-
 Returns index of content id from the global hash table
 

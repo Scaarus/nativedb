@@ -12,14 +12,14 @@ void DISPLAY_ONSCREEN_KEYBOARD_WITH_LONGER_INITIAL_STRING(int keyboardTypeFlag, 
 ## keyboardTypeFlag Values:
 | Value | Name |
 | --- | --- |
-| 89 | English |
-| 90 | Localised |
-| 91 | Password |
-| 92 | Gamertag |
-| 93 | Email |
-| 94 | Basic English |
-| 95 | Filename |
+| 0 | English |
+| 1 | Localised |
+| 2 | Password |
+| 3 | Gamertag |
+| 4 | Email |
+| 5 | Basic English |
+| 6 | Filename |
 
 
-Variant of DISPLAY_ONSCREEN_KEYBOARD which takes up to eight strings to support an initial value of 500 characters
+Variant of [DISPLAY_ONSCREEN_KEYBOARD](#_0x00DC833F2568DBF6) which takes up to eight strings to support an initial value of 500 characters
 

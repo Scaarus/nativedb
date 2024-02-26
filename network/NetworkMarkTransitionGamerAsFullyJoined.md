@@ -6,7 +6,7 @@ aliases: ["0x5728bb6d63e3ff1d"]
 
 ```c
 // 0x5728BB6D63E3FF1D
-bool NETWORK_MARK_TRANSITION_GAMER_AS_FULLY_JOINED(gamer_handle hGamer);
+bool NETWORK_MARK_TRANSITION_GAMER_AS_FULLY_JOINED(Any* hGamer);
 ```
 
 Script should set this when they consider a player as fully joined

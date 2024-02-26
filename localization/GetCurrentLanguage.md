@@ -6,7 +6,7 @@ aliases: ["0x2bdd44cc428a7eae"]
 
 ```c
 // 0x2BDD44CC428A7EAE
-language_type GET_CURRENT_LANGUAGE();
+int GET_CURRENT_LANGUAGE();
 ```
 
 Used to check the language/region of the current player
@@ -28,7 +28,6 @@ Used to check the language/region of the current player
 | 10 | Japanese |
 | 11 | Mexican |
 | 12 | Chinese Simplified |
-
 
 Returns the selected language of the player profile
 

@@ -6,5 +6,5 @@ aliases: ["0x282b6739644f4347"]
 
 ```c
 // 0x282B6739644F4347
-void PLAYSTATS_BW_FRAGILE_GOODS(scrbwfragilegoods data);
+void PLAYSTATS_BW_FRAGILE_GOODS(Any* data);
 ```

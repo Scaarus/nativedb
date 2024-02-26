@@ -18,7 +18,6 @@ Shapetest START_SHAPE_TEST_BOX(Vector3 scrVecPos, Vector3 scrVecDims, Vector3 eu
 | 3 | Yzx |
 | 4 | Zxy |
 | 5 | Zyx |
-| 6 | Max |
 
 
 Returns SHAPETEST_INDEX of 0 if it fails to create the shapetest request (there is a limit to the number that can be in the system)

@@ -9,7 +9,7 @@ aliases: ["0x52f734cebe20dfba"]
 bool GET_PATROL_TASK_INFO(Ped ped, int TimeLeftAtNode, int NodeId);
 ```
 
-Will get info from peds patrol task about the route. More info
+Will get info from peds patrol task about the route.
 
 The values it returns should be only checked if the function returns true. The function returns TRUE when the ped has the patrol task as his active task. If the ped is patrolling, the function returns true. If the ped then engages in combat the function will return false until he resumes his patrol task
 

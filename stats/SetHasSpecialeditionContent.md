@@ -8,6 +8,3 @@ aliases: ["0xdac073c7901f9e15"]
 // 0xDAC073C7901F9E15
 void SET_HAS_SPECIALEDITION_CONTENT();
 ```
-
-PURPOSE SetUnset value for profile setting GAMER_HAS_SPECIALEDITION_CONTENT.
-

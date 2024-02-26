@@ -6,7 +6,7 @@ aliases: ["0x116fb94dc4b79f17"]
 
 ```c
 // 0x116FB94DC4B79F17
-void SC_EMAIL_SEND_EMAIL(scremail_data emailData);
+void SC_EMAIL_SEND_EMAIL(Any* emailData);
 ```
 
 Sends an email

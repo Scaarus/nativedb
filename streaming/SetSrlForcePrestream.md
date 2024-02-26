@@ -15,7 +15,7 @@ Enable or disable forced prestreaming for cutscenes. If enabled, the SRL will al
 | Value | Name |
 | --- | --- |
 | 0 | Default |
-| 21 | Force On 1 |
-| 22 | Force Off 2 |
-| 23 | Force Completely Off 3 |
+| 1 | Force On (1) |
+| 2 | Force Off (2) |
+| 3 | Force Completely Off (3) |
 

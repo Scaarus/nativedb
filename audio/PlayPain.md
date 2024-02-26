@@ -14,40 +14,40 @@ Plays a pain sound from the ped
 ## DamageReason Values:
 | Value | Name |
 | --- | --- |
-| 81 | Default |
-| 82 | Falling |
-| 83 | Super Falling |
-| 84 | Scream Panic |
-| 85 | Scream Panic Short |
-| 86 | Scream Scared |
-| 87 | Scream Shocked |
-| 88 | Scream Terror |
-| 89 | On Fire |
-| 90 | Drowning |
-| 91 | Surface Drowning Drowning On The Surface Of Water, After We Time Out |
-| 92 | Inhale |
-| 93 | Exhale |
-| 94 | Post Fall Grunt |
-| 95 | Entering Ragdoll Death |
-| 96 | Explosion |
-| 97 | Melee |
-| 98 | Shove |
-| 99 | Wheeze |
-| 100 | Cough |
-| 101 | Tazer |
-| 102 | Exhaustion |
-| 103 | Climb Large |
-| 104 | Climb Small |
-| 105 | Jump |
-| 106 | Cower |
-| 107 | Whimper |
-| 108 | Dying Moan |
-| 109 | Cycling Exhale |
-| 110 | Pain Rapids |
-| 111 | Sneeze |
-| 112 | Melee Small Grunt |
-| 113 | Melee Large Grunt |
-| 114 | Post Fall Grunt Low |
+| 0 | Default |
+| 1 | Falling |
+| 2 | Super Falling |
+| 3 | Scream Panic |
+| 4 | Scream Panic Short |
+| 5 | Scream Scared |
+| 6 | Scream Shocked |
+| 7 | Scream Terror |
+| 8 | On Fire |
+| 9 | Drowning |
+| 10 | Surface Drowning (Drowning On The Surface Of Water, After We Time Out) |
+| 11 | Inhale |
+| 12 | Exhale |
+| 13 | Post Fall Grunt |
+| 14 | Entering Ragdoll Death |
+| 15 | Explosion |
+| 16 | Melee |
+| 17 | Shove |
+| 18 | Wheeze |
+| 19 | Cough |
+| 20 | Tazer |
+| 21 | Exhaustion |
+| 22 | Climb Large |
+| 23 | Climb Small |
+| 24 | Jump |
+| 25 | Cower |
+| 26 | Whimper |
+| 27 | Dying Moan |
+| 28 | Cycling Exhale |
+| 29 | Pain Rapids |
+| 30 | Sneeze |
+| 31 | Melee Small Grunt |
+| 32 | Melee Large Grunt |
+| 33 | Post Fall Grunt Low |
 
 
 ## Parameters

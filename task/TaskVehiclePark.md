@@ -14,14 +14,14 @@ Gives the vehicle a task to park in the specified manner
 ## ParkType Values:
 | Value | Name |
 | --- | --- |
-| 283 | Parallel |
-| 284 | Perpendicular Nose In |
-| 285 | Perpendicular Back In |
-| 286 | Pull Over |
-| 287 | Leave Parallel Space |
-| 288 | Back Out Perpendicular Space |
-| 289 | Passenger Exit |
-| 290 | Pull Over Immediate |
+| 0 | Parallel |
+| 1 | Perpendicular Nose In |
+| 2 | Perpendicular Back In |
+| 3 | Pull Over |
+| 4 | Leave Parallel Space |
+| 5 | Back Out Perpendicular Space |
+| 6 | Passenger Exit |
+| 7 | Pull Over Immediate |
 
 
 ## Parameters

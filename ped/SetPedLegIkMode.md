@@ -15,9 +15,9 @@ Sets the allowed IK mode for a ped.
 | Value | Name |
 | --- | --- |
 | 0 | Off |
-| 173 | Partial Default For Non-Player Peds. Ground Position At Feet Is Inferred From Standing Capsule |
-| 174 | Full Physics Probes Are Done At Feet To Find Exact Ground Position |
-| 175 | Full Melee Physics Probes Are Done At Feet To Find Exact Ground Position With Support For Melee |
+| 1 | Partial (Default For Non-Player Peds. Ground Position At Feet Is Inferred From Standing Capsule) |
+| 2 | Full (Physics Probes Are Done At Feet To Find Exact Ground Position) |
+| 3 | Full Melee (Physics Probes Are Done At Feet To Find Exact Ground Position With Support For Melee) |
 
 
 The default mode for non-player peds is LEG_IK_PARTIAL.

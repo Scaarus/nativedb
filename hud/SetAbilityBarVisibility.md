@@ -9,5 +9,5 @@ aliases: ["0x1dfedd15019315a9"]
 void SET_ABILITY_BAR_VISIBILITY(bool TurnOn);
 ```
 
-Force visibility of ability bar (as a positive value from SET_ABILITY_BAR_VALUE doesn't seem to work in MP)
+Force visibility of ability bar (as a positive value from [SET_ABILITY_BAR_VALUE](#_0x9969599CCFF5D85E) doesn't seem to work in MP)
 

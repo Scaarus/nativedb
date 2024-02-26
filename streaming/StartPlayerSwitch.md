@@ -36,9 +36,9 @@ starts a player switching sequence
 | Value | Name |
 | --- | --- |
 | 0 | Auto |
-| 18 | Long |
-| 19 | Medium |
-| 20 | Short |
+| 1 | Long |
+| 2 | Medium |
+| 3 | Short |
 
 
 flags specifies a number of control options as per enum SWITCH_FLAGS

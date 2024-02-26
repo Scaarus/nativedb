@@ -6,7 +6,7 @@ aliases: ["0x126d7f89fe859a5e"]
 
 ```c
 // 0x126D7F89FE859A5E
-decal_id ADD_OIL_DECAL(Vector3 pos, float startSize, float endSize, float growRate);
+Any* ADD_OIL_DECAL(Vector3 pos, float startSize, float endSize, float growRate);
 ```
 
 Places an oil decal into the world

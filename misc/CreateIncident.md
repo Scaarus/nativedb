@@ -12,9 +12,9 @@ bool CREATE_INCIDENT(Vector3 vLocation, int iNumUnits, float fTime, Incident inc
 ## assassinsLevel Values:
 | Value | Name |
 | --- | --- |
+| 0 | Med |
 | 1 | Low |
-| 56 | Med |
-| 57 | High |
+| 2 | High |
 
 
 - DISPATCH_TYPE is the type of units to be

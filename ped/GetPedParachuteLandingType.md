@@ -6,7 +6,7 @@ aliases: ["0x8b9f1fc6ae8166c0"]
 
 ```c
 // 0x8B9F1FC6AE8166C0
-ped_parachute_landing_type GET_PED_PARACHUTE_LANDING_TYPE(Ped ped);
+int GET_PED_PARACHUTE_LANDING_TYPE(Ped ped);
 ```
 
 Gets the current landing type of the Parachuting Ped (returns PPLT_INVALID if the Ped isn't landing).

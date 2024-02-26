@@ -6,7 +6,7 @@ aliases: ["0x4215460b9b8b7fa0"]
 
 ```c
 // 0x4215460B9B8B7FA0
-weapon_slot GET_WEAPONTYPE_SLOT(Hash weaponHash);
+int GET_WEAPONTYPE_SLOT(Hash weaponHash);
 ```
 
 Return which slot this weapon type is placed in
@@ -14,124 +14,122 @@ Return which slot this weapon type is placed in
 ## Return Type Values:
 | Value | Name |
 | --- | --- |
-| 0 | WEAPONSLOT_INVALID |
-| 44 | NUM_WEAPONSLOTS |
-| 830 | WEAPONSLOT_UNARMED |
-| 831 | WEAPONSLOT_KNIFE |
-| 832 | WEAPONSLOT_NIGHTSTICK |
-| 833 | WEAPONSLOT_HAMMER |
-| 834 | WEAPONSLOT_BAT |
-| 835 | WEAPONSLOT_CROWBAR |
-| 836 | WEAPONSLOT_GOLFCLUB |
-| 837 | WEAPONSLOT_STUNGUN |
-| 838 | WEAPONSLOT_RUBBERGUN |
-| 839 | WEAPONSLOT_PISTOL |
-| 840 | WEAPONSLOT_COMBATPISTOL |
-| 841 | WEAPONSLOT_APPISTOL |
-| 842 | WEAPONSLOT_MICROSMG |
-| 843 | WEAPONSLOT_SMG |
-| 844 | WEAPONSLOT_ASSAULTRIFLE |
-| 845 | WEAPONSLOT_CARBINERIFLE |
-| 846 | WEAPONSLOT_ADVANCEDRIFLE |
-| 847 | WEAPONSLOT_MG |
-| 848 | WEAPONSLOT_COMBATMG |
-| 849 | WEAPONSLOT_PUMPSHOTGUN |
-| 850 | WEAPONSLOT_SAWNOFFSHOTGUN |
-| 851 | WEAPONSLOT_ASSAULTSHOTGUN |
-| 852 | WEAPONSLOT_SNIPERRIFLE |
-| 853 | WEAPONSLOT_HEAVYSNIPER |
-| 854 | WEAPONSLOT_GRENADELAUNCHER |
-| 855 | WEAPONSLOT_RPG |
-| 856 | WEAPONSLOT_MINIGUN |
-| 857 | WEAPONSLOT_GRENADE |
-| 858 | WEAPONSLOT_STICKYBOMB |
-| 859 | WEAPONSLOT_SMOKEGRENADE |
-| 860 | WEAPONSLOT_MOLOTOV |
-| 861 | WEAPONSLOT_FIREEXTINGUISHER |
-| 862 | WEAPONSLOT_PETROLCAN |
-| 863 | WEAPONSLOT_LOUDHAILER |
-| 864 | WEAPONSLOT_PARACHUTE |
-| 865 | WEAPONSLOT_DIGISCANNER |
-| 866 | WEAPONSLOT_OBJECT |
-| 867 | WEAPONSLOT_DLC_PISTOL50 |
-| 868 | WEAPONSLOT_DLC_ASSAULTSMG |
-| 869 | WEAPONSLOT_DLC_HEAVYRIFLE |
-| 870 | WEAPONSLOT_DLC_ASSAULTMG |
-| 871 | WEAPONSLOT_DLC_BULLPUPSHOTGUN |
-| 872 | WEAPONSLOT_DLC_ASSAULTSNIPER |
-| 873 | WEAPONSLOT_DLC_PROGRAMMABLEAR |
-| 874 | WEAPONSLOT_DLC_SPECIALCARBINE |
-| 875 | WEAPONSLOT_DLC_BOTTLE |
-| 876 | WEAPONSLOT_DLC_BULLPUPRIFLE |
-| 877 | WEAPONSLOT_DLC_HEAVYPISTOL |
-| 878 | WEAPONSLOT_DLC_SNSPISTOL |
-| 879 | WEAPONSLOT_DLC_DAGGER |
-| 880 | WEAPONSLOT_DLC_VINTAGEPISTOL |
-| 881 | WEAPONSLOT_DLC_GUSENBERG |
-| 882 | WEAPONSLOT_DLC_HARPOON |
-| 883 | WEAPONSLOT_DLC_FLAREGUN |
-| 884 | WEAPONSLOT_DLC_FIREWORK |
-| 885 | WEAPONSLOT_DLC_JETPACK |
-| 886 | WEAPONSLOT_DLC_MUSKET |
-| 887 | WEAPONSLOT_DLC_AMRIFLE |
-| 888 | WEAPONSLOT_DLC_CROSSBOW |
-| 889 | WEAPONSLOT_DLC_HEAVYSHOTGUN |
-| 890 | WEAPONSLOT_DLC_MARKSMANRIFLE |
-| 891 | WEAPONSLOT_DLC_HOMINGLAUNCHER |
-| 892 | WEAPONSLOT_DLC_PROXMINE |
-| 893 | WEAPONSLOT_DLC_SNOWBALL |
-| 894 | WEAPONSLOT_DLC_COMBATPDW |
-| 895 | WEAPONSLOT_DLC_KNUCKLE |
-| 896 | WEAPONSLOT_DLC_MARKSMANPISTOL |
-| 897 | WEAPONSLOT_DLC_HATCHET |
-| 898 | WEAPONSLOT_DLC_RAILGUN |
-| 899 | WEAPONSLOT_DLC_COMPACTRIFLE |
-| 900 | WEAPONSLOT_DLC_DBSHOTGUN |
-| 901 | WEAPONSLOT_DLC_MACHETE |
-| 902 | WEAPONSLOT_DLC_MACHINEPISTOL |
-| 903 | WEAPONSLOT_DLC_FLASHLIGHT |
-| 904 | WEAPONSLOT_DLC_REVOLVER |
-| 905 | WEAPONSLOT_DLC_SWITCHBLADE |
-| 906 | WEAPONSLOT_DLC_AUTOSHOTGUN |
-| 907 | WEAPONSLOT_DLC_BATTLEAXE |
-| 908 | WEAPONSLOT_DLC_COMPACTLAUNCHER |
-| 909 | WEAPONSLOT_DLC_MINISMG |
-| 910 | WEAPONSLOT_DLC_PIPEBOMB |
-| 911 | WEAPONSLOT_DLC_POOLCUE |
-| 912 | WEAPONSLOT_DLC_WRENCH |
-| 913 | WEAPONSLOT_DLC_ASSAULTRIFLE_MK2 |
-| 914 | WEAPONSLOT_DLC_CARBINERIFLE_MK2 |
-| 915 | WEAPONSLOT_DLC_COMBATMG_MK2 |
-| 916 | WEAPONSLOT_DLC_HEAVYSNIPER_MK2 |
-| 917 | WEAPONSLOT_DLC_PISTOL_MK2 |
-| 918 | WEAPONSLOT_DLC_SMG_MK2 |
-| 919 | WEAPONSLOT_DLC_BULLPUPRIFLE_MK2 |
-| 920 | WEAPONSLOT_DLC_MARKSMANRIFLE_MK2 |
-| 921 | WEAPONSLOT_DLC_PUMPSHOTGUN_MK2 |
-| 922 | WEAPONSLOT_DLC_REVOLVER_MK2 |
-| 923 | WEAPONSLOT_DLC_SNSPISTOL_MK2 |
-| 924 | WEAPONSLOT_DLC_SPECIALCARBINE_MK2 |
-| 925 | WEAPONSLOT_DLC_DOUBLEACTION |
-| 926 | WEAPONSLOT_DLC_STONE_HATCHET |
-| 927 | WEAPONSLOT_DLC_RAYPISTOL |
-| 928 | WEAPONSLOT_DLC_CERAMICPISTOL |
-| 929 | WEAPONSLOT_DLC_HAZARDCAN |
-| 930 | WEAPONSLOT_DLC_NAVYREVOLVER |
-| 931 | WEAPONSLOT_DLC_GADGETPISTOL |
-| 932 | WEAPONSLOT_DLC_MILITARYRIFLE |
-| 933 | WEAPONSLOT_DLC_COMBATSHOTGUN |
-| 934 | WEAPONSLOT_DLC_STUNGUNCNC |
-| 935 | WEAPONSLOT_DLC_RIOTSMG |
-| 936 | WEAPONSLOT_DLC_BATON |
-| 937 | WEAPONSLOT_DLC_BZGAS_MK2 |
-| 938 | WEAPONSLOT_DLC_RIOTSHOTGUN |
-| 939 | WEAPONSLOT_DLC_FLASHGRENADE |
-| 940 | WEAPONSLOT_DLC_POLICERIFLE |
-| 941 | WEAPONSLOT_DLC_STUNGRENADE |
-| 942 | WEAPONSLOT_DLC_EMPLAUNCHER |
-| 943 | WEAPONSLOT_DLC_FERTILIZERCAN |
-| 944 | WEAPONSLOT_DLC_STUNGUN_MP |
-| 945 | WEAPONSLOT_DLC_METALDETECTOR |
-| 946 | WEAPONSLOT_DLC_TACTICALRIFLE |
-| 947 | WEAPONSLOT_DLC_PRECISIONRIFLE |
+| 0 | Invalid |
+| 1 | Unarmed |
+| 2 | Knife |
+| 3 | Nightstick |
+| 4 | Hammer |
+| 5 | Bat |
+| 6 | Crowbar |
+| 7 | Golfclub |
+| 8 | Stungun |
+| 9 | Rubbergun |
+| 10 | Pistol |
+| 11 | Combatpistol |
+| 12 | Appistol |
+| 13 | Microsmg |
+| 14 | Smg |
+| 15 | Assaultrifle |
+| 16 | Carbinerifle |
+| 17 | Advancedrifle |
+| 18 | Mg |
+| 19 | Combatmg |
+| 20 | Pumpshotgun |
+| 21 | Sawnoffshotgun |
+| 22 | Assaultshotgun |
+| 23 | Sniperrifle |
+| 24 | Heavysniper |
+| 25 | Grenadelauncher |
+| 26 | Rpg |
+| 27 | Minigun |
+| 28 | Grenade |
+| 29 | Stickybomb |
+| 30 | Smokegrenade |
+| 31 | Molotov |
+| 32 | Fireextinguisher |
+| 33 | Petrolcan |
+| 34 | Loudhailer |
+| 35 | Parachute |
+| 36 | Digiscanner |
+| 37 | Object |
+| 38 | Dlc Pistol50 |
+| 39 | Dlc Assaultsmg |
+| 40 | Dlc Heavyrifle |
+| 41 | Dlc Assaultmg |
+| 42 | Dlc Bullpupshotgun |
+| 43 | Dlc Assaultsniper |
+| 45 | Dlc Specialcarbine |
+| 46 | Dlc Bottle |
+| 47 | Dlc Bullpuprifle |
+| 48 | Dlc Heavypistol |
+| 49 | Dlc Snspistol |
+| 50 | Dlc Dagger |
+| 51 | Dlc Vintagepistol |
+| 52 | Dlc Gusenberg |
+| 53 | Dlc Harpoon |
+| 54 | Dlc Flaregun |
+| 55 | Dlc Firework |
+| 56 | Dlc Jetpack |
+| 57 | Dlc Musket |
+| 58 | Dlc Amrifle |
+| 59 | Dlc Crossbow |
+| 60 | Dlc Heavyshotgun |
+| 61 | Dlc Marksmanrifle |
+| 62 | Dlc Hominglauncher |
+| 63 | Dlc Proxmine |
+| 64 | Dlc Snowball |
+| 65 | Dlc Combatpdw |
+| 66 | Dlc Knuckle |
+| 67 | Dlc Marksmanpistol |
+| 68 | Dlc Hatchet |
+| 69 | Dlc Railgun |
+| 70 | Dlc Compactrifle |
+| 71 | Dlc Dbshotgun |
+| 72 | Dlc Machete |
+| 73 | Dlc Machinepistol |
+| 74 | Dlc Flashlight |
+| 75 | Dlc Revolver |
+| 76 | Dlc Switchblade |
+| 77 | Dlc Autoshotgun |
+| 78 | Dlc Battleaxe |
+| 79 | Dlc Compactlauncher |
+| 80 | Dlc Minismg |
+| 81 | Dlc Pipebomb |
+| 82 | Dlc Poolcue |
+| 83 | Dlc Wrench |
+| 84 | Dlc Assaultrifle Mk2 |
+| 85 | Dlc Carbinerifle Mk2 |
+| 86 | Dlc Combatmg Mk2 |
+| 87 | Dlc Heavysniper Mk2 |
+| 88 | Dlc Pistol Mk2 |
+| 89 | Dlc Smg Mk2 |
+| 90 | Dlc Bullpuprifle Mk2 |
+| 91 | Dlc Marksmanrifle Mk2 |
+| 92 | Dlc Pumpshotgun Mk2 |
+| 93 | Dlc Revolver Mk2 |
+| 94 | Dlc Snspistol Mk2 |
+| 95 | Dlc Specialcarbine Mk2 |
+| 96 | Dlc Doubleaction |
+| 97 | Dlc Stone Hatchet |
+| 98 | Dlc Raypistol |
+| 99 | Dlc Ceramicpistol |
+| 100 | Dlc Hazardcan |
+| 101 | Dlc Navyrevolver |
+| 102 | Dlc Gadgetpistol |
+| 103 | Dlc Militaryrifle |
+| 104 | Dlc Combatshotgun |
+| 105 | Dlc Stunguncnc |
+| 106 | Dlc Riotsmg |
+| 107 | Dlc Baton |
+| 108 | Dlc Bzgas Mk2 |
+| 109 | Dlc Riotshotgun |
+| 110 | Dlc Flashgrenade |
+| 111 | Dlc Policerifle |
+| 112 | Dlc Stungrenade |
+| 113 | Dlc Emplauncher |
+| 114 | Dlc Fertilizercan |
+| 115 | Dlc Stungun Mp |
+| 116 | Dlc Metaldetector |
+| 117 | Dlc Tacticalrifle |
+| 118 | Dlc Precisionrifle |
 

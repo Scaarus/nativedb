@@ -15,26 +15,26 @@ Returns the class of the specified vehicle
 | Value | Name |
 | --- | --- |
 | 0 | Compact |
-| 287 | Sedan |
-| 288 | Suv |
-| 289 | Coupe |
-| 290 | Muscle |
-| 291 | Sport Classic |
-| 292 | Sport |
-| 293 | Super |
-| 294 | Motorcycle |
-| 295 | Off Road |
-| 296 | Industrial |
-| 297 | Utility |
-| 298 | Van |
-| 299 | Cycle |
-| 300 | Boat |
-| 301 | Helicopter |
-| 302 | Plane |
-| 303 | Service |
-| 304 | Emergency |
-| 305 | Military |
-| 306 | Commercial |
-| 307 | Rail |
-| 308 | Open Wheel |
+| 1 | Sedan |
+| 2 | Suv |
+| 3 | Coupe |
+| 4 | Muscle |
+| 5 | Sport Classic |
+| 6 | Sport |
+| 7 | Super |
+| 8 | Motorcycle |
+| 9 | Off Road |
+| 10 | Industrial |
+| 11 | Utility |
+| 12 | Van |
+| 13 | Cycle |
+| 14 | Boat |
+| 15 | Helicopter |
+| 16 | Plane |
+| 17 | Service |
+| 18 | Emergency |
+| 19 | Military |
+| 20 | Commercial |
+| 21 | Rail |
+| 22 | Open Wheel |
 

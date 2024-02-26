@@ -15,10 +15,10 @@ Sets the ped to sound angry.
 | Value | Name |
 | --- | --- |
 | -1 | Animal None |
-| 75 | Animal Boar |
-| 76 | Animal Chicken |
-| 77 | Animal Dog |
-| 78 | Animal Dog Rottweiler |
-| 79 | Animal Horse |
-| 80 | Num Animals |
+| 0 | Animal Boar |
+| 1 | Animal Chicken |
+| 2 | Animal Dog |
+| 3 | Animal Dog Rottweiler |
+| 4 | Animal Horse |
+| 5 | Num Animals |
 

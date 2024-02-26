@@ -10,5 +10,6 @@ bool INIT_PC_SCRIPTED_CONTROLS(string SchemeName);
 ```
 
 Initialises the dynamic scripted control schemes system and loads the specified sceme.
-SHUTDOWN_PC_SCRIPTED_CONTROLS() must be called when finished.
+
+[SHUTDOWN_PC_SCRIPTED_CONTROLS](#_0x643ED62D5EA3BEBD)() must be called when finished.
 
