@@ -20,7 +20,7 @@ The shapetest request is destroyed by this call if SHAPETEST_STATUS_RESULTS_READ
 | 1 | Results Notready (Not Ready Yet; Try Again Next Frame) |
 | 2 | Results Ready (The Result Is Ready And The Results Have Been Returned To You. The Shapetest Request Has Also Just Been Destroyed) |
 
-## material Values:
+## Values for `material`:
 | Value | Name |
 | --- | --- |
 | -2098049209 | TENNIS_FENCE_3 |

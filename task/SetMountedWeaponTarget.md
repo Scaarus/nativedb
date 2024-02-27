@@ -9,7 +9,7 @@ aliases: ["0xccd892192c6d2bb9"]
 void SET_MOUNTED_WEAPON_TARGET(Ped ped, Vehicle vehicle, Vector3 Position, int VehicleTaskMode, bool IgnoreTargetVehDeadCheck);
 ```
 
-## VehicleTaskMode Values:
+## Values for `VehicleTaskMode`:
 | Value | Name |
 | --- | --- |
 | 0 | Player |

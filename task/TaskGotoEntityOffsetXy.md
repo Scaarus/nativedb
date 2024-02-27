@@ -11,7 +11,7 @@ void TASK_GOTO_ENTITY_OFFSET_XY(Entity entity, int Time, float fTargetRadius, fl
 
 Tells the ped to go to an offset from the target entity. A combination of flags from the ESEEK_ENTITY_OFFSET_FLAGS enum may be passed in.
 
-## OffsetFlags Values:
+## Values for `OffsetFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

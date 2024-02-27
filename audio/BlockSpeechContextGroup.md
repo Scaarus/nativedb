@@ -11,7 +11,7 @@ void BLOCK_SPEECH_CONTEXT_GROUP(string GroupName, int Target);
 
 Stop a certain group of peds from using a certain group of speech contexts. Note that the block will be automatically removed when the calling script finishes
 
-## Target Values:
+## Values for `Target`:
 | Value | Name |
 | --- | --- |
 | 0 | Player |

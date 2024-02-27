@@ -9,7 +9,7 @@ aliases: ["0x4e096588b13ffeca"]
 void SET_TEXT_JUSTIFICATION(int Justification);
 ```
 
-## Justification Values:
+## Values for `Justification`:
 | Value | Name |
 | --- | --- |
 | 0 | Centre |

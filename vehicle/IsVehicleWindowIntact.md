@@ -11,7 +11,7 @@ bool IS_VEHICLE_WINDOW_INTACT(Vehicle vehicle, int WindowNumber);
 
 Returns true if a window exists and is not smashed, false otherwise.
 
-## WindowNumber Values:
+## Values for `WindowNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | SC_WINDOW_FRONT_LEFT |

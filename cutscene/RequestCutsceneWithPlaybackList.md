@@ -11,7 +11,7 @@ void REQUEST_CUTSCENE_WITH_PLAYBACK_LIST(string pCutName, int CutsceneSection, i
 
 Requests a cutscene and tells it what sections to play, for branched cutscenes only.
 
-## CutsceneSection Values:
+## Values for `CutsceneSection`:
 | Value | Name |
 | --- | --- |
 | 1 | 1 |
@@ -47,7 +47,7 @@ Requests a cutscene and tells it what sections to play, for branched cutscenes o
 | 1073741824 | 31 |
 
 
-## PlaybackFlags Values:
+## Values for `PlaybackFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Requested From Widget |

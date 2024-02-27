@@ -11,7 +11,7 @@ Ped GET_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seat, bool ConsiderPedUsingSeat
 
 Gets the ped in a vehicle seat.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

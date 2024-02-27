@@ -11,7 +11,7 @@ void STOP_CINEMATIC_SHOT(int Shot);
 
 Stops and deletes the current shot
 
-## Shot Values:
+## Values for `Shot`:
 | Value | Name |
 | --- | --- |
 | 0 | Camera Man |

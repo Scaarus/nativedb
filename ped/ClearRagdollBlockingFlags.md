@@ -11,7 +11,7 @@ void CLEAR_RAGDOLL_BLOCKING_FLAGS(Ped ped, int flags);
 
 Re-enables ragdoll reactions from various forms of damage, (see enum RAGDOLL_BLOCKING_FLAGS)
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

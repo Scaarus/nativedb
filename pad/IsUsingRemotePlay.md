@@ -11,7 +11,7 @@ bool IS_USING_REMOTE_PLAY(int control);
 
 Returns true if the the player is playing on a remote play device.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

@@ -11,7 +11,7 @@ void SET_ENTITY_ROTATION(Entity entity, Vector3 NewRotation, int RotOrder, bool 
 
 Sets the entity's rotation.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

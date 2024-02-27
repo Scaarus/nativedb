@@ -11,7 +11,7 @@ void RESET_VEHICLE_STUCK_TIMER(Vehicle vehicle, int StuckType);
 
 Resets a vehicles stuck check.
 
-## StuckType Values:
+## Values for `StuckType`:
 | Value | Name |
 | --- | --- |
 | 0 | On Roof |

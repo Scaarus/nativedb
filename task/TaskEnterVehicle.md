@@ -11,7 +11,7 @@ void TASK_ENTER_VEHICLE(Vehicle vehicle, int Time, int seat, float MoveBlendRati
 
 Tells a ped to enter a vehicle.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |
@@ -27,7 +27,7 @@ Tells a ped to enter a vehicle.
 | 8 | Extra Right 3 |
 
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Resume If Interrupted |

@@ -11,7 +11,7 @@ void TASK_FOLLOW_NAV_MESH_TO_COORD(Ped ped, float MoveBlendRatio, int Time, floa
 
 Tells a ped to follow the navmesh to the given coord.
 
-## NavFlags Values:
+## Values for `NavFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

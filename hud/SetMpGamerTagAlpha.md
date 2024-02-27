@@ -11,7 +11,7 @@ void SET_MP_GAMER_TAG_ALPHA(int iPlayerNum, int iTag, int iAlpha);
 
 sets the alpha of a gamer tag component
 
-## iTag Values:
+## Values for `iTag`:
 | Value | Name |
 | --- | --- |
 | 0 | Gamer Name |

@@ -11,7 +11,7 @@ void TASK_SHOOT_AT_COORD(int Duration, int FiringType);
 
 Tells the ped to shoot at given coord.
 
-## FiringType Values:
+## Values for `FiringType`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

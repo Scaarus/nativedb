@@ -11,7 +11,7 @@ void ADD_CAM_SPLINE_NODE_USING_CAMERA(Camera camera, Camera camera, int iDuratio
 
 Appends a full node on to a spline camera. The frame parameters of this new node are cloned from an existing scripted camera.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | No Flags |

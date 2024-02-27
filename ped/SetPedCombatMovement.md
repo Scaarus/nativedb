@@ -11,7 +11,7 @@ void SET_PED_COMBAT_MOVEMENT(Ped ped, int PedCombatMoveType);
 
 Set the peds movment type during combat.
 
-## PedCombatMoveType Values:
+## Values for `PedCombatMoveType`:
 | Value | Name |
 | --- | --- |
 | 0 | Stationary (Stands Totally Still During Combat) |

@@ -11,7 +11,7 @@ void SET_CONTROL_LIGHT_EFFECT_COLOR(int control, int red, int green, int blue);
 
 Sets a light device to a constant color (if there is one).
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

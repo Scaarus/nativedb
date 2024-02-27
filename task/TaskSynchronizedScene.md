@@ -11,7 +11,7 @@ void TASK_SYNCHRONIZED_SCENE(Ped ped, int sceneID, string animDictionary, string
 
 Starts a synchronized scene on the specified ped
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -35,7 +35,7 @@ Starts a synchronized scene on the specified ped
 | 131072 | Net Disregard Attachment Checks |
 
 
-## ragdollFlags Values:
+## Values for `ragdollFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -58,7 +58,7 @@ Starts a synchronized scene on the specified ped
 | 65536 | Vehicle Grab |
 
 
-## ikFlags Values:
+## Values for `ikFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

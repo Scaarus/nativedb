@@ -11,7 +11,7 @@ void START_CUTSCENE_AT_COORDS(Vector3 vPos, int flags);
 
 Starts a seamless cut scene at the given coords.
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | No Options |

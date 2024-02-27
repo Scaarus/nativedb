@@ -11,7 +11,7 @@ bool IS_VEHICLE_DOOR_DAMAGED(Vehicle vehicle, int DoorNumber);
 
 Checks if the vehicle door is intact
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

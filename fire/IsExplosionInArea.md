@@ -11,7 +11,7 @@ bool IS_EXPLOSION_IN_AREA(int ExplosionTag, Vector3 PosMin, Vector3 PosMax);
 
 Checks if an explosion is in a area.
 
-## ExplosionTag Values:
+## Values for `ExplosionTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Dontcare |

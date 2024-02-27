@@ -11,7 +11,7 @@ void CLEAR_RELATIONSHIP_BETWEEN_GROUPS(int RelationshipType, Hash relGroup, Hash
 
 Removes the relationship between rel groups.
 
-## RelationshipType Values:
+## Values for `RelationshipType`:
 | Value | Name |
 | --- | --- |
 | 0 | Respect |

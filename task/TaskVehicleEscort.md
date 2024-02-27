@@ -11,7 +11,7 @@ void TASK_VEHICLE_ESCORT(Ped ped, Vehicle vehicle, Entity entity, int EscortType
 
 Identical to [`TASK_VEHICLE_MISSION`](#_0x659427E0EF36BCDE) with one of the MISSION_ESCORT types, but allows setting a custom offset
 
-## EscortType Values:
+## Values for `EscortType`:
 | Value | Name |
 | --- | --- |
 | -1 | Rear |
@@ -20,7 +20,7 @@ Identical to [`TASK_VEHICLE_MISSION`](#_0x659427E0EF36BCDE) with one of the MISS
 | 2 | Right |
 
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

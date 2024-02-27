@@ -11,7 +11,7 @@ void TASK_GO_TO_COORD_ANY_MEANS_EXTRA_PARAMS_WITH_CRUISE_SPEED(Vector3 Position,
 
 Tells a ped to go to a coord by any means.
 
-## DrivingFlags Values:
+## Values for `DrivingFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |
@@ -48,7 +48,7 @@ Tells a ped to go to a coord by any means.
 | 1073741824 | DF_ForceJoinInRoadDirection |
 
 
-## iExtraFlags Values:
+## Values for `iExtraFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

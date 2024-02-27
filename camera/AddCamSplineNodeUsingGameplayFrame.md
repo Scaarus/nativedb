@@ -11,7 +11,7 @@ void ADD_CAM_SPLINE_NODE_USING_GAMEPLAY_FRAME(Camera camera, int iDuration, int 
 
 Appends a full node on to a spline camera. The frame parameters of this new node are cloned (live) from the active gameplay frame.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | No Flags |

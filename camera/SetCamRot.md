@@ -11,7 +11,7 @@ void SET_CAM_ROT(Camera camera, Vector3 NewRot, int RotOrder);
 
 Set the camera's rotation in Euler angles (in degrees.)
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

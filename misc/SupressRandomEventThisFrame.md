@@ -9,7 +9,7 @@ aliases: ["0x1eae0a6e978894a2"]
 void SUPRESS_RANDOM_EVENT_THIS_FRAME(int eventType, bool Enable);
 ```
 
-## eventType Values:
+## Values for `eventType`:
 | Value | Name |
 | --- | --- |
 | 0 | Ped Steal Vehicle |

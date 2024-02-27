@@ -11,7 +11,7 @@ void SET_CAM_VIEW_MODE_FOR_CONTEXT(int Context, int ViewMode);
 
 Sets the camera view mode for the specified context.
 
-## Context Values:
+## Values for `Context`:
 | Value | Name |
 | --- | --- |
 | 0 | On Foot |
@@ -24,7 +24,7 @@ Sets the camera view mode for the specified context.
 | 7 | In Turret |
 
 
-## ViewMode Values:
+## Values for `ViewMode`:
 | Value | Name |
 | --- | --- |
 | 0 | Third Person Near |

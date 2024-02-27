@@ -11,7 +11,7 @@ void CONTROL_LANDING_GEAR(int nCommand);
 
 Control an aircraft's landing gear
 
-## nCommand Values:
+## Values for `nCommand`:
 | Value | Name |
 | --- | --- |
 | 0 | Deploy |

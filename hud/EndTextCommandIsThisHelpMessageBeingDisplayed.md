@@ -9,7 +9,7 @@ aliases: ["0x10bddbfc529428dd"]
 bool END_TEXT_COMMAND_IS_THIS_HELP_MESSAGE_BEING_DISPLAYED(int iHelpId);
 ```
 
-## iHelpId Values:
+## Values for `iHelpId`:
 | Value | Name |
 | --- | --- |
 | 0 | Standard |

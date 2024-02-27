@@ -9,7 +9,7 @@ aliases: ["0x6b1de27ee78e6a19"]
 void FLASH_MINIMAP_DISPLAY_WITH_COLOR(int eFlashColour);
 ```
 
-## eFlashColour Values:
+## Values for `eFlashColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

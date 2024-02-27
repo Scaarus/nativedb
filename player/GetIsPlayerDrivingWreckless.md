@@ -11,7 +11,7 @@ bool GET_IS_PLAYER_DRIVING_WRECKLESS(Player player, int wreckless);
 
 Used to test if the player has performed a WRECKLESS_TYPE. This will be valid over a number of frames depending on the type.
 
-## wreckless Values:
+## Values for `wreckless`:
 | Value | Name |
 | --- | --- |
 | 0 | On Pavement |

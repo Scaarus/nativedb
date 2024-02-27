@@ -11,7 +11,7 @@ bool NETWORK_HAVE_COMMUNICATION_PRIVILEGES(int nPrivilegeType, int PlayerIndex);
 
 Returns true if the player has communication / voicechat privileges.
 
-## nPrivilegeType Values:
+## Values for `nPrivilegeType`:
 | Value | Name |
 | --- | --- |
 | 0 | Everyone |

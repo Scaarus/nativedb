@@ -11,7 +11,7 @@ void GET_VEHICLE_MOD_COLOR_1(Vehicle vehicle, int colorType, int baseColIndex, i
 
 Returns the type and index of color 1 on the specified vehicle. More...
 
-## colorType Values:
+## Values for `colorType`:
 | Value | Name |
 | --- | --- |
 | 0 | Metallic |

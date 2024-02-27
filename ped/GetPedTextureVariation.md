@@ -11,7 +11,7 @@ int GET_PED_TEXTURE_VARIATION(Ped ped, int ComponentNumber);
 
 Gets the index of the current texture variation for the specified ped component (part of the body)
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

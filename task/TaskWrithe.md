@@ -11,7 +11,7 @@ void TASK_WRITHE(Ped ped, Ped ped, int nMinFireLoops, int StartState, bool Force
 
 Puts the ped into the hurt state, a target needs to be provided
 
-## StartState Values:
+## Values for `StartState`:
 | Value | Name |
 | --- | --- |
 | 0 | Shm Onground |

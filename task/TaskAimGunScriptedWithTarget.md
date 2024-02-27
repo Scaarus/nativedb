@@ -11,7 +11,7 @@ void TASK_AIM_GUN_SCRIPTED_WITH_TARGET(Ped ped, Vector3 vTargetPosition, int Aim
 
 Gives a ped a scripted gun task with a target
 
-## AimGunTaskType Values:
+## Values for `AimGunTaskType`:
 | Value | Name |
 | --- | --- |
 | 0 | On Crate |

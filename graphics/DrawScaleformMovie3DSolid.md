@@ -11,7 +11,7 @@ void DRAW_SCALEFORM_MOVIE_3D_SOLID(Scaleform scaleform, Vector3 vPos, Vector3 vR
 
 Renders a scaleform movie to the screen (no lighting).
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

@@ -11,7 +11,7 @@ void TASK_GO_TO_COORD_AND_AIM_AT_HATED_ENTITIES_NEAR_COORD(Ped ped, Vector3 GoTo
 
 Will go to the specified coord and aim at hated entites near the given coord
 
-## iNavFlags Values:
+## Values for `iNavFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |
@@ -30,14 +30,14 @@ Will go to the specified coord and aim at hated entites near the given coord
 | 32768 | Pull From Edge Extra |
 
 
-## iTaskFlags Values:
+## Values for `iTaskFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
 | 1 | At Goto Coord If Target Los Blocked |
 
 
-## FiringPatternHash Values:
+## Values for `FiringPatternHash`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

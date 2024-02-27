@@ -11,7 +11,7 @@ void TASK_LOOK_AT_ENTITY(Ped ped, Entity entity, int time, int priority);
 
 Tells a ped to look at an entity.
 
-## priority Values:
+## Values for `priority`:
 | Value | Name |
 | --- | --- |
 | 0 | Very Low |

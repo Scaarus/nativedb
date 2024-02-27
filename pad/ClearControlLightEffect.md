@@ -11,7 +11,7 @@ void CLEAR_CONTROL_LIGHT_EFFECT(int control);
 
 Clears any set colors on a light device.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

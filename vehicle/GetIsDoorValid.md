@@ -11,7 +11,7 @@ bool GET_IS_DOOR_VALID(int DoorNumber);
 
 returns true if the door is valid
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

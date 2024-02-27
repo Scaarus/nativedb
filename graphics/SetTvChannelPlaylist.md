@@ -11,7 +11,7 @@ void SET_TV_CHANNEL_PLAYLIST(int iChannel, string playlistName, bool startFromNo
 
 Sets the passed channel to the passed playlist
 
-## iChannel Values:
+## Values for `iChannel`:
 | Value | Name |
 | --- | --- |
 | -1 | None |

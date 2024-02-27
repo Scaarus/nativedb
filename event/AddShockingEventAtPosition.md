@@ -11,7 +11,7 @@ int ADD_SHOCKING_EVENT_AT_POSITION(int eventType, Vector3 pos, float overrideLif
 
 Add a specific shocking event at a position, and return an event ID if successful, or 0 if nothing was added.
 
-## eventType Values:
+## Values for `eventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

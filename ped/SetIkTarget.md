@@ -11,7 +11,7 @@ void SET_IK_TARGET(Ped ped, int IKPart, Entity entity, int TargetBone, Vector3 T
 
 Sets the IK target for a given IK part belonging to the ped. The IK target will only be valid for one update, so it needs to be set for as long as it is needed (to avoid IK targets not being cleared and getting stuck enabled).
 
-## IKPart Values:
+## Values for `IKPart`:
 | Value | Name |
 | --- | --- |
 | 0 | Invalid |
@@ -23,7 +23,7 @@ Sets the IK target for a given IK part belonging to the ped. The IK target will 
 | 6 | Leg Right |
 
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

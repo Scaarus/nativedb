@@ -11,7 +11,7 @@ void UNBLOCK_DECISION_MAKER_EVENT(int DecisionMakerId, int EventType);
 
 Unblocks the specified Event if it was blocked via [`BLOCK_DECISION_MAKER_EVENT`](#_0xE42FCDFD0E4196F7)
 
-## DecisionMakerId Values:
+## Values for `DecisionMakerId`:
 | Value | Name |
 | --- | --- |
 | -1533126372 | Cop |
@@ -21,7 +21,7 @@ Unblocks the specified Event if it was blocked via [`BLOCK_DECISION_MAKER_EVENT`
 | 1862763509 | Player |
 
 
-## EventType Values:
+## Values for `EventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

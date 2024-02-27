@@ -11,7 +11,7 @@ void CLEAR_DECISION_MAKER_EVENT_RESPONSE(int DecisionMakerId, int EventType);
 
 Clears an Event response added to the decision maker via ADD_DECISION_MAKER_EVENT_RESPONSE
 
-## DecisionMakerId Values:
+## Values for `DecisionMakerId`:
 | Value | Name |
 | --- | --- |
 | -1533126372 | Cop |
@@ -21,7 +21,7 @@ Clears an Event response added to the decision maker via ADD_DECISION_MAKER_EVEN
 | 1862763509 | Player |
 
 
-## EventType Values:
+## Values for `EventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

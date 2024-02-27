@@ -11,7 +11,7 @@ void SET_FAKE_MINIMAP_MAX_ALTIMETER_HEIGHT(float fMaxHeight, bool ColourAltimete
 
 sets a fake max height for the minimap altimeter
 
-## hudColor Values:
+## Values for `hudColor`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

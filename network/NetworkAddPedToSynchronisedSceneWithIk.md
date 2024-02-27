@@ -11,7 +11,7 @@ void NETWORK_ADD_PED_TO_SYNCHRONISED_SCENE_WITH_IK(Ped ped, int NetworkSceneID, 
 
 Adds a ped and associated animation data to a previous created network synchronised scene. Extends [`NETWORK_ADD_PED_TO_SYNCHRONISED_SCENE`](#_0x742A637471BCECD9) to support IK flags.
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -35,7 +35,7 @@ Adds a ped and associated animation data to a previous created network synchroni
 | 131072 | Net Disregard Attachment Checks |
 
 
-## ragdollFlags Values:
+## Values for `ragdollFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

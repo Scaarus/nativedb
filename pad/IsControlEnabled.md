@@ -11,7 +11,7 @@ bool IS_CONTROL_ENABLED(int control, int action);
 
 Return true if the control is disabled.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -19,7 +19,7 @@ Return true if the control is disabled.
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

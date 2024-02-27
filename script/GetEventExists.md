@@ -11,7 +11,7 @@ bool GET_EVENT_EXISTS(int eventQueue, int eventType);
 
 Returns TRUE if the given type of event is on the given event queue
 
-## eventQueue Values:
+## Values for `eventQueue`:
 | Value | Name |
 | --- | --- |
 | 0 | Ai |
@@ -19,7 +19,7 @@ Returns TRUE if the given type of event is on the given event queue
 | 2 | Errors |
 
 
-## eventType Values:
+## Values for `eventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

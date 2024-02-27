@@ -11,7 +11,7 @@ Ped GET_PED_USING_VEHICLE_DOOR(Vehicle vehicle, int DoorNumber);
 
 Gets the ped that current holds a door reservation for the requested vehicle door
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

@@ -11,7 +11,7 @@ void SET_WIDESCREEN_FORMAT(int WidescreenSetting);
 
 sets the script widescreen format
 
-## WidescreenSetting Values:
+## Values for `WidescreenSetting`:
 | Value | Name |
 | --- | --- |
 | 0 | Auto |

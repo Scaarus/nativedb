@@ -11,7 +11,7 @@ void SET_PED_HEAD_OVERLAY_TINT(Ped ped, int slot, int rampType, int tint, int ti
 
 Sets the tint index for the specified head blend overlay slot
 
-## slot Values:
+## Values for `slot`:
 | Value | Name |
 | --- | --- |
 | 0 | Blemishes |
@@ -29,7 +29,7 @@ Sets the tint index for the specified head blend overlay slot
 | 12 | Body 3 |
 
 
-## rampType Values:
+## Values for `rampType`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

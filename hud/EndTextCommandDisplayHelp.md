@@ -9,7 +9,7 @@ aliases: ["0x238ffe5c7b0498a6"]
 void END_TEXT_COMMAND_DISPLAY_HELP(int iHelpId, bool DisplayForever, bool PlaySound, int OverrideDuration);
 ```
 
-## iHelpId Values:
+## Values for `iHelpId`:
 | Value | Name |
 | --- | --- |
 | 0 | Standard |

@@ -11,7 +11,7 @@ Ped CREATE_PED_INSIDE_VEHICLE(Vehicle vehicle, int PedType, Hash modelHash, int 
 
 Creates a ped inside at seat number.
 
-## PedType Values:
+## Values for `PedType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |
@@ -48,7 +48,7 @@ Creates a ped inside at seat number.
 | 30 | Last Pedtype |
 
 
-## Seat Values:
+## Values for `Seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

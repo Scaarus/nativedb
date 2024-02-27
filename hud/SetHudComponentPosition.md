@@ -11,7 +11,7 @@ void SET_HUD_COMPONENT_POSITION(int hudComponent, float PosX, float PosY);
 
 sets the position of this hud component
 
-## hudComponent Values:
+## Values for `hudComponent`:
 | Value | Name |
 | --- | --- |
 | 0 | Weapon Icon |

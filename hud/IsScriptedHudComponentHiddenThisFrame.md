@@ -11,7 +11,7 @@ bool IS_SCRIPTED_HUD_COMPONENT_HIDDEN_THIS_FRAME(int hudComponent);
 
 is the scripted hud component hidden this frame?
 
-## hudComponent Values:
+## Values for `hudComponent`:
 | Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |

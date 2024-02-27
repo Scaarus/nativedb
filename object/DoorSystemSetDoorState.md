@@ -11,7 +11,7 @@ void DOOR_SYSTEM_SET_DOOR_STATE(int doorEnumHash, int state, bool network, bool 
 
 Set the state of a door managed by the door system
 
-## state Values:
+## Values for `state`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

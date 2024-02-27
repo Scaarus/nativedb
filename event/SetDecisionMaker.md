@@ -11,7 +11,7 @@ void SET_DECISION_MAKER(Ped ped, int DecisionMakerId);
 
 Gives ped a valid decsion maker
 
-## DecisionMakerId Values:
+## Values for `DecisionMakerId`:
 | Value | Name |
 | --- | --- |
 | -1533126372 | Cop |

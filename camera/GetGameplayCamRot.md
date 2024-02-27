@@ -11,7 +11,7 @@ Vector3 GET_GAMEPLAY_CAM_ROT(int RotOrder);
 
 Gets the game play cams rotation.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

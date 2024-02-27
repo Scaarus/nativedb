@@ -11,7 +11,7 @@ void SET_TEXT_FONT(int TextFont);
 
 Set the text font
 
-## TextFont Values:
+## Values for `TextFont`:
 | Value | Name |
 | --- | --- |
 | 0 | Standard |

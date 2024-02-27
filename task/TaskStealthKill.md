@@ -11,7 +11,7 @@ void TASK_STEALTH_KILL(Ped ped, Ped ped, int StealthKillActionResultId, float fD
 
 Gives designated ped a stealth task which will navigate to a defined target ped and perform a stealth kill
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

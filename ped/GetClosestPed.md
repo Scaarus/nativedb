@@ -11,7 +11,7 @@ bool GET_CLOSEST_PED(float Range, bool ScanRandomPeds, bool ScanMissionPeds, Ped
 
 Trys to get closest random ped to a coord.
 
-## ExclusionPedType Values:
+## Values for `ExclusionPedType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

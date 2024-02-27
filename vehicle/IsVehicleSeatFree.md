@@ -11,7 +11,7 @@ bool IS_VEHICLE_SEAT_FREE(Vehicle vehicle, int seat, bool ConsiderPedUsingSeat);
 
 Checks if the the vehicle is free.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

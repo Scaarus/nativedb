@@ -11,7 +11,7 @@ void GET_HUD_COLOUR(int HudColour, int red, int green, int blue, int alpha_param
 
 Returns the red, green, blue and alpha components (all integers) of the colourID passed in.
 
-## HudColour Values:
+## Values for `HudColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

@@ -11,7 +11,7 @@ void REQUEST_CUTSCENE(string pCutName, int PlaybackFlags);
 
 Requests a cutscene: animations, models, audio etc.
 
-## PlaybackFlags Values:
+## Values for `PlaybackFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Requested From Widget |

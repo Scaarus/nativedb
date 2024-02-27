@@ -11,7 +11,7 @@ void SET_PED_ALTERNATE_MOVEMENT_ANIM(Ped ped, int type, string animDictionary, s
 
 Swaps the peds straight forward walking anim with the specified anim a new one.
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Idle |

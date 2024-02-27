@@ -11,7 +11,7 @@ void ADD_LINE_TO_CONVERSATION(int SpeakerNumber, string Context, string Subtitle
 
 Please keep all NATIVE definitions to a single line of code, to simplify some extra processing we need to do.
 
-## audibility Values:
+## Values for `audibility`:
 | Value | Name |
 | --- | --- |
 | 0 | Normal |

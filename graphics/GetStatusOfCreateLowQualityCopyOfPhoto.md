@@ -18,7 +18,7 @@ Call this after calling [`BEGIN_CREATE_LOW_QUALITY_COPY_OF_PHOTO`](#_0x759650634
 | 1 | In Progress |
 | 2 | Failed |
 
-## qualitySetting Values:
+## Values for `qualitySetting`:
 | Value | Name |
 | --- | --- |
 | 0 | One |

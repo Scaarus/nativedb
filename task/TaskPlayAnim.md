@@ -11,7 +11,7 @@ void TASK_PLAY_ANIM(Ped ped, string pAnimDictName, float fBlendInDelta, float fB
 
 Plays a anim task on a ped.
 
-## AnimFlags Values:
+## Values for `AnimFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |
@@ -48,7 +48,7 @@ Plays a anim task on a ped.
 | 1073741824 | Use Full Blending |
 
 
-## ikFlags Values:
+## Values for `ikFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

@@ -11,7 +11,7 @@ void SET_PLAYER_SHORT_SWITCH_STYLE(int style);
 
 must be called AFTER [`START_PLAYER_SWITCH`](#_0xFAA23F2CBA159D67), overrides the style the short range player switch will use
 
-## style Values:
+## Values for `style`:
 | Value | Name |
 | --- | --- |
 | 0 | Rotation |

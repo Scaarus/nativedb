@@ -11,7 +11,7 @@ void TASK_USE_MOBILE_PHONE(bool UsePhone, int PhoneMode);
 
 Tells the ped to use a mobile phone.
 
-## PhoneMode Values:
+## Values for `PhoneMode`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

@@ -11,7 +11,7 @@ bool GET_PED_LAST_DAMAGE_BONE(Ped ped, int ReturnBoneTag);
 
 Gets the bone that took the last piece of damage.
 
-## ReturnBoneTag Values:
+## Values for `ReturnBoneTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Null |

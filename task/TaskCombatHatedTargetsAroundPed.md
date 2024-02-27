@@ -11,7 +11,7 @@ void TASK_COMBAT_HATED_TARGETS_AROUND_PED(float fRange, int Flags);
 
 Tells the ped to combat all hated targets in the radius about the ped.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

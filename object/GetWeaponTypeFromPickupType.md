@@ -344,7 +344,7 @@ Returns the weapon type from a pickup type.
 | 327 | WEAPONTYPE_DLC_VEHICLE_SPYCARGUN |
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
 
-## ePickupType Values:
+## Values for `ePickupType`:
 | Value | Name |
 | --- | --- |
 | 0 | Health Standard |

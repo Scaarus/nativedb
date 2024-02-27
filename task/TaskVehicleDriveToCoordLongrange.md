@@ -9,7 +9,7 @@ aliases: ["0x158bb33f920d360c"]
 void TASK_VEHICLE_DRIVE_TO_COORD_LONGRANGE(Ped ped, Vehicle vehicle, Vector3 Position, float Speed, int Mode, float TargetRadius);
 ```
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

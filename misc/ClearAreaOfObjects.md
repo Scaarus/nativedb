@@ -11,7 +11,7 @@ void CLEAR_AREA_OF_OBJECTS(Vector3 CentrePosition, float Radius, int controlFlag
 
 Clears all non-mission objects within the defined sphere.
 
-## controlFlags Values:
+## Values for `controlFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Broadcast |

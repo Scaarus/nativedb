@@ -11,7 +11,7 @@ void ADD_TEXT_COMPONENT_SUBSTRING_TIME(int TimeInMillseconds, int TimeFormat);
 
 Takes a time in milliseconds and converts it to a string. Use ~a~ to mark the position in your line of text where you want this substring inserted
 
-## TimeFormat Values:
+## Values for `TimeFormat`:
 | Value | Name |
 | --- | --- |
 | 1 | TIME_FORMAT_MILLISECONDS |

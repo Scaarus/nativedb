@@ -11,7 +11,7 @@ void TASK_CHAT_TO_PED(Ped ped, int ChatFlags, Vector3 vOptionalGoToPosition, flo
 
 Tells the ped to chat to a ped (see wiki)
 
-## ChatFlags Values:
+## Values for `ChatFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Is Initiator |

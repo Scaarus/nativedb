@@ -11,7 +11,7 @@ void SET_COMBAT_FLOAT(Ped ped, int combatAttribute, float fNewValue);
 
 To set a variety of combat attributes (floats) using one function
 
-## combatAttribute Values:
+## Values for `combatAttribute`:
 | Value | Name |
 | --- | --- |
 | 0 | Blind Fire Chance (Chance To Blind Fire From Cover, Range Is 0.0-1.0 (Default Is 0.05 For Civilians, Law Doesn'T Blind Fire)) |

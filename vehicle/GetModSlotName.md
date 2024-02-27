@@ -11,7 +11,7 @@ string GET_MOD_SLOT_NAME(Vehicle vehicle, int modSlot);
 
 Returns the mod slot name to display in the mod shop ui
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

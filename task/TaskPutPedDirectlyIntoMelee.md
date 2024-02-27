@@ -11,7 +11,7 @@ void TASK_PUT_PED_DIRECTLY_INTO_MELEE(Ped ped, float BlendInDuration, float nTim
 
 Puts the ped directly into melee
 
-## AiCombatFlags Values:
+## Values for `AiCombatFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

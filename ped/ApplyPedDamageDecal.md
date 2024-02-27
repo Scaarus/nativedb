@@ -11,7 +11,7 @@ void APPLY_PED_DAMAGE_DECAL(Ped ped, int zone, float u, float v, float rotation,
 
 Applies a ped damage decoration (decal) to the ped, using the data defined in the peddamage.xml tuning file. the decal could be a tatoo, dirt a scar, etc.
 
-## zone Values:
+## Values for `zone`:
 | Value | Name |
 | --- | --- |
 | 0 | Torso |

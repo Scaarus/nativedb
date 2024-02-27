@@ -11,7 +11,7 @@ void SET_PLAYER_PREVIOUS_VARIATION_DATA(Player player, int ComponentNumber, int 
 
 Manually sets the previous variation data, restored when the parachute / scuba prop is removed as part of CTaskTakeOffPedVariation.
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

@@ -11,7 +11,7 @@ void SET_PED_HELMET_FLAG(Ped ped, int HelmetPropFlag);
 
 Sets the helmet flag for which tpye of prop to use
 
-## HelmetPropFlag Values:
+## Values for `HelmetPropFlag`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

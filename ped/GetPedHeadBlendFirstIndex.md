@@ -11,7 +11,7 @@ int GET_PED_HEAD_BLEND_FIRST_INDEX(int type);
 
 Returns the first index of the specified head blend head type
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Male |

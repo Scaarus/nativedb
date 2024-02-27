@@ -11,7 +11,7 @@ bool GET_PED_CONFIG_FLAG(Ped ped, int ConfigFlag, bool DoDeadCheck);
 
 Gets the given ped config flag bit
 
-## ConfigFlag Values:
+## Values for `ConfigFlag`:
 | Value | Name |
 | --- | --- |
 | 0 | Created By Factory |

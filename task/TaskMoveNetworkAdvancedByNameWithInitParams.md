@@ -11,7 +11,7 @@ void TASK_MOVE_NETWORK_ADVANCED_BY_NAME_WITH_INIT_PARAMS(Ped ped, string network
 
 Task to start a move network of the type passed with custom start pos and orientation When bAllowOverrideCloneUpdate is used in MP the remotely cloned ped will not update in sync with commands sent locally and it is expected that the remote machine will override the update of the clones task signals. This version allows the network to be setup with initial parameters (clipsets, floats and bools).
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |
@@ -22,7 +22,7 @@ Task to start a move network of the type passed with custom start pos and orient
 | 5 | Zyx |
 
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

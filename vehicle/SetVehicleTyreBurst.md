@@ -11,7 +11,7 @@ void SET_VEHICLE_TYRE_BURST(Vehicle vehicle, int WheelNumber, bool InstantBurst,
 
 Sets a vehicles tyre burst.
 
-## WheelNumber Values:
+## Values for `WheelNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Car Front Left |

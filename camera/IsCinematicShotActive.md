@@ -11,7 +11,7 @@ bool IS_CINEMATIC_SHOT_ACTIVE(int Shot);
 
 Check that cinematic shot is active, will return a valid result a frame after creating the shot.
 
-## Shot Values:
+## Values for `Shot`:
 | Value | Name |
 | --- | --- |
 | 0 | Camera Man |

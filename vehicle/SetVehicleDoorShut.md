@@ -11,7 +11,7 @@ void SET_VEHICLE_DOOR_SHUT(Vehicle vehicle, int DoorNumber, bool ShutInstantly);
 
 Shuts a vehicle door.
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

@@ -11,7 +11,7 @@ void STAT_SET_OPEN_SAVETYPE_IN_JOB(int save);
 
 Default behaviour is to never save during a jobactivity. We can use this comamnd to open certain saves.
 
-## save Values:
+## Values for `save`:
 | Value | Name |
 | --- | --- |
 | 0 | Stat Savetype Default |

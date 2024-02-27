@@ -9,7 +9,7 @@ aliases: ["0x639431e895b9aa57"]
 bool IS_ENTRY_POINT_FOR_SEAT_CLEAR(Ped ped, Vehicle vehicle, int Seat, bool CheckSide, bool LeftSide);
 ```
 
-## Seat Values:
+## Values for `Seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

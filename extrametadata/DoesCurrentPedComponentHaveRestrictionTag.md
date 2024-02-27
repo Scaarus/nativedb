@@ -11,7 +11,7 @@ bool DOES_CURRENT_PED_COMPONENT_HAVE_RESTRICTION_TAG(Ped ped, int componentNumbe
 
 Does the Current Ped have with this component have a restriction tag set on it
 
-## componentNumber Values:
+## Values for `componentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

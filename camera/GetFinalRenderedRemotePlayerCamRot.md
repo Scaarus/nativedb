@@ -11,7 +11,7 @@ Vector3 GET_FINAL_RENDERED_REMOTE_PLAYER_CAM_ROT(Player player, int RotOrder);
 
 Gets the rotation of the final rendered cam for a remote player.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

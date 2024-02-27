@@ -11,7 +11,7 @@ bool IS_HUD_COMPONENT_ACTIVE(int hudComponent);
 
 returns whether the hud component is active/loaded
 
-## hudComponent Values:
+## Values for `hudComponent`:
 | Value | Name |
 | --- | --- |
 | 0 | Weapon Icon |

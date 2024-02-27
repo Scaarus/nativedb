@@ -11,7 +11,7 @@ void ADD_TEXT_COMPONENT_FORMATTED_INTEGER(int integerToFormat, int FormattingFla
 
 Takes an integer and converts it to a string. Use ~a~ to mark the position in your line of text where you want this substring inserted
 
-## FormattingFlags Values:
+## Values for `FormattingFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Integer Format Comma Separators |

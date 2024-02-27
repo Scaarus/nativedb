@@ -11,7 +11,7 @@ void TASK_WANDER_STANDARD(Ped ped, float Heading, int WanderFlags);
 
 Tells a ped to wander. If you dont pass in a heading it will be randomized when tasks starts
 
-## WanderFlags Values:
+## Values for `WanderFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

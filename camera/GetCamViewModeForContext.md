@@ -21,7 +21,7 @@ Gets the camera view mode for the specified context.
 | 4 | First Person |
 | 6 | Third Person |
 
-## Context Values:
+## Values for `Context`:
 | Value | Name |
 | --- | --- |
 | 0 | On Foot |

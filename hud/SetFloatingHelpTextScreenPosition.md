@@ -11,7 +11,7 @@ void SET_FLOATING_HELP_TEXT_SCREEN_POSITION(int id, float fPosX, float fPosY);
 
 sets the floating help text position on screen
 
-## id Values:
+## Values for `id`:
 | Value | Name |
 | --- | --- |
 | 0 | 1 |

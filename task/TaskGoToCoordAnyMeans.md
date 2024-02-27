@@ -11,7 +11,7 @@ void TASK_GO_TO_COORD_ANY_MEANS(Vector3 Position, float MoveBlendRatio, Vehicle 
 
 Tells a ped to go to a coord by any means.
 
-## DrivingFlags Values:
+## Values for `DrivingFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

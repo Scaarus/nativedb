@@ -11,7 +11,7 @@ bool START_PARTICLE_FX_NON_LOOPED_ON_PED_BONE(string fxName, Ped ped, Vector3 ve
 
 Trigger a set piece (non looped) particle effect on a ped bone with an offset position and orientation.
 
-## boneTag Values:
+## Values for `boneTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Null |

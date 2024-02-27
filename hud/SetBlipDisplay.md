@@ -11,7 +11,7 @@ void SET_BLIP_DISPLAY(Blip blip, int display);
 
 Change display mode for Radar blip
 
-## display Values:
+## Values for `display`:
 | Value | Name |
 | --- | --- |
 | 0 | Nothing |

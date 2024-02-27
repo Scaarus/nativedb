@@ -9,7 +9,7 @@ aliases: ["0xc5f0a8ebd3f361ce"]
 void SET_INSTANCE_PRIORITY_HINT(int hint);
 ```
 
-## hint Values:
+## Values for `hint`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

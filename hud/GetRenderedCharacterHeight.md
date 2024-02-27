@@ -9,7 +9,7 @@ aliases: ["0xdb88a37483346780"]
 float GET_RENDERED_CHARACTER_HEIGHT(float TextYScale, int TextFont);
 ```
 
-## TextFont Values:
+## Values for `TextFont`:
 | Value | Name |
 | --- | --- |
 | 0 | Standard |

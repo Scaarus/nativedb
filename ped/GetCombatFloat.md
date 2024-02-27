@@ -11,7 +11,7 @@ float GET_COMBAT_FLOAT(Ped ped, int combatAttribute);
 
 This function will get the value of any of the enum driven combat float attributes
 
-## combatAttribute Values:
+## Values for `combatAttribute`:
 | Value | Name |
 | --- | --- |
 | 0 | Blind Fire Chance (Chance To Blind Fire From Cover, Range Is 0.0-1.0 (Default Is 0.05 For Civilians, Law Doesn'T Blind Fire)) |

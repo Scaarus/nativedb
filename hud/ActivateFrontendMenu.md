@@ -11,7 +11,7 @@ void ACTIVATE_FRONTEND_MENU(Any* iMenuVersion, bool PauseGame, int HighlightTab)
 
 opens frontend menu
 
-## HighlightTab Values:
+## Values for `HighlightTab`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

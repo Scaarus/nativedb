@@ -13,7 +13,7 @@ Creates a ped on foot at the specified co-ordinates with heading.
 
 these are for the old style, depricated Ped Blood damage functions, and will go away. Checks which peds can be created These should match the PropTypes enum in PedProps.h They are used by RESTRICT_PED_PROPS FA: !!!DEPRECATED!!! Keep in sync with eAnimEvents in AnimFlags.h must match order in commands_ped.cpp Keep this in sync with enum BehaviourFlags in CombatData.h states that will for motion update Defaults are taken from gta5\build\dev\common\data\ai\combatbehaviour.meta
 
-## PedType Values:
+## Values for `PedType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

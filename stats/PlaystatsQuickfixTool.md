@@ -11,7 +11,7 @@ void PLAYSTATS_QUICKFIX_TOOL(int anElement, string ItemName);
 
 Metric set to cover the quick fix tool.
 
-## anElement Values:
+## Values for `anElement`:
 | Value | Name |
 | --- | --- |
 | 0 | Qf None |

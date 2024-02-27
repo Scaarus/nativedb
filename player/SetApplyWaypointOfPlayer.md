@@ -11,7 +11,7 @@ void SET_APPLY_WAYPOINT_OF_PLAYER(Player player, int color);
 
 Sets a player id who's waypoint will override the local player's waypoint.
 
-## color Values:
+## Values for `color`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

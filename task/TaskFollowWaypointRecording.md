@@ -11,7 +11,7 @@ void TASK_FOLLOW_WAYPOINT_RECORDING(Ped ped, string RecordingName, int iStarting
 
 Instructs the ped to follow the named recording, starting at the given waypoint & optionally terminating at a specified waypoint
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

@@ -11,7 +11,7 @@ void SET_SEQUENCE_TO_REPEAT(Sequence sequence, int DoRepeat);
 
 Sets a sequence to repeat.
 
-## DoRepeat Values:
+## Values for `DoRepeat`:
 | Value | Name |
 | --- | --- |
 | 0 | Not |

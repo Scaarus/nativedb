@@ -9,7 +9,7 @@ aliases: ["0x30785d90c956bf35"]
 bool CAN_SHUFFLE_SEAT(Vehicle vehicle, int Seat);
 ```
 
-## Seat Values:
+## Values for `Seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

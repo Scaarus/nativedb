@@ -11,7 +11,7 @@ void SET_INPUT_EXCLUSIVE(int control, int action);
 
 Sets an input to recieve exclusive input for 1 frame only. This will disable all inputs that are associated to the same buttons except for this one.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -19,7 +19,7 @@ Sets an input to recieve exclusive input for 1 frame only. This will disable all
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

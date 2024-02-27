@@ -11,7 +11,7 @@ void SET_PED_VEHICLE_FORCED_SEAT_USAGE(Ped ped, Vehicle vehicle, int iSlot, int 
 
 Force a ped to use front or rear seats for a particular vehicle, if no vehicle is specified, it is assumed this is to be applied for any vehicle this has the potential to cause conflicts with other slots, if wanting to apply a setting for all vehicles, script should call [`CLEAR_ALL_PED_VEHICLE_FORCED_SEAT_USAGE`](#_0xE6CA85E7259CE16B) beforehand
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

@@ -11,7 +11,7 @@ void SET_ANIM_RATE(Entity entity, float rate, int priority, bool secondary);
 
 Sets the rate of a clip on a scripted anim task.
 
-## priority Values:
+## Values for `priority`:
 | Value | Name |
 | --- | --- |
 | 0 | Low |

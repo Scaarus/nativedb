@@ -11,7 +11,7 @@ void SET_VEHICLE_DOOR_BROKEN(Vehicle vehicle, int DoorNumber, bool Dissapear);
 
 Breaks a vehicle door.
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

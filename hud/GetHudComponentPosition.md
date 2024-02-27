@@ -11,7 +11,7 @@ Vector3 GET_HUD_COMPONENT_POSITION(int hudComponent);
 
 gets the position of this hud component value
 
-## hudComponent Values:
+## Values for `hudComponent`:
 | Value | Name |
 | --- | --- |
 | 0 | Weapon Icon |

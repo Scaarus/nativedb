@@ -11,7 +11,7 @@ int END_TEXT_COMMAND_THEFEED_POST_REPLAY_INPUT(int eReplayType, string sIcon, st
 
 Displays a Replay feed component (used when you press DPAD down)
 
-## eReplayType Values:
+## Values for `eReplayType`:
 | Value | Name |
 | --- | --- |
 | 0 | REPLAY_RECORDING |

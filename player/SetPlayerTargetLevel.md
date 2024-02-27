@@ -11,7 +11,7 @@ void SET_PLAYER_TARGET_LEVEL(int TargetLevel);
 
 set player targeting level (e.g. to increase/lower remote player target threat.
 
-## TargetLevel Values:
+## Values for `TargetLevel`:
 | Value | Name |
 | --- | --- |
 | 0 | Everyone |

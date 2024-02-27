@@ -11,7 +11,7 @@ int ADD_NAVMESH_BLOCKING_OBJECT(Vector3 vSizeXYZ, float fHeading, bool Permanent
 
 This command will assert if two objects are added at the same XYZ position, this is order to catch duplicates.
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

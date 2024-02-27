@@ -11,7 +11,7 @@ void REMOVE_VEHICLE_MOD(Vehicle vehicle, int modSlot);
 
 Clears the specified slot from any mods
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

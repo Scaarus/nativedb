@@ -11,7 +11,7 @@ int GET_VEHICLE_MOD_MODIFIER_VALUE(Vehicle vehicle, int modSlot, int modIndex);
 
 Returns the modifier value for the specified mod
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

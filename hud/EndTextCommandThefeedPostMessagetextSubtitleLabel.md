@@ -11,7 +11,7 @@ int END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_SUBTITLE_LABEL(string sTXD, string
 
 Displays the text message contact image and localised text message string in the top left of the HUD
 
-## eIcon Values:
+## Values for `eIcon`:
 | Value | Name |
 | --- | --- |
 | 0 | Blank |

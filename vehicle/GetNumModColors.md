@@ -11,7 +11,7 @@ int GET_NUM_MOD_COLORS(int colorType, bool ase);
 
 Returns the number of available color for a specific color type. More...
 
-## colorType Values:
+## Values for `colorType`:
 | Value | Name |
 | --- | --- |
 | 0 | Metallic |

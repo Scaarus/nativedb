@@ -11,7 +11,7 @@ bool IS_EXPLOSION_IN_ANGLED_AREA(int ExplosionTag, Vector3 Pos1, Vector3 Pos2, f
 
 Checks if an explosion is in an angled area.
 
-## ExplosionTag Values:
+## Values for `ExplosionTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Dontcare |

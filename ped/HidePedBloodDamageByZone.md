@@ -11,7 +11,7 @@ void HIDE_PED_BLOOD_DAMAGE_BY_ZONE(Ped ped, int zone, bool enable);
 
 Hides (but does not permanently remove) blood from a zone on a ped.
 
-## zone Values:
+## Values for `zone`:
 | Value | Name |
 | --- | --- |
 | 0 | Torso |

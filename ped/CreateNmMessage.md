@@ -11,7 +11,7 @@ void CREATE_NM_MESSAGE(int StartParam, int MessageType);
 
 Create a Natural motion message.
 
-## StartParam Values:
+## Values for `StartParam`:
 | Value | Name |
 | --- | --- |
 | -1 | Update |
@@ -19,7 +19,7 @@ Create a Natural motion message.
 | 1 | Start |
 
 
-## MessageType Values:
+## Values for `MessageType`:
 | Value | Name |
 | --- | --- |
 | 0 | Stop All Msg |

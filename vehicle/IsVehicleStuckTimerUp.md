@@ -11,7 +11,7 @@ bool IS_VEHICLE_STUCK_TIMER_UP(Vehicle vehicle, int StuckType, int RequiredTime)
 
 Has a timer for a specific stuck check expired.
 
-## StuckType Values:
+## Values for `StuckType`:
 | Value | Name |
 | --- | --- |
 | 0 | On Roof |

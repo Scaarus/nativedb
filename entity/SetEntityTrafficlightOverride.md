@@ -9,7 +9,7 @@ aliases: ["0x57c5db656185eac4"]
 void SET_ENTITY_TRAFFICLIGHT_OVERRIDE(Entity entity, int overrideMode);
 ```
 
-## overrideMode Values:
+## Values for `overrideMode`:
 | Value | Name |
 | --- | --- |
 | 0 | Red |

@@ -11,7 +11,7 @@ int GET_PED_PROP_INDEX(int Position);
 
 Get the id of the prop which has been assigned at the given position for the given ped.
 
-## Position Values:
+## Values for `Position`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

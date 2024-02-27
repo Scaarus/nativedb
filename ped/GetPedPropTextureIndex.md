@@ -11,7 +11,7 @@ int GET_PED_PROP_TEXTURE_INDEX(int Position);
 
 Gets the texture index of the prop.
 
-## Position Values:
+## Values for `Position`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

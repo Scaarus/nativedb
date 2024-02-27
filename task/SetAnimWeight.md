@@ -11,7 +11,7 @@ void SET_ANIM_WEIGHT(Entity entity, float blendWeight, int priority, int index, 
 
 Sets the blend weight of a clip playing on a scripted anim task.
 
-## priority Values:
+## Values for `priority`:
 | Value | Name |
 | --- | --- |
 | 0 | Low |

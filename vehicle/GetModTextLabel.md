@@ -11,7 +11,7 @@ string GET_MOD_TEXT_LABEL(Vehicle vehicle, int modSlot, int modIndex);
 
 Returns the mod name text label
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

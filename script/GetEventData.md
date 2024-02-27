@@ -11,7 +11,7 @@ bool GET_EVENT_DATA(int eventQueue, int eventIndex, Any* data, int dataSize);
 
 Retrieves data from the event. One of the structures defined about is passed in and filled out.
 
-## eventQueue Values:
+## Values for `eventQueue`:
 | Value | Name |
 | --- | --- |
 | 0 | Ai |

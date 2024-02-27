@@ -11,7 +11,7 @@ void TASK_GO_TO_COORD_WHILE_AIMING_AT_ENTITY(Ped ped, Vector3 GoToCoord, Entity 
 
 The ped will move to the GoToCoord while aiming at the AimAtEntity
 
-## iNavFlags Values:
+## Values for `iNavFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |
@@ -30,7 +30,7 @@ The ped will move to the GoToCoord while aiming at the AimAtEntity
 | 32768 | Pull From Edge Extra |
 
 
-## FiringPatternHash Values:
+## Values for `FiringPatternHash`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

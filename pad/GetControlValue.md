@@ -11,7 +11,7 @@ int GET_CONTROL_VALUE(int control, int action);
 
 Return controller value related to an action (range 0 to 255)
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -19,7 +19,7 @@ Return controller value related to an action (range 0 to 255)
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

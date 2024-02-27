@@ -11,7 +11,7 @@ int GET_PED_DRAWABLE_VARIATION(Ped ped, int ComponentNumber);
 
 Gets the index of the current drawable (geometry) for the specified part of the ped's body (component). More infp..
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

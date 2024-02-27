@@ -11,7 +11,7 @@ void SET_CUTSCENE_PED_PROP_VARIATION(string SceneHandle, int Position, int NewPr
 
 Sets a request to change the component prop, only valid for a single frame.
 
-## Position Values:
+## Values for `Position`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

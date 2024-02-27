@@ -13,7 +13,7 @@ Returns true if the cursor CONTROL_ACTIONS are valid (e.g. on a touchpad, the to
 
 When this returns false, the values inside the cursor CONTROL_ACTIONS will be zero.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

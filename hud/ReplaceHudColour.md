@@ -11,7 +11,7 @@ void REPLACE_HUD_COLOUR(int destHudColour, int srcHudColour);
 
 replaces destHudColour with srcHudColour
 
-## destHudColour Values:
+## Values for `destHudColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

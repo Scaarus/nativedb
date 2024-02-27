@@ -11,7 +11,7 @@ int SET_PED_PRELOAD_VARIATION_DATA(Ped ped, int ComponentID, int DrawableID, int
 
 Sets a component variation to preload into memory, without applying it on the ped
 
-## ComponentID Values:
+## Values for `ComponentID`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

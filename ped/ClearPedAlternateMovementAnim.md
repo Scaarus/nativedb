@@ -11,7 +11,7 @@ void CLEAR_PED_ALTERNATE_MOVEMENT_ANIM(Ped ped, int type, float blendDelta);
 
 MAkes the ped go back to using its original walk anim.
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Idle |

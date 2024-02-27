@@ -9,7 +9,7 @@ aliases: ["0xfe99b66d079cf6bc"]
 void DISABLE_CONTROL_ACTION(int control, int action, bool disableRelatedActions);
 ```
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -17,7 +17,7 @@ void DISABLE_CONTROL_ACTION(int control, int action, bool disableRelatedActions)
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

@@ -11,7 +11,7 @@ void REPORT_CRIME(int crimeToReport, int crimeValue);
 
 Report a crime from script, crimeValue
 
-## crimeToReport Values:
+## Values for `crimeToReport`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

@@ -11,7 +11,7 @@ bool IS_FLOATING_HELP_TEXT_ON_SCREEN(int id);
 
 returns whether the floating text is on screen
 
-## id Values:
+## Values for `id`:
 | Value | Name |
 | --- | --- |
 | 0 | 1 |

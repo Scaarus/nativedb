@@ -9,7 +9,7 @@ aliases: ["0x1f13d5ae5cb17e17"]
 int GET_NUM_RESERVED_MISSION_PEDS(bool ForAllScripts, int reservationType);
 ```
 
-## reservationType Values:
+## Values for `reservationType`:
 | Value | Name |
 | --- | --- |
 | 0 | All |

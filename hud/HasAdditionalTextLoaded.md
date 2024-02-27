@@ -11,7 +11,7 @@ bool HAS_ADDITIONAL_TEXT_LOADED(int SlotNumber);
 
 Checks that the text for the slot has loaded.
 
-## SlotNumber Values:
+## Values for `SlotNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | MISSION_TEXT_SLOT |

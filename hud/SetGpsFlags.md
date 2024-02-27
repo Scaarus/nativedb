@@ -11,7 +11,7 @@ void SET_GPS_FLAGS(int iFlags, float fBlippedRouteDisplayDistance);
 
 Sets flags to control GPS behaviour, for routes which use the scripted GPS slot This includes blip-routes, racektrack, and multi-gps routes. Values will be returned to GPS_FLAG_NONE upon mission exit.
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

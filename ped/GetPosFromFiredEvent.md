@@ -9,7 +9,7 @@ aliases: ["0xba656a3bb01bdea3"]
 bool GET_POS_FROM_FIRED_EVENT(Ped ped, int EventType, Vector3 OutPos);
 ```
 
-## EventType Values:
+## Values for `EventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

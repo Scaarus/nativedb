@@ -11,7 +11,7 @@ void SET_TV_CHANNEL(int iChannel);
 
 turns the TV on by setting a channel that isn't TVCHANNELTYPE_CHANNEL_NONE (which will turn it off)
 
-## iChannel Values:
+## Values for `iChannel`:
 | Value | Name |
 | --- | --- |
 | -1 | None |

@@ -11,7 +11,7 @@ void TASK_VEHICLE_FOLLOW(Ped ped, Vehicle vehicle, Entity entity, float CruiseSp
 
 This task sits sort of in between [`TASK_VEHICLE_ESCORT`](#_0x0FA6E4B75F302400) and [`TASK_VEHICLE_CHASE`](#_0x3C08A8E30363B353). Not as fine-controlled as ESCORT but not as aggressive as CHASE. This task is preferable to ESCORT when the following vehicle might start off in front of the thing it's supposed to follow
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

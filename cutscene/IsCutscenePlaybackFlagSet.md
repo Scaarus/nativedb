@@ -11,7 +11,7 @@ bool IS_CUTSCENE_PLAYBACK_FLAG_SET(int flags);
 
 Get the flags the cutscene was started with.
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 1 | Requested From Widget |

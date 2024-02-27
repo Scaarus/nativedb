@@ -11,7 +11,7 @@ void SET_CAM_ACTIVE_WITH_INTERP(Camera camera, Camera camera, int Duration, int 
 
 Sets a cam active which will interpolated too.
 
-## GraphTypePos Values:
+## Values for `GraphTypePos`:
 | Value | Name |
 | --- | --- |
 | 0 | Linear |

@@ -11,7 +11,7 @@ void SET_CAM_SPLINE_NODE_EXTRA_FLAGS(Camera camera, int NodeIndex, int Flags);
 
 Set/Clear additional spline node options.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

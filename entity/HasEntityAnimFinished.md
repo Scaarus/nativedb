@@ -11,7 +11,7 @@ bool HAS_ENTITY_ANIM_FINISHED(Entity entity, string pAnimDictName, string pAnimN
 
 Checks if the anim specified is being held on the last frame.
 
-## animType Values:
+## Values for `animType`:
 | Value | Name |
 | --- | --- |
 | 1 | Script |

@@ -11,7 +11,7 @@ int STREAMVOL_CREATE_SPHERE(Vector3 pos, float radius, int assetFlags, int lodFl
 
 a streaming volume is a volume of the map which issues streaming requests for the specified assets, as a method for pre-streaming collisions or map data. this is an extremely expensive thing to do, so it is important to destroy the volume when no longer needed
 
-## assetFlags Values:
+## Values for `assetFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Collisions Mover |
@@ -19,7 +19,7 @@ a streaming volume is a volume of the map which issues streaming requests for th
 | 12 | Mapdata |
 
 
-## lodFlags Values:
+## Values for `lodFlags`:
 | Value | Name |
 | --- | --- |
 | 33 | High |

@@ -11,7 +11,7 @@ bool NETWORK_CHECK_TEXT_COMMUNICATION_PRIVILEGES(int nPrivilegeType, int nGamerI
 
 As above, but allows check using a particular gamer index Use GAMER_INDEX_ANYONE to check any player. You can check if any player does NOT have the privilege by setting bCheckHasPrivilege to FALSE
 
-## nPrivilegeType Values:
+## Values for `nPrivilegeType`:
 | Value | Name |
 | --- | --- |
 | 0 | Everyone |

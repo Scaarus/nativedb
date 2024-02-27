@@ -11,7 +11,7 @@ void SET_SYNCHRONIZED_SCENE_ORIGIN(Vector3 scenePosition, Vector3 sceneOrientati
 
 Changes the root position and orientation of an existing synchronized scene.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

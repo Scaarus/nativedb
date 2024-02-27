@@ -11,7 +11,7 @@ void SET_VEHICLE_HEADLIGHT_SHADOWS(Vehicle vehicle, int flags);
 
 Sets the vehicle headlight shadow flags. see ENUM VEHICLE_HEADLIGHT_SHADOW_FLAGS, for valid values
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | NO_HEADLIGHT_SHADOWS |

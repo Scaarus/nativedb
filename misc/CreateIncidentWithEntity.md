@@ -9,7 +9,7 @@ aliases: ["0x05983472f0494e60"]
 bool CREATE_INCIDENT_WITH_ENTITY(Entity entity, int iNumUnits, float fTime, Incident incident, int iOverrideRelGroupHash, int assassinsLevel);
 ```
 
-## assassinsLevel Values:
+## Values for `assassinsLevel`:
 | Value | Name |
 | --- | --- |
 | 0 | Med |

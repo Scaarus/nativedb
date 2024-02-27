@@ -11,7 +11,7 @@ bool IS_PLAYLIST_ON_CHANNEL(int iChannel, int nameHash);
 
 Returns if a specific playlist is set on the specified channel
 
-## iChannel Values:
+## Values for `iChannel`:
 | Value | Name |
 | --- | --- |
 | -1 | None |

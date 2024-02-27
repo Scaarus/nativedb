@@ -11,7 +11,7 @@ void SET_ANIM_PHASE(Entity entity, float phase, int priority, bool secondary);
 
 Sets the phase of a clip on a scripted anim task.
 
-## priority Values:
+## Values for `priority`:
 | Value | Name |
 | --- | --- |
 | 0 | Low |

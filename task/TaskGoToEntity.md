@@ -11,7 +11,7 @@ void TASK_GO_TO_ENTITY(Ped ped, Entity entity, int Time, float SeekRadius, float
 
 Tells a ped to go to another entity.
 
-## GotoFlags Values:
+## Values for `GotoFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

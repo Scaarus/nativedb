@@ -11,7 +11,7 @@ bool SET_PED_TO_RAGDOLL_WITH_FALL(int MinTime, int MaxTime, int nFallType, Vecto
 
 this performs the same function as std [`SET_PED_TO_RAGDOLL`](#_0xAE99FB955581844A), but gives them a specific task, which controls them to fall off a high place, fall down stairs etc,
 
-## nFallType Values:
+## Values for `nFallType`:
 | Value | Name |
 | --- | --- |
 | 0 | From High |

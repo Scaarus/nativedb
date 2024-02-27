@@ -11,7 +11,7 @@ void TRIGGER_SONAR_BLIP(Vector3 Position, float fNoiseRange, int Colour);
 
 triggers a one-off self-removing sonar blip on the minimap
 
-## Colour Values:
+## Values for `Colour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

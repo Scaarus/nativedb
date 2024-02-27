@@ -11,7 +11,7 @@ bool GET_NTH_CLOSEST_VEHICLE_NODE(Vector3 Position, int NodeNumber, Vector3 Retu
 
 WIill return if can the nth ( n = 1 being closest) closest vehicle node, to a coord.
 
-## nodeFlags Values:
+## Values for `nodeFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

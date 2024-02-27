@@ -11,7 +11,7 @@ bool IS_VEHICLE_DOOR_FULLY_OPEN(Vehicle vehicle, int DoorNumber);
 
 Checks that a vehicle door is open
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

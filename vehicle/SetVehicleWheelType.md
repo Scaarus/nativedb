@@ -11,7 +11,7 @@ void SET_VEHICLE_WHEEL_TYPE(Vehicle vehicle, int type);
 
 Sets the current wheel type on the vehicle specified
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

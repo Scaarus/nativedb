@@ -9,7 +9,7 @@ aliases: ["0xe82728f0de75d13a"]
 void DRAW_MARKER_EX(int MarkerType, Vector3 scrVecPosition, Vector3 scrVecDirection, Vector3 scrVecRotation, Vector3 scrVecScale, int colR, int colG, int colB, int colA, bool ounce, bool faceCam, int RotOrder, bool rotate, string txdName, string texName, bool invert, bool usePreAlphaDepth, bool matchEntityRotOrder);
 ```
 
-## MarkerType Values:
+## Values for `MarkerType`:
 | Value | Name |
 | --- | --- |
 | 0 | Cone |
@@ -59,7 +59,7 @@ void DRAW_MARKER_EX(int MarkerType, Vector3 scrVecPosition, Vector3 scrVecDirect
 | 44 | Pit Lane |
 
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

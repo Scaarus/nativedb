@@ -9,7 +9,7 @@ aliases: ["0xdb34e8d56fc13b08"]
 void START_GPS_CUSTOM_ROUTE(int Colour, bool OnFoot, bool InVehicle);
 ```
 
-## Colour Values:
+## Values for `Colour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

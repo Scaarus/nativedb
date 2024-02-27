@@ -11,7 +11,7 @@ void TASK_OPEN_VEHICLE_DOOR(Vehicle vehicle, int Time, int seat, float MoveBlend
 
 Tells a ped to open a vehicle door.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

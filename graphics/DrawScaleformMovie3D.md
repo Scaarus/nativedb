@@ -11,7 +11,7 @@ void DRAW_SCALEFORM_MOVIE_3D(Scaleform scaleform, Vector3 vPos, Vector3 vRotatio
 
 Renders a scaleform movie to the screen.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

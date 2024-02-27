@@ -11,7 +11,7 @@ void TASK_HELI_MISSION(Vehicle vehicle, Vehicle vehicle, Ped ped, Vector3 Positi
 
 Gives the heli a mission.
 
-## Mission Values:
+## Values for `Mission`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -40,7 +40,7 @@ Gives the heli a mission.
 | 23 | Protect (23) |
 
 
-## HeliFlags Values:
+## Values for `HeliFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

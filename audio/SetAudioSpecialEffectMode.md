@@ -11,7 +11,7 @@ void SET_AUDIO_SPECIAL_EFFECT_MODE(int mode);
 
 Controls the global audio special effect mode
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | Normal |

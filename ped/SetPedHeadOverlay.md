@@ -11,7 +11,7 @@ void SET_PED_HEAD_OVERLAY(Ped ped, int slot, int tex, float blend);
 
 Sets an overlay texture for the blended head of the given ped.
 
-## slot Values:
+## Values for `slot`:
 | Value | Name |
 | --- | --- |
 | 0 | Blemishes |

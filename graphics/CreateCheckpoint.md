@@ -11,7 +11,7 @@ Checkpoint CREATE_CHECKPOINT(int CheckpointType, Vector3 scrVecPosition, Vector3
 
 Creates a race checkpoint.
 
-## CheckpointType Values:
+## Values for `CheckpointType`:
 | Value | Name |
 | --- | --- |
 | 0 | Race Ground Chevron 1 Base |

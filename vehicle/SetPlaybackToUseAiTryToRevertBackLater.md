@@ -11,7 +11,7 @@ void SET_PLAYBACK_TO_USE_AI_TRY_TO_REVERT_BACK_LATER(Vehicle vehicle, int delayI
 
 Stes a vehicle recording for a certain vehicle from being exact to be using AI.
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

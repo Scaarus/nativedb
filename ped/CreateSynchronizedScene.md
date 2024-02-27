@@ -11,7 +11,7 @@ int CREATE_SYNCHRONIZED_SCENE(Vector3 sceneOrientation, int RotOrder);
 
 Creates a new scene origin for playing back synchronized anims across multiple entities. Should be called immediately before starting the first anim on a scene.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

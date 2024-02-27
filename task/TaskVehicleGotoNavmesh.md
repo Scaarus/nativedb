@@ -9,7 +9,7 @@ aliases: ["0x195aeeb13cefe2ee"]
 void TASK_VEHICLE_GOTO_NAVMESH(Ped ped, Vehicle vehicle, Vector3 Position, float CruiseSpeed, int Mode, float TargetReachedDist);
 ```
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

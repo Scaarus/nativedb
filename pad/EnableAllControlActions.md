@@ -11,7 +11,7 @@ void ENABLE_ALL_CONTROL_ACTIONS(int control);
 
 Enables all the inputs for a player control.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

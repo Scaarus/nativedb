@@ -9,7 +9,7 @@ aliases: ["0x48621c9fca3ebd28"]
 void REPLAY_START_EVENT(int importance);
 ```
 
-## importance Values:
+## Values for `importance`:
 | Value | Name |
 | --- | --- |
 | 0 | Lowest |

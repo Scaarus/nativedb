@@ -11,7 +11,7 @@ void TASK_VEHICLE_DRIVE_TO_COORD(Vehicle vehicle, Vector3 Position, float Speed,
 
 Gives a task to drive a vehicle to a coord.
 
-## Style Values:
+## Values for `Style`:
 | Value | Name |
 | --- | --- |
 | 0 | Straightline |
@@ -19,7 +19,7 @@ Gives a task to drive a vehicle to a coord.
 | 2 | Reversing |
 
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

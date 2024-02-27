@@ -11,7 +11,7 @@ void SET_MP_GAMER_TAG_VISIBILITY(int iPlayerNum, int iTag, bool Visible, bool Ev
 
 switches on/off parts of a players head tag
 
-## iTag Values:
+## Values for `iTag`:
 | Value | Name |
 | --- | --- |
 | 0 | Gamer Name |

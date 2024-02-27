@@ -11,7 +11,7 @@ bool GET_SAFE_COORD_FOR_PED(Vector3 Position, bool OnlyOnPavement, Vector3 Retur
 
 Checks to see if it can find a safe bit of ground to place a ped. This command has been extended to provide a set of bitflags to give more control over how it searches for positions. (The old bOnlyOnPavement parameter still works but you should start using the GSC_FLAG_ONLY_PAVEMENT instead as it will be removed eventually.)
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

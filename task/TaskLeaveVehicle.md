@@ -11,7 +11,7 @@ void TASK_LEAVE_VEHICLE(Vehicle vehicle, int iFlags);
 
 Tells a ped to leave a vehicle
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Resume If Interrupted |

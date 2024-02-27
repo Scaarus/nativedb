@@ -13,7 +13,7 @@ Get the total number of messages in the inbox available to be processed
 
 This number may change (bigger or smaller) as we refresh our local inbox
 
-## tattoo_faction Values:
+## Values for `tattoo_faction`:
 | Value | Name |
 | --- | --- |
 | 0 | Sp Michael |

@@ -11,7 +11,7 @@ bool IS_VEHICLE_MOD_GEN9_EXCLUSIVE(Vehicle vehicle, int modSlot, int modIndex);
 
 Returns TRUE if the specified vehicle mod is only available on Gen9 platforms. The data for this exists in titleupdate\<branch>\common\data\gen9_exclusive_assets_vehicles.meta
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

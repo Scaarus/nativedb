@@ -11,7 +11,7 @@ void TASK_COMBAT_PED(Ped ped, int CombatFlags, int TaskThreatResponseFlags);
 
 Tells a ped to combat another ped.
 
-## CombatFlags Values:
+## Values for `CombatFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -19,7 +19,7 @@ Tells a ped to combat another ped.
 | 134217728 | Disable Aim Intro |
 
 
-## TaskThreatResponseFlags Values:
+## Values for `TaskThreatResponseFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

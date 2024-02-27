@@ -11,7 +11,7 @@ Vector3 GET_FINAL_RENDERED_CAM_ROT(int RotOrder);
 
 Gets the rotation of the final rendered cam.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

@@ -9,7 +9,7 @@ aliases: ["0xf44a5456ac3f4f97"]
 void REMOVE_SCALEFORM_SCRIPT_HUD_MOVIE(int iComponentId);
 ```
 
-## iComponentId Values:
+## Values for `iComponentId`:
 | Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |

@@ -11,7 +11,7 @@ void SET_ANIMAL_MOOD(Ped ped, int Mood);
 
 Sets an animals mood
 
-## Mood Values:
+## Values for `Mood`:
 | Value | Name |
 | --- | --- |
 | 0 | Angry |

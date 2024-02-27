@@ -9,7 +9,7 @@ aliases: ["0xeb2db0cad13154b3"]
 void RESET_DISPATCH_TIME_BETWEEN_SPAWN_ATTEMPTS(int dispatchType);
 ```
 
-## dispatchType Values:
+## Values for `dispatchType`:
 | Value | Name |
 | --- | --- |
 | 0 | Police Helicopter |

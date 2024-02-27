@@ -9,7 +9,7 @@ aliases: ["0x351220255d64c155"]
 void ENABLE_CONTROL_ACTION(int control, int action, bool enableRelatedActions);
 ```
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -17,7 +17,7 @@ void ENABLE_CONTROL_ACTION(int control, int action, bool enableRelatedActions);
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

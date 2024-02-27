@@ -11,7 +11,7 @@ bool HAS_CLOSEST_OBJECT_OF_TYPE_BEEN_BROKEN(Vector3 scrVecPosition, float Radius
 
 Does a world search and returns TRUE if a broken object with the specified model is found
 
-## SearchFlags Values:
+## Values for `SearchFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Exteriors |

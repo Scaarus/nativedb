@@ -11,7 +11,7 @@ bool HAS_VEHICLE_GOT_PROJECTILE_ATTACHED(Ped ped, Vehicle vehicle, Hash weaponHa
 
 Query whether the specified ped has any projectiles attached to the specified vehicle of the specified type (0 for any type)
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

@@ -9,7 +9,7 @@ aliases: ["0x3f892caf67444ae7"]
 bool CREATE_INCIDENT(Vector3 vLocation, int iNumUnits, float fTime, Incident incident, int iOverrideRelGroupHash, int assassinsLevel);
 ```
 
-## assassinsLevel Values:
+## Values for `assassinsLevel`:
 | Value | Name |
 | --- | --- |
 | 0 | Med |

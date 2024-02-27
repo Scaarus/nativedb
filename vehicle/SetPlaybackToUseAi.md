@@ -11,7 +11,7 @@ void SET_PLAYBACK_TO_USE_AI(Vehicle vehicle, int Mode);
 
 Stes a vehicle recording for a certain vehicle from being exact to be using AI.
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

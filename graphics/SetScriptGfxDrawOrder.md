@@ -11,7 +11,7 @@ void SET_SCRIPT_GFX_DRAW_ORDER(int iDrawOrder);
 
 Sets scripted gfx draw order. The default setting is GFX_ORDER_AFTER_HUD
 
-## iDrawOrder Values:
+## Values for `iDrawOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Before Hud Priority Low |

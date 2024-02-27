@@ -11,7 +11,7 @@ int GET_PED_BONE_INDEX(Ped ped, int boneTag);
 
 Returns the bone index of the given bone tag. Used for script commands such as ATTACH_ENTITY_TO_ENTITY
 
-## boneTag Values:
+## Values for `boneTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Null |

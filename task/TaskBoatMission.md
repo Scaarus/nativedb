@@ -11,7 +11,7 @@ void TASK_BOAT_MISSION(Vehicle vehicle, Vehicle vehicle, Ped ped, Vector3 Positi
 
 Gives the boat a mission.
 
-## Mission Values:
+## Values for `Mission`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -40,7 +40,7 @@ Gives the boat a mission.
 | 23 | Protect (23) |
 
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |
@@ -77,7 +77,7 @@ Gives the boat a mission.
 | 1073741824 | DF_ForceJoinInRoadDirection |
 
 
-## BoatFlags Values:
+## Values for `BoatFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Stopatend |

@@ -11,7 +11,7 @@ void ATTACH_ENTITY_TO_ENTITY_PHYSICALLY(Entity entity, int FirstEntityBoneIndex,
 
 Attaches an entity to another entity using a physical attachment.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

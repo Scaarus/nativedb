@@ -11,7 +11,7 @@ void NETWORK_SESSION_ADD_ACTIVE_MATCHMAKING_GROUP(int nGroup);
 
 Functions to allow script to set the matchmaking group for the local player and the maximum number of players in each group
 
-## nGroup Values:
+## Values for `nGroup`:
 | Value | Name |
 | --- | --- |
 | 0 | Freemoder |

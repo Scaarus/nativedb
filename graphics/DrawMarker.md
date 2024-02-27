@@ -11,7 +11,7 @@ void DRAW_MARKER(int MarkerType, Vector3 scrVecPosition, Vector3 scrVecDirection
 
 Draws a marker this frame
 
-## MarkerType Values:
+## Values for `MarkerType`:
 | Value | Name |
 | --- | --- |
 | 0 | Cone |
@@ -61,7 +61,7 @@ Draws a marker this frame
 | 44 | Pit Lane |
 
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

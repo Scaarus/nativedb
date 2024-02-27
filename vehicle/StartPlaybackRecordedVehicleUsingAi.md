@@ -11,7 +11,7 @@ void START_PLAYBACK_RECORDED_VEHICLE_USING_AI(Vehicle vehicle, int FileNumber, s
 
 Starts the playback using the vehicle AI
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

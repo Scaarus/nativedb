@@ -11,7 +11,7 @@ void GIVE_PED_HELMET(Ped ped, bool DontTakeOffHelmet, int HelmetPropFlag, int Ov
 
 Give the ped a helmet
 
-## HelmetPropFlag Values:
+## Values for `HelmetPropFlag`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

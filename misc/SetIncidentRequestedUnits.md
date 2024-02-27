@@ -9,7 +9,7 @@ aliases: ["0xb08b85d860e7ba3c"]
 void SET_INCIDENT_REQUESTED_UNITS(int dispatchType, int iNumUnits);
 ```
 
-## dispatchType Values:
+## Values for `dispatchType`:
 | Value | Name |
 | --- | --- |
 | 0 | Police Helicopter |

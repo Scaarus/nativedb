@@ -11,7 +11,7 @@ bool IS_SHOCKING_EVENT_IN_SPHERE(int eventType, Vector3 pos, float radius);
 
 Checks if a shocking event of the given type is in the given sphere. Returns TRUE if found, FALSE otherwise.
 
-## eventType Values:
+## Values for `eventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

@@ -11,7 +11,7 @@ bool SET_TABLE_GAMES_CAMERA_THIS_UPDATE(int cameraType);
 
 Overrides the third person camera to be a Table Games Camera on this update only. Returns TRUE if successful.
 
-## cameraType Values:
+## Values for `cameraType`:
 | Value | Name |
 | --- | --- |
 | 0 | Black Jack |

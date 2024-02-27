@@ -11,7 +11,7 @@ bool GET_VEHICLE_NEON_ENABLED(Vehicle vehicle, int eNeon);
 
 gets whether a car's particular neon is enabled
 
-## eNeon Values:
+## Values for `eNeon`:
 | Value | Name |
 | --- | --- |
 | 0 | Left |

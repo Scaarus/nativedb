@@ -11,7 +11,7 @@ bool REFRESH_PLAYER_LIST_STATS(int type);
 
 Checks for when the playerlist changes, and triggers for the new stats to be grabbed. Returns true when the Player List is up to date.
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Joined |

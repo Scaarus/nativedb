@@ -11,7 +11,7 @@ int END_TEXT_COMMAND_THEFEED_POST_UNLOCK_TU_WITH_COLOR(string sTitleString, int 
 
 Displays the unlock component (TITLE UPDATE)
 
-## eTitleColour Values:
+## Values for `eTitleColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

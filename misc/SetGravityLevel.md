@@ -11,7 +11,7 @@ void SET_GRAVITY_LEVEL(int iGravityLevel);
 
 Changes the current gravity level
 
-## iGravityLevel Values:
+## Values for `iGravityLevel`:
 | Value | Name |
 | --- | --- |
 | 0 | Earth |

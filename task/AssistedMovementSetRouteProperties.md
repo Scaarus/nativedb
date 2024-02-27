@@ -11,7 +11,7 @@ void ASSISTED_MOVEMENT_SET_ROUTE_PROPERTIES(string RouteName, int iFlags);
 
 Sets flags (EASSISTED_ROUTE_FLAGS) on a named assisted movement route (which must be already loaded)
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

@@ -11,7 +11,7 @@ void SET_FREEMODE_STRAND_PROGRESSION_STATUS(int setting, int newValue);
 
 Call this command to set the FREEMODE_STRAND_PROGRESSION_STATUS for one of the characters. This command can only be called with the first parameter set to either FREEMODE_STRAND_PROGRESSION_STATUS_CHAR0 or FREEMODE_STRAND_PROGRESSION_STATUS_CHAR1 To get the current value, call the command GET_PROFILE_SETTING with FREEMODE_STRAND_PROGRESSION_STATUS_CHAR0 or _CHAR1
 
-## setting Values:
+## Values for `setting`:
 | Value | Name |
 | --- | --- |
 | 0 | PROFILE_ACTION_AUTO_AIM |

@@ -11,7 +11,7 @@ void LEADERBOARDS_WRITE_ADD_COLUMN_LONG(int fieldId, int value_a, int value_b);
 
 Set a integerfloat value in a column. Must be used after calling [`LEADERBOARDS2_WRITE_DATA`](#_0xAE2206545888AE49).
 
-## fieldId Values:
+## Values for `fieldId`:
 | Value | Name |
 | --- | --- |
 | -1 | Servertime |

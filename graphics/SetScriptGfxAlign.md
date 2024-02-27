@@ -11,7 +11,7 @@ void SET_SCRIPT_GFX_ALIGN(int alignX, int alignY);
 
 Sets the alignment type to the safezone alignX : UI_ALIGN_LEFT, UI_ALIGN_RIGHT, UI_ALIGN_IGNORE alignY : UI_ALIGN_TOP, UI_ALIGN_BOTTOM, UI_ALIGN_IGNORE
 
-## alignX Values:
+## Values for `alignX`:
 | Value | Name |
 | --- | --- |
 | 66 | Bottom |

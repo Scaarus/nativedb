@@ -9,7 +9,7 @@ aliases: ["0x66972397e0757e7a"]
 void RECORD_GREATEST_MOMENT(int greatestMoment, int startTime, int duration);
 ```
 
-## greatestMoment Values:
+## Values for `greatestMoment`:
 | Value | Name |
 | --- | --- |
 | 0 | FIVE_START_CRIMINAL |

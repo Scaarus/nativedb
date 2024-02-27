@@ -11,7 +11,7 @@ bool SET_CONTROL_VALUE_NEXT_FRAME(int control, int action, float value);
 
 Sets a control value for a give CONTROL_ACTION.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -19,7 +19,7 @@ Sets a control value for a give CONTROL_ACTION.
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

@@ -11,7 +11,7 @@ void SET_PED_CAN_PLAY_VISEME_ANIMS(Ped ped, bool AllowVisemeAnims, int flags);
 
 Sets that a ped can use viseme anims
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

@@ -11,7 +11,7 @@ void SET_VEHICLE_DOOR_CONTROL(Vehicle vehicle, int DoorNumber, int DoorStatus, f
 
 Sets a vehicles door to a new state.
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |
@@ -23,7 +23,7 @@ Sets a vehicles door to a new state.
 | 5 | Boot |
 
 
-## DoorStatus Values:
+## Values for `DoorStatus`:
 | Value | Name |
 | --- | --- |
 | 0 | Intact |

@@ -11,7 +11,7 @@ void TASK_VEHICLE_HELI_PROTECT(Ped ped, Vehicle vehicle, Entity entity, float Cr
 
 Identical to [`TASK_VEHICLE_MISSION`](#_0x659427E0EF36BCDE) with MISSION_PROTECT mission,
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |
@@ -48,7 +48,7 @@ Identical to [`TASK_VEHICLE_MISSION`](#_0x659427E0EF36BCDE) with MISSION_PROTECT
 | 1073741824 | DF_ForceJoinInRoadDirection |
 
 
-## HeliFlags Values:
+## Values for `HeliFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

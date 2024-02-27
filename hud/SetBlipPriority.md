@@ -11,7 +11,7 @@ void SET_BLIP_PRIORITY(Blip blip, int priority);
 
 Change priority for Radar blip
 
-## priority Values:
+## Values for `priority`:
 | Value | Name |
 | --- | --- |
 | 0 | BLIPPRIORITY_LOW_LOWEST |

@@ -11,7 +11,7 @@ bool NETWORK_HAVE_USER_CONTENT_PRIVILEGES(int nPrivilegeType);
 
 Returns true if the local player has user generated content privileges
 
-## nPrivilegeType Values:
+## Values for `nPrivilegeType`:
 | Value | Name |
 | --- | --- |
 | 0 | Everyone |

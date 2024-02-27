@@ -11,7 +11,7 @@ void NETWORK_ADD_PED_TO_SYNCHRONISED_SCENE(Ped ped, int NetworkSceneID, string a
 
 Adds a ped and associated animation data to a previous created network synchronised scene.
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -35,7 +35,7 @@ Adds a ped and associated animation data to a previous created network synchroni
 | 131072 | Net Disregard Attachment Checks |
 
 
-## ragdollFlags Values:
+## Values for `ragdollFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -58,7 +58,7 @@ Adds a ped and associated animation data to a previous created network synchroni
 | 65536 | Vehicle Grab |
 
 
-## ikFlags Values:
+## Values for `ikFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

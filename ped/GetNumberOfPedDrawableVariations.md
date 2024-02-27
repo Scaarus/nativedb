@@ -11,7 +11,7 @@ int GET_NUMBER_OF_PED_DRAWABLE_VARIATIONS(Ped ped, int ComponentNumber);
 
 Gets the total number of different drawables for the specified part of the ped's body (component).
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

@@ -11,7 +11,7 @@ void POINT_CAM_AT_PED_BONE(Camera camera, Ped ped, int BoneTag, Vector3 vecOffse
 
 Points the camera at a ped's bone.
 
-## BoneTag Values:
+## Values for `BoneTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Null |

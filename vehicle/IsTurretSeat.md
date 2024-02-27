@@ -11,7 +11,7 @@ bool IS_TURRET_SEAT(Vehicle vehicle, int seat);
 
 Returns if the seat has a turret (one the ped holds) associated with it
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

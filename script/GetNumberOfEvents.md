@@ -11,7 +11,7 @@ int GET_NUMBER_OF_EVENTS(int eventQueue);
 
 Returns the number of events in the given script queue.
 
-## eventQueue Values:
+## Values for `eventQueue`:
 | Value | Name |
 | --- | --- |
 | 0 | Ai |

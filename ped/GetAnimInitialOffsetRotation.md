@@ -11,7 +11,7 @@ Vector3 GET_ANIM_INITIAL_OFFSET_ROTATION(string pAnimName, Vector3 scenePosition
 
 Gets the authored initial offset included by the animator, if any.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

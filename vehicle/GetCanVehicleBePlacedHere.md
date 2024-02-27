@@ -11,7 +11,7 @@ bool GET_CAN_VEHICLE_BE_PLACED_HERE(Vector3 VehiclePos, Vector3 eulerAngles, int
 
 Gets whether the vehicle can be placed at the given location. This uses the low lod chassis bound, if the vehicle doesn't have one it uses the bounding box
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

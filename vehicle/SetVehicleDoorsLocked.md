@@ -11,7 +11,7 @@ void SET_VEHICLE_DOORS_LOCKED(Vehicle vehicle, int NewLockState);
 
 Set the vehicle doors to a certain locked state.
 
-## NewLockState Values:
+## Values for `NewLockState`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

@@ -13,7 +13,7 @@ Gets the number of extra tattoo shop items for a given faction
 
 Keep in sync with code in commands_extrametadata.cpp
 
-## tattoo_faction Values:
+## Values for `tattoo_faction`:
 | Value | Name |
 | --- | --- |
 | 0 | Sp Michael |

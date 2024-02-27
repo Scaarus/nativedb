@@ -11,7 +11,7 @@ void TASK_VEHICLE_MISSION(Vehicle vehicle, Vehicle vehicle, int Mission, float C
 
 Tells a ped to perform a task when in a vehicle against another vehicle.
 
-## Mission Values:
+## Values for `Mission`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -40,7 +40,7 @@ Tells a ped to perform a task when in a vehicle against another vehicle.
 | 23 | Protect (23) |
 
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

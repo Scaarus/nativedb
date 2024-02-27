@@ -11,7 +11,7 @@ void SET_TV_CHANNEL_PLAYLIST_AT_HOUR(int iChannel, string playlistName, int iHou
 
 Sets the passed channel to the passed playlist, and start time of that playlist in hours (0-23)
 
-## iChannel Values:
+## Values for `iChannel`:
 | Value | Name |
 | --- | --- |
 | -1 | None |

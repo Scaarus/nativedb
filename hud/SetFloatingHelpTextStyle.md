@@ -11,14 +11,14 @@ void SET_FLOATING_HELP_TEXT_STYLE(int id, int style, int colour, int iAlpha, int
 
 sets the style of the floating help text
 
-## id Values:
+## Values for `id`:
 | Value | Name |
 | --- | --- |
 | 0 | 1 |
 | 1 | 2 |
 
 
-## style Values:
+## Values for `style`:
 | Value | Name |
 | --- | --- |
 | 0 | Normal |
@@ -27,7 +27,7 @@ sets the style of the floating help text
 | 3 | Mp Freemode |
 
 
-## colour Values:
+## Values for `colour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |
@@ -267,7 +267,7 @@ sets the style of the floating help text
 | 234 | Junk Energy |
 
 
-## iArrowPosition Values:
+## Values for `iArrowPosition`:
 | Value | Name |
 | --- | --- |
 | 0 | East |

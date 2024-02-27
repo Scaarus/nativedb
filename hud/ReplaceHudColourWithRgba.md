@@ -11,7 +11,7 @@ void REPLACE_HUD_COLOUR_WITH_RGBA(int destHudColour, int Red, int Green, int Blu
 
 replaces destHudColour with passed rgba
 
-## destHudColour Values:
+## Values for `destHudColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

@@ -11,7 +11,7 @@ int GET_VEHICLE_MOD(Vehicle vehicle, int modSlot);
 
 Returns the current mod index on the given slot, -1 if no active mod
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

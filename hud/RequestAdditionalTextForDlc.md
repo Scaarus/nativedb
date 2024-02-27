@@ -11,7 +11,7 @@ void REQUEST_ADDITIONAL_TEXT_FOR_DLC(string pTextBlockName, int SlotNumber);
 
 Requests a block of text for the DLC.
 
-## SlotNumber Values:
+## Values for `SlotNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | MISSION_TEXT_SLOT |

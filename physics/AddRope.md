@@ -11,7 +11,7 @@ Rope ADD_ROPE(Vector3 rot, float len, int ropeType, float initialLen, float minL
 
 Creat rope and return rope's unique ID.
 
-## ropeType Values:
+## Values for `ropeType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

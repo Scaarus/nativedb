@@ -11,7 +11,7 @@ bool IS_TOGGLE_MOD_ON(Vehicle vehicle, int modSlot);
 
 Return if the toggle mod on the given slot is turned on or off. More...
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

@@ -11,7 +11,7 @@ void GET_MENU_TRIGGER_EVENT_DETAILS(int iTriggerId, int iMenuIndex);
 
 passes the details of the trigger event - must only be called once, and only when [`HAS_MENU_TRIGGER_EVENT_OCCURRED`](#_0xF284AC67940C6812) returns true
 
-## iTriggerId Values:
+## Values for `iTriggerId`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

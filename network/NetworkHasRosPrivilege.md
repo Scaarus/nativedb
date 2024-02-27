@@ -11,7 +11,7 @@ bool NETWORK_HAS_ROS_PRIVILEGE(int privilegeId);
 
 Returns true if the ROS privilege ID is valid.
 
-## privilegeId Values:
+## Values for `privilegeId`:
 | Value | Name |
 | --- | --- |
 | 0 | Privilegeid None |

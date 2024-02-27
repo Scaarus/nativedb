@@ -11,7 +11,7 @@ void FIX_VEHICLE_WINDOW(Vehicle vehicle, int WindowNumber);
 
 Fixes a vehicles window.
 
-## WindowNumber Values:
+## Values for `WindowNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | SC_WINDOW_FRONT_LEFT |

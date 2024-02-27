@@ -11,7 +11,7 @@ bool HAS_CLOSEST_OBJECT_OF_TYPE_BEEN_COMPLETELY_DESTROYED(Vector3 scrVecPosition
 
 Does a world search and returns TRUE if the closest fraggable object with the specified model has had all breakable bits broken off.
 
-## SearchFlags Values:
+## Values for `SearchFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Exteriors |

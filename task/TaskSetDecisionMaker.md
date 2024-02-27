@@ -11,7 +11,7 @@ void TASK_SET_DECISION_MAKER(Ped ped, int DecisionMakerId);
 
 Sets the ped to have their decision maker set as part of a sequence.
 
-## DecisionMakerId Values:
+## Values for `DecisionMakerId`:
 | Value | Name |
 | --- | --- |
 | -1533126372 | Cop |

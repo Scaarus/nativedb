@@ -11,7 +11,7 @@ int GET_NUMBER_OF_PED_PROP_DRAWABLE_VARIATIONS(Ped ped, int PropPosition);
 
 Gets the total number of different prop drawables for the specified prop
 
-## PropPosition Values:
+## Values for `PropPosition`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

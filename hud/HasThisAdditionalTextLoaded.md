@@ -11,7 +11,7 @@ bool HAS_THIS_ADDITIONAL_TEXT_LOADED(string pTextBlockName, int SlotNumber);
 
 Checks that the text block for the slot has loaded.
 
-## SlotNumber Values:
+## Values for `SlotNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | MISSION_TEXT_SLOT |

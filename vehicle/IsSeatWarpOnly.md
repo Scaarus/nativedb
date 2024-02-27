@@ -11,7 +11,7 @@ bool IS_SEAT_WARP_ONLY(Vehicle vehicle, int seat);
 
 Returns if the seat is only accessible by warping
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

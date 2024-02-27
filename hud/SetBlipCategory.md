@@ -11,7 +11,7 @@ void SET_BLIP_CATEGORY(Blip blip, int category);
 
 Sets the category of this blip
 
-## category Values:
+## Values for `category`:
 | Value | Name |
 | --- | --- |
 | 0 | My Jobs (My Jobs) |

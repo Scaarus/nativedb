@@ -11,7 +11,7 @@ bool SET_MINIMAP_COMPONENT(int iComponentId, bool OnOff, int color);
 
 Sets a component on the minimap on/off - returns false if component is not valid
 
-## iComponentId Values:
+## Values for `iComponentId`:
 | Value | Name |
 | --- | --- |
 | 0 | Runway 1 |
@@ -35,7 +35,7 @@ Sets a component on the minimap on/off - returns false if component is not valid
 | 18 | King Hill 13 |
 
 
-## color Values:
+## Values for `color`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

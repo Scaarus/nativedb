@@ -11,7 +11,7 @@ void SET_VEHICLE_DOOR_LATCHED(Vehicle vehicle, int DoorNumber, bool SetLatched, 
 
 Sets a vehicle door to latch.
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

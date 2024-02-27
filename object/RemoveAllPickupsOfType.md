@@ -11,7 +11,7 @@ void REMOVE_ALL_PICKUPS_OF_TYPE(int Type);
 
 Remove objects of certain pickup type.
 
-## Type Values:
+## Values for `Type`:
 | Value | Name |
 | --- | --- |
 | 0 | Health Standard |

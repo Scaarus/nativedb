@@ -11,7 +11,7 @@ void TASK_VEHICLE_MISSION_COORS_TARGET(Vehicle vehicle, Vector3 Position, int Mi
 
 Tells a ped in a vehicle to target a coord.
 
-## Mission Values:
+## Values for `Mission`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -40,7 +40,7 @@ Tells a ped in a vehicle to target a coord.
 | 23 | Protect (23) |
 
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

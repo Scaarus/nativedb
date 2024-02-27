@@ -11,7 +11,7 @@ void SET_MOUSE_CURSOR_STYLE(int style);
 
 sets the style of the mouse pointer
 
-## style Values:
+## Values for `style`:
 | Value | Name |
 | --- | --- |
 | 0 | Arrow Dimmed |

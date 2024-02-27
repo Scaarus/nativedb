@@ -11,7 +11,7 @@ int GET_VEHICLE_MOD_IDENTIFIER_HASH(Vehicle vehicle, int modSlot, int modIndex);
 
 Returns the identifier hash value for the specified mod
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

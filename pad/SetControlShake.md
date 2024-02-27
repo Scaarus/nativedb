@@ -11,7 +11,7 @@ void SET_CONTROL_SHAKE(int control, int Duration, int Frequency);
 
 Causes the given Pad, assigned to a Control, to shake.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

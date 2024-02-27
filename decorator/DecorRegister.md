@@ -11,7 +11,7 @@ void DECOR_REGISTER(string decoratorName, int type);
 
 Register a decorator to be used as a specific type
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Unknown |

@@ -11,7 +11,7 @@ void SPAWNPOINTS_START_SEARCH_IN_ANGLED_AREA(Vector3 vPoint1, Vector3 vPoint2, f
 
 Same as [`SPAWNPOINTS_START_SEARCH`](#_0x2DF9038C90AD5264), except uses the angled area volume definition popular with level-design vPoint1 & vPoint2 define the start and end points of a rectangle, fWidth in size Height of the area is defined by raising one point above the other (a little height we be artificially applied in the case of a flat volume) If optional 'iMaxSearchDurationMS' param is non-zero, search will enter a 'failed' state if this milliseconds duration is exceeded - if the timeout value is specified, script must check for the failure case via [`SPAWNPOINTS_IS_SEARCH_FAILED`](#_0xF445DE8DA80A1792)()
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

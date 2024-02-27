@@ -11,7 +11,7 @@ bool NETWORK_DO_TRANSITION_QUICKMATCH_WITH_GROUP(int nGameMode, int nMaxPlayers,
 
 Find a transition session. Variant of above that works with a group
 
-## nActivityIsland Values:
+## Values for `nActivityIsland`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

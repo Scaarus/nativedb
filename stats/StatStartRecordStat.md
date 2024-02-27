@@ -9,7 +9,7 @@ aliases: ["0x33d72899e24c3365"]
 bool STAT_START_RECORD_STAT(int stat, int policy);
 ```
 
-## stat Values:
+## Values for `stat`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -46,7 +46,7 @@ bool STAT_START_RECORD_STAT(int stat, int policy);
 | 31 | Dist Wallride |
 
 
-## policy Values:
+## Values for `policy`:
 | Value | Name |
 | --- | --- |
 | 1 | Sum |

@@ -11,7 +11,7 @@ int GET_NUMBER_OF_PED_TEXTURE_VARIATIONS(Ped ped, int ComponentNumber, int Drawa
 
 Gets the total number of different textures for the specified drawable for the component (body part) for the ped's model.
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

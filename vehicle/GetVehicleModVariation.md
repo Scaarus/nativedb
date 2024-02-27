@@ -11,7 +11,7 @@ int GET_VEHICLE_MOD_VARIATION(Vehicle vehicle, int modSlot);
 
 Returns the current mod variation on the given slot, 0 if none active
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

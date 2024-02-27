@@ -11,7 +11,7 @@ bool IS_ENTITY_PLAYING_ANIM(string AnimDictName, string AnimName, int type);
 
 Checks if the entity is currently playing the animation.
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 1 | Script |

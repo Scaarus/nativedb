@@ -11,7 +11,7 @@ void SET_VEHICLE_HOMING_LOCKEDONTO_STATE(Vehicle vehicle, int LockOnState);
 
 Sets the vehicle locked-onto state for a target vehicle (for when we need to emulate the homing code)
 
-## LockOnState Values:
+## Values for `LockOnState`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

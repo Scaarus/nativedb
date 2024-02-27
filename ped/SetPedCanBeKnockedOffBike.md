@@ -11,7 +11,7 @@ void SET_PED_CAN_BE_KNOCKED_OFF_BIKE(Ped ped, int CanBeKnockedOffFlag);
 
 Sets that a ped can be knocked off.
 
-## CanBeKnockedOffFlag Values:
+## Values for `CanBeKnockedOffFlag`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

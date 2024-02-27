@@ -11,7 +11,7 @@ void SET_CONTROL_SHAKE_SUPPRESSED_ID(int control, int SupressId);
 
 Suppresses vibrations on a given control's pad when id set to other than -1, clear on -1 or call [`CLEAR_CONTROL_SHAKE_SUPPRESSED_ID`](#_0xA0CEFCEA390AAB9B).
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

@@ -11,7 +11,7 @@ void TASK_HANDS_UP(Ped ped, int Time, Ped ped, int TimeToFacePed, int Flags);
 
 Gives the ped a put hands up task.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | Nothing |

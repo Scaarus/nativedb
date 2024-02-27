@@ -11,7 +11,7 @@ void NETWORK_ADD_MAP_ENTITY_TO_SYNCHRONISED_SCENE(int NetworkSceneID, Hash model
 
 Adds a map entity and associated animation data to a previous created network synchronised scene.
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

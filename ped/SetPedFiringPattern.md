@@ -11,7 +11,7 @@ void SET_PED_FIRING_PATTERN(Ped ped, int FiringPatternHash);
 
 Sets the peds default firing pattern (some tasks will over write this due to specific behaviors like blind fire)
 
-## FiringPatternHash Values:
+## Values for `FiringPatternHash`:
 | Value | Name |
 | --- | --- |
 | -1857128337 | Burst Fire Heli |

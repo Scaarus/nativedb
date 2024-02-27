@@ -11,7 +11,7 @@ void TASK_WARP_PED_INTO_VEHICLE(Ped ped, int seat);
 
 Can warp a ped into a vehicle using a task sequence.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

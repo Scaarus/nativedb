@@ -266,7 +266,7 @@ Returns the type of the event located at the given index on the given event queu
 | 250 | Errors Instruction Limit |
 | 251 | Errors Stack Overflow |
 
-## eventQueue Values:
+## Values for `eventQueue`:
 | Value | Name |
 | --- | --- |
 | 0 | Ai |

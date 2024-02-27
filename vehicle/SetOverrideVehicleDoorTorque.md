@@ -11,7 +11,7 @@ void SET_OVERRIDE_VEHICLE_DOOR_TORQUE(int DoorNumber, bool OverrideTorque);
 
 Sets whether the door should use increased torque to drive it to position. If this is set the door will open faster and be harder to move.
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

@@ -11,7 +11,7 @@ bool GET_NTH_CLOSEST_VEHICLE_NODE_FAVOUR_DIRECTION(Vector3 Position, Vector3 Fac
 
 WIill return if can the closest vehicle node,tries to return a heading which points the car in the right direction to reach FaceCoors.
 
-## nodeFlags Values:
+## Values for `nodeFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

@@ -11,7 +11,7 @@ void SET_PED_RANDOM_COMPONENT_VARIATION(int race);
 
 Randomly sets the drawables and textures for a ped from those available.
 
-## race Values:
+## Values for `race`:
 | Value | Name |
 | --- | --- |
 | 0 | Universal |

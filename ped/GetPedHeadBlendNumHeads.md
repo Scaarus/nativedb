@@ -11,7 +11,7 @@ int GET_PED_HEAD_BLEND_NUM_HEADS(int type);
 
 Returns the number of heads available for the type specified
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Male |

@@ -11,7 +11,7 @@ void PRELOAD_VEHICLE_MOD(Vehicle vehicle, int modSlot, int modIndex);
 
 Streams in a vehicle mod without setting it visually on the vehicle
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

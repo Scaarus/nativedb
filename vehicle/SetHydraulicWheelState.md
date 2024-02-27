@@ -11,7 +11,7 @@ void SET_HYDRAULIC_WHEEL_STATE(int WheelNumber, int state, float raiseAmount, fl
 
 Sets whether the hydraulic state of one of the wheels
 
-## WheelNumber Values:
+## Values for `WheelNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Car Front Left |
@@ -24,7 +24,7 @@ Sets whether the hydraulic state of one of the wheels
 | 7 | Bike Rear |
 
 
-## state Values:
+## Values for `state`:
 | Value | Name |
 | --- | --- |
 | 0 | Wheel Free |

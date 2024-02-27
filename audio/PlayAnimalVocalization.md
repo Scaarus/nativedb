@@ -11,7 +11,7 @@ void PLAY_ANIMAL_VOCALIZATION(Ped ped, int animalType, string context);
 
 Sets the ped to sound angry.
 
-## animalType Values:
+## Values for `animalType`:
 | Value | Name |
 | --- | --- |
 | -1 | Animal None |

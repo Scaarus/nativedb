@@ -11,7 +11,7 @@ void FORCE_NEXT_MESSAGE_TO_PREVIOUS_BRIEFS_LIST(int PreviousBriefsOverride);
 
 Determines which of the two previous briefs screens (dialogue or god text) the next line of text will appear in If the line of text wouldn't ordinarily have been added to either screen then it still won't appear in the previous briefs
 
-## PreviousBriefsOverride Values:
+## Values for `PreviousBriefsOverride`:
 | Value | Name |
 | --- | --- |
 | 0 | No Override |

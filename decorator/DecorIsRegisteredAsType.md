@@ -11,7 +11,7 @@ bool DECOR_IS_REGISTERED_AS_TYPE(string decoratorName, int type);
 
 Query to see if a registered decorator is of an expected type
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Unknown |

@@ -11,7 +11,7 @@ void SET_CLOCK_DATE(int d, int m, int y);
 
 sets the date to d/m/y
 
-## m Values:
+## Values for `m`:
 | Value | Name |
 | --- | --- |
 | 0 | JANUARY |

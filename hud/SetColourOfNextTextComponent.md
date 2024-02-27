@@ -9,7 +9,7 @@ aliases: ["0x39bbf623fc803eac"]
 void SET_COLOUR_OF_NEXT_TEXT_COMPONENT(int NextColour);
 ```
 
-## NextColour Values:
+## Values for `NextColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

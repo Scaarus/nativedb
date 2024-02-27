@@ -13,7 +13,7 @@ Tells the game that the script wants to enable or disable rendering of scripted 
 
 This enum is deprecated. Please use CAM_VIEW_MODE instead Allows for custom options to be specified for the node of a camera spline. Must match camSplineNode::eFlags in camerahelpersSplineNode.h Allows for custom options to be specified for the node of a camera spline. Must match camSplineNode::eFlags in camerahelpersSplineNode.h Type of hint to call to override the default hint behaviour Camera types Shot Type Must match camInterface::eDeathFailEffectState in cameraCamInterface.h ~> Camera High Level <~
 
-## RenderingOptions Values:
+## Values for `RenderingOptions`:
 | Value | Name |
 | --- | --- |
 | 0 | No Options |

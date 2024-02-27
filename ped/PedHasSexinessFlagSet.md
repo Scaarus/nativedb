@@ -11,7 +11,7 @@ bool PED_HAS_SEXINESS_FLAG_SET(Ped ped, int flag);
 
 Returns true if the specified sexiness flag is set on the ped, false otherwise
 
-## flag Values:
+## Values for `flag`:
 | Value | Name |
 | --- | --- |
 | 1 | Jeer At Hot Ped |

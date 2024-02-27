@@ -11,7 +11,7 @@ void STOP_CONTROL_SHAKE(int control);
 
 Stops the given Pad, assigned to a Control, from shaking.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

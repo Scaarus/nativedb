@@ -11,7 +11,7 @@ bool IS_STREAMING_ADDITIONAL_TEXT(int SlotNumber);
 
 The text slot streaming the text.
 
-## SlotNumber Values:
+## Values for `SlotNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | MISSION_TEXT_SLOT |

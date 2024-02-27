@@ -11,7 +11,7 @@ void SET_PLAYER_CONTROL(bool SetControlOn, int iFlags);
 
 Sets the players control state.
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

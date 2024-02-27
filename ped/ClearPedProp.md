@@ -11,7 +11,7 @@ void CLEAR_PED_PROP(int Position);
 
 Clear the prop slot for the given ped at the given position.
 
-## Position Values:
+## Values for `Position`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

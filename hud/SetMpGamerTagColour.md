@@ -11,7 +11,7 @@ void SET_MP_GAMER_TAG_COLOUR(int iPlayerNum, int iTag, int hudColour);
 
 colourises parts of a players head tag
 
-## iTag Values:
+## Values for `iTag`:
 | Value | Name |
 | --- | --- |
 | 0 | Gamer Name |
@@ -46,7 +46,7 @@ colourises parts of a players head tag
 | 29 | Bomb |
 
 
-## hudColour Values:
+## Values for `hudColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

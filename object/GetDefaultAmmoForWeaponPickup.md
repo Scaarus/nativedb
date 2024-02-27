@@ -11,7 +11,7 @@ int GET_DEFAULT_AMMO_FOR_WEAPON_PICKUP(int WeaponPickupType);
 
 Returns the standard ammo you receive when collecting a weapon of the given type
 
-## WeaponPickupType Values:
+## Values for `WeaponPickupType`:
 | Value | Name |
 | --- | --- |
 | 0 | Health Standard |

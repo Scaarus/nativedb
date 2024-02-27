@@ -11,7 +11,7 @@ void TASK_VEHICLE_MISSION_PED_TARGET(Vehicle vehicle, Ped ped, int Mission, floa
 
 Tells a ped in a vehicle to target another ped in a vehicle.
 
-## Mission Values:
+## Values for `Mission`:
 | Value | Name |
 | --- | --- |
 | 0 | None |
@@ -40,7 +40,7 @@ Tells a ped in a vehicle to target another ped in a vehicle.
 | 23 | Protect (23) |
 
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

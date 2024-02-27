@@ -11,7 +11,7 @@ void NETWORK_BUY_ITEM(int amount, int itemhash, int type, int extra1, bool fromB
 
 Player bought something in a shop extra1 - client view of the current inventory. e.g. if buying bullets include how many bullets the client thinks he owns. itemIdentifier - extra item identifier, like PEGASUS.
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Purchase Weapons |

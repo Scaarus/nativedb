@@ -11,7 +11,7 @@ void SET_VEHICLE_LIGHTS(Vehicle vehicle, int CarLightSetting);
 
 Sets the vehicle lights status.
 
-## CarLightSetting Values:
+## Values for `CarLightSetting`:
 | Value | Name |
 | --- | --- |
 | 0 | NO_VEHICLE_LIGHT_OVERRIDE |

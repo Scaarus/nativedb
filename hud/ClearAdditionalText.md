@@ -11,7 +11,7 @@ void CLEAR_ADDITIONAL_TEXT(int SlotNumber, bool ClearPreviousBriefs);
 
 Call this command to remove the text from the previous attempt at the mission from the previous briefs screen.
 
-## SlotNumber Values:
+## Values for `SlotNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | MISSION_TEXT_SLOT |

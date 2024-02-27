@@ -11,7 +11,7 @@ Entity GET_OWNER_OF_EXPLOSION_IN_SPHERE(int ExplosionTag, Vector3 CentrePos, flo
 
 Gets the owner of an explosion in a sphere.
 
-## ExplosionTag Values:
+## Values for `ExplosionTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Dontcare |

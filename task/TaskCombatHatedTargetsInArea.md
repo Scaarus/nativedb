@@ -11,7 +11,7 @@ void TASK_COMBAT_HATED_TARGETS_IN_AREA(Vector3 vPosition, float fRange, int Flag
 
 Tells the ped to combat all hated targets in the area.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

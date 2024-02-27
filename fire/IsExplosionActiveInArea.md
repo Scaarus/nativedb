@@ -11,7 +11,7 @@ bool IS_EXPLOSION_ACTIVE_IN_AREA(int ExplosionTag, Vector3 PosMin, Vector3 PosMa
 
 Checks if an explosion is active ( i.e. the delay is 0 ) in a area.
 
-## ExplosionTag Values:
+## Values for `ExplosionTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Dontcare |

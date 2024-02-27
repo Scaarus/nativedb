@@ -11,7 +11,7 @@ bool SET_PED_TO_RAGDOLL(int MinTime, int MaxTime, int StartTask, bool AbortIfInj
 
 Sets a ped into a rag doll state.
 
-## StartTask Values:
+## Values for `StartTask`:
 | Value | Name |
 | --- | --- |
 | 0 | Relax |

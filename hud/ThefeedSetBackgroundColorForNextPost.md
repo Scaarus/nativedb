@@ -11,7 +11,7 @@ void THEFEED_SET_BACKGROUND_COLOR_FOR_NEXT_POST(int color);
 
 Sets the RGBA background color for the next feed post
 
-## color Values:
+## Values for `color`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

@@ -11,7 +11,7 @@ void STOP_ANIM_PLAYBACK(Entity entity, int priority, bool secondary);
 
 Stops animation on an existing [`TASK_SCRIPTED_ANIMATION`](#_0x126EF75F1E17ABE5).
 
-## priority Values:
+## Values for `priority`:
 | Value | Name |
 | --- | --- |
 | 0 | Low |

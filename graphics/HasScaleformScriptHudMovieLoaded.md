@@ -11,7 +11,7 @@ bool HAS_SCALEFORM_SCRIPT_HUD_MOVIE_LOADED(int iComponentId);
 
 Returns whether the requested scaleform script hud movie is streamed in yet
 
-## iComponentId Values:
+## Values for `iComponentId`:
 | Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |

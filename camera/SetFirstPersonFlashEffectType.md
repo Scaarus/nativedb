@@ -11,7 +11,7 @@ void SET_FIRST_PERSON_FLASH_EFFECT_TYPE(int type);
 
 Sets the type of flash that will be initiated by a scripted camera blend out to first person this frame
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Neutral |

@@ -11,7 +11,7 @@ void STOP_RENDERING_SCRIPT_CAMS_USING_CATCH_UP(bool ShouldApplyAcrossAllThreads,
 
 Tells the game that the script wants to disable rendering of scripted cameras and force gameplay camera to blend from scripted camera to gameplay camera.
 
-## BlendType Values:
+## Values for `BlendType`:
 | Value | Name |
 | --- | --- |
 | 0 | No Smooth |
@@ -42,7 +42,7 @@ Tells the game that the script wants to disable rendering of scripted cameras an
 | 25 | Circular Ease In Out |
 
 
-## RenderingOptions Values:
+## Values for `RenderingOptions`:
 | Value | Name |
 | --- | --- |
 | 0 | No Options |

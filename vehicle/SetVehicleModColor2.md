@@ -11,7 +11,7 @@ void SET_VEHICLE_MOD_COLOR_2(Vehicle vehicle, int colorType, int baseColIndex);
 
 Sets color 2 to a mod color on the specified vehicle. More...
 
-## colorType Values:
+## Values for `colorType`:
 | Value | Name |
 | --- | --- |
 | 0 | Metallic |

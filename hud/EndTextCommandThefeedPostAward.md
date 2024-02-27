@@ -11,7 +11,7 @@ int END_TEXT_COMMAND_THEFEED_POST_AWARD(string sTXD, string sTXN, int iXP, int e
 
 Displays the Award component
 
-## eAwardColour Values:
+## Values for `eAwardColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

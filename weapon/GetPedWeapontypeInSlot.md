@@ -344,7 +344,7 @@ Return which weapon is in a given slot for a character
 | 327 | WEAPONTYPE_DLC_VEHICLE_SPYCARGUN |
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
 
-## slot Values:
+## Values for `slot`:
 | Value | Name |
 | --- | --- |
 | 0 | Invalid |

@@ -11,7 +11,7 @@ void SET_HYDRAULIC_SUSPENSION_RAISE_FACTOR(int WheelNumber, float raiseFactor);
 
 Sets the hydraulic suspension raise factor for one wheel
 
-## WheelNumber Values:
+## Values for `WheelNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Car Front Left |

@@ -11,7 +11,7 @@ void TASK_VEHICLE_DRIVE_WANDER(Vehicle vehicle, float CruiseSpeed, int Mode);
 
 Tells a ped to wander about in a car.
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |

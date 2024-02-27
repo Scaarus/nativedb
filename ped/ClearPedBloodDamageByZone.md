@@ -11,7 +11,7 @@ void CLEAR_PED_BLOOD_DAMAGE_BY_ZONE(Ped ped, int zone);
 
 clears the blood damage that has been applied to the specified ped on the specified zone.
 
-## zone Values:
+## Values for `zone`:
 | Value | Name |
 | --- | --- |
 | 0 | Torso |

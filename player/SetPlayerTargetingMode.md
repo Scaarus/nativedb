@@ -11,7 +11,7 @@ void SET_PLAYER_TARGETING_MODE(int TargetMode);
 
 set targeting mode (0 = hardlock, 1 = softlock, 2 = freeaim).
 
-## TargetMode Values:
+## Values for `TargetMode`:
 | Value | Name |
 | --- | --- |
 | 0 | Gta Traditional |

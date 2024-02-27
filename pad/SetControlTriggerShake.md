@@ -11,7 +11,7 @@ void SET_CONTROL_TRIGGER_SHAKE(int control, int leftDuration, int leftFrequency,
 
 Causes the given Pad, assigned to a Control, to shake its triggers.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

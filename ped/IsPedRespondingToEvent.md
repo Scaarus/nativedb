@@ -11,7 +11,7 @@ bool IS_PED_RESPONDING_TO_EVENT(Ped ped, int EventType);
 
 Checks the ped is responding to an event of the specified type. EVENT_INVALID can be used to test if the ped is responding to any event.
 
-## EventType Values:
+## Values for `EventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

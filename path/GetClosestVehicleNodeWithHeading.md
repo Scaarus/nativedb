@@ -11,7 +11,7 @@ bool GET_CLOSEST_VEHICLE_NODE_WITH_HEADING(Vector3 Position, Vector3 ReturnNeare
 
 WIill return if can the closest vehicle node with a heading, to a coord.
 
-## nodeFlags Values:
+## Values for `nodeFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

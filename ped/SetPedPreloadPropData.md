@@ -11,7 +11,7 @@ int SET_PED_PRELOAD_PROP_DATA(Ped ped, int Anchor, int PropId, int TexId);
 
 Sets a ped prop to preload into memory, without applying it on the ped
 
-## Anchor Values:
+## Values for `Anchor`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

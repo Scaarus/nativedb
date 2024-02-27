@@ -11,7 +11,7 @@ bool IS_ENTITY_AT_COORD(Entity entity, Vector3 Position, Vector3 LocDimensions, 
 
 Checks if the entity's root is located in the given area defined by a centre point and a locate size. If the entity is a ped in a vehicle, then the coords of the vehicle are used in the check.
 
-## TM_MODE Values:
+## Values for `TM_MODE`:
 | Value | Name |
 | --- | --- |
 | 0 | Any (Any Mode Of Transport Bike, Car Plane, On Foot Etc) |

@@ -11,7 +11,7 @@ void TASK_FOLLOW_POINT_ROUTE(Ped ped, float MoveBlendRatio, int Mode);
 
 Tells a ped to follow a point route.
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | Single |

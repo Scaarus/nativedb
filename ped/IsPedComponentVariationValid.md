@@ -11,7 +11,7 @@ bool IS_PED_COMPONENT_VARIATION_VALID(Ped ped, int ComponentNumber, int Drawable
 
 Checks if given variation is valid.
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

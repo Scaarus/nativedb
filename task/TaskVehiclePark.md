@@ -11,7 +11,7 @@ void TASK_VEHICLE_PARK(Ped ped, Vehicle vehicle, Vector3 ParkingSpaceCoords, flo
 
 Gives the vehicle a task to park in the specified manner
 
-## ParkType Values:
+## Values for `ParkType`:
 | Value | Name |
 | --- | --- |
 | 0 | Parallel |

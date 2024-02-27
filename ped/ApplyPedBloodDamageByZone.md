@@ -11,7 +11,7 @@ void APPLY_PED_BLOOD_DAMAGE_BY_ZONE(Ped ped, int zone, float u, float v, int typ
 
 Applies new style ped blood damage on a ped by specifying a specific zone and direct UV offsets. (similar to the APPLY_PED_DECORATION()).
 
-## zone Values:
+## Values for `zone`:
 | Value | Name |
 | --- | --- |
 | 0 | Torso |
@@ -24,7 +24,7 @@ Applies new style ped blood damage on a ped by specifying a specific zone and di
 | 7 | Invalid |
 
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Bullet Small |

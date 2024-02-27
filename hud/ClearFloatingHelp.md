@@ -11,7 +11,7 @@ void CLEAR_FLOATING_HELP(int id, bool ClearNow);
 
 clears floating help text
 
-## id Values:
+## Values for `id`:
 | Value | Name |
 | --- | --- |
 | 0 | 1 |

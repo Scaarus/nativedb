@@ -11,7 +11,7 @@ void SET_PED_TARGET_LOSS_RESPONSE(Ped ped, int TargetLossResponse);
 
 Set the peds target loss response
 
-## TargetLossResponse Values:
+## Values for `TargetLossResponse`:
 | Value | Name |
 | --- | --- |
 | 0 | Exit Task |

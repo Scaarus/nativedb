@@ -11,7 +11,7 @@ Coverpoint ADD_COVER_POINT(float direction, int usage, int height, int arc, bool
 
 Adds a cover point in the given position to cover from direction ( in degrees ).
 
-## usage Values:
+## Values for `usage`:
 | Value | Name |
 | --- | --- |
 | 0 | COVUSE_WALLTOLEFT (Fires round to the right) |
@@ -20,7 +20,7 @@ Adds a cover point in the given position to cover from direction ( in degrees ).
 | 3 | COVUSE_WALLTONEITHER (Fires either left or right) |
 
 
-## height Values:
+## Values for `height`:
 | Value | Name |
 | --- | --- |
 | 0 | Low |
@@ -28,7 +28,7 @@ Adds a cover point in the given position to cover from direction ( in degrees ).
 | 2 | Toohigh |
 
 
-## arc Values:
+## Values for `arc`:
 | Value | Name |
 | --- | --- |
 | 0 | 180 |

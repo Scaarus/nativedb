@@ -11,7 +11,7 @@ void SET_CAM_SPLINE_SMOOTHING_STYLE(Camera camera, int SmoothingStyle);
 
 Sets the smoothing style of the spline camera at the spline nodes.
 
-## SmoothingStyle Values:
+## Values for `SmoothingStyle`:
 | Value | Name |
 | --- | --- |
 | 0 | No Smooth |

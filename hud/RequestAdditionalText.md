@@ -11,7 +11,7 @@ void REQUEST_ADDITIONAL_TEXT(string pTextBlockName, int SlotNumber);
 
 Requests a block of text.
 
-## SlotNumber Values:
+## Values for `SlotNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | MISSION_TEXT_SLOT |

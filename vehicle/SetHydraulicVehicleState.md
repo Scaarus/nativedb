@@ -11,7 +11,7 @@ void SET_HYDRAULIC_VEHICLE_STATE(int state);
 
 Sets the state of all the vehicle wheels
 
-## state Values:
+## Values for `state`:
 | Value | Name |
 | --- | --- |
 | 0 | Wheel Free |

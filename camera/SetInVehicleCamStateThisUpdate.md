@@ -11,7 +11,7 @@ void SET_IN_VEHICLE_CAM_STATE_THIS_UPDATE(Vehicle vehicle, int InVehicleState);
 
 Sets the camera exit/enter state for vehicles which defines if the follow vehicle or follow ped camera runs.
 
-## InVehicleState Values:
+## Values for `InVehicleState`:
 | Value | Name |
 | --- | --- |
 | 0 | Entering Vehicle |

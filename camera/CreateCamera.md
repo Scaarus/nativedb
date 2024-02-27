@@ -11,7 +11,7 @@ Camera CREATE_CAMERA(int Camera, bool StartActivated);
 
 Create a camera of a given name.
 
-## Camera Values:
+## Values for `Camera`:
 | Value | Name |
 | --- | --- |
 | 0 | Scripted |

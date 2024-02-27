@@ -11,7 +11,7 @@ void SET_FLOATING_HELP_TEXT_TO_ENTITY(int id, Entity entity, float fOffsetX, flo
 
 sets the floating help text based on an entity position and a screen offset
 
-## id Values:
+## Values for `id`:
 | Value | Name |
 | --- | --- |
 | 0 | 1 |

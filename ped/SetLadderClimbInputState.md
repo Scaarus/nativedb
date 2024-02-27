@@ -11,7 +11,7 @@ void SET_LADDER_CLIMB_INPUT_STATE(Ped ped, int nInputState);
 
 Control AI peds on ladders
 
-## nInputState Values:
+## Values for `nInputState`:
 | Value | Name |
 | --- | --- |
 | 0 | Nothing |

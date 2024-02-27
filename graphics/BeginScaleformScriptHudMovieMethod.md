@@ -9,7 +9,7 @@ aliases: ["0x98c494fd5bdfbfd5"]
 bool BEGIN_SCALEFORM_SCRIPT_HUD_MOVIE_METHOD(int iScriptHudId, string cMethodName);
 ```
 
-## iScriptHudId Values:
+## Values for `iScriptHudId`:
 | Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |

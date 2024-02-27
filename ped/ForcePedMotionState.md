@@ -11,7 +11,7 @@ bool FORCE_PED_MOTION_STATE(Ped ped, int state, int exitstate, bool ForceAIPreCa
 
 Forces the peds motion state next frame to the provided known state.
 
-## state Values:
+## Values for `state`:
 | Value | Name |
 | --- | --- |
 | -1871534317 | On Foot Idle |
@@ -34,7 +34,7 @@ Forces the peds motion state next frame to the provided known state.
 | 1212730861 | Diving Idle |
 
 
-## exitstate Values:
+## Values for `exitstate`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

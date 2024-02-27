@@ -11,7 +11,7 @@ Camera CREATE_CAMERA_WITH_PARAMS(int Camera, Vector3 vecPos, Vector3 vecRot, boo
 
 Create a camera of a given name.
 
-## Camera Values:
+## Values for `Camera`:
 | Value | Name |
 | --- | --- |
 | 0 | Scripted |
@@ -25,7 +25,7 @@ Create a camera of a given name.
 | 8 | Spline Timed Custom (Smoothed And Velocity Constrained Spline, Not Continous Velocity, Custom Speeds Can Be Set) |
 
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

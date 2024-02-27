@@ -11,7 +11,7 @@ void SET_GAMEPLAY_COORD_HINT(Vector3 vCoord, int iDwellTime, int iInterpTo, int 
 
 Sets the gameplay to hint a coord.
 
-## Type Values:
+## Values for `Type`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

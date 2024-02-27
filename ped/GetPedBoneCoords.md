@@ -11,7 +11,7 @@ Vector3 GET_PED_BONE_COORDS(Ped ped, int bone, Vector3 vecOffset);
 
 Gets the coord of the peds bone
 
-## bone Values:
+## Values for `bone`:
 | Value | Name |
 | --- | --- |
 | -1 | Null |

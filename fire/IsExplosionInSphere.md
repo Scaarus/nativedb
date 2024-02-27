@@ -11,7 +11,7 @@ bool IS_EXPLOSION_IN_SPHERE(int ExplosionTag, Vector3 CentrePos, float Radius);
 
 Checks if an explosion is in a sphere area.
 
-## ExplosionTag Values:
+## Values for `ExplosionTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Dontcare |

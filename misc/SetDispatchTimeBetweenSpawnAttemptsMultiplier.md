@@ -9,7 +9,7 @@ aliases: ["0x48838ed9937a15d1"]
 void SET_DISPATCH_TIME_BETWEEN_SPAWN_ATTEMPTS_MULTIPLIER(int dispatchType, float fTimeBetwenSpawnAttemptsMultiplier);
 ```
 
-## dispatchType Values:
+## Values for `dispatchType`:
 | Value | Name |
 | --- | --- |
 | 0 | Police Helicopter |

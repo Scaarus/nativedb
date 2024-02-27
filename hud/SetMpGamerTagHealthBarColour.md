@@ -11,7 +11,7 @@ void SET_MP_GAMER_TAG_HEALTH_BAR_COLOUR(int iPlayerNum, int hudColour);
 
 colourises the health bar over the player's head.
 
-## hudColour Values:
+## Values for `hudColour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

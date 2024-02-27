@@ -11,7 +11,7 @@ void CREATE_PICK_UP_ROPE_FOR_CARGOBOB(Vehicle vehicle, int pickupType);
 
 Generate the pick up rope for cargobob
 
-## pickupType Values:
+## Values for `pickupType`:
 | Value | Name |
 | --- | --- |
 | 0 | Hook |

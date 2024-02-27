@@ -11,7 +11,7 @@ void SET_VEHICLE_MOD(Vehicle vehicle, int modSlot, int modIndex, bool variation)
 
 Sets a mod on the specified mod slot. Use [`GET_NUM_VEHICLE_MODS`](#_0xE38E9162A2500646) to find out the count available
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

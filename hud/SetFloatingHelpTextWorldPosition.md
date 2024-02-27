@@ -11,7 +11,7 @@ void SET_FLOATING_HELP_TEXT_WORLD_POSITION(int id, Vector3 vWorldPos);
 
 sets the floating help text based on a world position
 
-## id Values:
+## Values for `id`:
 | Value | Name |
 | --- | --- |
 | 0 | 1 |

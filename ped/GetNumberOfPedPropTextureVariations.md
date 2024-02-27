@@ -11,7 +11,7 @@ int GET_NUMBER_OF_PED_PROP_TEXTURE_VARIATIONS(Ped ped, int PropPosition, int Pro
 
 Gets the total number of different prop texture variations for the specified prop and drawable
 
-## PropPosition Values:
+## Values for `PropPosition`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

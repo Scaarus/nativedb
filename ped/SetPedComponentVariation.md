@@ -11,7 +11,7 @@ void SET_PED_COMPONENT_VARIATION(Ped ped, int ComponentNumber, int NewDrawableNu
 
 Sets the drawable, texture and palette for the specified ped component.
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

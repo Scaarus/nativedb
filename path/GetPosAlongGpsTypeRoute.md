@@ -9,7 +9,7 @@ aliases: ["0xf3162836c28f9da5"]
 bool GET_POS_ALONG_GPS_TYPE_ROUTE(Vector3 ReturnPos, bool StartAtPlayerPos, float fDistanceAlongRoute, int slotType);
 ```
 
-## slotType Values:
+## Values for `slotType`:
 | Value | Name |
 | --- | --- |
 | 0 | Waypoint |

@@ -11,7 +11,7 @@ void SET_PLANE_SECTION_DAMAGE_SCALE(int section, float damageScale);
 
 Sets the amount damage is scaled by on the given plane section
 
-## section Values:
+## Values for `section`:
 | Value | Name |
 | --- | --- |
 | 0 | WING_L |

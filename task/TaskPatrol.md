@@ -11,7 +11,7 @@ void TASK_PATROL(Ped ped, string RouteName, int PedAlertState, bool CanChatToPed
 
 Adds the completed patrol route.
 
-## PedAlertState Values:
+## Values for `PedAlertState`:
 | Value | Name |
 | --- | --- |
 | 0 | Casual |

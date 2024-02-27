@@ -11,7 +11,7 @@ void TASK_GO_TO_ENTITY_WHILE_AIMING_AT_COORD(Ped ped, Entity entity, Vector3 Aim
 
 The ped will move to the GoToEntityIndex while aiming at the AimAtCoord
 
-## FiringPatternHash Values:
+## Values for `FiringPatternHash`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

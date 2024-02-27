@@ -11,7 +11,7 @@ void SET_STATE_OF_RAYFIRE_MAP_OBJECT(Rayfire rayfire, int state);
 
 Set the state of the map object if found.
 
-## state Values:
+## Values for `state`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

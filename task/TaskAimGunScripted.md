@@ -11,7 +11,7 @@ void TASK_AIM_GUN_SCRIPTED(int AimGunTaskType, bool DisableGunBlocking, bool Ins
 
 Gives player scripted gun task
 
-## AimGunTaskType Values:
+## Values for `AimGunTaskType`:
 | Value | Name |
 | --- | --- |
 | 0 | On Crate |

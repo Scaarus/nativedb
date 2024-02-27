@@ -11,7 +11,7 @@ void SET_PED_ALERTNESS(Ped ped, int AlertState);
 
 Sets a peds alertness state
 
-## AlertState Values:
+## Values for `AlertState`:
 | Value | Name |
 | --- | --- |
 | 0 | Not Alert |

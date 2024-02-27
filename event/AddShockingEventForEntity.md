@@ -11,7 +11,7 @@ int ADD_SHOCKING_EVENT_FOR_ENTITY(int eventType, Entity entity, float overrideLi
 
 Add a specific shocking event associated with the given entity, and return an event ID if successful, or 0 if nothing was added.
 
-## eventType Values:
+## Values for `eventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

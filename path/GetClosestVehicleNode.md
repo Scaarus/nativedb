@@ -11,7 +11,7 @@ bool GET_CLOSEST_VEHICLE_NODE(Vector3 Position, Vector3 ReturnNearestNodePositio
 
 WIill return if can the closest vehicle node to a coord.
 
-## nodeFlags Values:
+## Values for `nodeFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

@@ -11,7 +11,7 @@ void TASK_COMBAT_PED_TIMED(Ped ped, int Time, int Flags);
 
 Tells a ped to combat another ped for a timed period.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

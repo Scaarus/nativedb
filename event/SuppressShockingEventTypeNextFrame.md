@@ -11,7 +11,7 @@ void SUPPRESS_SHOCKING_EVENT_TYPE_NEXT_FRAME(int eventShockingLevel);
 
 Prevents shocking events of a certain type from being added to the world next frame.
 
-## eventShockingLevel Values:
+## Values for `eventShockingLevel`:
 | Value | Name |
 | --- | --- |
 | 0 | Interesting |

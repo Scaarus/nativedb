@@ -11,7 +11,7 @@ void APPLY_FORCE_TO_ENTITY_CENTER_OF_MASS(Entity entity, int ApplyType, Vector3 
 
 Apply a force to an entity.
 
-## ApplyType Values:
+## Values for `ApplyType`:
 | Value | Name |
 | --- | --- |
 | 0 | Force |

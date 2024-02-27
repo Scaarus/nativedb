@@ -9,7 +9,7 @@ aliases: ["0x00dc833f2568dbf6"]
 void DISPLAY_ONSCREEN_KEYBOARD(int keyboardTypeFlag, string prompt, string description, string initialValue1, string initialValue2, string initialValue3, string initialValue4, int maxLength);
 ```
 
-## keyboardTypeFlag Values:
+## Values for `keyboardTypeFlag`:
 | Value | Name |
 | --- | --- |
 | 0 | English |

@@ -11,7 +11,7 @@ void SPAWNPOINTS_START_SEARCH(Vector3 vSearchOrigin, float fSearchRadius, float 
 
 Starts an asynchronous seach for spawnpoints Only a single search may be performed at any time; there is no queueing mechanism
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

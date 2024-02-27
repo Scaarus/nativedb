@@ -11,7 +11,7 @@ void REQUEST_SCALEFORM_SCRIPT_HUD_MOVIE(int iComponentId);
 
 Requests that a scaleform script hud movie is streamed in
 
-## iComponentId Values:
+## Values for `iComponentId`:
 | Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |

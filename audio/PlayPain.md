@@ -11,7 +11,7 @@ void PLAY_PAIN(Ped ped, int DamageReason, float RawDamage, bool SyncOverNetwork)
 
 Plays a pain sound from the ped
 
-## DamageReason Values:
+## Values for `DamageReason`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

@@ -11,7 +11,7 @@ bool FILLOUT_PM_PLAYER_LIST_WITH_NAMES(Any* gamerHandles, Any* gamerNames, int c
 
 Fills out the list of players in the PM Player List (clears the previous data).
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Joined |

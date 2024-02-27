@@ -11,7 +11,7 @@ void SET_TASK_VEHICLE_CHASE_BEHAVIOR_FLAG(Ped ped, int nFlag, bool Value);
 
 Sets a behavior flag when chasing a vehicle.
 
-## nFlag Values:
+## Values for `nFlag`:
 | Value | Name |
 | --- | --- |
 | 1 | Cant Block |

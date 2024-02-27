@@ -11,7 +11,7 @@ bool IS_VEHICLE_TYRE_BURST(Vehicle vehicle, int WheelNumber, bool IsBurstToRim);
 
 Checks if a vehicles tyre is burst
 
-## WheelNumber Values:
+## Values for `WheelNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Car Front Left |

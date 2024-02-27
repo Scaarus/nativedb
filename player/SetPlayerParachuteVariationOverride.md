@@ -9,7 +9,7 @@ aliases: ["0xd9284a8c0d48352c"]
 void SET_PLAYER_PARACHUTE_VARIATION_OVERRIDE(Player player, int ComponentNumber, int NewDrawableNumber, int TexID, int AltDrawableID);
 ```
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

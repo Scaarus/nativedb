@@ -11,7 +11,7 @@ void SET_ANIM_LOOPED(Entity entity, bool looped, int priority, bool secondary);
 
 Sets whether clips on a scripted anim task should loop.
 
-## priority Values:
+## Values for `priority`:
 | Value | Name |
 | --- | --- |
 | 0 | Low |

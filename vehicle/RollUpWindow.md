@@ -11,7 +11,7 @@ void ROLL_UP_WINDOW(Vehicle vehicle, int WindowNumber);
 
 Rolls up a given vehicle window. NB - it only snaps the window up. Probably want to do this off-screen.
 
-## WindowNumber Values:
+## Values for `WindowNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | SC_WINDOW_FRONT_LEFT |

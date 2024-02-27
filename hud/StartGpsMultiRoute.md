@@ -9,7 +9,7 @@ aliases: ["0x3d3d15af7bcaaf83"]
 void START_GPS_MULTI_ROUTE(int Colour, bool TrackPlayer, bool OnFoot);
 ```
 
-## Colour Values:
+## Values for `Colour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

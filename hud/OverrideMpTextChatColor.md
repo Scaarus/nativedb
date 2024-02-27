@@ -11,7 +11,7 @@ void OVERRIDE_MP_TEXT_CHAT_COLOR(bool OnOff, int hudColor);
 
 Overrides the MP Text Chat color - pass in TRUE and the hudcolor, or just pass in FALSE to turn off
 
-## hudColor Values:
+## Values for `hudColor`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

@@ -11,7 +11,7 @@ void SET_HIGH_FALL_TASK(Ped ped, int nMinTime, int nMaxTime, int type);
 
 Give the ped an NM HighFall task. This is good for falling anf rolling after hitting the ground if it's a slope
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | In Air |

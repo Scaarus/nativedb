@@ -11,7 +11,7 @@ Camera CREATE_CAM_WITH_PARAMS(string CameraName, Vector3 vecPos, Vector3 vecRot,
 
 Create a camera with its param of a given name.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

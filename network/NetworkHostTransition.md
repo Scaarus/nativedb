@@ -11,7 +11,7 @@ bool NETWORK_HOST_TRANSITION(int nGameMode, int nMaxPlayers, int nActivityType, 
 
 Host a transition session
 
-## nActivityIsland Values:
+## Values for `nActivityIsland`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |
@@ -22,7 +22,7 @@ Host a transition session
 | 4 | Tournament |
 
 
-## nContentCreator Values:
+## Values for `nContentCreator`:
 | Value | Name |
 | --- | --- |
 | 0 | Rockstar Created |

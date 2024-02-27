@@ -11,7 +11,7 @@ Ped GET_LAST_PED_IN_VEHICLE_SEAT(Vehicle vehicle, int seat);
 
 Gets the last ped to use the designated vehicle seat.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

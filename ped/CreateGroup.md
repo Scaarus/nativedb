@@ -11,7 +11,7 @@ Group CREATE_GROUP(int DefaultTaskType);
 
 Creates a group.
 
-## DefaultTaskType Values:
+## Values for `DefaultTaskType`:
 | Value | Name |
 | --- | --- |
 | 0 | Follow Any Means |

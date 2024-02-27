@@ -11,7 +11,7 @@ void TOGGLE_VEHICLE_MOD(Vehicle vehicle, int modSlot, bool toggleOn);
 
 Toggles a toggle mod on or off.
 
-## modSlot Values:
+## Values for `modSlot`:
 | Value | Name |
 | --- | --- |
 | 0 | Spoiler |

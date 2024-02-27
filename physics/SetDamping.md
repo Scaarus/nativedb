@@ -11,7 +11,7 @@ void SET_DAMPING(int dampingType, float dampingValue);
 
 Set entity damping
 
-## dampingType Values:
+## Values for `dampingType`:
 | Value | Name |
 | --- | --- |
 | 0 | Linear C |

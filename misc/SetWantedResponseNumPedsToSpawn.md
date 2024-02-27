@@ -11,7 +11,7 @@ void SET_WANTED_RESPONSE_NUM_PEDS_TO_SPAWN(int dispatchType, int iNumPedsToSpawn
 
 Sets the number of peds to spawn for the wanted response.
 
-## dispatchType Values:
+## Values for `dispatchType`:
 | Value | Name |
 | --- | --- |
 | 0 | Police Helicopter |

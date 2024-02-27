@@ -11,7 +11,7 @@ void NETWORK_ADD_ENTITY_TO_SYNCHRONISED_SCENE(Entity entity, int NetworkSceneID,
 
 Adds a non-ped entity and associated animation data to a previous created network synchronised scene.
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

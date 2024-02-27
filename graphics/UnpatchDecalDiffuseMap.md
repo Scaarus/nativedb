@@ -9,7 +9,7 @@ aliases: ["0xb7ed70c49521a61d"]
 void UNPATCH_DECAL_DIFFUSE_MAP(int renderSettingsId);
 ```
 
-## renderSettingsId Values:
+## Values for `renderSettingsId`:
 | Value | Name |
 | --- | --- |
 | 1015 | Blood Directional |

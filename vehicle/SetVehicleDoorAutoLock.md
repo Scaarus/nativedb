@@ -11,7 +11,7 @@ void SET_VEHICLE_DOOR_AUTO_LOCK(Vehicle vehicle, int DoorNumber, bool AutoLock);
 
 Sets a vehicle door to auto lock when closed.
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

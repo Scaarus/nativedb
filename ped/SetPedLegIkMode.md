@@ -11,7 +11,7 @@ void SET_PED_LEG_IK_MODE(Ped ped, int nLegIkMode);
 
 Sets the allowed IK mode for a ped.
 
-## nLegIkMode Values:
+## Values for `nLegIkMode`:
 | Value | Name |
 | --- | --- |
 | 0 | Off |

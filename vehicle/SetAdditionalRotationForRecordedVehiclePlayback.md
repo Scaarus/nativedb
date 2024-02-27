@@ -11,7 +11,7 @@ void SET_ADDITIONAL_ROTATION_FOR_RECORDED_VEHICLE_PLAYBACK(Vehicle vehicle, Vect
 
 Applies an additional rotation to a plane upon which a vehicle recording is currently playing back.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

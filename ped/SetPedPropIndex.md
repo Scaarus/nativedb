@@ -11,7 +11,7 @@ void SET_PED_PROP_INDEX(int Position, int NewPropIndex, int NewTextIndex, bool S
 
 Set the id of the prop at the given position for the given ped.
 
-## Position Values:
+## Values for `Position`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

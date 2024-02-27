@@ -11,7 +11,7 @@ bool DOES_LATEST_BRIEF_STRING_EXIST(int iBriefType);
 
 Returns TRUE if there is a string to display with [`SCALEFORM_MOVIE_METHOD_ADD_PARAM_LATEST_BRIEF_STRING`](#_0xEC52C631A1831C03). Returns FALSE if the brief list is empty.
 
-## iBriefType Values:
+## Values for `iBriefType`:
 | Value | Name |
 | --- | --- |
 | 0 | Dialog |

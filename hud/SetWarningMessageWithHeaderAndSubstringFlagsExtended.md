@@ -11,7 +11,7 @@ void SET_WARNING_MESSAGE_WITH_HEADER_AND_SUBSTRING_FLAGS_EXTENDED(string pHeader
 
 sets a warning message with buttons. Must be called every frame
 
-## SubStringFlags Values:
+## Values for `SubStringFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

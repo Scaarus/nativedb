@@ -11,7 +11,7 @@ void TASK_LEAVE_ANY_VEHICLE(int DelayTime, int iFlags);
 
 Tells the ped to leave any vehicle.
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Resume If Interrupted |

@@ -11,7 +11,7 @@ void TASK_LOOK_AT_COORD(Ped ped, Vector3 Position, int LookFlags, int priority);
 
 Gives the ped a look at coord task.
 
-## LookFlags Values:
+## Values for `LookFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |
@@ -34,7 +34,7 @@ Gives the ped a look at coord task.
 | 65536 | Use Ref Dir Absolute |
 
 
-## priority Values:
+## Values for `priority`:
 | Value | Name |
 | --- | --- |
 | 0 | Very Low |

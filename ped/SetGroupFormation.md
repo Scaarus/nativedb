@@ -11,7 +11,7 @@ void SET_GROUP_FORMATION(Group group, int GroupFormation);
 
 Sets the formation a group can take
 
-## GroupFormation Values:
+## Values for `GroupFormation`:
 | Value | Name |
 | --- | --- |
 | 0 | Loose |

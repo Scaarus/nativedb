@@ -11,7 +11,7 @@ void CLEAR_CONTROL_SHAKE_SUPPRESSED_ID(int control);
 
 Clears a supress id passed to [`SET_CONTROL_SHAKE_SUPPRESSED_ID`](#_0xF239400E16C23E08).
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

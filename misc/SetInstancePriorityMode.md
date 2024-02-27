@@ -9,7 +9,7 @@ aliases: ["0x9bae5ad2508df078"]
 void SET_INSTANCE_PRIORITY_MODE(int mode);
 ```
 
-## mode Values:
+## Values for `mode`:
 | Value | Name |
 | --- | --- |
 | 0 | Singleplayer |

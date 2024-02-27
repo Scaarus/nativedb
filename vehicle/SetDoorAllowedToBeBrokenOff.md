@@ -11,7 +11,7 @@ void SET_DOOR_ALLOWED_TO_BE_BROKEN_OFF(Vehicle vehicle, int DoorNumber, bool Doo
 
 Prevent a door from being broken off.
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

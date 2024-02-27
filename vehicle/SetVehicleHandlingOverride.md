@@ -11,7 +11,7 @@ void SET_VEHICLE_HANDLING_OVERRIDE(Vehicle vehicle, int HandlingOverrideHash);
 
 Overrides the handling info for a given vehicle, so it will drive more aggressively or conservatively than normal vehicles of that type
 
-## HandlingOverrideHash Values:
+## Values for `HandlingOverrideHash`:
 | Value | Name |
 | --- | --- |
 | -2056575896 | Crap |

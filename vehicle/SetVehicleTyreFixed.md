@@ -11,7 +11,7 @@ void SET_VEHICLE_TYRE_FIXED(Vehicle vehicle, int WheelNumber);
 
 Fixes a vehicles burts tyre
 
-## WheelNumber Values:
+## Values for `WheelNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Car Front Left |

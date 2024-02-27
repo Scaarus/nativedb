@@ -11,7 +11,7 @@ void START_CUTSCENE(int flags);
 
 Starts a streamed cut scene.
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | No Options |

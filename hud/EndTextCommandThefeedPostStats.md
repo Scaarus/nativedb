@@ -11,7 +11,7 @@ int END_TEXT_COMMAND_THEFEED_POST_STATS(string sTitleString, int eIcon, int iTot
 
 Displays the stats message/icon in the top left of the HUD
 
-## eIcon Values:
+## Values for `eIcon`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

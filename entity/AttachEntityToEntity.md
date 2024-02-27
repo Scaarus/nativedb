@@ -11,7 +11,7 @@ void ATTACH_ENTITY_TO_ENTITY(Entity entity, int SecondEntityBoneIndex, Vector3 v
 
 Attaches an entity to another entity with a non physical attachement.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

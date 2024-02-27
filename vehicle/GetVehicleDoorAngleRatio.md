@@ -11,7 +11,7 @@ float GET_VEHICLE_DOOR_ANGLE_RATIO(Vehicle vehicle, int DoorNumber);
 
 Gets the door angle of a door between 0.0 and 1.0.
 
-## DoorNumber Values:
+## Values for `DoorNumber`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

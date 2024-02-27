@@ -9,7 +9,7 @@ aliases: ["0x109e99373f290687"]
 void UPDATE_NAVMESH_BLOCKING_OBJECT(Vector3 vPosition, Vector3 vSizeXYZ, float fHeading, int iFlags);
 ```
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

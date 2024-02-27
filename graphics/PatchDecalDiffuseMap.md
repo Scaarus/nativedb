@@ -9,7 +9,7 @@ aliases: ["0x8a35c742130c6080"]
 void PATCH_DECAL_DIFFUSE_MAP(int renderSettingsId, string diffuseMapDictionaryName, string diffuseMapName);
 ```
 
-## renderSettingsId Values:
+## Values for `renderSettingsId`:
 | Value | Name |
 | --- | --- |
 | 1015 | Blood Directional |

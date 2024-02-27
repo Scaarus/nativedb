@@ -11,7 +11,7 @@ void SUPPRESS_CRIME_THIS_FRAME(int crimeToReport);
 
 Can be use to disable all instances of a crime type on this frame
 
-## crimeToReport Values:
+## Values for `crimeToReport`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

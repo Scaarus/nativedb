@@ -11,7 +11,7 @@ void TASK_VEHICLE_FOLLOW_WAYPOINT_RECORDING(Ped ped, Vehicle vehicle, string Rec
 
 Tells the specified vehicle to follow the specified waypoint route
 
-## Mode Values:
+## Values for `Mode`:
 | Value | Name |
 | --- | --- |
 | 0 | DF_UseShortCutLinks |
@@ -48,7 +48,7 @@ Tells the specified vehicle to follow the specified waypoint route
 | 1073741824 | DF_ForceJoinInRoadDirection |
 
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

@@ -11,7 +11,7 @@ void SET_HELP_MESSAGE_STYLE(int style, int colour, int iAlpha, int iArrowPositio
 
 Set the help text position on a world coordinate
 
-## style Values:
+## Values for `style`:
 | Value | Name |
 | --- | --- |
 | 0 | Normal |
@@ -20,7 +20,7 @@ Set the help text position on a world coordinate
 | 3 | Mp Freemode |
 
 
-## colour Values:
+## Values for `colour`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |
@@ -260,7 +260,7 @@ Set the help text position on a world coordinate
 | 234 | Junk Energy |
 
 
-## iArrowPosition Values:
+## Values for `iArrowPosition`:
 | Value | Name |
 | --- | --- |
 | 0 | East |

@@ -11,7 +11,7 @@ void SET_CAM_SPLINE_NODE_EASE(Camera camera, int NodeIndex, int Flags, float Sca
 
 Set per-node easing with a scaler to control how quickly the ease ramps up/down.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | No Flags |

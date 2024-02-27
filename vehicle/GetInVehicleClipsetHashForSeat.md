@@ -11,7 +11,7 @@ int GET_IN_VEHICLE_CLIPSET_HASH_FOR_SEAT(Vehicle vehicle, int seat);
 
 Gets the the in vehicle clipset hash of the vehicle seat.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

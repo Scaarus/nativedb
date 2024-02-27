@@ -11,7 +11,7 @@ void SET_FOLLOW_VEHICLE_CAM_ZOOM_LEVEL(int ZoomLevel);
 
 Sets the global zoom level used by all follow-vehicle and vehicle-aim cameras.
 
-## ZoomLevel Values:
+## Values for `ZoomLevel`:
 | Value | Name |
 | --- | --- |
 | -1 | Bad |

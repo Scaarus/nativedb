@@ -11,7 +11,7 @@ Any* ADD_DECAL(int renderSettingsId, Vector3 pos, Vector3 dir, Vector3 side, flo
 
 Places a decal into the world
 
-## renderSettingsId Values:
+## Values for `renderSettingsId`:
 | Value | Name |
 | --- | --- |
 | 1015 | Blood Directional |

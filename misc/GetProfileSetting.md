@@ -11,7 +11,7 @@ int GET_PROFILE_SETTING(int setting);
 
 Get game profile setting.
 
-## setting Values:
+## Values for `setting`:
 | Value | Name |
 | --- | --- |
 | 0 | PROFILE_ACTION_AUTO_AIM |

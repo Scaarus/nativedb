@@ -11,7 +11,7 @@ int END_TEXT_COMMAND_THEFEED_POST_VERSUS_TU(string ch1TXD, string ch1TXN, int iV
 
 Displays the MP Versus feed component used when you die in multiplayer
 
-## iCustomColor1 Values:
+## Values for `iCustomColor1`:
 | Value | Name |
 | --- | --- |
 | 0 | Pure White |

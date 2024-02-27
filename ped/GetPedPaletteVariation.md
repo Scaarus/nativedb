@@ -11,7 +11,7 @@ int GET_PED_PALETTE_VARIATION(Ped ped, int ComponentNumber);
 
 Returns the index of the current palette variation for the current drawable of the specified component.
 
-## ComponentNumber Values:
+## Values for `ComponentNumber`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

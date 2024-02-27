@@ -9,7 +9,7 @@ aliases: ["0xaab3200ed59016bc"]
 void SWITCH_TO_MULTI_FIRSTPART(Ped ped, int flags, int type);
 ```
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 1 | Skip Intro |
@@ -30,7 +30,7 @@ void SWITCH_TO_MULTI_FIRSTPART(Ped ped, int flags, int type);
 | 32768 | Delay Ascent Fx |
 
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Auto |

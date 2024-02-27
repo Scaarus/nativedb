@@ -11,7 +11,7 @@ int END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG_AND_ADDITIONAL_ICON(
 
 ** Modified TITLE_UPDATE COMMAND ** Does everything [`END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG`](#_0x5CBF7BADE20DB93E) can do, but with an additional icon!
 
-## eIcon Values:
+## Values for `eIcon`:
 | Value | Name |
 | --- | --- |
 | 0 | Blank |

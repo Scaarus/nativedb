@@ -11,7 +11,7 @@ Vector3 GET_CAM_ROT(Camera camera, int RotOrder);
 
 Get the camera's rotation in Euler angles (in degrees.)
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

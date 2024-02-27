@@ -11,7 +11,7 @@ void TASK_SHOOT_AT_ENTITY(Entity entity, int Time, int FiringType);
 
 Gives a shoot at entity task.
 
-## FiringType Values:
+## Values for `FiringType`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

@@ -11,7 +11,7 @@ void CREATE_CINEMATIC_SHOT(int Shot, int DurationInMilliseconds, Entity entity, 
 
 Create a cinematic shot to be used by script.
 
-## Shot Values:
+## Values for `Shot`:
 | Value | Name |
 | --- | --- |
 | 0 | Camera Man |

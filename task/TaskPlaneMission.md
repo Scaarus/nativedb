@@ -11,7 +11,7 @@ void TASK_PLANE_MISSION(Vehicle vehicle, Vehicle vehicle, Ped ped, Vector3 Posit
 
 Gives the plane a mission.
 
-## Mission Values:
+## Values for `Mission`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

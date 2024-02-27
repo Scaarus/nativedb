@@ -11,7 +11,7 @@ float GET_DISABLED_CONTROL_NORMAL(int control, int action);
 
 Return controller value related to an action (range between -1 to +1) even if the control is disabled.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -19,7 +19,7 @@ Return controller value related to an action (range between -1 to +1) even if th
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

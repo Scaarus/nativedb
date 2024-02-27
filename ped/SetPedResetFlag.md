@@ -11,7 +11,7 @@ void SET_PED_RESET_FLAG(Ped ped, int ResetFlag, bool True);
 
 Sets the given ped reset flag bit
 
-## ResetFlag Values:
+## Values for `ResetFlag`:
 | Value | Name |
 | --- | --- |
 | 462 | Fallen Down |

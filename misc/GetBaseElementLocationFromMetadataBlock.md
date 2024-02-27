@@ -11,7 +11,7 @@ bool GET_BASE_ELEMENT_LOCATION_FROM_METADATA_BLOCK(Vector3 outLocation, Vector3 
 
 Gets base element location data from scriptmetadata
 
-## blockIndex Values:
+## Values for `blockIndex`:
 | Value | Name |
 | --- | --- |
 | 0 | Base |

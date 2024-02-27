@@ -11,7 +11,7 @@ Pickup CREATE_PICKUP_ROTATE(Vector3 Position, Vector3 Orientation, int Placement
 
 Creates a pickup spawner which can be referenced by the script and will spawn a pickup whenever the player gets near. This spawner can also regenerate the pickup after it is collected. The spawner is removed when the script terminates.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

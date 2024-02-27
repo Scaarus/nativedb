@@ -11,7 +11,7 @@ Vector3 GET_ENTITY_ROTATION(Entity entity, int RotOrder);
 
 Gets the rotation of an entity.
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

@@ -11,7 +11,7 @@ void SET_PED_MICRO_MORPH(Ped ped, int morphType, float blend);
 
 Sets a micro morph on the specified ped
 
-## morphType Values:
+## Values for `morphType`:
 | Value | Name |
 | --- | --- |
 | 0 | Nose Width |

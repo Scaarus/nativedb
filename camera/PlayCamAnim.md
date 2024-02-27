@@ -11,14 +11,14 @@ bool PLAY_CAM_ANIM(Camera camera, string AnimName, string AnimDictName, Vector3 
 
 Play a camera animation on the specified camera. Note that the animation must already be loaded prior to calling this command.
 
-## AnimFlags Values:
+## Values for `AnimFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |
 | 1 | Looping |
 
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

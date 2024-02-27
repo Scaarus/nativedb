@@ -11,7 +11,7 @@ void SET_PED_INTO_VEHICLE(Ped ped, Vehicle vehicle, int seat);
 
 Sets a Ped into the releveant seat of the given Vehicle.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

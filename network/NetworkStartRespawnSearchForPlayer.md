@@ -11,7 +11,7 @@ bool NETWORK_START_RESPAWN_SEARCH_FOR_PLAYER(Player player, Vector3 vSearchPos, 
 
 This command initiates a search for spawn coordinates using the navmesh, using a spherical volume
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

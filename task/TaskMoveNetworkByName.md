@@ -11,7 +11,7 @@ void TASK_MOVE_NETWORK_BY_NAME(Ped ped, string network, float blendDuration, boo
 
 Task to start a move network of the type passed When bAllowOverrideCloneUpdate is used in MP the remotely cloned ped will not update in sync with commands sent locally and it is expected that the remote machine will override the update of the clones task signals.
 
-## flags Values:
+## Values for `flags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

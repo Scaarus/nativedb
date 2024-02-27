@@ -11,7 +11,7 @@ void REQUEST_WEAPON_ASSET(Hash weaponHash, int iWeaponResourceFlags, int ExtraWe
 
 Request streaming to load a weapon asset
 
-## ExtraWeaponComponentFlags Values:
+## Values for `ExtraWeaponComponentFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

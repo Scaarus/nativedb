@@ -11,7 +11,7 @@ bool NETWORK_START_RESPAWN_SEARCH_IN_ANGLED_AREA_FOR_PLAYER(Player player, Vecto
 
 This command initiates a search for spawn coordinates using the navmesh, using an angled area
 
-## iFlags Values:
+## Values for `iFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

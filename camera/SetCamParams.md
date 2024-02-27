@@ -11,7 +11,7 @@ void SET_CAM_PARAMS(Camera camera, Vector3 vPos, Vector3 vRot, float FOV, int Du
 
 Sets the camera's position, rotation and field of view.
 
-## GraphTypePos Values:
+## Values for `GraphTypePos`:
 | Value | Name |
 | --- | --- |
 | 0 | Linear |
@@ -46,7 +46,7 @@ Sets the camera's position, rotation and field of view.
 | 29 | Max (The Maximum Number Of Graph Types, Do Not Use.) |
 
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

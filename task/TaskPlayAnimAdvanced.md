@@ -11,7 +11,7 @@ void TASK_PLAY_ANIM_ADVANCED(Ped ped, string pAnimDictName, Vector3 pos, Vector3
 
 Plays an anim task on a ped with a reposition and reorientation at the beginning.
 
-## AnimFlags Values:
+## Values for `AnimFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |
@@ -48,7 +48,7 @@ Plays an anim task on a ped with a reposition and reorientation at the beginning
 | 1073741824 | Use Full Blending |
 
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |
@@ -59,7 +59,7 @@ Plays an anim task on a ped with a reposition and reorientation at the beginning
 | 5 | Zyx |
 
 
-## ikFlags Values:
+## Values for `ikFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

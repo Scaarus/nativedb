@@ -11,7 +11,7 @@ void SET_PLAYER_PERMITTED_TO_COLLECT_PICKUPS_OF_TYPE(int Type, bool Allow);
 
 Prohibits/allows a player to collect the specified pickup type
 
-## Type Values:
+## Values for `Type`:
 | Value | Name |
 | --- | --- |
 | 0 | Health Standard |

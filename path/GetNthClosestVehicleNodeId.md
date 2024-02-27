@@ -11,7 +11,7 @@ int GET_NTH_CLOSEST_VEHICLE_NODE_ID(Vector3 Position, int NodeNumber, int nodeFl
 
 Will return if can the nth ( n = 1 being closest) closest vehicle node (by index), to a coord.
 
-## nodeFlags Values:
+## Values for `nodeFlags`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

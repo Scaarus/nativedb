@@ -11,7 +11,7 @@ void TASK_GO_TO_ENTITY_WHILE_AIMING_AT_ENTITY(Ped ped, Entity entity, Entity ent
 
 The ped will move to the GoToEntityIndex while aiming at the AimAtEntityIndex
 
-## FiringPatternHash Values:
+## Values for `FiringPatternHash`:
 | Value | Name |
 | --- | --- |
 | 0 | Default |

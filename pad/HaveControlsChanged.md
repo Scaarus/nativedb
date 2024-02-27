@@ -11,7 +11,7 @@ bool HAVE_CONTROLS_CHANGED(int control);
 
 Returns true if controls have changed since the last call to this function, this can happen if the user changes their control options, switches between FPS and TPS mode, or between gamepad and keyboardmouse.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

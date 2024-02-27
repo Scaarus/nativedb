@@ -11,7 +11,7 @@ void RESET_HUD_COMPONENT_VALUES(int hudComponent);
 
 resets the values of the hud component back to the original values from the xml
 
-## hudComponent Values:
+## Values for `hudComponent`:
 | Value | Name |
 | --- | --- |
 | 0 | Weapon Icon |

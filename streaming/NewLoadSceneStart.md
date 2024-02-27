@@ -11,7 +11,7 @@ bool NEW_LOAD_SCENE_START(Vector3 pos, Vector3 dir, float farClip, int controlFl
 
 asynchronously load a location (could be inside an interior, or not). returns true if load scene has started successfully, false otherwise.
 
-## controlFlags Values:
+## Values for `controlFlags`:
 | Value | Name |
 | --- | --- |
 | 1 | Require Collision |

@@ -11,7 +11,7 @@ bool NETWORK_CAN_ACCESS_MULTIPLAYER(int nAccessCode);
 
 Return TRUE if the game can ACCESS multiplayer. Check this function once. If FALSE, fall out of MP. Must be called prior to: NETWORK_SESSION_ENTER NETWORK_SESSION_FRIEND_MATCHMAKING NETWORK_SESSION_SOCIAL_MATCHMAKING NETWORK_SESSION_CREW_MATCHMAKING NETWORK_SESSION_ACTIVITY_QUICKMATCH [`NETWORK_SESSION_HOST`](#_0x6F3D4ED9BEE4E61D) Code deal with [`NETWORK_SESSION_JOIN_INVITE`](#_0xC6F8AB8A4189CF3A)
 
-## nAccessCode Values:
+## Values for `nAccessCode`:
 | Value | Name |
 | --- | --- |
 | 0 | Granted |

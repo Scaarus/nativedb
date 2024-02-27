@@ -11,7 +11,7 @@ void SET_PED_COMBAT_ABILITY(Ped ped, int PedCombatAbilityType);
 
 Set the peds combat level.
 
-## PedCombatAbilityType Values:
+## Values for `PedCombatAbilityType`:
 | Value | Name |
 | --- | --- |
 | 0 | Poor (Ped Has Low Combat Ability) |

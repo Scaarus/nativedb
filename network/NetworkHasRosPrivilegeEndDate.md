@@ -11,7 +11,7 @@ bool NETWORK_HAS_ROS_PRIVILEGE_END_DATE(int privilegeId, int isGranted, Any* sDa
 
 Returns true if the ROS privilege ID has a valid end Date and the time.
 
-## privilegeId Values:
+## Values for `privilegeId`:
 | Value | Name |
 | --- | --- |
 | 0 | Privilegeid None |

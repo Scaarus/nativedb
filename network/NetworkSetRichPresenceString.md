@@ -11,7 +11,7 @@ void NETWORK_SET_RICH_PRESENCE_STRING(int id, string presence);
 
 Sets a rich presence string in PS3.
 
-## id Values:
+## Values for `id`:
 | Value | Name |
 | --- | --- |
 | 0 | Pres 0 |

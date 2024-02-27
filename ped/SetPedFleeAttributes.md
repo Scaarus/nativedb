@@ -11,7 +11,7 @@ void SET_PED_FLEE_ATTRIBUTES(Ped ped, int FleeAttribute, bool ActiveSkill);
 
 Activate or deactivate the flee attributes, flags can be or'ed together.
 
-## FleeAttribute Values:
+## Values for `FleeAttribute`:
 | Value | Name |
 | --- | --- |
 | 1 | Use Cover |

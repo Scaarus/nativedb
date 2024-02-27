@@ -11,7 +11,7 @@ void RESTART_FRONTEND_MENU(Any* iMenuVersion, int HighlightTab);
 
 restarts the frontend menu if its already active with new header details
 
-## HighlightTab Values:
+## Values for `HighlightTab`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

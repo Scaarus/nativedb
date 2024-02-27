@@ -11,7 +11,7 @@ void SET_MINIMAP_GOLF_COURSE(int iGolfCourseHole);
 
 sets the minimap to show the golf course and be in "golf course mode"
 
-## iGolfCourseHole Values:
+## Values for `iGolfCourseHole`:
 | Value | Name |
 | --- | --- |
 | 0 | 2 |

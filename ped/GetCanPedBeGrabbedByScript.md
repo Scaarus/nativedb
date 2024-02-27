@@ -11,7 +11,7 @@ bool GET_CAN_PED_BE_GRABBED_BY_SCRIPT(Ped ped, bool ScanRandomPeds, bool ScanMis
 
 Returns whether a given ped meets the given criteria to become script controlled
 
-## ExclusionPedType Values:
+## Values for `ExclusionPedType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

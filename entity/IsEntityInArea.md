@@ -11,7 +11,7 @@ bool IS_ENTITY_IN_AREA(Entity entity, Vector3 Position1, Vector3 Position2, bool
 
 Checks if a ped is in the axis aligned area defined by the two coords. If the entity is a ped in a vehicle, then the coords of the vehicle are used in the check.
 
-## TM_MODE Values:
+## Values for `TM_MODE`:
 | Value | Name |
 | --- | --- |
 | 0 | Any (Any Mode Of Transport Bike, Car Plane, On Foot Etc) |

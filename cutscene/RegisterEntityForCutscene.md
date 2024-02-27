@@ -11,7 +11,7 @@ void REGISTER_ENTITY_FOR_CUTSCENE(Entity entity, string sSceneHandle, int Usage,
 
 Registers an entity with the cut scene system.
 
-## Usage Values:
+## Values for `Usage`:
 | Value | Name |
 | --- | --- |
 | 0 | Animate Existing Script Entity (Get The Cut Scene To Animate A Script Controlled Entity) |
@@ -20,7 +20,7 @@ Registers an entity with the cut scene system.
 | 3 | Dont Animate Entity (Tell The The Cutscene That This Ped Is Dead And Should Not Appera In The Scene.) |
 
 
-## Options Values:
+## Values for `Options`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

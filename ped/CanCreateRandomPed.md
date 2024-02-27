@@ -11,7 +11,7 @@ bool CAN_CREATE_RANDOM_PED(int Ped_model);
 
 Call this before trying to create a ped with a random model, to ensure that a model is available
 
-## Ped_model Values:
+## Values for `Ped_model`:
 | Value | Name |
 | --- | --- |
 | 0 | Dont Care |

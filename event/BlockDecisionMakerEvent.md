@@ -11,7 +11,7 @@ void BLOCK_DECISION_MAKER_EVENT(int DecisionMakerId, int EventType);
 
 Blocks a decision maker from responding to the specified Event
 
-## DecisionMakerId Values:
+## Values for `DecisionMakerId`:
 | Value | Name |
 | --- | --- |
 | -1533126372 | Cop |
@@ -21,7 +21,7 @@ Blocks a decision maker from responding to the specified Event
 | 1862763509 | Player |
 
 
-## EventType Values:
+## Values for `EventType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

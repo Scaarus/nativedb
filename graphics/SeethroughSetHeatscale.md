@@ -11,7 +11,7 @@ void SEETHROUGH_SET_HEATSCALE(int type, float param);
 
 SeeThrough Effect : Set the amount of heat emitted for a thermal type.
 
-## type Values:
+## Values for `type`:
 | Value | Name |
 | --- | --- |
 | 0 | Dead |

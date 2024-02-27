@@ -11,7 +11,7 @@ bool GET_PED_RESET_FLAG(Ped ped, int ResetFlag);
 
 Gets the given ped reset flag bit
 
-## ResetFlag Values:
+## Values for `ResetFlag`:
 | Value | Name |
 | --- | --- |
 | 462 | Fallen Down |

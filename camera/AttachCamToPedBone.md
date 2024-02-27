@@ -11,7 +11,7 @@ void ATTACH_CAM_TO_PED_BONE(Camera camera, Ped ped, int BoneTag, Vector3 vecOffs
 
 Attaches a camera to a ped's bone.
 
-## BoneTag Values:
+## Values for `BoneTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Null |

@@ -11,7 +11,7 @@ Ped GET_RANDOM_PED_AT_COORD(Vector3 CentrePosition, Vector3 LocateDimensions, in
 
 Gets a ped index in the given area.
 
-## ExclusionPedType Values:
+## Values for `ExclusionPedType`:
 | Value | Name |
 | --- | --- |
 | -1 | Invalid |

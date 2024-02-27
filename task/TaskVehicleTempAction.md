@@ -11,7 +11,7 @@ void TASK_VEHICLE_TEMP_ACTION(Vehicle vehicle, int Action, int Time);
 
 Gives the vehicle a temporary action.
 
-## Action Values:
+## Values for `Action`:
 | Value | Name |
 | --- | --- |
 | 0 | None |

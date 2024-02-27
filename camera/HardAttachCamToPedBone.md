@@ -11,7 +11,7 @@ void HARD_ATTACH_CAM_TO_PED_BONE(Camera camera, Ped ped, int BoneTag, Vector3 ve
 
 Attaches a camera to a ped's bone full matrix.
 
-## BoneTag Values:
+## Values for `BoneTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Null |

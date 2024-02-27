@@ -11,7 +11,7 @@ bool GET_MOUSE_EVENT(Scaleform scaleform, int evtType, int iUID, int iContext);
 
 Returns whether the mouse pointer is currently rolled over the instructional buttons.
 
-## evtType Values:
+## Values for `evtType`:
 | Value | Name |
 | --- | --- |
 | -1 | None |

@@ -11,7 +11,7 @@ void SET_CAM_DEATH_FAIL_EFFECT_STATE(int State);
 
 Pushes the death/fail camera effect through its states. You must ensure this is reset to CAM_DEATH_FAIL_EFFECT_INACTIVE once the sequence is complete.
 
-## State Values:
+## Values for `State`:
 | Value | Name |
 | --- | --- |
 | 0 | Inactive |

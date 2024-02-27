@@ -11,7 +11,7 @@ bool IS_SCRIPTED_HUD_COMPONENT_ACTIVE(int hudComponent);
 
 returns whether a scripted hud component is active/loaded
 
-## hudComponent Values:
+## Values for `hudComponent`:
 | Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |

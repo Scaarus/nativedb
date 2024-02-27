@@ -11,7 +11,7 @@ void TASK_DRIVE_BY(Ped ped, Vehicle vehicle, Vector3 Position, float AbortRange,
 
 Tells a ped to driveby a coord, ped or vehicle.
 
-## FiringPatternHash Values:
+## Values for `FiringPatternHash`:
 | Value | Name |
 | --- | --- |
 | -1857128337 | Burst Fire Heli |

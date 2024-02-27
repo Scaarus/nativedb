@@ -9,7 +9,7 @@ aliases: ["0x3ed1438c1f5c6612"]
 void NEXT_ONSCREEN_KEYBOARD_RESULT_WILL_DISPLAY_USING_THESE_FONTS(int fontBitField);
 ```
 
-## fontBitField Values:
+## Values for `fontBitField`:
 | Value | Name |
 | --- | --- |
 | 2 | Cursive |

@@ -11,7 +11,7 @@ Ped GET_FOCUS_PED_ON_SCREEN(float maxDistanceFromCamera, int screenPositionTestB
 
 Finds the best candidate on-screen focus/subject ped.
 
-## screenPositionTestBoneTag Values:
+## Values for `screenPositionTestBoneTag`:
 | Value | Name |
 | --- | --- |
 | -1 | Null |

@@ -11,7 +11,7 @@ string GET_CONTROL_INSTRUCTIONAL_BUTTONS_STRING(int control, int action, bool al
 
 Return an encoded string of the icon to show of a CONTROL_ACTION. empty string will be returned on error!
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -19,7 +19,7 @@ Return an encoded string of the icon to show of a CONTROL_ACTION. empty string w
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

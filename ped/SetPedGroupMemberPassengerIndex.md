@@ -11,7 +11,7 @@ void SET_PED_GROUP_MEMBER_PASSENGER_INDEX(Ped ped, int seat);
 
 Sets the vehicle seat the gang member will occupy.
 
-## seat Values:
+## Values for `seat`:
 | Value | Name |
 | --- | --- |
 | -2 | Any Passenger |

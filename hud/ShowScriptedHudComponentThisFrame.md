@@ -11,7 +11,7 @@ void SHOW_SCRIPTED_HUD_COMPONENT_THIS_FRAME(int hudComponent);
 
 shows the hud component for 1 frame
 
-## hudComponent Values:
+## Values for `hudComponent`:
 | Value | Name |
 | --- | --- |
 | 0 | Drugs Purse 01 |

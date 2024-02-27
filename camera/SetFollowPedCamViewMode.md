@@ -11,7 +11,7 @@ void SET_FOLLOW_PED_CAM_VIEW_MODE(int ViewMode);
 
 Sets the global view mode used by all follow-ped cameras. Please note that the first-person and cinematic view modes are presently not supported by the follow-ped cameras.
 
-## ViewMode Values:
+## Values for `ViewMode`:
 | Value | Name |
 | --- | --- |
 | 0 | Third Person Near |

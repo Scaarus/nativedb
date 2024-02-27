@@ -11,7 +11,7 @@ void CLEAR_TV_CHANNEL_PLAYLIST(int iChannel);
 
 Clears any playlist from the passed channel
 
-## iChannel Values:
+## Values for `iChannel`:
 | Value | Name |
 | --- | --- |
 | -1 | None |

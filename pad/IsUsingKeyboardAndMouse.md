@@ -11,7 +11,7 @@ bool IS_USING_KEYBOARD_AND_MOUSE(int control);
 
 Returns true if the player is using keyboard and mouse controls.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |

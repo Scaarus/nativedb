@@ -11,7 +11,7 @@ bool IS_CONTROL_JUST_RELEASED(int control, int action);
 
 Return if controller button related to an action has just been release up.
 
-## control Values:
+## Values for `control`:
 | Value | Name |
 | --- | --- |
 | 0 | PLAYER_CONTROL |
@@ -19,7 +19,7 @@ Return if controller button related to an action has just been release up.
 | 2 | FRONTEND_CONTROL |
 
 
-## action Values:
+## Values for `action`:
 | Value | Name |
 | --- | --- |
 | 0 | Next Camera |

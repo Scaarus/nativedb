@@ -11,7 +11,7 @@ void SET_CUTSCENE_PED_COMPONENT_VARIATION(string SceneHandle, int Component, int
 
 Sets a request to change the component variation, only valid for a single frame.
 
-## Component Values:
+## Values for `Component`:
 | Value | Name |
 | --- | --- |
 | 0 | Head |

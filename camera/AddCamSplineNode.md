@@ -11,7 +11,7 @@ void ADD_CAM_SPLINE_NODE(Camera camera, Vector3 vPos, Vector3 vRot, int iDuratio
 
 Appends a simple node on to a spline camera.
 
-## Flags Values:
+## Values for `Flags`:
 | Value | Name |
 | --- | --- |
 | 0 | No Flags |
@@ -22,7 +22,7 @@ Appends a simple node on to a spline camera.
 | 16 | Ease Inout |
 
 
-## RotOrder Values:
+## Values for `RotOrder`:
 | Value | Name |
 | --- | --- |
 | 0 | Xyz |

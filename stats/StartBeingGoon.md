@@ -9,7 +9,7 @@ aliases: ["0x96e6d5150dbf1c09"]
 void START_BEING_GOON(int bossId1, int bossId2, int inviteMode);
 ```
 
-## inviteMode Values:
+## Values for `inviteMode`:
 | Value | Name |
 | --- | --- |
 | 0 | Debug |
