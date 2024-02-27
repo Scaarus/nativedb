@@ -21,3 +21,9 @@ Starts the ped shooting at the specified ped or coordinates whilst already follo
 | 4 | Clip (Uses Firing Type Default As It'S No Longer A Valid Type) |
 | 5 | Continuous (Fires At The Maximum Rate For The Duration, Reloading If The Clips Empty) |
 
+
+## Parameters
+* **ped**: 
+* **vTargetCoords**: 
+* **RunAndGun**: 
+* **FiringPatternHash**: (Default value: `0`)

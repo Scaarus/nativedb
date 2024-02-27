@@ -17,7 +17,7 @@ Plays a gesture animation whilst using phone
 * **pAnimDictName**: 
 * **pAnimName**: 
 * **pFilterName**: 
-* **fTaskBlendInDuration**: the time over which the task will blend in (in seconds)
-* **fTaskBlendOutDuration**: the time over which the task will blend out (in seconds)
-* **IsLooping**: Specifies whether to loop animation or not
-* **HoldLastFrame**: If true, holds final position of animation, else returns to starting position. Call TASK_STOP_PHONE_GESTURE_ANIMATION to return to original position if true.
+* **fTaskBlendInDuration**: the time over which the task will blend in (in seconds) (Default value: `Normal_Blend_Duration`)
+* **fTaskBlendOutDuration**: the time over which the task will blend out (in seconds) (Default value: `Normal_Blend_Duration`)
+* **IsLooping**: Specifies whether to loop animation or not (Default value: `False`)
+* **HoldLastFrame**: If true, holds final position of animation, else returns to starting position. Call TASK_STOP_PHONE_GESTURE_ANIMATION to return to original position if true. (Default value: `False`)

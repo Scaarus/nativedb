@@ -45,3 +45,19 @@ Places a decal into the world
 | 9123 | Mp Creator Trigger |
 | 9200 | Oil Pool |
 
+
+## Parameters
+* **renderSettingsId**: 
+* **pos**: 
+* **dir**: 
+* **side**: 
+* **width**: 
+* **height**: 
+* **colR**: 
+* **colG**: 
+* **colB**: 
+* **colA**: 
+* **life**: 
+* **isLongRange**: (Default value: `False`)
+* **isDynamic**: (Default value: `False`)
+* **useComplexColn**: (Default value: `False`)

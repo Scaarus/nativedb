@@ -11,3 +11,7 @@ void SET_BIGMAP_ACTIVE(bool Active, bool FullMap);
 
 sets the big map active/inactive
 
+
+## Parameters
+* **Active**: 
+* **FullMap**: (Default value: `True`)

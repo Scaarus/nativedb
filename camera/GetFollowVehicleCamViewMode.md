@@ -9,7 +9,7 @@ aliases: ["0xa4ff579ac0e3aaae"]
 int GET_FOLLOW_VEHICLE_CAM_VIEW_MODE();
 ```
 
-Gets the view mode used by the follow-vehicle and vehicle-aim cameras associated with classes of vehicles that are not handled specially, such as cars. Use [GET_CAM_VIEW_MODE_FOR_CONTEXT](#_0xEE778F8C7E1142E2) to query the view mode applied for other classes of vehicle.
+Gets the view mode used by the follow-vehicle and vehicle-aim cameras associated with classes of vehicles that are not handled specially, such as cars. Use [`GET_CAM_VIEW_MODE_FOR_CONTEXT`](#_0xEE778F8C7E1142E2) to query the view mode applied for other classes of vehicle.
 
 ## Return Type Values:
 | Value | Name |

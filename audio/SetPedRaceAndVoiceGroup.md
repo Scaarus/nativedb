@@ -11,3 +11,7 @@ void SET_PED_RACE_AND_VOICE_GROUP(Ped ped, int PVGHash);
 
 Sets a ped has a full range of
 
+
+## Parameters
+* **ped**: 
+* **PVGHash**: (Default value: `0`)

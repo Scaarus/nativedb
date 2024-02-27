@@ -17,3 +17,8 @@ As above, but allows check using a particular gamer index Use GAMER_INDEX_ANYONE
 | 0 | Everyone |
 | 1 | Friends |
 
+
+## Parameters
+* **nPrivilegeType**: (Default value: `Everyone`)
+* **nGamerIndex**: (Default value: `Gamer_Index_Local`)
+* **CheckHasPrivilege**: (Default value: `True`)

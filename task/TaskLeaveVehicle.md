@@ -31,3 +31,7 @@ Tells a ped to leave a vehicle
 | 8388608 | Dont Jack Anyone |
 | 16777216 | Wait For Entry Point To Be Clear |
 
+
+## Parameters
+* **vehicle**: 
+* **iFlags**: (Default value: `0`)

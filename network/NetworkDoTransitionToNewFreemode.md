@@ -11,3 +11,11 @@ bool NETWORK_DO_TRANSITION_TO_NEW_FREEMODE(Any* hGamers, int nNumGamers, int nMa
 
 This will transition back to freemode from a launched activity session. Like above but we immediately host a session.
 
+
+## Parameters
+* **hGamers**: 
+* **nNumGamers**: 
+* **nMaxPlayers**: 
+* **IsPrivate**: 
+* **AllowPreviousJoin**: (Default value: `True`)
+* **nHostFlags**: (Default value: `0`)

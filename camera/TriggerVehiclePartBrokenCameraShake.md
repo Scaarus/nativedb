@@ -15,4 +15,4 @@ trigger a camera shake bespokely tuned to match the the specified vehicle part p
 ## Parameters
 * **entity**: 
 * **vehiclePart**: the vehicle part ID (needs to match the eHierarchyId enum)
-* **amplitude**: the amplitude of the shake (1.0 is default, between 0.0 and 1.0 will scale down the shake strength, above 1.0 will increase it)
+* **amplitude**: the amplitude of the shake (1.0 is default, between 0.0 and 1.0 will scale down the shake strength, above 1.0 will increase it) (Default value: `1`)

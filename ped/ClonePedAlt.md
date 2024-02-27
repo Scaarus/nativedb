@@ -11,3 +11,10 @@ Ped CLONE_PED_ALT(Ped ped, bool RegisterAsNetworkObject, bool ScriptHostObject, 
 
 Creates a new ped by cloning an existing one.
 
+
+## Parameters
+* **ped**: 
+* **RegisterAsNetworkObject**: (Default value: `True`)
+* **ScriptHostObject**: (Default value: `True`)
+* **LinkBlends**: (Default value: `True`)
+* **CloneCompressedDamage**: (Default value: `True`)

@@ -13,4 +13,4 @@ Check that the camera is just about to exit the cut scene.
 
 
 ## Parameters
-* **HideNonRegisteredEntities**: Can be used when cutting the camera on the exit state, in order to avoid issues with non script registered entities remaining on screen for a frame.
+* **HideNonRegisteredEntities**: Can be used when cutting the camera on the exit state, in order to avoid issues with non script registered entities remaining on screen for a frame. (Default value: `False`)

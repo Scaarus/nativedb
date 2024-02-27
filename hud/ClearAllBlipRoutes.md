@@ -9,5 +9,5 @@ aliases: ["0xd12882d3ff82bf11"]
 void CLEAR_ALL_BLIP_ROUTES();
 ```
 
-Clears any blip route set via [SET_BLIP_ROUTE](#_0x4F7D8A9BFB0B43E9)
+Clears any blip route set via [`SET_BLIP_ROUTE`](#_0x4F7D8A9BFB0B43E9)
 

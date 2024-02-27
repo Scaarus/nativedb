@@ -9,5 +9,5 @@ aliases: ["0x9aeb285d1818c9ac"]
 void RESTART_SCRIPTED_CONVERSATION();
 ```
 
-Call this to restart a conversation that you have previously paused with [PAUSE_SCRIPTED_CONVERSATION](#_0x8530AD776CD72B12)
+Call this to restart a conversation that you have previously paused with [`PAUSE_SCRIPTED_CONVERSATION`](#_0x8530AD776CD72B12)
 

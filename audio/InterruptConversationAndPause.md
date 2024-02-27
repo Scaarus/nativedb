@@ -13,3 +13,8 @@ Handles conversation interrupts and pauses, using the code-side system for impro
 
 -
 
+
+## Parameters
+* **ped**: 
+* **Context**: 
+* **VoiceName**: (Default value: `Null`)

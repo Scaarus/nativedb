@@ -13,3 +13,10 @@ Tells the ped to go to a coord, without using the navemesh.
 
 if TimeBeforeTeleport is chosen to be -1 the ped will never warp.
 
+
+## Parameters
+* **ped**: 
+* **Position**: 
+* **Time**: (Default value: `Default_Time_Before_Warp`)
+* **FinalHeading**: (Default value: `Default_Navmesh_Final_Heading`)
+* **TargetRadius**: (Default value: `0`)

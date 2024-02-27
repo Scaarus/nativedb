@@ -43,3 +43,8 @@ only use LONG switch here unless you've already checked the distance using GET_I
 
 starts the ascent and hold part of the player switch (when going from SP to MP)
 
+
+## Parameters
+* **ped**: 
+* **flags**: 
+* **type**: (Default value: `Long`)

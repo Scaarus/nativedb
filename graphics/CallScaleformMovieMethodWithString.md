@@ -13,3 +13,12 @@ movie id, actionscript method name, parms (not all need to be filled)
 
 calls an actionscript method on the passed in movie
 
+
+## Parameters
+* **scaleform**: 
+* **cMethodName**: 
+* **cParam1**: 
+* **cParam2**: (Default value: `Null`)
+* **cParam3**: (Default value: `Null`)
+* **cParam4**: (Default value: `Null`)
+* **cParam5**: (Default value: `Null`)

@@ -26,3 +26,9 @@ Sets a vehicles tyre burst.
 
 InstantBurst set to true will play burst VFX and tyres will switch to rims
 
+
+## Parameters
+* **vehicle**: 
+* **WheelNumber**: 
+* **InstantBurst**: (Default value: `False`)
+* **Damage**: (Default value: `1000`)

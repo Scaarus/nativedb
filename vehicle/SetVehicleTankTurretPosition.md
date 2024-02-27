@@ -15,3 +15,8 @@ tank vehicle index, ratio between 0 and 1
 
 Sets a tank vehicle's turret position
 
+
+## Parameters
+* **vehicle**: 
+* **TurretPosition**: 
+* **SnapToPosition**: (Default value: `False`)

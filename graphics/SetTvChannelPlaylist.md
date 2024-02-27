@@ -21,3 +21,8 @@ Sets the passed channel to the passed playlist
 | 3 | Script (Only For Use In Lester1. If You Don'T Know Why You Want To Use This Channel, You Don'T Want To Use This Channel.) |
 | 4 | 3 (Requested For Use In Arcades In Mpheist3) |
 
+
+## Parameters
+* **iChannel**: 
+* **playlistName**: 
+* **startFromNow**: (Default value: `False`)

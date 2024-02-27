@@ -13,3 +13,14 @@ Attach two entities to a rope. Entities need to be physical.
 
 Pass 0 to componentPartA and componentPartB if no parts exist or want to attach the rope to the main object/part
 
+
+## Parameters
+* **entity**: 
+* **entity**: 
+* **worldPositionA**: 
+* **worldPositionB**: 
+* **ropeLength**: 
+* **componentPartA**: 
+* **componentPartB**: 
+* **boneNamePartA**: (Default value: `Null`)
+* **boneNamePartB**: (Default value: `Null`)

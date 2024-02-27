@@ -27,3 +27,7 @@ Create a camera of a given name.
 
 StartActivated sets if the camera starts acive
 
+
+## Parameters
+* **Camera**: (Default value: `Scripted`)
+* **StartActivated**: (Default value: `False`)

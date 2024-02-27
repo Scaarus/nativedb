@@ -11,3 +11,6 @@ void REGISTER_SCRIPT_WITH_AUDIO(bool InChargeOfAudio);
 
 Registers a script with audio; a neccesary step for loading sound banks and using script sound commands.
 
+
+## Parameters
+* **InChargeOfAudio**: (Default value: `False`)

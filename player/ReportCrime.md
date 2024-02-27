@@ -69,3 +69,7 @@ Report a crime from script, crimeValue
 
 can be overridden to specify an amount, if left at 0 the crime will get evaluated. Custom crimes that aren't supported in code need to make sure to provide a crimeValue, otherwise they'll get thrown out when evaluated
 
+
+## Parameters
+* **crimeToReport**: 
+* **crimeValue**: (Default value: `0`)

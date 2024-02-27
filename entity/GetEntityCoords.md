@@ -14,4 +14,4 @@ Gets the co-ordinates of the entity. If a ped, this is at the root bone, and if 
 
 ## Parameters
 * **entity**: 
-* **DoDeadCheck**: If false then the command will not assert if the entity has not been checked for being dead
+* **DoDeadCheck**: If false then the command will not assert if the entity has not been checked for being dead (Default value: `True`)

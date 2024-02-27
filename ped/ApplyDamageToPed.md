@@ -11,3 +11,9 @@ void APPLY_DAMAGE_TO_PED(Ped ped, int Damage, bool DamageArmourFlag, Entity enti
 
 Applies damage to the ped, can apply to the body armour as well.
 
+
+## Parameters
+* **ped**: 
+* **Damage**: 
+* **DamageArmourFlag**: 
+* **entity**: (Default value: `Null`)

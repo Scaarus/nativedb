@@ -14,5 +14,5 @@ This creates a pickup object that persists and is carried when collected and can
 
 ## Parameters
 * **NewPosition**: World Coordinates of the pickup
-* **SnapToGround**: When created the pickup will be placed on the ground correctly CustomModel If set this model will be used for the pickup instead of the default one bNetwork If true, the pickup will be synced across the network. If false, it won't appear on other machines
-* **modelHash**: 
+* **SnapToGround**: When created the pickup will be placed on the ground correctly CustomModel If set this model will be used for the pickup instead of the default one bNetwork If true, the pickup will be synced across the network. If false, it won't appear on other machines (Default value: `True`)
+* **modelHash**: (Default value: `0`)

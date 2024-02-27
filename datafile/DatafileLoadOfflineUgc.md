@@ -14,4 +14,4 @@ Loads a file from local storage.
 
 ## Parameters
 * **szContentID**: 
-* **datafileIndex**: datafile slot to load into
+* **datafileIndex**: datafile slot to load into (Default value: `0`)

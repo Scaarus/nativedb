@@ -9,5 +9,5 @@ aliases: ["0x20ce80b0c2bf4acc"]
 bool HAS_PLAYER_DAMAGED_AT_LEAST_ONE_PED(Player player);
 ```
 
-Returns TRUE if the player has damaged any peds since the last time that [CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_PED](#_0xF0B67A4DE6AB5F98) was called
+Returns TRUE if the player has damaged any peds since the last time that [`CLEAR_PLAYER_HAS_DAMAGED_AT_LEAST_ONE_PED`](#_0xF0B67A4DE6AB5F98) was called
 

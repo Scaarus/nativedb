@@ -11,3 +11,12 @@ float GET_VEHICLE_HEALTH_PERCENTAGE(Vehicle vehicle, float maxEngineHealth, floa
 
 Calculates the vehicle health as a percentage taking into account body health, engine health and petrol tank health and ensures the health is 0% when the vehicle is undriveable.
 
+
+## Parameters
+* **vehicle**: 
+* **maxEngineHealth**: (Default value: `1000`)
+* **maxPetrolTankHealth**: (Default value: `1000`)
+* **maxHealth**: (Default value: `1000`)
+* **maxMainRotorHealth**: (Default value: `1000`)
+* **maxRearRotorHealth**: (Default value: `1000`)
+* **maxTailBoomHealth**: (Default value: `1000`)

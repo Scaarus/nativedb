@@ -13,3 +13,9 @@ Trys to store the Z coordinate the highest ground below the given point. This te
 
 The command will return TRUE if it finds collision, FALSE if not.
 
+
+## Parameters
+* **Position**: 
+* **ReturnZ**: 
+* **waterAsGround**: (Default value: `False`)
+* **ignoreDistToWaterLevelCheck**: (Default value: `False`)

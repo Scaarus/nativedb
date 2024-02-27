@@ -13,3 +13,8 @@ Explodes a vehicle.
 
 Add Explosion will determines if an explosion happens
 
+
+## Parameters
+* **vehicle**: 
+* **AddExplosion**: (Default value: `True`)
+* **KeepDamageEntity**: (Default value: `False`)

@@ -386,3 +386,8 @@ Return an encoded string of the icon to show of a CONTROL_ACTION. empty string w
 | 361 | Eat Snack |
 | 362 | Use Armor |
 
+
+## Parameters
+* **control**: 
+* **action**: 
+* **allowXOSwap**: (Default value: `True`)

@@ -11,3 +11,8 @@ void TASK_ACHIEVE_HEADING(Ped ped, float heading, int Time);
 
 Gives a pd to try and acheive the given heading.
 
+
+## Parameters
+* **ped**: 
+* **heading**: 
+* **Time**: (Default value: `0`)

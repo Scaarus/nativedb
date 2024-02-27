@@ -13,3 +13,10 @@ Attaches a defensive area to a ped that other peds will stay inside.
 
 bOrientateWithPed is true, the area will rotate along with the ped. bApplyToSecondaryDefensiveArea makes this command be used with the secondaryfallback defensive area instead of the primary one
 
+
+## Parameters
+* **ped**: 
+* **1**: 
+* **fRectangleWidth**: 
+* **OrientateWithPed**: 
+* **ApplyToSecondaryDefensiveArea**: (Default value: `False`)

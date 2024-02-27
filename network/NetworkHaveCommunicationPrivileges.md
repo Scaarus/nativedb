@@ -20,3 +20,7 @@ Returns true if the player has communication / voicechat privileges.
 
 Privilege Check Type (One of PRIVILEGE_CHECK)
 
+
+## Parameters
+* **nPrivilegeType**: (Default value: `Everyone`)
+* **PlayerIndex**: 

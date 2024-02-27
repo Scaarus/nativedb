@@ -11,3 +11,8 @@ void SET_PED_STEALTH_MOVEMENT(Ped ped, bool Stealth, string MovementModeName);
 
 This command sets whether the ped will use stealthy movement
 
+
+## Parameters
+* **ped**: 
+* **Stealth**: 
+* **MovementModeName**: (Default value: `Null`)

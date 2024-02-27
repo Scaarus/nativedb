@@ -15,4 +15,4 @@ Metric set when an oddjob is completed.
 ## Parameters
 * **timeSpent**: Time spent in odd job.
 * **oddJobId**: odd job
-* **extraOddJobId**: default value is 0. Set only to distinguish different Locations of the mini-game.
+* **extraOddJobId**: default value is 0. Set only to distinguish different Locations of the mini-game. (Default value: `0`)

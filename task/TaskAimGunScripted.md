@@ -23,3 +23,8 @@ Gives player scripted gun task
 | 6 | Plane Wing |
 | 7 | Bike |
 
+
+## Parameters
+* **AimGunTaskType**: (Default value: `On Crate`)
+* **DisableGunBlocking**: (Default value: `True`)
+* **InstantBlendToAim**: (Default value: `False`)

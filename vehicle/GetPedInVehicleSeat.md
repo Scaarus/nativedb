@@ -29,3 +29,8 @@ Gets the ped in a vehicle seat.
 
 Cannont use VS_ANY_PASSENGER
 
+
+## Parameters
+* **vehicle**: 
+* **seat**: (Default value: `Driver`)
+* **ConsiderPedUsingSeat**: (Default value: `False`)

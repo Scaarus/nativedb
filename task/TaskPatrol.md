@@ -20,3 +20,10 @@ Adds the completed patrol route.
 
 This can only be called once a valid a ptrol route has been added.
 
+
+## Parameters
+* **ped**: 
+* **RouteName**: 
+* **PedAlertState**: 
+* **CanChatToPeds**: (Default value: `False`)
+* **CanUseHeadLookAtAlongRoute**: (Default value: `True`)

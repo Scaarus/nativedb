@@ -18,3 +18,11 @@ void PLAY_TENNIS_DIVE_ANIM(Ped ped, int Direction, float DiveHorizontal, float D
 
 Play tennis dive animation
 
+
+## Parameters
+* **ped**: 
+* **Direction**: 
+* **DiveHorizontal**: 
+* **DiveVertical**: 
+* **playRate**: (Default value: `1`)
+* **slowBlend**: (Default value: `False`)

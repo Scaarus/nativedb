@@ -11,3 +11,8 @@ bool STAT_SET_USER_ID(int Hash, string data, bool coderAssert);
 
 Set the value of an user id stat.
 
+
+## Parameters
+* **Hash**: 
+* **data**: 
+* **coderAssert**: (Default value: `True`)

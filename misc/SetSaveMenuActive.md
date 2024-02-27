@@ -11,3 +11,6 @@ void SET_SAVE_MENU_ACTIVE(bool AllowWhilePlayerIsInAVehicle);
 
 Displays the save menu.
 
+
+## Parameters
+* **AllowWhilePlayerIsInAVehicle**: (Default value: `False`)

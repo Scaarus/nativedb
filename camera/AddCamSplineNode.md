@@ -38,5 +38,5 @@ Appends a simple node on to a spline camera.
 * **vPos**: The position of the node in world-space.
 * **vRot**: The rotationorientation of the node in Euler angles (in degrees.)
 * **iDuration**: The time taken to transition from the previous node to this node, in milliseconds.
-* **Flags**: Defines custom options to be applied to this node. See definition of CAM_SPLINE_NODE_FLAGS for more info.
-* **RotOrder**: 
+* **Flags**: Defines custom options to be applied to this node. See definition of CAM_SPLINE_NODE_FLAGS for more info. (Default value: `Default_Cam_Spline_Node_Flags`)
+* **RotOrder**: (Default value: `Yxz`)

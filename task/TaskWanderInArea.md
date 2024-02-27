@@ -11,3 +11,10 @@ void TASK_WANDER_IN_AREA(Ped ped, Vector3 Center, float Radius, float MinWaitTim
 
 Tells a ped to wander within a certain radius from the given position.
 
+
+## Parameters
+* **ped**: 
+* **Center**: 
+* **Radius**: 
+* **MinWaitTime**: (Default value: `3`)
+* **MaxWaitTime**: (Default value: `6`)

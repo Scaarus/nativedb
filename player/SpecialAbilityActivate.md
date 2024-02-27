@@ -11,3 +11,7 @@ void SPECIAL_ABILITY_ACTIVATE(Player player, int abilitySlot);
 
 Activates the player's special ability
 
+
+## Parameters
+* **player**: 
+* **abilitySlot**: (Default value: `0`)

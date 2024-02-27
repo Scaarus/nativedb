@@ -35,6 +35,6 @@ int END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG(string sTXD, string 
 * **IsImportant**: T
 * **eIcon**: Icon type.
 * **sCharacterName**: The Character's Name.
-* **sSubtitle**: Optional Subtitle to display below title
-* **timeMultiplier**: Multiplicative modifier to the standard display time of a feed item (2.0f will double the amount of time this feed item is shown on screen)
-* **sCrewTagPacked**: Packed crew tag string to show for game invites from crew members
+* **sSubtitle**: Optional Subtitle to display below title (Default value: `Null`)
+* **timeMultiplier**: Multiplicative modifier to the standard display time of a feed item (2.0f will double the amount of time this feed item is shown on screen) (Default value: `1`)
+* **sCrewTagPacked**: Packed crew tag string to show for game invites from crew members (Default value: `Null`)

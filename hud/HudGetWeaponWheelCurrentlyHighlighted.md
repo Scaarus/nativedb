@@ -11,7 +11,7 @@ int HUD_GET_WEAPON_WHEEL_CURRENTLY_HIGHLIGHTED();
 
 Gets the last weapon displayed on the wheel
 
-Will continue to work even if the wheel isn't displayed, so check IF [IS_HUD_COMPONENT_ACTIVE](#_0xBC4C9EA5391ECC0D)(NEW_HUD_WEAPON_WHEEL) first
+Will continue to work even if the wheel isn't displayed, so check IF [`IS_HUD_COMPONENT_ACTIVE`](#_0xBC4C9EA5391ECC0D)(NEW_HUD_WEAPON_WHEEL) first
 
 ## Return Type Values:
 | Value | Name |

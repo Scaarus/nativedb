@@ -15,3 +15,8 @@ Duration is measured in milliseconds. InstantBlendToAim will skip the idle trans
 
 The first ped must have a gun and it must be his current weapon to use this command.
 
+
+## Parameters
+* **entity**: 
+* **Duration**: 
+* **InstantBlendToAim**: (Default value: `False`)

@@ -11,3 +11,9 @@ bool IS_PLAYER_ENTIRELY_INSIDE_GARAGE(int GarageHash, Player player, float margi
 
 Returns TRUE if the player is entirely inside the garage. If the player is in a vehicle it uses the vehciles bound volume.
 
+
+## Parameters
+* **GarageHash**: 
+* **player**: 
+* **margin**: (Default value: `0`)
+* **boxIndex**: 

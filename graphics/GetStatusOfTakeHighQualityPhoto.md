@@ -9,7 +9,7 @@ aliases: ["0x0d6ca79eeebd8ca3"]
 int GET_STATUS_OF_TAKE_HIGH_QUALITY_PHOTO();
 ```
 
-Call this after calling [BEGIN_TAKE_HIGH_QUALITY_PHOTO](#_0xA67C35C56EB1BD9D) to check when the operation has finished, and whether it succeeded.
+Call this after calling [`BEGIN_TAKE_HIGH_QUALITY_PHOTO`](#_0xA67C35C56EB1BD9D) to check when the operation has finished, and whether it succeeded.
 
 ## Return Type Values:
 | Value | Name |

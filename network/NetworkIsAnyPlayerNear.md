@@ -17,4 +17,4 @@ Returns TRUE if participants were found near coordinates.
 * **retNumber**: Returns the number of players that are near.
 * **pos**: center point for the search.
 * **radius**: radius for the search.
-* **in3d**: make search using Z coordinate as well.
+* **in3d**: make search using Z coordinate as well. (Default value: `True`)

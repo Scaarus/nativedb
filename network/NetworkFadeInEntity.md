@@ -15,4 +15,4 @@ Fades in the entity with flash
 ## Parameters
 * **entity**: 
 * **Network**: if true, the fade will be networked and appear on other machines
-* **flash**: 
+* **flash**: (Default value: `True`)

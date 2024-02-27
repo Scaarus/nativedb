@@ -11,5 +11,5 @@ void TASK_PERFORM_SEQUENCE(Ped ped, Sequence sequence);
 
 Tells a ped to perform a given sequence.
 
-Requires [OPEN_SEQUENCE_TASK](#_0xE8854A4326B9E12B) ... [CLOSE_SEQUENCE_TASK](#_0x39E72BC99E6360CB)
+Requires [`OPEN_SEQUENCE_TASK`](#_0xE8854A4326B9E12B) ... [`CLOSE_SEQUENCE_TASK`](#_0x39E72BC99E6360CB)
 

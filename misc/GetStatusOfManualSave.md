@@ -9,7 +9,7 @@ aliases: ["0x397baa01068baa96"]
 int GET_STATUS_OF_MANUAL_SAVE();
 ```
 
-Returns the status of the manual save that is launched by [SET_SAVE_MENU_ACTIVE](#_0xC9BF75D28165FF77)()
+Returns the status of the manual save that is launched by [`SET_SAVE_MENU_ACTIVE`](#_0xC9BF75D28165FF77)()
 
 ## Return Type Values:
 | Value | Name |

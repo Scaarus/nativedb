@@ -24,4 +24,4 @@ Puts the ped directly into melee
 * **BlendInDuration**: 
 * **nTimeInTask**: 
 * **StrafePhaseSync**: 
-* **AiCombatFlags**: only applies when the ped being given the task is an AI ped
+* **AiCombatFlags**: only applies when the ped being given the task is an AI ped (Default value: `None`)

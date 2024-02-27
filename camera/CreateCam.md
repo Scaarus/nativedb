@@ -13,3 +13,7 @@ Create a camera of a given name.
 
 Valid camera names are as
 
+
+## Parameters
+* **CameraName**: 
+* **StartActivated**: (Default value: `False`)

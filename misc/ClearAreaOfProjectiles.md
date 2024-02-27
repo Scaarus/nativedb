@@ -15,4 +15,4 @@ Clears all projectiles within specified volume.
 ## Parameters
 * **vPos**: 
 * **fRadius**: 
-* **Broadcast**: if set an event is sent over the network in MP to do the same clear area on all other machines. Please avoid using this if you can.
+* **Broadcast**: if set an event is sent over the network in MP to do the same clear area on all other machines. Please avoid using this if you can. (Default value: `False`)

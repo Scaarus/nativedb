@@ -47,3 +47,12 @@ Trys to get closest random ped to a coord.
 | 29 | Army |
 | 30 | Last Pedtype |
 
+
+## Parameters
+* **Range**: 
+* **ScanRandomPeds**: 
+* **ScanMissionPeds**: 
+* **ped**: 
+* **CheckPlayerPeds**: (Default value: `False`)
+* **ReturnPedsWithScriptedTasks**: (Default value: `False`)
+* **ExclusionPedType**: (Default value: `Invalid`)

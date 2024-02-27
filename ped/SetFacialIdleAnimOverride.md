@@ -11,3 +11,8 @@ void SET_FACIAL_IDLE_ANIM_OVERRIDE(Ped ped, string pOverrideIdleClipName, string
 
 Overrides any playing facial idle, to play this until cleared with . If dictionary name is not specified then it will look in the ped's current facial clipset for it.
 
+
+## Parameters
+* **ped**: 
+* **pOverrideIdleClipName**: 
+* **pOverrideIdleClipDictName**: (Default value: `Null`)

@@ -13,3 +13,14 @@ Checks if an area is ocupied by an entity/entities..
 
 ExludedEntityIndex (Optional) allows for an entity that is ignored by the area check. bCheckAlive will only look for living peds if true
 
+
+## Parameters
+* **MinPosition**: 
+* **MaxPosition**: 
+* **BuildingFlag**: 
+* **VehicleFlag**: 
+* **PedFlag**: 
+* **ObjectFlag**: 
+* **DummyFlag**: 
+* **entity**: (Default value: `Null`)
+* **CheckAlive**: (Default value: `False`)

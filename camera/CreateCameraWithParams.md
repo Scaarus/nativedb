@@ -38,3 +38,10 @@ Create a camera of a given name.
 
 StartActivated sets if the camera starts acive
 
+
+## Parameters
+* **Camera**: 
+* **vecPos**: 
+* **vecRot**: 
+* **StartActivated**: (Default value: `False`)
+* **RotOrder**: (Default value: `Yxz`)

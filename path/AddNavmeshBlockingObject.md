@@ -25,3 +25,9 @@ vPosition : the center of the box vSizeXYZ : the width, depth & height of the bo
 
 This function adds a blocking obstacle in the navmesh, which will prevent peds from pathfinding through it.
 
+
+## Parameters
+* **vSizeXYZ**: 
+* **fHeading**: 
+* **Permanent**: (Default value: `False`)
+* **iFlags**: (Default value: `Allpaths`)

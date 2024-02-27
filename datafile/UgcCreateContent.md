@@ -11,3 +11,13 @@ bool UGC_CREATE_CONTENT(Any* szFilePaths, int nFiles, string szDisplayName, Any*
 
 Create a UGC file - build the UGC header using datafile commands before calling this. szFilePaths - Array of file paths nFiles - How many files are in the array szDisplayName - Front facing content name ("My Awesome Mission!") szDesc - Description of this mission ("Are you a bad enough dude to rescue the President?") szTags - Comma separated tags to describe searchable tags nType - Of type UGC_TYPE bPublish - Publish this mission on creation (push to Rockstar candidate)
 
+
+## Parameters
+* **szFilePaths**: 
+* **nFiles**: 
+* **szDisplayName**: 
+* **szDesc**: 
+* **szTags**: 
+* **szContentType**: 
+* **Publish**: 
+* **datafileIndex**: (Default value: `0`)

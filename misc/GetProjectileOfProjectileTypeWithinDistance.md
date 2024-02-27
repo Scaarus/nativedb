@@ -11,3 +11,9 @@ bool GET_PROJECTILE_OF_PROJECTILE_TYPE_WITHIN_DISTANCE(Ped ped, Hash weaponHash,
 
 Checks that a projectile object of the specified type is within distance, from ped and returns the youngest, used to also get the projectile entity
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **distance**: 
+* **needsToBeStationary**: (Default value: `False`)

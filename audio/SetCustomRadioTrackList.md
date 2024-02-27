@@ -13,3 +13,8 @@ Queues up a custom track list on the specified radio station. The content in the
 
 If ForceNow = TRUE then the current track will be interrupted by the tracklist
 
+
+## Parameters
+* **RadioStationName**: 
+* **TrackListName**: 
+* **ForceNow**: (Default value: `False`)

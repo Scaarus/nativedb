@@ -15,3 +15,12 @@ VecStartPos is the position that the ped should be in before playing the initial
 
 This command handles rappelling down the side of a building given a specific rope and a desired height The specified ped will need to be in position prior to calling this task, otherwise heshe will be warped
 
+
+## Parameters
+* **ped**: 
+* **StartPos**: 
+* **RopeAnchorPos**: 
+* **fDestinationHeight**: 
+* **rope**: 
+* **OverridenClipSet**: (Default value: `Null`)
+* **SkipClimbOverWall**: (Default value: `False`)

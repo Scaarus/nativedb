@@ -13,3 +13,7 @@ returns whether the vehicle has a converitble roof and an animation to lower/rai
 
 Set CheckRoofExtras to true to also check for roofs without animation (ie. using VEH_EXTRAs)
 
+
+## Parameters
+* **vehicle**: 
+* **CheckRoofExtras**: (Default value: `False`)

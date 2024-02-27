@@ -13,3 +13,8 @@ Applies a damage modifier to the player when inflicting weapon damage
 
 This function will change the given players melee damage multiplier
 
+
+## Parameters
+* **player**: 
+* **Modifier**: 
+* **AffectsUnarmed**: (Default value: `True`)

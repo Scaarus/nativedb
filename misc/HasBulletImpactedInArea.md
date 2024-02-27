@@ -13,3 +13,9 @@ Finds a bullet impact in the defined sphere
 
 bIsPlayer checks if the player fired the bullet. bEntryOnly=TRUE will only find entry impacts. =FALSE will find both entry and exit impacts
 
+
+## Parameters
+* **Position**: 
+* **Radius**: 
+* **IsPlayer**: (Default value: `True`)
+* **EntryOnly**: (Default value: `True`)

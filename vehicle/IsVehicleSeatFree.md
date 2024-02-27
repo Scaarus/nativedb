@@ -26,3 +26,8 @@ Checks if the the vehicle is free.
 | 7 | Extra Left 3 |
 | 8 | Extra Right 3 |
 
+
+## Parameters
+* **vehicle**: 
+* **seat**: (Default value: `Driver`)
+* **ConsiderPedUsingSeat**: (Default value: `False`)

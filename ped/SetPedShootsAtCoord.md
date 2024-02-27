@@ -11,3 +11,8 @@ void SET_PED_SHOOTS_AT_COORD(Ped ped, Vector3 vecTarget, bool PerfectAccuracy);
 
 Shoots a ped weapon at a coord
 
+
+## Parameters
+* **ped**: 
+* **vecTarget**: 
+* **PerfectAccuracy**: (Default value: `False`)

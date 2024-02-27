@@ -17,4 +17,4 @@ Clear objects within the garage.
 * **vehicles**: 
 * **peds**: 
 * **objects**: 
-* **Broadcast**: if set an event is sent over the network in MP to clear the garage on all other machines. Please avoid using this if you can.
+* **Broadcast**: if set an event is sent over the network in MP to clear the garage on all other machines. Please avoid using this if you can. (Default value: `False`)

@@ -9,5 +9,5 @@ aliases: ["0x532cff637ef80148"]
 void HIDE_NUMBER_ON_BLIP(Blip blip);
 ```
 
-removes the number shown with [SHOW_NUMBER_ON_BLIP](#_0xA3C0B359DCB848B6)
+removes the number shown with [`SHOW_NUMBER_ON_BLIP`](#_0xA3C0B359DCB848B6)
 

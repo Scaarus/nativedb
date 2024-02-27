@@ -14,4 +14,4 @@ Destroy a single script-controlled camera.
 
 ## Parameters
 * **camera**: 
-* **ShouldApplyAcrossAllThreads**: If true, the specified script-controlled camera is destroyed, no matter which script thread owns it. Note that this can result in conflicts between concurrent script threads, so this must be used with caution.
+* **ShouldApplyAcrossAllThreads**: If true, the specified script-controlled camera is destroyed, no matter which script thread owns it. Note that this can result in conflicts between concurrent script threads, so this must be used with caution. (Default value: `False`)

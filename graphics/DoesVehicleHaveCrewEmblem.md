@@ -11,3 +11,7 @@ bool DOES_VEHICLE_HAVE_CREW_EMBLEM(Vehicle vehicle, int badgeIndex);
 
 Checks whether a vehicle has a crew emblem applied
 
+
+## Parameters
+* **vehicle**: 
+* **badgeIndex**: (Default value: `0`)

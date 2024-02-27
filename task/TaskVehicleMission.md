@@ -88,4 +88,4 @@ INT
 * **mode**: 
 * **TargetReachedDist**: 
 * **StraightLineDist**: (the distance at which the ai switches to heading for the target directly instead of following the nodes) (just like in sa) Use TASK_VEHICLE_MISSION_PED_TARGET to target another ped instead of a vehicle. The task status is the same as that for TASK_VEHICLE_MISSION, i.e. use GET_SCRIPT_TASK_STATUS(a_ped, SCRIPT_TASK_CAR_MISSION, my_status) to check for both commands. To pick default values (recommended) both parameters can be passed in as -1. DriveAgainstTraffic being true allows the car to drive on the opposite side of the road into incoming traffic
-* **DriveAgainstTraffic**: 
+* **DriveAgainstTraffic**: (Default value: `True`)

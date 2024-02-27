@@ -18,3 +18,11 @@ Checks if the entity is in the area around a vehicle. If the entity is a ped in 
 | 1 | On Foot (The Ped Is On Foot) |
 | 2 | In Vehicle (The Ped Is In A Vehicle Not On Foot) |
 
+
+## Parameters
+* **entity**: 
+* **entity**: 
+* **LocDimensions**: 
+* **HighlightArea**: (Default value: `False`)
+* **Do3dCheck**: (Default value: `True`)
+* **TM_MODE**: (Default value: `Tm_Any`)

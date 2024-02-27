@@ -16,4 +16,4 @@ Generate the pick up rope for cargobob
 * **vehicle**: 
 * **detachedRopeLength**: Desired rope length when nothing is attached to the rope
 * **attachedRopeLength**: Desired rope length when rope is attached to something
-* **SetRopeLengthInstantly**: 
+* **SetRopeLengthInstantly**: (Default value: `False`)

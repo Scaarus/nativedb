@@ -11,3 +11,6 @@ void REMOVE_PED_DEFENSIVE_AREA(bool RemoveSecondaryDefensiveArea);
 
 Removes any defensive area given to the ped.
 
+
+## Parameters
+* **RemoveSecondaryDefensiveArea**: (Default value: `False`)

@@ -25,3 +25,8 @@ Tells a ped to combat another ped.
 | 0 | None |
 | 16 | Can Fight Armed Peds When Not Armed |
 
+
+## Parameters
+* **ped**: 
+* **CombatFlags**: (Default value: `None`)
+* **TaskThreatResponseFlags**: (Default value: `Can Fight Armed Peds When Not Armed`)

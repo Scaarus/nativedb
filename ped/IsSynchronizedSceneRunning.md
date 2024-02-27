@@ -11,5 +11,5 @@ bool IS_SYNCHRONIZED_SCENE_RUNNING();
 
 Checks if a synchronized scene ID is still valid.
 
-Checks to see if the synchronized scene returned by [CREATE_SYNCHRONIZED_SCENE](#_0x8C18E0F9080ADD73) is still running.
+Checks to see if the synchronized scene returned by [`CREATE_SYNCHRONIZED_SCENE`](#_0x8C18E0F9080ADD73) is still running.
 

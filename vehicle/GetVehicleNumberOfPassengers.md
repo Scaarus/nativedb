@@ -11,3 +11,8 @@ int GET_VEHICLE_NUMBER_OF_PASSENGERS(Vehicle vehicle, bool IncludeDriversSeat, b
 
 get the number of passengers in a vehicle.
 
+
+## Parameters
+* **vehicle**: 
+* **IncludeDriversSeat**: (Default value: `False`)
+* **IncludeDeadPeds**: (Default value: `True`)

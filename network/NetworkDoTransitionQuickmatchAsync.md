@@ -21,3 +21,11 @@ Find a transition session. If nActivityType is -1, we will find any open transit
 | 3 | Event |
 | 4 | Tournament |
 
+
+## Parameters
+* **nGameMode**: 
+* **nMaxPlayers**: 
+* **nActivityType**: 
+* **nActivityID**: 
+* **nMmFlags**: (Default value: `0`)
+* **nActivityIsland**: (Default value: `Invalid`)

@@ -45,3 +45,9 @@ switches on/off parts of a players head tag
 | 28 | Transmitter |
 | 29 | Bomb |
 
+
+## Parameters
+* **iPlayerNum**: 
+* **iTag**: 
+* **Visible**: 
+* **EvenInCars**: (Default value: `False`)

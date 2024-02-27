@@ -253,8 +253,8 @@ Displays the unlock component (TITLE UPDATE)
 
 ## Parameters
 * **sTitleString**: unlock title (i.e. "New Weapon")
-* **iconType**: 
-* **sFullBodyString**: the full unlock body string to use for the pause menu
-* **IsImportant**: T
-* **eTitleColour**: 
-* **TitleIsLiteral**: 
+* **iconType**: (Default value: `0`)
+* **sFullBodyString**: the full unlock body string to use for the pause menu (Default value: `Null`)
+* **IsImportant**: T (Default value: `False`)
+* **eTitleColour**: (Default value: `0`)
+* **TitleIsLiteral**: (Default value: `True`)

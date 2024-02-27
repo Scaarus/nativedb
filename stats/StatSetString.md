@@ -11,3 +11,8 @@ bool STAT_SET_STRING(int Hash, string data, bool coderAssert);
 
 Set the value of an Date stat.
 
+
+## Parameters
+* **Hash**: 
+* **data**: 
+* **coderAssert**: (Default value: `True`)

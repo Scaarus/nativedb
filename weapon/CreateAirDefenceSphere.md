@@ -13,3 +13,9 @@ Any bullets, projectiles or air vehicles that enter this sphere will be destroye
 
 Creates an air defence sphere at the defined position.
 
+
+## Parameters
+* **vPosition**: 
+* **fRadius**: 
+* **vWeaponPosition**: 
+* **weaponHash**: (Default value: `Weapontype_Dlc_Air_Defence_Gun`)

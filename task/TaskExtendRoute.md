@@ -11,5 +11,5 @@ void TASK_EXTEND_ROUTE(Vector3 Position);
 
 Adds a point to a route.
 
-Use [TASK_FLUSH_ROUTE](#_0x841142A1376E9006) to make the route empty.
+Use [`TASK_FLUSH_ROUTE`](#_0x841142A1376E9006) to make the route empty.
 

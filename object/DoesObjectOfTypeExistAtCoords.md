@@ -11,3 +11,8 @@ bool DOES_OBJECT_OF_TYPE_EXIST_AT_COORDS(float Radius, Hash modelHash, bool chec
 
 returns TRUE if the closest object within Radius is a proper object - not a dummy or building
 
+
+## Parameters
+* **Radius**: 
+* **modelHash**: 
+* **checkPhysicsExists**: (Default value: `False`)

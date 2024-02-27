@@ -14,8 +14,8 @@ Creates a pickup similar to those dropped by dead peds. These types of pickups a
 
 ## Parameters
 * **NewPosition**: World Coordinates of the pickup
-* **PlacementFlags**: 
+* **PlacementFlags**: (Default value: `0`)
 * **Amount**: 
-* **modelHash**: 
-* **CreateAsScriptObject**: 
-* **ScriptHostObject**: Only used if bCreateAsScriptObject is set to true. If true, this object has been created by the host portion of a network script and is vital to that
+* **modelHash**: (Default value: `0`)
+* **CreateAsScriptObject**: (Default value: `False`)
+* **ScriptHostObject**: Only used if bCreateAsScriptObject is set to true. If true, this object has been created by the host portion of a network script and is vital to that (Default value: `True`)

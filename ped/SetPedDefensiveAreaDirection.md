@@ -13,3 +13,7 @@ Removes any defensive area given to the ped.
 
 vDefendFromPos appears to be a position rather than a direction. It's hard to tell from the code but it looks like it's the world position to aim at. bApplyToSecondaryDefensiveArea makes this command be used with the secondaryfallback defensive area instead of the primary one
 
+
+## Parameters
+* **vDefendFromPos**: 
+* **ApplyToSecondaryDefensiveArea**: (Default value: `False`)

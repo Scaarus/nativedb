@@ -13,3 +13,10 @@ if bLazy is true, the persistent swap is removed but not actually acted on
 
 Removes a previously created model swap, if one exists and matches exactly
 
+
+## Parameters
+* **pos**: 
+* **radius**: 
+* **modelHash**: 
+* **modelHash**: 
+* **Lazy**: (Default value: `False`)

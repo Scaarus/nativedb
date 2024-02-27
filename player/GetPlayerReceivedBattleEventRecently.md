@@ -11,3 +11,8 @@ bool GET_PLAYER_RECEIVED_BATTLE_EVENT_RECENTLY(Player player, int nTime, bool In
 
 Get last battle event time.
 
+
+## Parameters
+* **player**: 
+* **nTime**: 
+* **IncludeLocalEvents**: (Default value: `False`)

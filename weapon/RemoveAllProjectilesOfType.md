@@ -14,4 +14,4 @@ Explode all the projectiles owned by the specified ped of the specified type
 
 ## Parameters
 * **weaponHash**: 
-* **Explode**: Pass in TRUE if you want all projectiles of type WeaponType to detonate
+* **Explode**: Pass in TRUE if you want all projectiles of type WeaponType to detonate (Default value: `False`)

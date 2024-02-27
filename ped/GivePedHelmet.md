@@ -35,3 +35,9 @@ Give the ped a helmet
 | 131072 | Use Physics Hat 2 |
 | 262144 | Pilot Helmet |
 
+
+## Parameters
+* **ped**: 
+* **DontTakeOffHelmet**: (Default value: `True`)
+* **HelmetPropFlag**: (Default value: `Pv_Flag_Default_Helmet`)
+* **OverwriteHelmetTexId**: 

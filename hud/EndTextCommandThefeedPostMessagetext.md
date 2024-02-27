@@ -35,4 +35,4 @@ Displays the text message contact image and localised text message string in the
 * **IsImportant**: T
 * **eIcon**: Icon type.
 * **sCharacterName**: The Character's Name.
-* **sSubtitle**: 
+* **sSubtitle**: (Default value: `Null`)

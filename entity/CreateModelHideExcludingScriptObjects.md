@@ -9,5 +9,5 @@ aliases: ["0x3a52ae588830bf7f"]
 void CREATE_MODEL_HIDE_EXCLUDING_SCRIPT_OBJECTS(Vector3 pos, float radius, Hash modelHash, bool SurviveMapReload);
 ```
 
-This commands does the same as [CREATE_MODEL_HIDE](#_0x8A97BCA30A0CE478) except that it won't hide objects owned by script
+This commands does the same as [`CREATE_MODEL_HIDE`](#_0x8A97BCA30A0CE478) except that it won't hide objects owned by script
 

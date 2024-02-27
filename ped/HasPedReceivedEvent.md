@@ -9,7 +9,7 @@ aliases: ["0x8507bcb710fa6dc0"]
 bool HAS_PED_RECEIVED_EVENT(Ped ped, int EventType);
 ```
 
-Returns true if the ped has received the event (this is similar to [IS_PED_RESPONDING_TO_EVENT](#_0x625B774D75C87068), but will work with blocking of non-temporary events). EVENT_INVALID can be used to test if the ped has received any event.
+Returns true if the ped has received the event (this is similar to [`IS_PED_RESPONDING_TO_EVENT`](#_0x625B774D75C87068), but will work with blocking of non-temporary events). EVENT_INVALID can be used to test if the ped has received any event.
 
 ## EventType Values:
 | Value | Name |

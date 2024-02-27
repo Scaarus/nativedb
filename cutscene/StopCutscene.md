@@ -11,3 +11,6 @@ void STOP_CUTSCENE(bool DeleteRegisteredEntityIfNotGrabbedByScript);
 
 Stops the cutscene that is currently playing and skips to the end of the scene.
 
+
+## Parameters
+* **DeleteRegisteredEntityIfNotGrabbedByScript**: (Default value: `False`)

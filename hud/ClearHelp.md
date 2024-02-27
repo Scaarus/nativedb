@@ -11,3 +11,6 @@ void CLEAR_HELP(bool ClearNow);
 
 call to stop displaying the current help message
 
+
+## Parameters
+* **ClearNow**: (Default value: `True`)

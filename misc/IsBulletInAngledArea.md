@@ -13,3 +13,9 @@ Checks that a bullet is in the defined angled area.
 
 bIsPlayer checks if the player fired the bullet.
 
+
+## Parameters
+* **Pos1**: 
+* **Pos2**: 
+* **AreaWidth**: 
+* **IsPlayer**: (Default value: `True`)

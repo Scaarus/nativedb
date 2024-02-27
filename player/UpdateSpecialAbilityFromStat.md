@@ -11,3 +11,7 @@ void UPDATE_SPECIAL_ABILITY_FROM_STAT(Player player, int abilitySlot);
 
 Use after setting the special ability value through the stat variable
 
+
+## Parameters
+* **player**: 
+* **abilitySlot**: (Default value: `0`)

@@ -13,3 +13,8 @@ Returns TRUE if any mission-created vehicles, peds or objects are in the defined
 
 ExludedEntityIndex (Optional) allows for an entity that is ignored by the area check
 
+
+## Parameters
+* **CentrePosition**: 
+* **LocateDimensions**: 
+* **entity**: (Default value: `Null`)

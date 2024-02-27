@@ -11,3 +11,8 @@ void NETWORK_REGISTER_PLAYER_BROADCAST_VARIABLES(Any* Address, int Size, string 
 
 Registers the variables for each player running the script
 
+
+## Parameters
+* **Address**: 
+* **Size**: 
+* **DebugName**: (Default value: `Null`)

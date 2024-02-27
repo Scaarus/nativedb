@@ -13,4 +13,4 @@ Means of turning on suppression pickup flags individually
 
 
 ## Parameters
-* **ClearPreviousFlags**: Whether or not you want all previously set flags to be cleared before setting the new flag.
+* **ClearPreviousFlags**: Whether or not you want all previously set flags to be cleared before setting the new flag. (Default value: `False`)

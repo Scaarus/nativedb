@@ -16,4 +16,4 @@ Tells the PlayStats that a random mission is over.
 * **pMissionName**: Time spent in the random event
 * **outcome**: Value MUST be > 0.
 * **timespent**: 
-* **attempts**: 
+* **attempts**: (Default value: `0`)

@@ -14,7 +14,7 @@ Creates a pickup spawner which can be referenced by the script and will spawn a 
 
 ## Parameters
 * **NewPosition**: World Coordinates of the pickup
-* **PlacementFlags**: 
+* **PlacementFlags**: (Default value: `0`)
 * **Amount**: 
-* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that
-* **modelHash**: 
+* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that (Default value: `True`)
+* **modelHash**: (Default value: `0`)

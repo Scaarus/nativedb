@@ -77,3 +77,15 @@ Adds a ped and associated animation data to a previous created network synchroni
 | 4096 | Disable Torso Vehicle Ik |
 | 8192 | Linked Facial |
 
+
+## Parameters
+* **ped**: 
+* **NetworkSceneID**: 
+* **animDictionary**: 
+* **anim**: 
+* **blendInDelta**: 
+* **blendOutDelta**: 
+* **flags**: (Default value: `None`)
+* **ragdollFlags**: (Default value: `None`)
+* **moverBlendInDelta**: (Default value: `1000`)
+* **ikFlags**: (Default value: `None`)

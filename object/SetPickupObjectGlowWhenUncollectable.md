@@ -11,3 +11,6 @@ void SET_PICKUP_OBJECT_GLOW_WHEN_UNCOLLECTABLE(bool Set);
 
 Sets a pickup to glow when it is not collectable
 
+
+## Parameters
+* **Set**: (Default value: `True`)

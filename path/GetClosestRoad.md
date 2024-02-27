@@ -21,4 +21,4 @@ WIill return if can the closest road segment of a certein length with a certain 
 * **LanesGoingSouth**: 
 * **LanesGoingNorth**: Number of lanes that go either way.
 * **CentralReservationWidth**: Width of the bit between the 2 directions (in meters) The coordinates being passed back for both nodes are in the middle of the central reservation of there is one. (If not they are on the transition from the lanes going North and the ones going South)
-* **IgnoreSwitchedOffNodes**: 
+* **IgnoreSwitchedOffNodes**: (Default value: `True`)

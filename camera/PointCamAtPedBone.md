@@ -78,4 +78,4 @@ Points the camera at a ped's bone.
 * **ped**: 
 * **BoneTag**: The tag of the ped bone to point at. See the definition of PED_BONETAG for further information.
 * **vecOffset**: An additional offset to be applied from the look-at position.
-* **OffsetIsRelative**: If true, vecOffset is applied relative to the orientation of the ped being pointed at (not the bone), rather than in world-space.
+* **OffsetIsRelative**: If true, vecOffset is applied relative to the orientation of the ped being pointed at (not the bone), rather than in world-space. (Default value: `True`)

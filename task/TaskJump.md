@@ -13,3 +13,9 @@ Force a char to jump.
 
 If UsePlayerLaunchForce is TRUE then the ped will use the same launch force as the player. If UsePlayerLaunchForce is FALSE and the ped isn’t the player then the ped will jump using a smaller launch force.
 
+
+## Parameters
+* **ped**: 
+* **UsePlayerLaunch**: 
+* **DoSuperJump**: (Default value: `False`)
+* **UseFullSuperJumpForce**: (Default value: `False`)

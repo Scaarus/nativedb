@@ -13,3 +13,9 @@ Attaches a defensive area SPHERE to a ped that other peds will stay inside.
 
 bApplyToSecondaryDefensiveArea makes this command be used with the secondary/fallback defensive area instead of the primary one
 
+
+## Parameters
+* **ped**: 
+* **vCentre**: 
+* **fRadius**: 
+* **ApplyToSecondaryDefensiveArea**: (Default value: `False`)

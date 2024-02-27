@@ -50,3 +50,11 @@ Starts the playback for a recorded vehicle
 
 Flags can be from the enum VEHICLE_RECORDING_PLAYBACK_FLAGS, then can be combined together using "|" delayInMillisecondsToRevertIfSwitchedToAI is used to specify how long the vehicle will wait before reverting back to a normal recording. IF 0 is specified (the default) the car will never revert back
 
+
+## Parameters
+* **vehicle**: 
+* **FileNumber**: 
+* **pRecordingName**: 
+* **iFlags**: (Default value: `Turn_On_Engine_Instantly`)
+* **delayInMillisecondsToRevertIfSwitchedToAI**: (Default value: `0`)
+* **Mode**: (Default value: `Drivingmode_Stopforcars`)

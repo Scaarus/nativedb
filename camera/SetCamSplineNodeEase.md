@@ -24,3 +24,9 @@ Set per-node easing with a scaler to control how quickly the ease ramps up/down.
 
 Nodes must be setup first, then the linear flag can be modified.
 
+
+## Parameters
+* **camera**: 
+* **NodeIndex**: 
+* **Flags**: 
+* **Scale**: (Default value: `1`)

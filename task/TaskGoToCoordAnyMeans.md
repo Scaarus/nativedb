@@ -55,6 +55,6 @@ If you want the ped to use a specific vehicle to get to the point then use VEHIC
 * **Position**: 
 * **MoveBlendRatio**: 
 * **vehicle**: 
-* **UseLongRangeVehiclePathing**: Setting to TRUE tells the vehicle to use TASK_VEHICLE_GOTO_COORDS_LONGRANGE--see its notes for more info
-* **DrivingFlags**: 
+* **UseLongRangeVehiclePathing**: Setting to TRUE tells the vehicle to use TASK_VEHICLE_GOTO_COORDS_LONGRANGE--see its notes for more info (Default value: `False`)
+* **DrivingFlags**: (Default value: `Drivingmode_Stopforcars`)
 * **MaxRangeToShootTargets**: 

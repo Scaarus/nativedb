@@ -25,7 +25,7 @@ Creates a pickup spawner which can be referenced by the script and will spawn a 
 ## Parameters
 * **Position**: 
 * **Orientation**: specifies the pickups orientation in the same way it is done in SET_ENTITY_ROTATION.
-* **PlacementFlags**: 
+* **PlacementFlags**: (Default value: `0`)
 * **Amount**: 
-* **RotOrder**: 
-* **modelHash**: 
+* **RotOrder**: (Default value: `Yxz`)
+* **modelHash**: (Default value: `0`)

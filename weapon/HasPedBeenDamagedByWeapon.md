@@ -11,3 +11,8 @@ bool HAS_PED_BEEN_DAMAGED_BY_WEAPON(Ped ped, Hash weaponHash, int weaponType);
 
 Return if a character has been damaged by a certain weapon
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **weaponType**: (Default value: `Generalweapon_Type_Invalid`)

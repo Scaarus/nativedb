@@ -11,3 +11,10 @@ void PLAY_TENNIS_SWING_ANIM(Ped ped, string pAnimDictName, float startPhase, flo
 
 Play tennis swing animation
 
+
+## Parameters
+* **ped**: 
+* **pAnimDictName**: 
+* **startPhase**: (Default value: `0`)
+* **playRate**: (Default value: `1`)
+* **slowBlend**: (Default value: `False`)

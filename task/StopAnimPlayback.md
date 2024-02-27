@@ -9,7 +9,7 @@ aliases: ["0xee08c992d238c5d1"]
 void STOP_ANIM_PLAYBACK(Entity entity, int priority, bool secondary);
 ```
 
-Stops animation on an existing [TASK_SCRIPTED_ANIMATION](#_0x126EF75F1E17ABE5).
+Stops animation on an existing [`TASK_SCRIPTED_ANIMATION`](#_0x126EF75F1E17ABE5).
 
 ## priority Values:
 | Value | Name |
@@ -24,5 +24,5 @@ Stops playback of animation on the given priority level of an existing TASK_SCRI
 
 ## Parameters
 * **entity**: 
-* **priority**: The priority level to stop. specify either AF_PRIORITY_HIGH, AF_PRIORITY_MEDIUM or AF_PRIORITY_LOW. Any animation playing at this priority level will blend out with its specified blend out duration.
-* **secondary**: 
+* **priority**: The priority level to stop. specify either AF_PRIORITY_HIGH, AF_PRIORITY_MEDIUM or AF_PRIORITY_LOW. Any animation playing at this priority level will blend out with its specified blend out duration. (Default value: `Low`)
+* **secondary**: (Default value: `False`)

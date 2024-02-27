@@ -11,3 +11,8 @@ void NETWORK_REGISTER_HOST_BROADCAST_VARIABLES(Any* Address, int Size, string De
 
 Registers the variables that the host alters and that the clients need to be updated on
 
+
+## Parameters
+* **Address**: 
+* **Size**: 
+* **DebugName**: (Default value: `Null`)

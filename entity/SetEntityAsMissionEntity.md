@@ -13,5 +13,5 @@ Sets a random entity as a mission entity.
 
 
 ## Parameters
-* **ScriptHostObject**: If true, this entity has been created by the host portion of a network script and is vital to that
-* **GrabFromOtherScript**: If true, this entity will be grabbed off any script that currently owns it
+* **ScriptHostObject**: If true, this entity has been created by the host portion of a network script and is vital to that (Default value: `True`)
+* **GrabFromOtherScript**: If true, this entity will be grabbed off any script that currently owns it (Default value: `False`)

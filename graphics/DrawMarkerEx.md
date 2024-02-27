@@ -69,3 +69,23 @@ void DRAW_MARKER_EX(int MarkerType, Vector3 scrVecPosition, Vector3 scrVecDirect
 | 4 | Zxy |
 | 5 | Zyx |
 
+
+## Parameters
+* **MarkerType**: 
+* **scrVecPosition**: 
+* **scrVecDirection**: 
+* **scrVecRotation**: 
+* **scrVecScale**: 
+* **colR**: (Default value: `255`)
+* **colG**: (Default value: `100`)
+* **colB**: (Default value: `0`)
+* **colA**: (Default value: `100`)
+* **ounce**: (Default value: `False`)
+* **faceCam**: (Default value: `False`)
+* **RotOrder**: (Default value: `Yxz`)
+* **rotate**: (Default value: `False`)
+* **txdName**: (Default value: `Null`)
+* **texName**: (Default value: `Null`)
+* **invert**: (Default value: `False`)
+* **usePreAlphaDepth**: (Default value: `True`)
+* **matchEntityRotOrder**: (Default value: `False`)

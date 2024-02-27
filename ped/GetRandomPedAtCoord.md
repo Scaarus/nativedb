@@ -47,3 +47,8 @@ Gets a ped index in the given area.
 | 29 | Army |
 | 30 | Last Pedtype |
 
+
+## Parameters
+* **CentrePosition**: 
+* **LocateDimensions**: 
+* **ExclusionPedType**: (Default value: `Invalid`)

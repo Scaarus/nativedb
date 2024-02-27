@@ -26,7 +26,7 @@ The script must have created a camera that can be rendered. Note that rendering 
 ## Parameters
 * **SetActive**: 
 * **DoGameCamInterp**: If true, the rendering change is implemented as an interpolation.
-* **Duration**: Specifies the duration of any interpolation.
-* **ShouldLockInterpolationSourceFrame**: If false, the source frame is updated throughout the interpolation, allowing for fully dynamic interpolation that can reduce the appearance of 'lag' when the source frame is not static.
-* **ShouldApplyAcrossAllThreads**: If true, a request to stop rendering will be enforced irrespective of whether other script threads expect rendering to be active. Note that this can result in conflicts between concurrent script threads, so this must be used with caution.
-* **RenderingOptions**: 
+* **Duration**: Specifies the duration of any interpolation. (Default value: `Default_Interp_To_From_Game`)
+* **ShouldLockInterpolationSourceFrame**: If false, the source frame is updated throughout the interpolation, allowing for fully dynamic interpolation that can reduce the appearance of 'lag' when the source frame is not static. (Default value: `True`)
+* **ShouldApplyAcrossAllThreads**: If true, a request to stop rendering will be enforced irrespective of whether other script threads expect rendering to be active. Note that this can result in conflicts between concurrent script threads, so this must be used with caution. (Default value: `False`)
+* **RenderingOptions**: (Default value: `No Options`)

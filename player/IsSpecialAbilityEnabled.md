@@ -11,3 +11,7 @@ bool IS_SPECIAL_ABILITY_ENABLED(Player player, int abilitySlot);
 
 Returns true when the player's special ability is enabled.
 
+
+## Parameters
+* **player**: 
+* **abilitySlot**: (Default value: `0`)

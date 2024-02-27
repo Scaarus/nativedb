@@ -13,3 +13,8 @@ Checks that a bullet is in the defined sphere.
 
 bIsPlayer checks if the player fired the bullet.
 
+
+## Parameters
+* **Position**: 
+* **Radius**: 
+* **IsPlayer**: (Default value: `True`)

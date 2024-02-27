@@ -13,3 +13,9 @@ Tells the PlayStats that a mission was started.
 
 pMissionName -
 
+
+## Parameters
+* **pMissionName**: 
+* **variant**: (Default value: `0`)
+* **checkpoint**: (Default value: `0`)
+* **replaying**: (Default value: `False`)

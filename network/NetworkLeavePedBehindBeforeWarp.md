@@ -15,5 +15,5 @@ Leave an AI ped behind in place of the player when they are being warped to a ne
 ## Parameters
 * **player**: 
 * **NewPosition**: 
-* **killPed**: 
-* **keepPickups**: if true then any portable pickups attached to the player are kept attached to him, otherwise they are detached
+* **killPed**: (Default value: `False`)
+* **keepPickups**: if true then any portable pickups attached to the player are kept attached to him, otherwise they are detached (Default value: `False`)

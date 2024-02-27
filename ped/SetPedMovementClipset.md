@@ -11,3 +11,8 @@ void SET_PED_MOVEMENT_CLIPSET(Ped ped, string ClipSet, float BlendDuration);
 
 Makes the ped use a different movement clipset e.g for making a fat ped run faster The default movement clipset is defined in peds.meta under <MovementClipSet> DON'T FORGET to stream in the new clipset before calling this!!
 
+
+## Parameters
+* **ped**: 
+* **ClipSet**: 
+* **BlendDuration**: (Default value: `0`)

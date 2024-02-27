@@ -9,5 +9,5 @@ aliases: ["0x0d78de0572d3969e"]
 bool IS_PED_WEAPON_COMPONENT_ACTIVE(Ped ped, Hash weaponHash, Hash componentHash);
 ```
 
-Return if character weapon component is active, make sure it's a valid weapon component first with [HAS_PED_GOT_WEAPON_COMPONENT](#_0xC593212475FAE340).
+Return if character weapon component is active, make sure it's a valid weapon component first with [`HAS_PED_GOT_WEAPON_COMPONENT`](#_0xC593212475FAE340).
 

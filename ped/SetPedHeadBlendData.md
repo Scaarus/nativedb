@@ -25,4 +25,4 @@ The data set with this function auguments the ped variation, it does _not_ repla
 * **headBlend**: the amount of blend between the two parent heads. 0.0 will be fully head0, 1.0 fully head1 and 0.5 will bea 5050 mix between them
 * **texBlend**: same as headBlend only for the textures
 * **varBlend**: the amount of genetic variation applied. 0.0 is no variation and 1.0 will completely replace the parents with the third head. very small values should be used for this.
-* **parent**: 
+* **parent**: (Default value: `False`)

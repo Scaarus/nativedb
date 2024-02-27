@@ -13,3 +13,8 @@ The ped will seek cover from the given peds location.
 
 Once cover is reached the ped will hide behind it for Time milliseconds then the task will end, if Time is zero the ped will hide behind it indefinitely and the task will never end.
 
+
+## Parameters
+* **ped**: 
+* **Time**: 
+* **CanPeekAndAim**: (Default value: `False`)

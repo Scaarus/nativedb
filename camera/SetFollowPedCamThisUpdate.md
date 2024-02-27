@@ -16,4 +16,4 @@ Can be safely called at any time, but will only have a visible effect when a fol
 
 ## Parameters
 * **CameraName**: The name of the custom camera to be used. This command will assert and return FALSE if this name is not valid.
-* **InterpolationDuration**: The duration of the interpolation in and out of the custom camera, so long as it is blending tofrom a follow-ped camera. Standard interpolation behaviour applies for other camera transitions.
+* **InterpolationDuration**: The duration of the interpolation in and out of the custom camera, so long as it is blending tofrom a follow-ped camera. Standard interpolation behaviour applies for other camera transitions. (Default value: `Default_Ped_Cam_Interp_Time`)

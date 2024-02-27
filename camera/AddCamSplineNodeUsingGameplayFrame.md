@@ -25,4 +25,4 @@ Appends a full node on to a spline camera. The frame parameters of this new node
 ## Parameters
 * **camera**: 
 * **iDuration**: The time taken to transition from the previous node to this node, in milliseconds.
-* **Flags**: Defines custom options to be applied to this node. See definition of CAM_SPLINE_NODE_FLAGS for more info.
+* **Flags**: Defines custom options to be applied to this node. See definition of CAM_SPLINE_NODE_FLAGS for more info. (Default value: `Default_Cam_Spline_Node_Flags`)

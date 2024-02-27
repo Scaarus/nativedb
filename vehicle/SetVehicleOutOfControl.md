@@ -11,3 +11,8 @@ void SET_VEHICLE_OUT_OF_CONTROL(Vehicle vehicle, bool KillPedsInVehicle, bool Ex
 
 Removes driver if available and sets the vehicle to be abandoned
 
+
+## Parameters
+* **vehicle**: 
+* **KillPedsInVehicle**: (Default value: `True`)
+* **ExplodeOnNextImpact**: (Default value: `True`)

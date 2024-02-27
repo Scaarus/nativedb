@@ -20,3 +20,10 @@ Gives the ped a put hands up task.
 
 Set time to -1 to perform the task forever.
 
+
+## Parameters
+* **ped**: 
+* **Time**: 
+* **ped**: (Default value: `Null`)
+* **TimeToFacePed**: 
+* **Flags**: (Default value: `Nothing`)

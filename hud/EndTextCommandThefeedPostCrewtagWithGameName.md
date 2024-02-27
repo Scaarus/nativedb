@@ -23,6 +23,6 @@ bIsPrivate false = public, true = private bShowLogoFlag false = no R*, true = R*
 * **IsImportant**: T
 * **crewId**: the ID of the crew the message is for
 * **sGameName**: the game name appears above body text in the condensed font to allow long gamernames.
-* **iCrewColourR**: 
-* **iCrewColourG**: 
-* **iCrewColourB**: 
+* **iCrewColourR**: (Default value: `0`)
+* **iCrewColourG**: (Default value: `0`)
+* **iCrewColourB**: (Default value: `0`)

@@ -22,3 +22,9 @@ Query whether the specified ped has any projectiles attached to the specified ve
 | 4 | Bonnet |
 | 5 | Boot |
 
+
+## Parameters
+* **ped**: 
+* **vehicle**: 
+* **weaponHash**: (Default value: `0`)
+* **DoorNumber**: (Default value: `Invalid`)

@@ -13,3 +13,9 @@ Task making the ped seek cover at the scripted cover point specified in CoverInd
 
 Seeks cover in such a way as to avoid fire from position fromX, fromY, fromZ. Once cover is reached the ped will hide behind it for Time milliseconds then the task will end, if Time is zero the ped will hide behind it indefinitely and the task will never end.
 
+
+## Parameters
+* **coverpoint**: 
+* **FromPosition**: 
+* **Time**: 
+* **CanPeekAndAim**: (Default value: `False`)

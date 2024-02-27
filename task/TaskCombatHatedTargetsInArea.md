@@ -18,3 +18,8 @@ Tells the ped to combat all hated targets in the area.
 | 67108864 | Prevent Changing Target |
 | 134217728 | Disable Aim Intro |
 
+
+## Parameters
+* **vPosition**: 
+* **fRange**: 
+* **Flags**: (Default value: `None`)

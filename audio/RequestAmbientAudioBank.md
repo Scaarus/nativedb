@@ -11,5 +11,10 @@ bool REQUEST_AMBIENT_AUDIO_BANK(string BankName, bool OverNetwork, int playerBit
 
 Requests and checks that a ambient audio bank has loaded.
 
-This is a legacy function: please use [REQUEST_SCRIPT_AUDIO_BANK](#_0x2F844A8B08D76685) instead
+This is a legacy function: please use [`REQUEST_SCRIPT_AUDIO_BANK`](#_0x2F844A8B08D76685) instead
 
+
+## Parameters
+* **BankName**: 
+* **OverNetwork**: (Default value: `False`)
+* **playerBits**: (Default value: `Aud_Net_All_Players`)

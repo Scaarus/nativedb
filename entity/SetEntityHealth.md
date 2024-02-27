@@ -11,3 +11,8 @@ void SET_ENTITY_HEALTH(Entity entity, int NewHealth, Entity entity);
 
 Sets the entity's current health.
 
+
+## Parameters
+* **entity**: 
+* **NewHealth**: 
+* **entity**: (Default value: `Null`)

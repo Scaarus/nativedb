@@ -14,5 +14,5 @@ Displays the unlock component
 
 ## Parameters
 * **sTitleString**: unlock title (i.e. "New Weapon")
-* **iconType**: 
-* **sFullBodyString**: DEPRECATED, DO NOT USE
+* **iconType**: (Default value: `0`)
+* **sFullBodyString**: DEPRECATED, DO NOT USE (Default value: `Null`)

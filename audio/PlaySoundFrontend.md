@@ -13,3 +13,9 @@ Plays back a sound "frontend" - at full volume, panned centrally. Optionally can
 
 If the sound is to be manipulated - i.e. it's a looped that needs to be stopped - then a SoundId should be acquired and used, otherwise use -1 for this parameter. If the sound has a Pan or a SpeakerMask set by the sound designer then the it will play using these settings, otherwise it will play from dead ahead (0°).
 
+
+## Parameters
+* **SoundId**: 
+* **SoundName**: 
+* **SetName**: (Default value: `Null`)
+* **enableOnReplay**: (Default value: `True`)

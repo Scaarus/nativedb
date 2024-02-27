@@ -13,3 +13,14 @@ Checks if an sphere around the given center point is ocupied by an entity/entiti
 
 ExludedEntityIndex (Optional) allows for an entity that is ignored by the area check. bCheckAlive will only look for living peds if true
 
+
+## Parameters
+* **CenterPosition**: 
+* **radius**: 
+* **BuildingFlag**: 
+* **VehicleFlag**: 
+* **PedFlag**: 
+* **ObjectFlag**: 
+* **DummyFlag**: 
+* **entity**: (Default value: `Null`)
+* **CheckAlive**: (Default value: `False`)

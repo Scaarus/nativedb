@@ -13,3 +13,8 @@ Allow peds to attack friendlies
 
 If bChangeTargettingLockOnState is true it will set whether target lock onto friendlies is also changed by bEnable. This target lock onto friendlies state is cleared at mission clean up.
 
+
+## Parameters
+* **ped**: 
+* **Enable**: 
+* **ChangeTargettingLockOnState**: (Default value: `False`)

@@ -11,3 +11,10 @@ bool IS_PROJECTILE_TYPE_IN_ANGLED_AREA(Vector3 vecAngledAreaPoint1, Vector3 vecA
 
 Checks that a projectile object of the specified type is in the angled area.
 
+
+## Parameters
+* **vecAngledAreaPoint1**: 
+* **vecAngledAreaPoint2**: 
+* **DistanceOfOppositeFace**: 
+* **weaponHash**: 
+* **IsPlayer**: (Default value: `False`)

@@ -11,3 +11,8 @@ void EXPLODE_PROJECTILES(Ped ped, Hash weaponHash, bool Instant);
 
 Explode all the projectiles owned by the specified ped of the specified type
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **Instant**: (Default value: `False`)

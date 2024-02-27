@@ -13,4 +13,4 @@ Flag whether if the dominant camera is a scripted camera, it should be considere
 
 
 ## Parameters
-* **isFirstPersonThisFrame**: If TRUE, scripted cameras are considered first person this frame
+* **isFirstPersonThisFrame**: If TRUE, scripted cameras are considered first person this frame (Default value: `True`)

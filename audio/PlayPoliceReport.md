@@ -11,3 +11,7 @@ int PLAY_POLICE_REPORT(string ReportName, float applyValue);
 
 Plays a police report.
 
+
+## Parameters
+* **ReportName**: 
+* **applyValue**: (Default value: `0`)

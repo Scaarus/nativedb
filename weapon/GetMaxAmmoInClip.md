@@ -11,3 +11,8 @@ int GET_MAX_AMMO_IN_CLIP(Ped ped, Hash weaponHash, bool DoDeadCheck);
 
 Returns the maximum number of bullets allowed in one clip
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **DoDeadCheck**: (Default value: `True`)

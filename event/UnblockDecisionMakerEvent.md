@@ -9,7 +9,7 @@ aliases: ["0xd7cd9cf34f2c99e8"]
 void UNBLOCK_DECISION_MAKER_EVENT(int DecisionMakerId, int EventType);
 ```
 
-Unblocks the specified Event if it was blocked via [BLOCK_DECISION_MAKER_EVENT](#_0xE42FCDFD0E4196F7)
+Unblocks the specified Event if it was blocked via [`BLOCK_DECISION_MAKER_EVENT`](#_0xE42FCDFD0E4196F7)
 
 ## DecisionMakerId Values:
 | Value | Name |

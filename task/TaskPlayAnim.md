@@ -76,11 +76,11 @@ Plays an anim on the specified ped
 ## Parameters
 * **ped**: 
 * **pAnimDictName**: 
-* **fBlendInDelta**: the rate at which the task will blend in The blend in duration is 1.0 fBlendInDelta e.g. 1.0 NORMAL_BLEND_IN -> 1.0 8.0 = 0.125 seconds
-* **fBlendOutDelta**: 
+* **fBlendInDelta**: the rate at which the task will blend in The blend in duration is 1.0 fBlendInDelta e.g. 1.0 NORMAL_BLEND_IN -> 1.0 8.0 = 0.125 seconds (Default value: `Normal_Blend_In`)
+* **fBlendOutDelta**: (Default value: `Normal_Blend_Out`)
 * **nTimeToPlay**: 
-* **AnimFlags**: 
-* **startPhase**: 
-* **phaseControlled**: 
-* **ikFlags**: 
-* **AllowOverrideCloneUpdate**: 
+* **AnimFlags**: (Default value: `Default`)
+* **startPhase**: (Default value: `0`)
+* **phaseControlled**: (Default value: `False`)
+* **ikFlags**: (Default value: `None`)
+* **AllowOverrideCloneUpdate**: (Default value: `False`)

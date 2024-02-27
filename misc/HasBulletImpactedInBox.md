@@ -13,3 +13,9 @@ Finds a bullet impact in the box
 
 bIsPlayer checks if the player fired the bullet. bEntryOnly=TRUE will only find entry impacts. =FALSE will find both entry and exit impacts
 
+
+## Parameters
+* **MinPosition**: 
+* **MaxPosition**: 
+* **IsPlayer**: (Default value: `True`)
+* **EntryOnly**: (Default value: `True`)

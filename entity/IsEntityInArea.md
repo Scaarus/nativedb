@@ -21,3 +21,11 @@ Checks if a ped is in the axis aligned area defined by the two coords. If the en
 
 PARAM NOTES :
 
+
+## Parameters
+* **entity**: 
+* **Position1**: 
+* **Position2**: 
+* **HighlightArea**: (Default value: `False`)
+* **Do3dCheck**: (Default value: `True`)
+* **TM_MODE**: (Default value: `Tm_Any`)

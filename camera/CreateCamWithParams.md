@@ -24,3 +24,10 @@ Create a camera with its param of a given name.
 
 Valid camera names are as
 
+
+## Parameters
+* **CameraName**: 
+* **vecPos**: 
+* **vecRot**: 
+* **StartActivated**: (Default value: `False`)
+* **RotOrder**: (Default value: `Yxz`)

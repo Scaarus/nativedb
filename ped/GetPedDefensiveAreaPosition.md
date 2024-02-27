@@ -13,3 +13,6 @@ Returns the position of the ped's defensive area
 
 Will return a zero vector if the requested defensive area does not exist
 
+
+## Parameters
+* **ApplyToSecondaryDefensiveArea**: (Default value: `False`)

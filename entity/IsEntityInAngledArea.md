@@ -21,3 +21,12 @@ Checks if a ped is in non axis aligned area, defined by coords of a face and dis
 
 VecCoors1 and VecCoors2 define the midpoints of two parallel sides and AreaWidth is the width of these sides.
 
+
+## Parameters
+* **entity**: 
+* **Position1**: 
+* **Position2**: 
+* **AreaWidth**: 
+* **HighlightArea**: (Default value: `False`)
+* **Do3dCheck**: (Default value: `True`)
+* **TM_MODE**: (Default value: `Tm_Any`)

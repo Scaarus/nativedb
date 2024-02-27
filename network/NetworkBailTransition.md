@@ -11,3 +11,8 @@ void NETWORK_BAIL_TRANSITION(int nContext, int nParam1, int nParam2);
 
 Rain of fire. Leave nothing behind. Affects transition only. Freemode untouched.
 
+
+## Parameters
+* **nContext**: 
+* **nParam1**: (Default value: `0`)
+* **nParam2**: (Default value: `0`)

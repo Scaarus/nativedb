@@ -13,3 +13,10 @@ Tells the ped to go to an offset coord from an entity, without using the navmesh
 
 if Time is chosen to be -1 the ped will never warp.
 
+
+## Parameters
+* **ped**: 
+* **entity**: 
+* **Offset**: 
+* **MoveBlendRatio**: 
+* **Time**: (Default value: `Default_Time_Before_Warp`)

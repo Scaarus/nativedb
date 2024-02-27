@@ -25,3 +25,11 @@ Starts an asynchronous seach for spawnpoints Only a single search may be perform
 
 vSearchOrigin, fSearchRadius and fMaxDistZ define an upright cylinder Optional 'fMinimumSpacing' specifies a minimum distance which must exist between returned points If optional 'iMaxSearchDurationMS' param is non-zero, search will enter a 'failed' state if this milliseconds duration is
 
+
+## Parameters
+* **vSearchOrigin**: 
+* **fSearchRadius**: 
+* **fMaxDistZ**: 
+* **iFlags**: (Default value: `Default`)
+* **fMinimumSpacing**: (Default value: `0`)
+* **iMaxSearchDurationMS**: (Default value: `0`)

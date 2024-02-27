@@ -14,4 +14,4 @@ Leave an AI ped behind in place of the player when they are moving to an MP cuts
 
 ## Parameters
 * **player**: 
-* **keepPickups**: if true then any portable pickups attached to the player are kept attached to him, otherwise they are detached
+* **keepPickups**: if true then any portable pickups attached to the player are kept attached to him, otherwise they are detached (Default value: `False`)

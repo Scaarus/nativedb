@@ -11,3 +11,7 @@ void SET_MISSION_NAME_FOR_UGC_MISSION(bool Active, string pMissionName);
 
 sets the current mission name to display on the HUD as the name entered for a UGC mission
 
+
+## Parameters
+* **Active**: 
+* **pMissionName**: (Default value: `Null`)

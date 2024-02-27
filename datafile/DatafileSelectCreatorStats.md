@@ -14,4 +14,4 @@ Props content creator stats for access through data file commands
 
 ## Parameters
 * **nCreatorIndex**: 
-* **datafileIndex**: Datafile slot to put the data in
+* **datafileIndex**: Datafile slot to put the data in (Default value: `0`)

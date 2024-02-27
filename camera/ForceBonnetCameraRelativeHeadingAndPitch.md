@@ -13,5 +13,5 @@ Force the cinematic mounted bonnet camera's heading and pitch relative to the ta
 
 
 ## Parameters
-* **heading**: The relative heading to set, in degrees.
-* **pitch**: The relative pitch to set, in degrees.
+* **heading**: The relative heading to set, in degrees. (Default value: `0`)
+* **pitch**: The relative pitch to set, in degrees. (Default value: `0`)

@@ -21,5 +21,5 @@ void DISPLAY_ONSCREEN_KEYBOARD_WITH_LONGER_INITIAL_STRING(int keyboardTypeFlag, 
 | 6 | Filename |
 
 
-Variant of [DISPLAY_ONSCREEN_KEYBOARD](#_0x00DC833F2568DBF6) which takes up to eight strings to support an initial value of 500 characters
+Variant of [`DISPLAY_ONSCREEN_KEYBOARD`](#_0x00DC833F2568DBF6) which takes up to eight strings to support an initial value of 500 characters
 

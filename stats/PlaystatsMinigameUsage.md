@@ -11,3 +11,8 @@ void PLAYSTATS_MINIGAME_USAGE(int usage, int location, int duration);
 
 Telemetry for minigames usage
 
+
+## Parameters
+* **usage**: 
+* **location**: (Default value: `0`)
+* **duration**: (Default value: `0`)

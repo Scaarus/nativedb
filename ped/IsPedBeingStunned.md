@@ -11,3 +11,7 @@ bool IS_PED_BEING_STUNNED(Ped ped, Hash weaponHash);
 
 Returns whether or not the designated ped is currently being stunned
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: (Default value: `Weapontype_Invalid`)

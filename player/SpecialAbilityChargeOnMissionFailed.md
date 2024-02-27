@@ -11,3 +11,7 @@ void SPECIAL_ABILITY_CHARGE_ON_MISSION_FAILED(Player player, int abilitySlot);
 
 Should be called when the player has failed a mission. The logic to decide if the ability is charged by this happens in code
 
+
+## Parameters
+* **player**: 
+* **abilitySlot**: (Default value: `0`)

@@ -22,5 +22,5 @@ Sets the global zoom level used by all follow-vehicle and vehicle-aim cameras.
 | 4 | Bonnet |
 
 
-Deprecated! Please now use [SET_FOLLOW_VEHICLE_CAM_VIEW_MODE](#_0xAC253D7842768F48)
+Deprecated! Please now use [`SET_FOLLOW_VEHICLE_CAM_VIEW_MODE`](#_0xAC253D7842768F48)
 

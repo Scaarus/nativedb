@@ -13,3 +13,7 @@ Checks if the ped is currently behind and using cover.
 
 bLimitToPedsInCoverThatAreIdle =
 
+
+## Parameters
+* **ped**: 
+* **LimitToPedsInCoverThatAreIdle**: (Default value: `False`)

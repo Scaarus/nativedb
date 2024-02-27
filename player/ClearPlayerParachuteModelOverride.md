@@ -9,5 +9,5 @@ aliases: ["0x8753997eb5f6ee3f"]
 void CLEAR_PLAYER_PARACHUTE_MODEL_OVERRIDE(Player player);
 ```
 
-An override for parachute model. clears the call to [SET_PLAYER_PARACHUTE_MODEL_OVERRIDE](#_0x977DB4641F6FC3DB).
+An override for parachute model. clears the call to [`SET_PLAYER_PARACHUTE_MODEL_OVERRIDE`](#_0x977DB4641F6FC3DB).
 

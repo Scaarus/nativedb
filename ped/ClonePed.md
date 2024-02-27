@@ -11,3 +11,9 @@ Ped CLONE_PED(Ped ped, bool RegisterAsNetworkObject, bool ScriptHostObject, bool
 
 Creates a new ped by cloning an existing one.
 
+
+## Parameters
+* **ped**: 
+* **RegisterAsNetworkObject**: (Default value: `True`)
+* **ScriptHostObject**: (Default value: `True`)
+* **LinkBlends**: (Default value: `True`)

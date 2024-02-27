@@ -11,3 +11,14 @@ void SET_ENTITY_PROOFS(Entity entity, bool BulletProofFlag, bool FlameProofFlag,
 
 Set the proofs on entity: Bullet, Flame, Explosion, Colision, Melee
 
+
+## Parameters
+* **entity**: 
+* **BulletProofFlag**: 
+* **FlameProofFlag**: 
+* **ExplosionProofFlag**: 
+* **CollisionProofFlag**: 
+* **MeleeProofFlag**: 
+* **SteamProofFlag**: (Default value: `False`)
+* **DontResetDamageFlagsOnCleanupMissionState**: (Default value: `False`)
+* **SmokeProofFlag**: (Default value: `False`)

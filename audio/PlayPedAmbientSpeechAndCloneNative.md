@@ -16,4 +16,4 @@ Plays a line of a ped's ambient dialogue and clones it across the network.
 * **ped**: 
 * **Context**: speech context to be spoken
 * **Params**: name of the speechParam rave game object to look to for various details on how it should be played
-* **SyncOverNetwork**: Indicates whether this speech should automatically by played on clones of the ped on remote machines
+* **SyncOverNetwork**: Indicates whether this speech should automatically by played on clones of the ped on remote machines (Default value: `True`)

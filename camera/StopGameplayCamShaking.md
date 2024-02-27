@@ -13,4 +13,4 @@ Stop the gameplay camera shaking.
 
 
 ## Parameters
-* **StopImmediately**: If TRUE, the shake will stop immediately, otherwise it will enter its release phase and fade out.
+* **StopImmediately**: If TRUE, the shake will stop immediately, otherwise it will enter its release phase and fade out. (Default value: `False`)

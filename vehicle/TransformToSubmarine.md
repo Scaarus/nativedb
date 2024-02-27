@@ -15,3 +15,7 @@ Set InstantlyTransform to true to instantly transform without animating
 
 Transform the submarine car to a submarine
 
+
+## Parameters
+* **vehicle**: 
+* **InstantlyTransform**: (Default value: `False`)

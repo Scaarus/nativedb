@@ -11,3 +11,9 @@ void DOOR_SYSTEM_SET_SPRING_REMOVED(int doorEnumHash, bool removeSpring, bool ne
 
 Get has the spring been removed
 
+
+## Parameters
+* **doorEnumHash**: 
+* **removeSpring**: 
+* **network**: (Default value: `True`)
+* **flushState**: (Default value: `False`)

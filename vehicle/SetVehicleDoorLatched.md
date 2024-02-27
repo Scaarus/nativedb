@@ -25,3 +25,10 @@ Sets a vehicle door to latch.
 
 SC_DOOR_LIST is in commands_vehicle.sch
 
+
+## Parameters
+* **vehicle**: 
+* **DoorNumber**: 
+* **SetLatched**: 
+* **WillAutoLatch**: 
+* **ApplyForceForDoorClosed**: (Default value: `True`)

@@ -29,5 +29,5 @@ Used when playing multiple anims together using TASK_PLAY_ANIM. This function re
 * **pAnimName**: 
 * **scenePosition**: the position to be used with TASK_PLAY_ANIM_ADVANCED (in world coords)
 * **sceneOrientation**: The orientation to be used with TASK_PLAY_ANIM_ADVANCED (<< pitch, roll, heading >>)
-* **phase**: 
-* **RotOrder**: 
+* **phase**: (Default value: `0`)
+* **RotOrder**: (Default value: `Yxz`)

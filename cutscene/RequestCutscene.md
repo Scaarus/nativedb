@@ -23,3 +23,7 @@ Requests a cutscene: animations, models, audio etc.
 
 Should be used for cutscenes that have no fades e.g. a seamless scene
 
+
+## Parameters
+* **pCutName**: 
+* **PlaybackFlags**: (Default value: `Requested In Mission`)

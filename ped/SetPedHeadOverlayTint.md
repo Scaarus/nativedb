@@ -36,3 +36,10 @@ Sets the tint index for the specified head blend overlay slot
 | 1 | Hair |
 | 2 | Makeup |
 
+
+## Parameters
+* **ped**: 
+* **slot**: 
+* **rampType**: 
+* **tint**: 
+* **tint2**: (Default value: `0`)

@@ -79,4 +79,4 @@ Attaches a camera to a ped's bone full matrix.
 * **BoneTag**: The tag of the ped bone to attach to. See the definition of PED_BONETAG for further information.
 * **vecRotationOffset**: An additional rotational offset to be applied from the attach bone rotation (x=yaw, y=pitch, z=roll).
 * **vecPositionOffset**: An additional offset to be applied from the attach position.
-* **OffsetIsRelative**: If true, vecOffset is applied relative to the orientation of the attached ped (not the bone), rather than in world-space.
+* **OffsetIsRelative**: If true, vecOffset is applied relative to the orientation of the attached ped (not the bone), rather than in world-space. (Default value: `True`)

@@ -20,4 +20,4 @@ Update a UGC file - (optionally) build an updated UGC header using datafile comm
 * **szDesc**: Description of this mission ("Are you a bad enough dude to rescue the President?")
 * **szTags**: Comma separated tags to describe searchable tags
 * **szContentType**: 
-* **datafileIndex**: Datafile slot containing the data you want to save
+* **datafileIndex**: Datafile slot containing the data you want to save (Default value: `0`)

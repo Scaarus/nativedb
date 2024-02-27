@@ -21,3 +21,9 @@ Gets whether the vehicle can be placed at the given location. This uses the low 
 | 4 | Zxy |
 | 5 | Zyx |
 
+
+## Parameters
+* **VehiclePos**: 
+* **eulerAngles**: 
+* **RotOrder**: (Default value: `Yxz`)
+* **LOSFlags**: (Default value: `1`)

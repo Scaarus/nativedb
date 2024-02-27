@@ -13,3 +13,9 @@ Attaches a defensive area SPHERE to a vehicle that the ped will stay inside.
 
 bApplyToSecondaryDefensiveArea makes this command be used with the secondary/fallback defensive area instead of the primary one
 
+
+## Parameters
+* **vehicle**: 
+* **vCentre**: 
+* **fRadius**: 
+* **ApplyToSecondaryDefensiveArea**: (Default value: `False`)

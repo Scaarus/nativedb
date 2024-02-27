@@ -11,3 +11,8 @@ void SET_PICKUP_OBJECT_GLOW_OFFSET(Object object, float Offset, bool Set);
 
 Sets an ambient or portable pickup object glow offset (usually ground height, 0.0f for something on the ground)
 
+
+## Parameters
+* **object**: 
+* **Offset**: 
+* **Set**: (Default value: `True`)

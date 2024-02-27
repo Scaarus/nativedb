@@ -11,3 +11,9 @@ bool GET_COORDS_OF_PROJECTILE_TYPE_WITHIN_DISTANCE(Ped ped, Hash weaponHash, flo
 
 Checks that a projectile object of the specified type is within distance, from ped and returns the youngest
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **distance**: 
+* **needsToBeStationary**: (Default value: `False`)

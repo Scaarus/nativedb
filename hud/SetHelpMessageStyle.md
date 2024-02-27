@@ -268,3 +268,10 @@ Set the help text position on a world coordinate
 | 2 | South |
 | 3 | West |
 
+
+## Parameters
+* **style**: 
+* **colour**: 
+* **iAlpha**: 
+* **iArrowPosition**: (Default value: `0`)
+* **iFloatingTextOffset**: (Default value: `0`)

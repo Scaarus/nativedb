@@ -22,3 +22,9 @@ Checks if the anim specified is being held on the last frame.
 
 This command will only ever return true for anims that hold at the end (i.e. anims that loop or end automatically will always return false)
 
+
+## Parameters
+* **entity**: 
+* **pAnimDictName**: 
+* **pAnimName**: 
+* **animType**: (Default value: `Default`)

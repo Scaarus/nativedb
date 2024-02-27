@@ -55,3 +55,8 @@ Return an encoded string of the icon to show of a CONTROL_ACTION. empty string w
 | 30 | Sniper Zoom Secondary |
 | 31 | Veh Hydraulics Control |
 
+
+## Parameters
+* **control**: 
+* **actionGroup**: 
+* **allowXOSwap**: (Default value: `True`)

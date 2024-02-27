@@ -13,3 +13,8 @@ Gets the distance between 2 coords.
 
 For 2d checks use only the x and y components of the vector as the z value is zeroed by the code.
 
+
+## Parameters
+* **FirstPosition**: 
+* **SecondPosition**: 
+* **Check3d**: (Default value: `True`)

@@ -9,7 +9,7 @@ aliases: ["0x1670f8d05056f257"]
 int GET_STATUS_OF_LOAD_MISSION_CREATOR_PHOTO(string szContentID);
 ```
 
-Returns the status of the last photo load to have been successfully started by [LOAD_MISSION_CREATOR_PHOTO](#_0x4862437A486F91B0)
+Returns the status of the last photo load to have been successfully started by [`LOAD_MISSION_CREATOR_PHOTO`](#_0x4862437A486F91B0)
 
 ## Return Type Values:
 | Value | Name |

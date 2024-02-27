@@ -68,11 +68,11 @@ As above but has an extra param to set initial cruise speed of vehicle. fCruise
 * **Position**: 
 * **MoveBlendRatio**: 
 * **vehicle**: 
-* **UseLongRangeVehiclePathing**: 
-* **DrivingFlags**: 
+* **UseLongRangeVehiclePathing**: (Default value: `False`)
+* **DrivingFlags**: (Default value: `Drivingmode_Stopforcars`)
 * **MaxRangeToShootTargets**: 
-* **fExtraVehToTargetDistToPreferVeh**: 
-* **fDriveStraightLineDistance**: 
-* **iExtraFlags**: 
+* **fExtraVehToTargetDistToPreferVeh**: (Default value: `0`)
+* **fDriveStraightLineDistance**: (Default value: `20`)
+* **iExtraFlags**: (Default value: `Default`)
 * **fCruiseSpeed**: 
-* **fTargetArriveDist**: Distance to target at which vehicle task will quit. Defaulted to 4m.
+* **fTargetArriveDist**: Distance to target at which vehicle task will quit. Defaulted to 4m. (Default value: `4`)

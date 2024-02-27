@@ -11,3 +11,6 @@ void SET_GAMEPLAY_CAM_RELATIVE_HEADING(float heading);
 
 Sets the gameplay camera's heading relative to the target entity (ped or vehicle.)
 
+
+## Parameters
+* **heading**: (Default value: `0`)

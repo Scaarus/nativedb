@@ -13,3 +13,8 @@ Returns TRUE if the last thing to damage the given entity was the given damager 
 
 Returns TRUE if the last thing to damage the given entity was the given damager entity
 
+
+## Parameters
+* **entity**: 
+* **entity**: 
+* **CheckDamagerVehicle**: (Default value: `True`)

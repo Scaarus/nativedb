@@ -13,3 +13,8 @@ Puts the ped into the given scenario immediately.
 
 scenario is chosen fromhttp://10.11.23.14/wiki/index.php?title=SCENARIO_STRINGS
 
+
+## Parameters
+* **ScenarioName**: 
+* **TimeToLeave**: (Default value: `0`)
+* **PlayIntroClip**: (Default value: `False`)

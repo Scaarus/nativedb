@@ -18,3 +18,8 @@ Tells a ped to combat another ped for a timed period.
 | 67108864 | Prevent Changing Target |
 | 134217728 | Disable Aim Intro |
 
+
+## Parameters
+* **ped**: 
+* **Time**: 
+* **Flags**: (Default value: `None`)

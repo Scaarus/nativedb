@@ -29,3 +29,8 @@ Sets a Ped into the releveant seat of the given Vehicle.
 
 VEHICLE_SEAT enum is in generic.sch
 
+
+## Parameters
+* **ped**: 
+* **vehicle**: 
+* **seat**: (Default value: `Driver`)

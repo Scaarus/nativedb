@@ -11,3 +11,7 @@ bool IS_PED_IN_COMBAT(Ped ped, Ped ped);
 
 Checks if the ped is in combat, if a target ped index is provided, it will return true if the ped is in combat with the target ped, false otherwise
 
+
+## Parameters
+* **ped**: 
+* **ped**: (Default value: `Null`)

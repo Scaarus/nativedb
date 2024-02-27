@@ -10,4 +10,4 @@ bool IS_PLAYER_BEING_ARRESTED(bool CheckBustedTask);
 ```
 
 ## Parameters
-* **CheckBustedTask**: If this is set to FALSE then we'll only rely on the player's game state, which is set to arrested once the player is no longer allowed to break out of the busted task
+* **CheckBustedTask**: If this is set to FALSE then we'll only rely on the player's game state, which is set to arrested once the player is no longer allowed to break out of the busted task (Default value: `True`)

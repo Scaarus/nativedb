@@ -13,3 +13,8 @@ Enables/disables a list of ambient zones persistently. This change will be saved
 
 Use the 'forceUpdate' flag to force a zone to become disabled even if its currently active. The default disabling behaviour is that any state changes only get applied once the player leaves the zone.
 
+
+## Parameters
+* **zoneListName**: 
+* **enabled**: 
+* **forceUpdate**: (Default value: `False`)

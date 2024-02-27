@@ -14,5 +14,5 @@ Returns TRUE if the Garage has any objects inside or partially inside
 
 ## Parameters
 * **GarageHash**: 
-* **OnAllMachines**: if set then this will return true only if the garage is empty on all machines in multiplayer
+* **OnAllMachines**: if set then this will return true only if the garage is empty on all machines in multiplayer (Default value: `True`)
 * **boxIndex**: 

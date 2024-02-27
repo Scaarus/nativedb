@@ -11,3 +11,7 @@ bool IS_ANY_OBJECT_NEAR_POINT(float radius, bool ConsiderScriptCreatedObjectsOnl
 
 Returns true if any object's pivot point lies within the sphere with the given radius at the given point
 
+
+## Parameters
+* **radius**: 
+* **ConsiderScriptCreatedObjectsOnly**: (Default value: `False`)

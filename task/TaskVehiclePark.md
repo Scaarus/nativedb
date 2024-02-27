@@ -30,5 +30,5 @@ Gives the vehicle a task to park in the specified manner
 * **ParkingSpaceCoords**: The center of the space.
 * **DirectionDegrees**: Heading of the parking space. Can be either positive or negative direction--how the car enters the space is determined by the PARK_TYPE
 * **ParkType**: Style of parking.
-* **ToleranceDegrees**: If the vehicle's heading isn't within this amount of the Direction param, the vehicle will back up and try to straighten itself out
-* **KeepLightsOn**: If true, keep the lights on after parking
+* **ToleranceDegrees**: If the vehicle's heading isn't within this amount of the Direction param, the vehicle will back up and try to straighten itself out (Default value: `10`)
+* **KeepLightsOn**: If true, keep the lights on after parking (Default value: `False`)

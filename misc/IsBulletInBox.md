@@ -13,3 +13,7 @@ Checks that a bullet is in the area.
 
 bIsPlayer checks if the player fired the bullet.
 
+
+## Parameters
+* **MinPosition**: 
+* **IsPlayer**: (Default value: `True`)

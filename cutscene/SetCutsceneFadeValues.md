@@ -13,3 +13,9 @@ Sets the fade values for the command, WARNING: Using this command will change th
 
 Please note calling this command will affect the behaviour when skipping. If you call this you will have to make sure that the cutscene fades in at the end for both a skip and non skip, irrespective of any of the values you have set.
 
+
+## Parameters
+* **fadeOutAtStart**: (Default value: `False`)
+* **fadeInAtStart**: (Default value: `False`)
+* **fadeOutAtEnd**: (Default value: `False`)
+* **fadeInAtEnd**: (Default value: `False`)

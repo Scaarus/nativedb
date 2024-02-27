@@ -11,3 +11,8 @@ bool STAT_SET_INT(int Hash, int data, bool coderAssert);
 
 Set the value of an Int, UInt8, UInt16, UInt32 and UInt64 stat.
 
+
+## Parameters
+* **Hash**: 
+* **data**: 
+* **coderAssert**: (Default value: `True`)

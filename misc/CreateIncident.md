@@ -21,3 +21,11 @@ bool CREATE_INCIDENT(Vector3 vLocation, int iNumUnits, float fTime, Incident inc
 
 Creates an incident and returns an index, requests a set number of units
 
+
+## Parameters
+* **vLocation**: 
+* **iNumUnits**: 
+* **fTime**: 
+* **incident**: 
+* **iOverrideRelGroupHash**: (Default value: `0`)
+* **assassinsLevel**: (Default value: `0`)

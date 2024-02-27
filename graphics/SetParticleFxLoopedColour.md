@@ -11,3 +11,10 @@ void SET_PARTICLE_FX_LOOPED_COLOUR(int ptfxId, float colR, float colG, float col
 
 Sets the colour tint of a previously started looped particle effect
 
+
+## Parameters
+* **ptfxId**: 
+* **colR**: 
+* **colG**: 
+* **colB**: 
+* **localOnly**: (Default value: `False`)

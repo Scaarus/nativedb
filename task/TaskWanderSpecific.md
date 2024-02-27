@@ -11,3 +11,9 @@ void TASK_WANDER_SPECIFIC(Ped ped, string ConditionalAnimGroup, string Condition
 
 Tells a ped to wander with a specific animation.
 
+
+## Parameters
+* **ped**: 
+* **ConditionalAnimGroup**: 
+* **ConditionalAnim**: 
+* **Heading**: (Default value: `Default_Navmesh_Final_Heading`)

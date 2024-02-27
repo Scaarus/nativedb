@@ -15,3 +15,11 @@ Defaulted to blue. Colours and alpha range are
 
 Call this command every frame.
 
+
+## Parameters
+* **PositionFirst**: 
+* **PositionSecond**: 
+* **red**: (Default value: `0`)
+* **green**: (Default value: `0`)
+* **blue**: (Default value: `255`)
+* **alpha_param**: (Default value: `255`)

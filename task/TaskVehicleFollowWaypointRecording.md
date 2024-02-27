@@ -69,3 +69,15 @@ Tells the specified vehicle to follow the specified waypoint route
 
 A max speed of -1.0 means no speed limit.
 
+
+## Parameters
+* **ped**: 
+* **vehicle**: 
+* **RecordingName**: 
+* **Mode**: 
+* **iStartingProgress**: (Default value: `0`)
+* **iFlags**: (Default value: `Default`)
+* **iTargetProgress**: 
+* **MaxSpeed**: 
+* **DriveInLoop**: (Default value: `False`)
+* **fTargetArriveDistance**: (Default value: `2`)

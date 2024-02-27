@@ -21,5 +21,5 @@ Gets the global zoom level used by all follow-vehicle and vehicle-aim cameras.
 | 3 | Cinematic |
 | 4 | Bonnet |
 
-Deprecated! Please now use [GET_FOLLOW_VEHICLE_CAM_VIEW_MODE](#_0xA4FF579AC0E3AAAE)
+Deprecated! Please now use [`GET_FOLLOW_VEHICLE_CAM_VIEW_MODE`](#_0xA4FF579AC0E3AAAE)
 

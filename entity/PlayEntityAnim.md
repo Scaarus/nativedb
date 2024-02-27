@@ -18,6 +18,6 @@ Play an entity anim.
 * **BlendDelta**: 
 * **Loop**: 
 * **HoldLastFrame**: 
-* **DriveToPose**: enable drive-to-pose for the animation (object must be setup with articulation for this to work)
-* **StartPhase**: 
-* **AnimFlags**: 
+* **DriveToPose**: enable drive-to-pose for the animation (object must be setup with articulation for this to work) (Default value: `False`)
+* **StartPhase**: (Default value: `0`)
+* **AnimFlags**: (Default value: `0`)

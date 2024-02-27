@@ -11,3 +11,8 @@ Player NETWORK_GET_HOST_OF_SCRIPT(string scriptName, int instanceId, int positio
 
 Returns the player that is host (in charge of) a local or remote script session
 
+
+## Parameters
+* **scriptName**: 
+* **instanceId**: 
+* **positionHash**: (Default value: `0`)

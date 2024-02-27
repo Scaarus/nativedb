@@ -9,5 +9,5 @@ aliases: ["0x784002a632822099"]
 bool HAS_PED_PRELOAD_PROP_DATA_FINISHED(Ped ped);
 ```
 
-Returns true if the preload prop set with [SET_PED_PRELOAD_PROP_DATA](#_0x2B16A3BFF1FBCE49) is in memory.
+Returns true if the preload prop set with [`SET_PED_PRELOAD_PROP_DATA`](#_0x2B16A3BFF1FBCE49) is in memory.
 

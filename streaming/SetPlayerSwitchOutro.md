@@ -24,3 +24,10 @@ use this immediately after starting a player switch if the first frame of the ou
 
 overrides the end scene for the player switch
 
+
+## Parameters
+* **vCamPos**: 
+* **vCamRot**: 
+* **fCamFov**: 
+* **fCamFarClip**: 
+* **RotOrder**: (Default value: `Yxz`)

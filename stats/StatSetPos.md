@@ -11,3 +11,10 @@ bool STAT_SET_POS(int Hash, float X, float Y, float Z, bool coderAssert);
 
 Set the value of an Date stat.
 
+
+## Parameters
+* **Hash**: 
+* **X**: 
+* **Y**: 
+* **Z**: 
+* **coderAssert**: (Default value: `True`)

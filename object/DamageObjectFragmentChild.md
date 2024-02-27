@@ -13,3 +13,8 @@ Either switch a part of an object to its damaged version, or destroy it if it's 
 
 Damage one of the parts of a fragment based object.
 
+
+## Parameters
+* **object**: 
+* **Component**: 
+* **NewHealth**: (Default value: `0`)

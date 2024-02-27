@@ -74,12 +74,12 @@ Finds the best candidate on-screen focus/subject ped.
 
 
 ## Parameters
-* **maxDistanceFromCamera**: The maximum valid distance from the camera to candidate peds.
-* **screenPositionTestBoneTag**: If valid (not BONETAG_NULL), this specified the candidate ped bone to be tested for valid screen position.
-* **maxScreenWidthRatioAroundCentreForTestBone**: The ratio of the screen width around the screen centre within which the specified test bone of a candidate ped must be located.
-* **maxScreenHeightRatioAroundCentreForTestBone**: The ratio of the screen height around the screen centre within which the specified test bone of a candidate ped must be located.
-* **minRelativeHeadingScore**: Defines the minimum scaling of a candidate ped's score that will be applied if the ped is at the far left or far right of the screen (at the maximum camera-relative heading.)
-* **maxScreenCentreScoreBoost**: The maximum factor by which to boost a candidate ped's score when they are roughly centred on the screen.
-* **maxScreenRatioAroundCentreForScoreBoost**: The ratio of the screen width located around the screen centre to apply the screenCentreScoreBoost.
-* **losTestBoneTag1**: 
-* **losTestBoneTag2**: 
+* **maxDistanceFromCamera**: The maximum valid distance from the camera to candidate peds. (Default value: `30`)
+* **screenPositionTestBoneTag**: If valid (not BONETAG_NULL), this specified the candidate ped bone to be tested for valid screen position. (Default value: `Head`)
+* **maxScreenWidthRatioAroundCentreForTestBone**: The ratio of the screen width around the screen centre within which the specified test bone of a candidate ped must be located. (Default value: `0`)
+* **maxScreenHeightRatioAroundCentreForTestBone**: The ratio of the screen height around the screen centre within which the specified test bone of a candidate ped must be located. (Default value: `0`)
+* **minRelativeHeadingScore**: Defines the minimum scaling of a candidate ped's score that will be applied if the ped is at the far left or far right of the screen (at the maximum camera-relative heading.) (Default value: `0`)
+* **maxScreenCentreScoreBoost**: The maximum factor by which to boost a candidate ped's score when they are roughly centred on the screen. (Default value: `8`)
+* **maxScreenRatioAroundCentreForScoreBoost**: The ratio of the screen width located around the screen centre to apply the screenCentreScoreBoost. (Default value: `0`)
+* **losTestBoneTag1**: (Default value: `Head`)
+* **losTestBoneTag2**: (Default value: `Spine3`)

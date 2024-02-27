@@ -11,3 +11,14 @@ bool ADD_VEHICLE_CREW_EMBLEM(Vehicle vehicle, Ped ped, int vehicleBoneIndex, Vec
 
 Places a crew emblem on a vehicle
 
+
+## Parameters
+* **vehicle**: 
+* **ped**: 
+* **vehicleBoneIndex**: 
+* **vOffsetPos**: 
+* **vDir**: 
+* **vSide**: 
+* **size**: 
+* **badgeIndex**: (Default value: `0`)
+* **badgeAlpha**: (Default value: `200`)

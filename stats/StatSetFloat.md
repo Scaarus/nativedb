@@ -11,3 +11,8 @@ bool STAT_SET_FLOAT(int Hash, float data, bool coderAssert);
 
 Set the value of an Float stat.
 
+
+## Parameters
+* **Hash**: 
+* **data**: 
+* **coderAssert**: (Default value: `True`)

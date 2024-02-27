@@ -344,3 +344,7 @@ Returns the best weapon the designated ped owns
 | 327 | WEAPONTYPE_DLC_VEHICLE_SPYCARGUN |
 | 328 | WEAPONTYPE_DLC_VEHICLE_SPYCARROCKET |
 
+
+## Parameters
+* **ped**: 
+* **IgnoreAmmoCheck**: (Default value: `False`)

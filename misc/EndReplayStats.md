@@ -9,5 +9,5 @@ aliases: ["0xa23e821fbdf8a5f2"]
 void END_REPLAY_STATS();
 ```
 
-When the player passes a replay mission, call this command after you've finished calling [ADD_REPLAY_STAT_VALUE](#_0x69FE6DC87BD2A5E9)
+When the player passes a replay mission, call this command after you've finished calling [`ADD_REPLAY_STAT_VALUE`](#_0x69FE6DC87BD2A5E9)
 

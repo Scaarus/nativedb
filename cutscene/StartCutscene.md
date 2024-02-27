@@ -30,3 +30,6 @@ Starts a streamed cut scene.
 | 4096 | Use Fp Camera Blend Out Mode |
 | 8192 | Exits Into Cover |
 
+
+## Parameters
+* **flags**: (Default value: `No Options`)

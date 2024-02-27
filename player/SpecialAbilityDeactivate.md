@@ -11,3 +11,7 @@ void SPECIAL_ABILITY_DEACTIVATE(Player player, int abilitySlot);
 
 Deactivates the player's special ability
 
+
+## Parameters
+* **player**: 
+* **abilitySlot**: (Default value: `0`)

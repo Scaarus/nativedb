@@ -11,3 +11,9 @@ void WAYPOINT_PLAYBACK_RESUME(Ped ped, bool AchieveHeadingFirst, int iProgressTo
 
 Resumes the playback of a waypoint-recording on the specified ped. bAchieveHeadingFirst : Optionally allows the ped to turn towards their next waypoint before starting to move (can help avoid navigation problems in tight spaces) iProgressToContinueFrom : Optionally allows you to specify which route point to continue from (use -1 to continue from current position) iTimeBeforeResumingMs : Optionally specifies a delay in millisecs, before the ped resumes their route following
 
+
+## Parameters
+* **ped**: 
+* **AchieveHeadingFirst**: (Default value: `False`)
+* **iProgressToContinueFrom**: 
+* **iTimeBeforeResumingMs**: (Default value: `0`)

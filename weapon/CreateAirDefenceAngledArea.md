@@ -13,3 +13,10 @@ Any bullets, projectiles or air vehicles that enter this angled area will be des
 
 Creates an air defence angled area at the defined position.
 
+
+## Parameters
+* **Position1**: 
+* **Position2**: 
+* **AreaWidth**: 
+* **vWeaponPosition**: 
+* **weaponHash**: (Default value: `Weapontype_Dlc_Air_Defence_Gun`)

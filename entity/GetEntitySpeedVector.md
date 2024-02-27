@@ -13,3 +13,7 @@ Get velocity vector of an entity.
 
 bLocalResult gives the result in local coordinates to the entity (x=right, y=forward, z=up)
 
+
+## Parameters
+* **entity**: 
+* **LocalResult**: (Default value: `False`)

@@ -21,3 +21,9 @@ Sets the entity's rotation.
 | 4 | Zxy |
 | 5 | Zyx |
 
+
+## Parameters
+* **entity**: 
+* **NewRotation**: 
+* **RotOrder**: (Default value: `Yxz`)
+* **DoDeadCheck**: (Default value: `True`)

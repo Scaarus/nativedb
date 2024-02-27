@@ -8,3 +8,6 @@ aliases: ["0x0bffb028b3dd0a97"]
 // 0x0BFFB028B3DD0A97
 void VEHICLE_START_PARACHUTING(bool AllowPlayerCancelParachuting);
 ```
+
+## Parameters
+* **AllowPlayerCancelParachuting**: (Default value: `True`)

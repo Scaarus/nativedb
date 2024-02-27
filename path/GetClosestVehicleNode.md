@@ -27,6 +27,6 @@ The commands will return FALSE if no node could be found (probably due to the no
 ## Parameters
 * **Position**: 
 * **ReturnNearestNodePosition**: 
-* **nodeFlags**: 
-* **zMeasureMult**: how strongly should the difference in Z direction be weighted? 0.0 = ignored completely, 1.0 = the same as 2d distance. Default is 3.0 since we tend to care about height differences more than 2d distance.
-* **zTolerance**: how far apart to the Z coords have to be before zMeasureMult kicks in?
+* **nodeFlags**: (Default value: `Include Switched Off Nodes`)
+* **zMeasureMult**: how strongly should the difference in Z direction be weighted? 0.0 = ignored completely, 1.0 = the same as 2d distance. Default is 3.0 since we tend to care about height differences more than 2d distance. (Default value: `3`)
+* **zTolerance**: how far apart to the Z coords have to be before zMeasureMult kicks in? (Default value: `0`)

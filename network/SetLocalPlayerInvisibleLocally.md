@@ -11,3 +11,6 @@ void SET_LOCAL_PLAYER_INVISIBLE_LOCALLY(bool IncludePlayersVehicle);
 
 Call this every frame to make the local player invisible only on our local machine
 
+
+## Parameters
+* **IncludePlayersVehicle**: (Default value: `False`)

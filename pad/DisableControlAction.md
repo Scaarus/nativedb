@@ -387,3 +387,8 @@ void DISABLE_CONTROL_ACTION(int control, int action, bool disableRelatedActions)
 
 If disableRelatedActions is true, related inputs will also be disabled. For example, disabling INPUT_SELECT_WEAPON will also disable INPUT_SELECT_WEAPON_UNARMED (and others) so no weapon can be selected.
 
+
+## Parameters
+* **control**: 
+* **action**: 
+* **disableRelatedActions**: (Default value: `True`)

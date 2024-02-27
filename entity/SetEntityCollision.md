@@ -11,3 +11,8 @@ void SET_ENTITY_COLLISION(Entity entity, bool UsesCollisionsFlag, bool KeepDisab
 
 Sets if an entity uses collision.
 
+
+## Parameters
+* **entity**: 
+* **UsesCollisionsFlag**: 
+* **KeepDisabledSimulatingFlag**: (Default value: `False`)

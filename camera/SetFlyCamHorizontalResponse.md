@@ -11,3 +11,9 @@ void SET_FLY_CAM_HORIZONTAL_RESPONSE(Camera camera, float maxSpeed, float maxAcc
 
 Sets the acceleration, deceleration and speed limits for horizontal translation of the specified scripted fly camera.
 
+
+## Parameters
+* **camera**: 
+* **maxSpeed**: (Default value: `40`)
+* **maxAcceleration**: (Default value: `40`)
+* **maxDeceleration**: (Default value: `200`)

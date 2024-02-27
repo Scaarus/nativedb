@@ -21,5 +21,5 @@ Gets the global zoom level used by all follow-ped cameras
 | 3 | Cinematic |
 | 4 | First Person |
 
-Deprecated! Please now use [GET_FOLLOW_PED_CAM_VIEW_MODE](#_0x8D4D46230B2C353A)
+Deprecated! Please now use [`GET_FOLLOW_PED_CAM_VIEW_MODE`](#_0x8D4D46230B2C353A)
 

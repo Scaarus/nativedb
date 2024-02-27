@@ -9,5 +9,5 @@ aliases: ["0x473151ebc762c6da"]
 int GET_CURRENT_NUMBER_OF_CLOUD_PHOTOS();
 ```
 
-Returns the current number of photos on the cloud. You can only call this after [GET_STATUS_OF_SORTED_LIST_OPERATION](#_0xF5BED327CEA362B1) has returned PHOTO_OPERATION_SUCCEEDED.
+Returns the current number of photos on the cloud. You can only call this after [`GET_STATUS_OF_SORTED_LIST_OPERATION`](#_0xF5BED327CEA362B1) has returned PHOTO_OPERATION_SUCCEEDED.
 

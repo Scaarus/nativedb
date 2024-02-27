@@ -19,7 +19,16 @@ Tells the ped to go to an offset from the target entity. A combination of flags 
 | 2 | Keep To Pavements |
 
 
-The destination point is (fXOffset,fYOffset) from the other entity’s position. Query for this task using 'SCRIPT_TASK_GOTO_ENTITY_OFFSET' as for [TASK_GO_TO_ENTITY](#_0x6A071245EB0D1882)
+The destination point is (fXOffset,fYOffset) from the other entity’s position. Query for this task using 'SCRIPT_TASK_GOTO_ENTITY_OFFSET' as for [`TASK_GO_TO_ENTITY`](#_0x6A071245EB0D1882)
 
 if Time is chosen to be -1 the ped will never warp.
 
+
+## Parameters
+* **entity**: 
+* **Time**: (Default value: `Default_Time_Before_Warp`)
+* **fTargetRadius**: (Default value: `Default_Seek_Radius`)
+* **fXOffset**: (Default value: `0`)
+* **fYOffset**: (Default value: `0`)
+* **MoveBlendRatio**: (Default value: `Pedmoveblendratio_Run`)
+* **OffsetFlags**: (Default value: `Default`)

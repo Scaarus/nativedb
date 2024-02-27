@@ -11,5 +11,5 @@ void SET_VEHICLE_NUMBER_PLATE_TEXT_INDEX(Vehicle vehicle, int index);
 
 Sets the number plate to one of a set specified by the vehicle artists.
 
-index should be greater than or equal to 0 and less than the value returned by [GET_NUMBER_OF_VEHICLE_NUMBER_PLATES](#_0x4C4D6B2644F458CB).
+index should be greater than or equal to 0 and less than the value returned by [`GET_NUMBER_OF_VEHICLE_NUMBER_PLATES`](#_0x4C4D6B2644F458CB).
 

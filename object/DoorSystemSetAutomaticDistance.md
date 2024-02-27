@@ -11,3 +11,9 @@ void DOOR_SYSTEM_SET_AUTOMATIC_DISTANCE(int doorEnumHash, float fAutomaticDistan
 
 Set the distance threshold at which the (sliding/garage/barrier) door should open at, in meters.
 
+
+## Parameters
+* **doorEnumHash**: 
+* **fAutomaticDistance**: 
+* **network**: (Default value: `True`)
+* **flushState**: (Default value: `False`)

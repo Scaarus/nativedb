@@ -19,3 +19,16 @@ Please keep all NATIVE definitions to a single line of code, to simplify some ex
 | 2 | Critical |
 | 3 | Lead In |
 
+
+## Parameters
+* **SpeakerNumber**: 
+* **Context**: 
+* **Subtitle**: 
+* **ListenerNumber**: 
+* **volumeType**: 
+* **isRandom**: (Default value: `False`)
+* **ducksRadio**: (Default value: `True`)
+* **ducksScore**: (Default value: `False`)
+* **audibility**: (Default value: `Normal`)
+* **dontInterruptForSpecialAbility**: (Default value: `False`)
+* **isPadSpeakerRoute**: (Default value: `False`)

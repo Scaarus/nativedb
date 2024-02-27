@@ -9,5 +9,5 @@ aliases: ["0xada24309fe08dacf"]
 bool NETWORK_IS_IN_TUTORIAL_SESSION();
 ```
 
-Returns whether the local player is currently in a tutorial session began via a call to either [NETWORK_START_SOLO_TUTORIAL_SESSION](#_0x17E0198B3882C2CB)() or [NETWORK_ALLOW_GANG_TO_JOIN_TUTORIAL_SESSION](#_0xFB680D403909DC70)()
+Returns whether the local player is currently in a tutorial session began via a call to either [`NETWORK_START_SOLO_TUTORIAL_SESSION`](#_0x17E0198B3882C2CB)() or [`NETWORK_ALLOW_GANG_TO_JOIN_TUTORIAL_SESSION`](#_0xFB680D403909DC70)()
 

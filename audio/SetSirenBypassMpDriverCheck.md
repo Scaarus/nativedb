@@ -9,5 +9,5 @@ aliases: ["0xf584cf8529b51434"]
 void SET_SIREN_BYPASS_MP_DRIVER_CHECK(Vehicle vehicle, bool Bypass);
 ```
 
-Use in conjuction with [SET_SIREN_WITH_NO_DRIVER](#_0x1FEF0683B96EBCF2) to definitely play the siren with no driver in MP modes
+Use in conjuction with [`SET_SIREN_WITH_NO_DRIVER`](#_0x1FEF0683B96EBCF2) to definitely play the siren with no driver in MP modes
 

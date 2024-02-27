@@ -11,3 +11,14 @@ void TASK_SWEEP_AIM_ENTITY(Ped ped, string pAnimDictName, string pLowAnimName, s
 
 Set the desired ped to point (anims dependant) at the desired entity. Turn rate is default to PI * 0.5f, increasing will turn faster.
 
+
+## Parameters
+* **ped**: 
+* **pAnimDictName**: 
+* **pLowAnimName**: 
+* **pMedAnimName**: 
+* **pHiAnimName**: 
+* **runTime**: 
+* **entity**: 
+* **turnRate**: (Default value: `1`)
+* **BlendInDuration**: (Default value: `Slow_Blend_Duration`)

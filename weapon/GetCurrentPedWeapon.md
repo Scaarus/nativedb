@@ -11,3 +11,8 @@ bool GET_CURRENT_PED_WEAPON(Ped ped, Hash weaponHash, bool DoDeadCheck);
 
 Get the current weapon a character is using - returns if it is usable (i.e. in their hand)
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **DoDeadCheck**: (Default value: `True`)

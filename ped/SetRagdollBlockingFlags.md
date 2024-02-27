@@ -36,3 +36,7 @@ Blocks ragdoll reactions from various forms of damage, (see enum RAGDOLL_BLOCKIN
 
 To disable ragdoll from bullets and player ped impacts, use RBF_BULLET_IMPACT | RBF_PLAYER_IMPACT
 
+
+## Parameters
+* **ped**: 
+* **flags**: (Default value: `Bullet Impact`)

@@ -24,3 +24,7 @@ Gets the rotation of an entity.
 
 The angles are between -180 and 180 not between 0 to 360
 
+
+## Parameters
+* **entity**: 
+* **RotOrder**: (Default value: `Yxz`)

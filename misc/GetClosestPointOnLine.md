@@ -11,3 +11,9 @@ Vector3 GET_CLOSEST_POINT_ON_LINE(Vector3 rPointToTest, Vector3 vStart, Vector3 
 
 Find the tValue of the closest point between a point and a line
 
+
+## Parameters
+* **rPointToTest**: 
+* **vStart**: 
+* **vEnd**: 
+* **ClampToLine**: (Default value: `True`)

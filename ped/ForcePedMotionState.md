@@ -47,5 +47,5 @@ Can be used to force a particular movement pose and behaviour, for example when 
 ## Parameters
 * **ped**: 
 * **state**: The defined motion state to force. See the PED_MOTION_STATE enum for the list of states available.
-* **exitstate**: 
-* **ForceAIPreCameraUpdate**: 
+* **exitstate**: (Default value: `Default`)
+* **ForceAIPreCameraUpdate**: (Default value: `False`)

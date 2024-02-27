@@ -11,3 +11,9 @@ void SPECIAL_ABILITY_CHARGE_NORMALIZED(Player player, float charge, bool ignoreA
 
 Adds a normalized charge to the player special ability. Example: 0.1 is 10% of the meter and a charge of 1.0 will fill the meter.
 
+
+## Parameters
+* **player**: 
+* **charge**: 
+* **ignoreActive**: 
+* **abilitySlot**: (Default value: `0`)

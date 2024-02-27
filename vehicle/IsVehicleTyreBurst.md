@@ -26,3 +26,8 @@ Checks if a vehicles tyre is burst
 
 SC_WHEEL_LIST is in commands_vehicle.sch IsBurstToRim true will return true only when just the rim remains for the tyre
 
+
+## Parameters
+* **vehicle**: 
+* **WheelNumber**: 
+* **IsBurstToRim**: (Default value: `False`)

@@ -13,3 +13,7 @@ Gets a random int from the range passed in. Be careful - this will only ever ret
 
 Default vaules min int = 0 and max int = 65535
 
+
+## Parameters
+* **MinInt**: (Default value: `0`)
+* **MaxInt**: (Default value: `65535`)

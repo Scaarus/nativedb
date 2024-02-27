@@ -15,3 +15,14 @@ Centre x and
 
 rects are drawn in order, with the laset rectangle drawn on top.
 
+
+## Parameters
+* **CentreX**: 
+* **CentreY**: 
+* **Width**: 
+* **Height**: 
+* **R**: 
+* **G**: 
+* **B**: 
+* **A**: 
+* **Stereo**: (Default value: `False`)

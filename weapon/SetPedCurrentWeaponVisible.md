@@ -15,6 +15,6 @@ Sets the visibility flag for the characters currently equipped weapon
 ## Parameters
 * **ped**: 
 * **VisibleFlag**: 
-* **DestroyObject**: 
-* **DeadCheck**: 
-* **StoreDestroyedWeaponClipValue**: only used if "DestroyObject" is TRUE. This flag ensures the weapon clip value if cached when destroyed, ensuring that it gets restored to this value when it is re-created.
+* **DestroyObject**: (Default value: `True`)
+* **DeadCheck**: (Default value: `True`)
+* **StoreDestroyedWeaponClipValue**: only used if "DestroyObject" is TRUE. This flag ensures the weapon clip value if cached when destroyed, ensuring that it gets restored to this value when it is re-created. (Default value: `False`)

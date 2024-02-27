@@ -11,3 +11,6 @@ void DATAFILE_DELETE(int datafileIndex);
 
 Deletes the datafile object in the given slot
 
+
+## Parameters
+* **datafileIndex**: (Default value: `0`)

@@ -11,3 +11,8 @@ void SET_VEHICLE_EXCLUSIVE_DRIVER(Vehicle vehicle, Ped ped, int driverIndex);
 
 Lock a vehicle to a specific driver.
 
+
+## Parameters
+* **vehicle**: 
+* **ped**: 
+* **driverIndex**: (Default value: `0`)

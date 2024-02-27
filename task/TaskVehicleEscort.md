@@ -9,7 +9,7 @@ aliases: ["0x0fa6e4b75f302400"]
 void TASK_VEHICLE_ESCORT(Ped ped, Vehicle vehicle, Entity entity, int EscortType, float CruiseSpeed, int mode, float CustomOffset, int MinHeightAboveTerrain, float StraightLineDistance);
 ```
 
-Identical to [TASK_VEHICLE_MISSION](#_0x659427E0EF36BCDE) with one of the MISSION_ESCORT types, but allows setting a custom offset
+Identical to [`TASK_VEHICLE_MISSION`](#_0x659427E0EF36BCDE) with one of the MISSION_ESCORT types, but allows setting a custom offset
 
 ## EscortType Values:
 | Value | Name |
@@ -61,3 +61,14 @@ Set CustomOffset to a negative value to use the default
 
 Tells a vehicle to escort another entity.
 
+
+## Parameters
+* **ped**: 
+* **vehicle**: 
+* **entity**: 
+* **EscortType**: 
+* **CruiseSpeed**: 
+* **mode**: 
+* **CustomOffset**: 
+* **MinHeightAboveTerrain**: (Default value: `20`)
+* **StraightLineDistance**: (Default value: `20`)

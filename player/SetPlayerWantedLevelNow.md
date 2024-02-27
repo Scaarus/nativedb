@@ -11,3 +11,6 @@ void SET_PLAYER_WANTED_LEVEL_NOW(bool DelayLawResponse);
 
 Sets the wanted level for the player immediately..
 
+
+## Parameters
+* **DelayLawResponse**: (Default value: `False`)

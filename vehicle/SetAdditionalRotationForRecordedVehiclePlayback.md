@@ -25,4 +25,4 @@ Applies an additional rotation to a plane upon which a vehicle recording is curr
 ## Parameters
 * **vehicle**: 
 * **Rotation**: The amount of addition rotation to apply, expressed as Euler angles in degrees.
-* **RotOrder**: Defines the rotation order to use when composing a rotation matrix from Euler angles, defaults to YXZ order, which will be appropriate for almost all uses.
+* **RotOrder**: Defines the rotation order to use when composing a rotation matrix from Euler angles, defaults to YXZ order, which will be appropriate for almost all uses. (Default value: `Yxz`)

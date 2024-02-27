@@ -11,3 +11,11 @@ void TASK_WARP_PED_DIRECTLY_INTO_COVER(Ped ped, int iTime, bool CanPeekAndAim, b
 
 Warps the ped directly into cover at the nearest point to the position specified.
 
+
+## Parameters
+* **ped**: 
+* **iTime**: 
+* **CanPeekAndAim**: (Default value: `False`)
+* **ForceInitialFacingDirection**: (Default value: `False`)
+* **ForceFaceLeft**: (Default value: `False`)
+* **coverpoint**: (Default value: `Null`)

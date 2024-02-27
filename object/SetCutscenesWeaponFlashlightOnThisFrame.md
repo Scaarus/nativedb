@@ -13,3 +13,7 @@ Forces on the flashlight of a weapon object for this frame during cutscenes.
 
 Will only force it on if the weapon is not owned by a ped (i.e. It belongs to a cutscene).
 
+
+## Parameters
+* **object**: 
+* **ForceOn**: (Default value: `True`)

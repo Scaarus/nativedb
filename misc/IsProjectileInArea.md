@@ -11,3 +11,8 @@ bool IS_PROJECTILE_IN_AREA(Vector3 MinPosition, Vector3 MaxPosition, bool IsPlay
 
 Checks that a projectile object is in the area.
 
+
+## Parameters
+* **MinPosition**: 
+* **MaxPosition**: 
+* **IsPlayer**: (Default value: `False`)

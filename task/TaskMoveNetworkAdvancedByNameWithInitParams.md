@@ -34,3 +34,15 @@ Task to start a move network of the type passed with custom start pos and orient
 
 "animDictionary" In network games you may need to inform the move task of the required dictionary so it can be synced and remote players can manage clones and know when the dictionary is ready e.g. arm wrestling
 
+
+## Parameters
+* **ped**: 
+* **network**: 
+* **initParams**: 
+* **vStartPos**: 
+* **vStartRot**: 
+* **RotOrder**: (Default value: `Yxz`)
+* **blendDuration**: (Default value: `0`)
+* **AllowOverrideCloneUpdate**: (Default value: `False`)
+* **animDictionary**: (Default value: `Null`)
+* **flags**: (Default value: `Default`)

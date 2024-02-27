@@ -17,3 +17,8 @@ Can be used to stop the ped from losing his (glasses/hats) or helmet when receiv
 | 0 | Can Lose Props On Damage |
 | 1 | Allow Helmet Loss On Headshot |
 
+
+## Parameters
+* **ped**: 
+* **value**: 
+* **flag**: (Default value: `Can Lose Props On Damage`)

@@ -87,10 +87,10 @@ As for task_play_anim, but provides the function to specify an inital position a
 * **pAnimDictName**: 
 * **pos**: 
 * **rot**: 
-* **fBlendInDelta**: the rate at which the task will blend in The blend in duration is 1.0 fBlendInDelta e.g. 1.0 NORMAL_BLEND_IN -> 1.0 8.0 = 0.125 seconds
-* **fBlendOutDelta**: the rate at which the task will blend out The blend out duration is -1.0 fBlendOutDelta e.g. -1.0 NORMAL_BLEND_OUT -> -1.0 -8.0 = 0.125 seconds
+* **fBlendInDelta**: the rate at which the task will blend in The blend in duration is 1.0 fBlendInDelta e.g. 1.0 NORMAL_BLEND_IN -> 1.0 8.0 = 0.125 seconds (Default value: `Normal_Blend_In`)
+* **fBlendOutDelta**: the rate at which the task will blend out The blend out duration is -1.0 fBlendOutDelta e.g. -1.0 NORMAL_BLEND_OUT -> -1.0 -8.0 = 0.125 seconds (Default value: `Normal_Blend_Out`)
 * **nTimeToPlay**: 
-* **AnimFlags**: 
-* **startPhase**: 
-* **RotOrder**: 
-* **ikFlags**: 
+* **AnimFlags**: (Default value: `Default`)
+* **startPhase**: (Default value: `0`)
+* **RotOrder**: (Default value: `Yxz`)
+* **ikFlags**: (Default value: `None`)

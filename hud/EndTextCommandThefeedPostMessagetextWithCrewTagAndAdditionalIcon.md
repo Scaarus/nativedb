@@ -9,7 +9,7 @@ aliases: ["0x531b84e7da981fb6"]
 int END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG_AND_ADDITIONAL_ICON(string sTXD, string sImageName, bool IsImportant, int eIcon, string sCharacterName, string sSubtitle, float timeMultiplier, string sCrewTagPacked, int eIcon2, int iHudColor);
 ```
 
-** Modified TITLE_UPDATE COMMAND ** Does everything [END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG](#_0x5CBF7BADE20DB93E) can do, but with an additional icon!
+** Modified TITLE_UPDATE COMMAND ** Does everything [`END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG`](#_0x5CBF7BADE20DB93E) can do, but with an additional icon!
 
 ## eIcon Values:
 | Value | Name |
@@ -28,3 +28,15 @@ int END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_WITH_CREW_TAG_AND_ADDITIONAL_ICON(
 | 11 | Xp Alt |
 | 12 | Cash Alt |
 
+
+## Parameters
+* **sTXD**: 
+* **sImageName**: 
+* **IsImportant**: 
+* **eIcon**: 
+* **sCharacterName**: 
+* **sSubtitle**: (Default value: `Null`)
+* **timeMultiplier**: (Default value: `1`)
+* **sCrewTagPacked**: (Default value: `Null`)
+* **eIcon2**: (Default value: `0`)
+* **iHudColor**: (Default value: `1`)

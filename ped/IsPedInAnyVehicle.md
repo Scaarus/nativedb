@@ -11,3 +11,7 @@ bool IS_PED_IN_ANY_VEHICLE(Ped ped, bool ConsiderEnteringAsInVehicle);
 
 Checks the ped is getting in/out OR sitting in any vehicle.
 
+
+## Parameters
+* **ped**: 
+* **ConsiderEnteringAsInVehicle**: (Default value: `False`)

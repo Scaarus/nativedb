@@ -11,3 +11,7 @@ void PLAYSTATS_HEIST_SAVE_CHEAT(int value, int secondValue);
 
 Metric used to track the cheaters pulling the cable in heists
 
+
+## Parameters
+* **value**: 
+* **secondValue**: (Default value: `0`)

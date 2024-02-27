@@ -13,3 +13,8 @@ Enables or disables the player special ability.
 
 A disabled special ability will allow the meter to be filled/depleted but the player can't activate the ability.
 
+
+## Parameters
+* **player**: 
+* **enable**: 
+* **abilitySlot**: (Default value: `0`)

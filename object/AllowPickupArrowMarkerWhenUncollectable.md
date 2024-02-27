@@ -11,3 +11,7 @@ void ALLOW_PICKUP_ARROW_MARKER_WHEN_UNCOLLECTABLE(Object object, bool Set);
 
 Allows the arrow marker to be displayed when the pickup is uncollectable
 
+
+## Parameters
+* **object**: 
+* **Set**: (Default value: `True`)

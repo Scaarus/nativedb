@@ -9,7 +9,7 @@ aliases: ["0x36c1451a88a09630"]
 void GET_MENU_TRIGGER_EVENT_DETAILS(int iTriggerId, int iMenuIndex);
 ```
 
-passes the details of the trigger event - must only be called once, and only when [HAS_MENU_TRIGGER_EVENT_OCCURRED](#_0xF284AC67940C6812) returns true
+passes the details of the trigger event - must only be called once, and only when [`HAS_MENU_TRIGGER_EVENT_OCCURRED`](#_0xF284AC67940C6812) returns true
 
 ## iTriggerId Values:
 | Value | Name |

@@ -11,3 +11,7 @@ void PLAYSTATS_WEBSITE_VISITED(int siteId, int timeSpent);
 
 Metric set when a website is visited
 
+
+## Parameters
+* **siteId**: 
+* **timeSpent**: (Default value: `0`)

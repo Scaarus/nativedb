@@ -13,3 +13,8 @@ Requests and checks that a script audio bank has loaded.
 
 Usually this would be called in a loop which only exits when this returns true.
 
+
+## Parameters
+* **BankName**: 
+* **OverNetwork**: (Default value: `False`)
+* **playerBits**: (Default value: `Aud_Net_All_Players`)

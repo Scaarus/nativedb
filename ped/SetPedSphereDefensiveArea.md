@@ -13,3 +13,9 @@ Sets a defensive sphere that a ped will use.
 
 bUseCenterAsGoToPosition will have the ped go to the center position rather than closest position if the cover search fails bApplyToSecondaryDefensiveArea makes this command be used with the secondaryfallback defensive area instead of the primary one
 
+
+## Parameters
+* **vCentre**: 
+* **fRadius**: 
+* **UseCenterAsGoToPosition**: (Default value: `False`)
+* **ApplyToSecondaryDefensiveArea**: (Default value: `False`)

@@ -13,10 +13,10 @@ Allows script to override the cop perception parameters. This affects all code-s
 
 
 ## Parameters
-* **fSeeingRange**: how far away a ped can identify the ped (default on
-* **fSeeingRangePeripheral**: how far the perhiperal vision extends (doesn't affect rendered cone blip).
-* **fHearingRange**: how far a ped can hear (default on
+* **fSeeingRange**: how far away a ped can identify the ped (default on (Default value: `60`)
+* **fSeeingRangePeripheral**: how far the perhiperal vision extends (doesn't affect rendered cone blip). (Default value: `5`)
+* **fHearingRange**: how far a ped can hear (default on (Default value: `60`)
 * **fMinAzimuthAngle**: MIN horizontal field of view for the ped (doesn't affect rendered cone blip).
-* **fMaxAzimuthAngle**: MAX horizontal field of view for the ped (doesn't affect rendered cone blip).
-* **fCentreOfGazeMaxAngle**: Defines the central angle.
+* **fMaxAzimuthAngle**: MAX horizontal field of view for the ped (doesn't affect rendered cone blip). (Default value: `90`)
+* **fCentreOfGazeMaxAngle**: Defines the central angle. (Default value: `60`)
 * **fRearViewSeeingRangeOverride**: Override rear view mirror perception range (when in vehicle). Will use default range (fSeeingRange) if set to -1.0f. on all of these params in the wiki.

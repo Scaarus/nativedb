@@ -16,4 +16,4 @@ This function will change the given players explosive damage multiplier.
 
 ## Parameters
 * **player**: 
-* **Modifier**: Reset this to 1.0f when finished!
+* **Modifier**: Reset this to 1.0f when finished! (Default value: `1`)

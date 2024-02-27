@@ -46,5 +46,5 @@ void TASK_VEHICLE_GOTO_NAVMESH(Ped ped, Vehicle vehicle, Vector3 Position, float
 | 1073741824 | DF_ForceJoinInRoadDirection |
 
 
-Same as the params in [TASK_VEHICLE_MISSION](#_0x659427E0EF36BCDE) PURPOSE; Tells the specified vehicle to navigate somewhere using the navmesh, as opposed to the road network
+Same as the params in [`TASK_VEHICLE_MISSION`](#_0x659427E0EF36BCDE) PURPOSE; Tells the specified vehicle to navigate somewhere using the navmesh, as opposed to the road network
 

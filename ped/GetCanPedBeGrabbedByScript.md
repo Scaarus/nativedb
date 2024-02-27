@@ -47,3 +47,14 @@ Returns whether a given ped meets the given criteria to become script controlled
 | 29 | Army |
 | 30 | Last Pedtype |
 
+
+## Parameters
+* **ped**: 
+* **ScanRandomPeds**: 
+* **ScanMissionPeds**: 
+* **CheckIfThePedIsInAGroup**: (Default value: `False`)
+* **CheckIfThePedIsInAVehicle**: (Default value: `False`)
+* **CheckPlayerPeds**: (Default value: `False`)
+* **ReturnDeadOrDyingPeds**: (Default value: `False`)
+* **ReturnPedsWithScriptedTasks**: (Default value: `False`)
+* **ExclusionPedType**: (Default value: `Invalid`)

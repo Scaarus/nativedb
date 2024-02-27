@@ -18,3 +18,11 @@ Checks if the entity's root is located in the given area defined by a centre poi
 | 1 | On Foot (The Ped Is On Foot) |
 | 2 | In Vehicle (The Ped Is In A Vehicle Not On Foot) |
 
+
+## Parameters
+* **entity**: 
+* **Position**: 
+* **LocDimensions**: 
+* **HighlightArea**: (Default value: `False`)
+* **Do3dCheck**: (Default value: `True`)
+* **TM_MODE**: (Default value: `Tm_Any`)

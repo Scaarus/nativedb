@@ -17,7 +17,7 @@ If you want to set the coords of a ped in a vehicle, use SET_PED_COORDS_KEEP_VEH
 ## Parameters
 * **entity**: 
 * **NewPosition**: 
-* **DoDeadCheck**: If false then the command will not assert if the entity has not been checked for being dead
-* **KeepTasks**: only applied to peds. If true, the tasks on the ped are not removed when he is teleported.
-* **KeepIK**: only applied to peds. If true, the IK on the ped is not reset when he is teleported.
-* **DoWarp**: Calling with the non-default value of FALSE implies that the object has continuous motion and should not clear contacts nor space for itself.
+* **DoDeadCheck**: If false then the command will not assert if the entity has not been checked for being dead (Default value: `True`)
+* **KeepTasks**: only applied to peds. If true, the tasks on the ped are not removed when he is teleported. (Default value: `False`)
+* **KeepIK**: only applied to peds. If true, the IK on the ped is not reset when he is teleported. (Default value: `False`)
+* **DoWarp**: Calling with the non-default value of FALSE implies that the object has continuous motion and should not clear contacts nor space for itself. (Default value: `True`)

@@ -13,3 +13,7 @@ Forces the pickup to fully sync up with all players before it gets destroyed so 
 
 Unset it before trying to delete the pickup via the DELETE_ENTITY function
 
+
+## Parameters
+* **object**: 
+* **set**: (Default value: `True`)

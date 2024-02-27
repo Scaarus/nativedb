@@ -35,5 +35,5 @@ int END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_TU(string sTXD, string sImageName,
 * **IsImportant**: T
 * **eIcon**: Icon type.
 * **sCharacterName**: The Character's Name.
-* **sSubtitle**: Optional Subtitle to display below title
-* **timeMultiplier**: Multiplicative modifier to the standard display time of a feed item (2.0f will double the amount of time this feed item is shown on screen)
+* **sSubtitle**: Optional Subtitle to display below title (Default value: `Null`)
+* **timeMultiplier**: Multiplicative modifier to the standard display time of a feed item (2.0f will double the amount of time this feed item is shown on screen) (Default value: `1`)

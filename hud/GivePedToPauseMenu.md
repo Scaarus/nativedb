@@ -11,3 +11,7 @@ void GIVE_PED_TO_PAUSE_MENU(Ped ped, int column);
 
 Hands off a script created ped to code. param: column: 0=LEFT, 1=MIDDLE, 2=RIGHT
 
+
+## Parameters
+* **ped**: 
+* **column**: (Default value: `1`)

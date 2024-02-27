@@ -22,3 +22,6 @@ Checks for when the playerlist changes, and triggers for the new stats to be gra
 | 5 | Directory |
 | 100 | Last Job |
 
+
+## Parameters
+* **type**: (Default value: `Corona Players`)

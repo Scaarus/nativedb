@@ -13,3 +13,11 @@ Tells the PlayStats that a mission is over.
 
 pMissionName -
 
+
+## Parameters
+* **pMissionName**: 
+* **variant**: (Default value: `0`)
+* **checkpoint**: (Default value: `0`)
+* **failed**: (Default value: `False`)
+* **canceled**: (Default value: `False`)
+* **skipped**: (Default value: `False`)

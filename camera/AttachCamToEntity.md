@@ -16,4 +16,4 @@ Attaches a camera to an entity.
 * **camera**: 
 * **entity**: 
 * **vecOffset**: An additional offset to be applied from the attach position.
-* **OffsetIsRelative**: If true, vecOffset is applied relative to the orientation of the attached entity, rather than in world-space.
+* **OffsetIsRelative**: If true, vecOffset is applied relative to the orientation of the attached entity, rather than in world-space. (Default value: `True`)

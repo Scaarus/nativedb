@@ -11,3 +11,8 @@ void SET_ENTITY_IS_TARGET_PRIORITY(Entity entity, bool HighPriority, float fTarg
 
 Set entity to be a target priority
 
+
+## Parameters
+* **entity**: 
+* **HighPriority**: 
+* **fTargetableDistance**: (Default value: `0`)

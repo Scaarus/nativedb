@@ -11,3 +11,7 @@ void SET_OBJECT_TAKES_DAMAGE_FROM_COLLIDING_WITH_BUILDINGS(Object object, bool T
 
 Marks object to take damage from colliding with buildings.
 
+
+## Parameters
+* **object**: 
+* **TakesDamage**: (Default value: `True`)

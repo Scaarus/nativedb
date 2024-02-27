@@ -13,4 +13,4 @@ Stops the hint cam running except if its a code gameplay hint.
 
 
 ## Parameters
-* **StopImmediately**: If TRUE, the hint camera will stop immediately, otherwise it will enter its release phase.
+* **StopImmediately**: If TRUE, the hint camera will stop immediately, otherwise it will enter its release phase. (Default value: `False`)

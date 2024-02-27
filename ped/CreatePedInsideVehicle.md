@@ -73,6 +73,6 @@ If any_seat_is passed in the command will assert.
 * **vehicle**: 
 * **PedType**: 
 * **modelHash**: 
-* **Seat**: 
-* **RegisterAsNetworkObject**: The new object will be created and synced on other machines if a network game is running
-* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that
+* **Seat**: (Default value: `Driver`)
+* **RegisterAsNetworkObject**: The new object will be created and synced on other machines if a network game is running (Default value: `True`)
+* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that (Default value: `True`)

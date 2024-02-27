@@ -11,3 +11,7 @@ void SET_VEHICLE_DOORS_SHUT(Vehicle vehicle, bool ShutInstantly);
 
 Shuts all the doors on a vehicle
 
+
+## Parameters
+* **vehicle**: 
+* **ShutInstantly**: (Default value: `True`)

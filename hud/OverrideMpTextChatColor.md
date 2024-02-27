@@ -250,3 +250,7 @@ Overrides the MP Text Chat color - pass in TRUE and the hudcolor, or just pass i
 | 233 | Placeholder 10 |
 | 234 | Junk Energy |
 
+
+## Parameters
+* **OnOff**: 
+* **hudColor**: (Default value: `White`)

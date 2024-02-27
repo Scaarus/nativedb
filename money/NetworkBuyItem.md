@@ -16,3 +16,15 @@ Player bought something in a shop extra1 - client view of the current inventory.
 | --- | --- |
 | 0 | Purchase Weapons |
 
+
+## Parameters
+* **amount**: 
+* **itemhash**: 
+* **type**: 
+* **extra1**: (Default value: `1`)
+* **fromBank**: (Default value: `False`)
+* **itemIdentifier**: (Default value: `Null`)
+* **shopNameHash**: (Default value: `0`)
+* **extraItemHash**: (Default value: `0`)
+* **colorHash**: (Default value: `0`)
+* **fromBankAndWallet**: (Default value: `False`)

@@ -11,3 +11,8 @@ void SET_ENTITY_VISIBLE_IN_CUTSCENE(Entity entity, bool Visible, bool RemotelyVi
 
 Sets whether a script entity is visible in the cutscene, locally and/or remotely. The entity must be networked.
 
+
+## Parameters
+* **entity**: 
+* **Visible**: 
+* **RemotelyVisible**: (Default value: `False`)

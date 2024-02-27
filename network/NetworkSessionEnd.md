@@ -13,5 +13,5 @@ Ends a network session
 
 
 ## Parameters
-* **ReturnToLobby**: FALSE to leave this session, TRUE to remain (and return to the lobby state)
-* **Blacklist**: Blacklist this session for 5 minutes, it will not be used for matchmaking (unless there are no other sessions)
+* **ReturnToLobby**: FALSE to leave this session, TRUE to remain (and return to the lobby state) (Default value: `False`)
+* **Blacklist**: Blacklist this session for 5 minutes, it will not be used for matchmaking (unless there are no other sessions) (Default value: `False`)

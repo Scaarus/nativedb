@@ -11,3 +11,7 @@ void TASK_TURN_PED_TO_FACE_ENTITY(Entity entity, int Time);
 
 Tells a ped to face an entity.
 
+
+## Parameters
+* **entity**: 
+* **Time**: (Default value: `0`)

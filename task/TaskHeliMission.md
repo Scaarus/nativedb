@@ -64,3 +64,17 @@ Gives the heli a mission.
 
 VEHICLE_INDEX VehicleIndex (The actual heli that will be flown) VEHICLE_INDEX TargetVehicleIndex (If a target vehicle needs to be specified it is done here) PED_INDEX TargetPedIndex (If a target ped needs to be specified it is done here) FLOAT TargetX, TargetY, TargetZ (specify targetcoordinates here in needed.) VEHICLE_MISSION Mission (Mission to be exectuted. ie MISSION_GOTO, MISSION_ATTACK, MISSION_FOLLOW) in commands_vehicle.sch X:\GTA\gta_rage_scripts\include\commands_vehicle.sch FLOAT CruiseSpeed (in ms) FLOAT TargetReachedDist (distance (in meters) at which heli thinks it's arrived.) ALSO used as the hover distance for MISSION_ATTACK and MISSION_CIRCLE FLOAT HeliOrientation (orientation heli tries to be in. (0-360) Use -1 if not bothered. -1 Should be used in 99% of the times) INT FlightHeight (z coordinate the heli tries to maintain. ie 30 == 30 meters above sea level) INT MinHeightAboveTerrain (height in meters that the heli will try to stay above terrain. ie 20 == always tries to stay at least 20 meters above ground.) FLOAT fSlowDownDistance. setting to -1 means use default tuning(100). in general get more control with big number and more dynamic with smaller #
 
+
+## Parameters
+* **vehicle**: 
+* **vehicle**: 
+* **ped**: 
+* **Position**: 
+* **Mission**: 
+* **CruiseSpeed**: 
+* **TargetReachedDist**: 
+* **HeliOrientation**: 
+* **FlightHeight**: 
+* **MinHeightAboveTerrain**: 
+* **fSlowDownDistance**: 
+* **HeliFlags**: (Default value: `None`)

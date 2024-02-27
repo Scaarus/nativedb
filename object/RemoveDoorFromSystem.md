@@ -14,4 +14,4 @@ Remove a script defined door from the door system
 
 ## Parameters
 * **doorEnumHash**: 
-* **Lock**: Leaves the door in a locked state
+* **Lock**: Leaves the door in a locked state (Default value: `False`)

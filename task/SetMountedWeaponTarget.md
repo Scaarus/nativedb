@@ -22,3 +22,10 @@ void SET_MOUNTED_WEAPON_TARGET(Ped ped, Vehicle vehicle, Vector3 Position, int V
 
 Used to update a mounted weapon task (instead of constantly clearing and creating a new task) and to update the position
 
+
+## Parameters
+* **ped**: 
+* **vehicle**: 
+* **Position**: 
+* **VehicleTaskMode**: (Default value: `Aim`)
+* **IgnoreTargetVehDeadCheck**: (Default value: `False`)

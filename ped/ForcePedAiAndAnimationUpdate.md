@@ -15,3 +15,8 @@ ForceAIPreCameraUpdate forces the ai update to be done before the camera update,
 
 ***this is an expensive command - please speak to AI before using***
 
+
+## Parameters
+* **ped**: 
+* **ForceAIPreCameraUpdate**: (Default value: `False`)
+* **ForceZeroTimestep**: (Default value: `False`)

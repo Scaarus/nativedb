@@ -11,3 +11,7 @@ bool IS_SPECIAL_ABILITY_METER_FULL(Player player, int abilitySlot);
 
 Returns true when the player's special ability meter is full.
 
+
+## Parameters
+* **player**: 
+* **abilitySlot**: (Default value: `0`)

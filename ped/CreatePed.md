@@ -57,6 +57,6 @@ PED_TYPE is contained in command_ped.
 * **PedType**: 
 * **modelHash**: 
 * **NewPosition**: 
-* **fPedHeading**: 
-* **RegisterAsNetworkObject**: The new object will be created and synced on other machines if a network game is running
-* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that
+* **fPedHeading**: (Default value: `0`)
+* **RegisterAsNetworkObject**: The new object will be created and synced on other machines if a network game is running (Default value: `True`)
+* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that (Default value: `True`)

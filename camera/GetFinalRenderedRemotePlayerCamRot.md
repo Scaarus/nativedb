@@ -21,3 +21,7 @@ Gets the rotation of the final rendered cam for a remote player.
 | 4 | Zxy |
 | 5 | Zyx |
 
+
+## Parameters
+* **player**: 
+* **RotOrder**: (Default value: `Yxz`)

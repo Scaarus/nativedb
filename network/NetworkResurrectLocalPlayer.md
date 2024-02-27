@@ -15,8 +15,8 @@ Revives our local player who was previously dead. CALL THIS ONCE WHEN YOU WANT T
 ## Parameters
 * **Pos**: 
 * **Heading**: 
-* **invicibilityTime**: this is the length of time in millisecs that the player will be invincible for after resurrection
-* **leaveDeadPed**: 
-* **unpauseRenderPhase**: 
+* **invicibilityTime**: this is the length of time in millisecs that the player will be invincible for after resurrection (Default value: `0`)
+* **leaveDeadPed**: (Default value: `True`)
+* **unpauseRenderPhase**: (Default value: `True`)
 * **spawnLocation**: enum PLAYER_SPAWN_LOCATION for telemetry
 * **spawnReason**: 

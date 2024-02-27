@@ -35,3 +35,7 @@ Sets the helmet flag for which tpye of prop to use
 | 131072 | Use Physics Hat 2 |
 | 262144 | Pilot Helmet |
 
+
+## Parameters
+* **ped**: 
+* **HelmetPropFlag**: (Default value: `Pv_Flag_Default_Helmet`)

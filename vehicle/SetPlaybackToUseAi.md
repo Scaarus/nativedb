@@ -50,3 +50,7 @@ Stes a vehicle recording for a certain vehicle from being exact to be using AI.
 
 After this command is called the car will use ai to try and stay close to the original recording
 
+
+## Parameters
+* **vehicle**: 
+* **Mode**: (Default value: `Drivingmode_Stopforcars`)

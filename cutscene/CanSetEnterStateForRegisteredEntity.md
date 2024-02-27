@@ -13,3 +13,7 @@ Call this to check if a peds state can be set for start of the cutscene.
 
 Only need to pass the model in if the scene has both an IG_ and CS_ version of the same model
 
+
+## Parameters
+* **sSceneName**: 
+* **modelHash**: (Default value: `Dummy_Model_For_Script`)

@@ -11,3 +11,7 @@ bool GET_IS_ARTICULATED_JOINT_AT_MAX_ANGLE(Object object, int JointIndex);
 
 Returns true if the joint in the object is at its maximum angle
 
+
+## Parameters
+* **object**: 
+* **JointIndex**: (Default value: `0`)

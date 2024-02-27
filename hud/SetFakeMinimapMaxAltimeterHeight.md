@@ -253,5 +253,5 @@ sets a fake max height for the minimap altimeter
 
 ## Parameters
 * **fMaxHeight**: 
-* **ColourAltimeterArea**: set this to TRUE to fill the altimeter background with a semi-opaque colour
-* **hudColor**: 
+* **ColourAltimeterArea**: set this to TRUE to fill the altimeter background with a semi-opaque colour (Default value: `False`)
+* **hudColor**: (Default value: `Purple`)

@@ -13,3 +13,6 @@ Any contributions to the wanted level are blocked for 5 seconds or so.
 
 This should be called when a mission is passed or on autosave.
 
+
+## Parameters
+* **iDuration**: (Default value: `5000`)

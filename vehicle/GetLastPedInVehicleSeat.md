@@ -29,3 +29,7 @@ Gets the last ped to use the designated vehicle seat.
 
 Cannont use VS_ANY_PASSENGER
 
+
+## Parameters
+* **vehicle**: 
+* **seat**: (Default value: `Driver`)

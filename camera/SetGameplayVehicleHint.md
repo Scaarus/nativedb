@@ -17,7 +17,7 @@ iDwellTime = how long cam looks at the entity. RelativeOffset : The offset is re
 ## Parameters
 * **vehicle**: 
 * **Offset**: 
-* **RelativeOffset**: 
-* **iDwellTime**: 
-* **iInterpTo**: How long the interp to the hint is
-* **iInterpFrom**: How long the interp is from the iterp.
+* **RelativeOffset**: (Default value: `True`)
+* **iDwellTime**: (Default value: `Default_Dwell_Time`)
+* **iInterpTo**: How long the interp to the hint is (Default value: `Default_Interp_In_Time`)
+* **iInterpFrom**: How long the interp is from the iterp. (Default value: `Default_Interp_Out_Time`)

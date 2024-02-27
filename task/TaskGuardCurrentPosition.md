@@ -11,5 +11,5 @@ void TASK_GUARD_CURRENT_POSITION(float fMaxPatrolProximity, float GuardAreaRadiu
 
 Tells the ped to guard their current position with the area passed.
 
-bSetDefensiveArea is set the peds defensive area will be set to the position and radius of fGuardAreaRadius. The behaviour will be the same as [TASK_STAND_GUARD](#_0xAE032F8BBA959E90), but will only patrol inside the defensive area and inside fMaxPatrolProximity, if the ped shouldn't patrol the area, set fMaxPatrolProximity to 0.0
+bSetDefensiveArea is set the peds defensive area will be set to the position and radius of fGuardAreaRadius. The behaviour will be the same as [`TASK_STAND_GUARD`](#_0xAE032F8BBA959E90), but will only patrol inside the defensive area and inside fMaxPatrolProximity, if the ped shouldn't patrol the area, set fMaxPatrolProximity to 0.0
 

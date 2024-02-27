@@ -22,6 +22,6 @@ bIsPrivate false = public, true = private bShowLogoFlag false = no R*, true = R*
 * **FounderStatus**: 
 * **IsImportant**: T
 * **crewId**: the ID of the crew the message is for
-* **iCrewColourR**: 
-* **iCrewColourG**: 
-* **iCrewColourB**: 
+* **iCrewColourR**: (Default value: `0`)
+* **iCrewColourG**: (Default value: `0`)
+* **iCrewColourB**: (Default value: `0`)

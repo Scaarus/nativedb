@@ -15,3 +15,7 @@ Will return false for cars on fire if and only if bCheckFire is true.
 
 Must be used before using many of the other vehicle commands.
 
+
+## Parameters
+* **vehicle**: 
+* **CheckFire**: (Default value: `False`)

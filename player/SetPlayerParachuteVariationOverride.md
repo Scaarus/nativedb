@@ -28,3 +28,10 @@ void SET_PLAYER_PARACHUTE_VARIATION_OVERRIDE(Player player, int ComponentNumber,
 
 An override for parachute variation. Used to sync up script and code.
 
+
+## Parameters
+* **player**: 
+* **ComponentNumber**: 
+* **NewDrawableNumber**: 
+* **TexID**: (Default value: `0`)
+* **AltDrawableID**: (Default value: `0`)

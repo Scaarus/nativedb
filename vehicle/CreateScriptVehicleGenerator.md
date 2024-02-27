@@ -11,3 +11,20 @@ Vehicle_Generator CREATE_SCRIPT_VEHICLE_GENERATOR(Vector3 NewPosition, float fHe
 
 Creates a vehicle generator
 
+
+## Parameters
+* **NewPosition**: 
+* **fHeadingInDegrees**: 
+* **fMaxLength**: 
+* **MaxWidth**: 
+* **modelHash**: 
+* **Remap1**: 
+* **Remap2**: 
+* **Remap3**: 
+* **Remap4**: 
+* **HighPriorityFlag**: 
+* **ChanceOfCarAlarm**: 
+* **ChanceOfLocked**: 
+* **PreventEntryIfNotQualified**: (Default value: `False`)
+* **CanBeStolen**: (Default value: `True`)
+* **livery**: 

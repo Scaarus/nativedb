@@ -29,3 +29,6 @@ Randomly sets the drawables and textures for a ped from those available.
 
 Ensures that any skin tones which appear in different textures will be consistent for a characte
 
+
+## Parameters
+* **race**: (Default value: `Universal`)

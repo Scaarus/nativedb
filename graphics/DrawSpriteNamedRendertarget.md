@@ -8,3 +8,17 @@ aliases: ["0x2bc54a8188768488"]
 // 0x2BC54A8188768488
 void DRAW_SPRITE_NAMED_RENDERTARGET(string pTextureDictionaryName, string pTextureName, float CentreX, float CentreY, float Width, float Height, float Rotation, int R, int G, int B, int A, bool UseNearest);
 ```
+
+## Parameters
+* **pTextureDictionaryName**: 
+* **pTextureName**: 
+* **CentreX**: 
+* **CentreY**: 
+* **Width**: 
+* **Height**: 
+* **Rotation**: 
+* **R**: 
+* **G**: 
+* **B**: 
+* **A**: 
+* **UseNearest**: (Default value: `False`)

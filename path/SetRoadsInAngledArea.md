@@ -13,3 +13,11 @@ Set roads in angled area. See comments for SWITCH_ROADS_IN_AREA
 
 bHighlightArea does nothing
 
+
+## Parameters
+* **vVec1**: 
+* **vVec2**: 
+* **fAreaWidth**: 
+* **HighlightArea**: 
+* **Active**: 
+* **Network**: (Default value: `True`)

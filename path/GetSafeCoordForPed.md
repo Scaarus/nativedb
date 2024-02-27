@@ -27,3 +27,9 @@ If unsuccessful, the command will return FALSE and the returned coordinates will
 
 Use this carefully since it can have a considerable performance hit, having to stall the game whilst it queries navmesh polygons
 
+
+## Parameters
+* **Position**: 
+* **OnlyOnPavement**: 
+* **ReturnSafePosition**: 
+* **iFlags**: (Default value: `Default`)

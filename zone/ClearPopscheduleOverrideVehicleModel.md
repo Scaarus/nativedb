@@ -9,5 +9,5 @@ aliases: ["0x5c0de367aa0d911c"]
 void CLEAR_POPSCHEDULE_OVERRIDE_VEHICLE_MODEL(int schedule);
 ```
 
-Clear population schedule vehicle model override set with [OVERRIDE_POPSCHEDULE_VEHICLE_MODEL](#_0x5F7D596BAC2E7777). Supported in network games only.
+Clear population schedule vehicle model override set with [`OVERRIDE_POPSCHEDULE_VEHICLE_MODEL`](#_0x5F7D596BAC2E7777). Supported in network games only.
 

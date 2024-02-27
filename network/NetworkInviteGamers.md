@@ -11,3 +11,9 @@ bool NETWORK_INVITE_GAMERS(Any* hInvite, int nNumGamers, string szSubject, strin
 
 Invite a gamer to join your session.
 
+
+## Parameters
+* **hInvite**: 
+* **nNumGamers**: 
+* **szSubject**: (Default value: `Null`)
+* **szMessage**: (Default value: `Null`)

@@ -11,3 +11,7 @@ void REMOVE_ENTITY_FROM_AUDIO_MIX_GROUP(Entity entity, float fadeOut);
 
 removes an entity fom its current mix group.
 
+
+## Parameters
+* **entity**: 
+* **fadeOut**: (Default value: `0`)

@@ -15,3 +15,7 @@ The anim set hash is a hash of the name of the actual anim set to use e.g. SET_T
 
 The anim set hash is a hash of the name of the actual anim set to use The animSetVariableHash is the has of the name of the variable anim set you are setting, and should start with a $ symbol
 
+
+## Parameters
+* **animSetHash**: 
+* **animSetVariableHash**: (Default value: `0`)

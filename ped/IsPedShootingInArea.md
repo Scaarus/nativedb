@@ -13,3 +13,10 @@ Checks that a ped is shooting in an area.
 
 Default value is a 3D locate
 
+
+## Parameters
+* **ped**: 
+* **vMin**: 
+* **vMax**: 
+* **HighlightArea**: 
+* **Do3DCheck**: (Default value: `True`)

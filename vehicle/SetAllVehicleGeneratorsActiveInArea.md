@@ -13,3 +13,9 @@ Sets all generators map and script active in the area.
 
 Max allowed areas is 48. Let code know if that needs increasing
 
+
+## Parameters
+* **MinPosition**: 
+* **MaxPosition**: 
+* **Active**: 
+* **SyncOverNetwork**: (Default value: `True`)

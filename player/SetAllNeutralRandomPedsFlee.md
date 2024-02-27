@@ -11,5 +11,5 @@ void SET_ALL_NEUTRAL_RANDOM_PEDS_FLEE(bool PedsFlee);
 
 Stops all random peds from attacking the player, except cops.
 
-Deprectaed! Please now use [SET_ALL_NEUTRAL_RANDOM_PEDS_FLEE_THIS_FRAME](#_0xC3376F42B1FACCC6)
+Deprectaed! Please now use [`SET_ALL_NEUTRAL_RANDOM_PEDS_FLEE_THIS_FRAME`](#_0xC3376F42B1FACCC6)
 

@@ -11,3 +11,6 @@ void TASK_RAPPEL_FROM_HELI(float fMinRappelHeight);
 
 Tells a ped to rappel our of a helicopter. This will verify that they are in fact in a helicopter passenger seat before giving the ped the task
 
+
+## Parameters
+* **fMinRappelHeight**: (Default value: `10`)

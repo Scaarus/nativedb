@@ -11,3 +11,10 @@ void SET_HEAD_BLEND_PALETTE_COLOR(Ped ped, int red, int green, int blue, int col
 
 Sets a custom mp ped palette color
 
+
+## Parameters
+* **ped**: 
+* **red**: 
+* **green**: 
+* **blue**: 
+* **colorIndex**: (Default value: `0`)

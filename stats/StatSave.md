@@ -16,3 +16,9 @@ Default behaviour is to save the defaul slot (0) and the current slot that the p
 | --- | --- |
 | 0 | Stat Savetype Default |
 
+
+## Parameters
+* **slot**: (Default value: `0`)
+* **doAssert**: (Default value: `True`)
+* **saveType**: (Default value: `0`)
+* **saveReason**: (Default value: `0`)

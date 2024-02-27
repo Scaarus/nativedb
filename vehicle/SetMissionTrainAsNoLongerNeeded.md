@@ -11,3 +11,7 @@ void SET_MISSION_TRAIN_AS_NO_LONGER_NEEDED(Vehicle vehicle, int iFlags);
 
 Sets a mission train as no longer needed (must have been created by this script)
 
+
+## Parameters
+* **vehicle**: 
+* **iFlags**: (Default value: `Rtf_Default`)

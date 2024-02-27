@@ -73,5 +73,5 @@ Gets the coord of the peds bone
 | 64729 | L Clavicle |
 
 
-Check that [WAS_PED_SKELETON_UPDATED](#_0x11B499C1E0FF8559) returns TRUE before calling this function
+Check that [`WAS_PED_SKELETON_UPDATED`](#_0x11B499C1E0FF8559) returns TRUE before calling this function
 

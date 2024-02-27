@@ -11,3 +11,8 @@ bool HAS_PED_GOT_WEAPON(Ped ped, Hash weaponHash, int weaponType);
 
 Return if character has a weapon
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **weaponType**: (Default value: `Generalweapon_Type_Invalid`)

@@ -9,5 +9,5 @@ aliases: ["0x4c5e1f087cd10bb7"]
 bool IS_PED_TRACKED(Ped ped);
 ```
 
-Checks whether a ped is being tracked Should be used before calling [GET_TRACKED_PED_PIXELCOUNT](#_0x511F1A683387C7E2) to make sure the ped is being tracked - if the ped is not tracked, GET_TRACKED_PED_PIXELCOUNT will asert.
+Checks whether a ped is being tracked Should be used before calling [`GET_TRACKED_PED_PIXELCOUNT`](#_0x511F1A683387C7E2) to make sure the ped is being tracked - if the ped is not tracked, GET_TRACKED_PED_PIXELCOUNT will asert.
 

@@ -16,4 +16,4 @@ Decelerates a vehicle until it comes to rest, possibly in an unphysically short 
 * **vehicle**: 
 * **StoppingDistance**: the distance from the initial coords at which the vehicle should come to rest.
 * **nTimeToStopFor**: the length of time in seconds to hold the car at rest after stopping.
-* **ControlVerticalVelocity**: 
+* **ControlVerticalVelocity**: (Default value: `False`)

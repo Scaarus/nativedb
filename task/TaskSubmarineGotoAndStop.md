@@ -15,3 +15,9 @@ bAutoPilot will apply the task directly to the vehicle, and apply some flags to 
 
 Tells a submarine to goto and stop at the position given
 
+
+## Parameters
+* **ped**: 
+* **vehicle**: 
+* **TargetCoords**: 
+* **AutoPilot**: (Default value: `False`)

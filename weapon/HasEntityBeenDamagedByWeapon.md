@@ -11,3 +11,8 @@ bool HAS_ENTITY_BEEN_DAMAGED_BY_WEAPON(Entity entity, Hash weaponHash, int weapo
 
 Return if an entity has been damaged by a certain weapon
 
+
+## Parameters
+* **entity**: 
+* **weaponHash**: 
+* **weaponType**: (Default value: `Generalweapon_Type_Invalid`)

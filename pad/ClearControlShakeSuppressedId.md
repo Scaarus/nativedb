@@ -9,7 +9,7 @@ aliases: ["0xa0cefcea390aab9b"]
 void CLEAR_CONTROL_SHAKE_SUPPRESSED_ID(int control);
 ```
 
-Clears a supress id passed to [SET_CONTROL_SHAKE_SUPPRESSED_ID](#_0xF239400E16C23E08).
+Clears a supress id passed to [`SET_CONTROL_SHAKE_SUPPRESSED_ID`](#_0xF239400E16C23E08).
 
 ## control Values:
 | Value | Name |

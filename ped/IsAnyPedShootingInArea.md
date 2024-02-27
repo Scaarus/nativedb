@@ -13,3 +13,9 @@ Checks that any peds are shooting in the area.
 
 PARAM NOTES :Default value is a 3D locate
 
+
+## Parameters
+* **vMin**: 
+* **vMax**: 
+* **HighlightArea**: 
+* **Do3DCheck**: (Default value: `True`)

@@ -11,3 +11,8 @@ void ATTACH_VEHICLE_TO_TRAILER(Vehicle vehicle, Vehicle vehicle, float InverseMa
 
 Attaches a vehicle to a trailer
 
+
+## Parameters
+* **vehicle**: 
+* **vehicle**: 
+* **InverseMassScale**: (Default value: `1`)

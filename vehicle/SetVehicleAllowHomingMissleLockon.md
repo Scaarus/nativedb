@@ -11,3 +11,8 @@ void SET_VEHICLE_ALLOW_HOMING_MISSLE_LOCKON(Vehicle vehicle, bool AllowHomingMis
 
 Allow a MISSION vehicle to disable homing missle targetting
 
+
+## Parameters
+* **vehicle**: 
+* **AllowHomingMissileLockon**: 
+* **IgnoreMisisonVehCheck**: (Default value: `False`)

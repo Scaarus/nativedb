@@ -42,3 +42,10 @@ Adds a cover point in the given position to cover from direction ( in degrees ).
 
 NOTE: To take the coordinates of a cover point you'd like to create, do the following: Stand behind the object you'd like to take cover behind. Face towards the object you're standing behind. If you do it this way then the following is true: The heading that is output to your temp_debug.txt is the 'FLOAT direction' Another thing to bear in mind is: When setting COVERPOINT_USAGE, COVUSE_WALLTOLEFT will flip the ped out to his right hand side, and so COVUSE_WALLTORIGHT will flip the ped out to his left.
 
+
+## Parameters
+* **direction**: 
+* **usage**: 
+* **height**: 
+* **arc**: 
+* **isPriorityToPlayer**: (Default value: `False`)

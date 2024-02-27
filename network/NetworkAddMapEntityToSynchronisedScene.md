@@ -34,3 +34,13 @@ Adds a map entity and associated animation data to a previous created network sy
 | 65536 | Set Ped Out Of Vehicle At Start |
 | 131072 | Net Disregard Attachment Checks |
 
+
+## Parameters
+* **NetworkSceneID**: 
+* **modelHash**: 
+* **ModelPosition**: 
+* **animDictionary**: 
+* **anim**: 
+* **blendInDelta**: 
+* **blendOutDelta**: 
+* **flags**: (Default value: `None`)

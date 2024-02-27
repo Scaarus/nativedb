@@ -387,3 +387,8 @@ void ENABLE_CONTROL_ACTION(int control, int action, bool enableRelatedActions);
 
 If enableRelatedActions is true, related inputs will also be enabled. For example, enabling INPUT_SELECT_WEAPON will also enable INPUT_SELECT_WEAPON_UNARMED (and others) so the weapon can be selected by the other means.
 
+
+## Parameters
+* **control**: 
+* **action**: 
+* **enableRelatedActions**: (Default value: `True`)

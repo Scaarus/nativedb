@@ -18,4 +18,4 @@ speed in ms/s will be clamped between 0.
 * **ped**: 
 * **Position**: 
 * **headingDegrees**: Heading that the ped will achieve.
-* **speed**: 
+* **speed**: (Default value: `0`)

@@ -13,3 +13,10 @@ Sets an area where scenarios are blocked (This can be optionally networked to ot
 
 bCancelActive = should this call cause peds already using points in the specified area to leave their points bBlockPeds = does this area affect ped scenarios (either this or bBlockPeds must be TRUE) bBlockVehicles = does this area affect vehicle scenarios
 
+
+## Parameters
+* **vMax**: 
+* **Network**: (Default value: `False`)
+* **CancelActive**: (Default value: `True`)
+* **BlockPeds**: (Default value: `True`)
+* **BlockVehicles**: (Default value: `True`)

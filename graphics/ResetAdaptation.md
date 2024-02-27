@@ -11,3 +11,6 @@ void RESET_ADAPTATION(int numFrames);
 
 Reset the PostFX adaptation
 
+
+## Parameters
+* **numFrames**: (Default value: `6`)

@@ -30,10 +30,10 @@ None physical attachment - collision is turned off for entity.
 * **SecondEntityBoneIndex**: use 0 for the skeleton root or -1 for entity matrix. Can attach to any bone on the
 * **vecOffset**: is from the root of the bone you're attaching to (the entity's position if bone=0)
 * **vecRotation**: is used to build a rotation matrix, relative to the bone you're attaching too (the entity itself if bone=0)
-* **DetachWhenDead**: detaches the ped when he dies (this is only used by peds)
-* **DetachWhenRagdoll**: detaches the ped when he ragdolls (this is only used by peds)
-* **ActiveCollisions**: leave the collisions activated on the attached object
-* **UseBasicAttachIfPed**: This forces a path, even for peds, that will use all three rotation components
-* **RotOrder**: 
-* **AttachOffsetIsRelative**: 
-* **MarkAsNoLongerNeededWhenDetached**: 
+* **DetachWhenDead**: detaches the ped when he dies (this is only used by peds) (Default value: `False`)
+* **DetachWhenRagdoll**: detaches the ped when he ragdolls (this is only used by peds) (Default value: `False`)
+* **ActiveCollisions**: leave the collisions activated on the attached object (Default value: `False`)
+* **UseBasicAttachIfPed**: This forces a path, even for peds, that will use all three rotation components (Default value: `False`)
+* **RotOrder**: (Default value: `Yxz`)
+* **AttachOffsetIsRelative**: (Default value: `True`)
+* **MarkAsNoLongerNeededWhenDetached**: (Default value: `False`)

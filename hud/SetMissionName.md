@@ -11,3 +11,7 @@ void SET_MISSION_NAME(bool Active, string pTextLabel);
 
 sets the current mission name to display on the HUD
 
+
+## Parameters
+* **Active**: 
+* **pTextLabel**: (Default value: `Null`)

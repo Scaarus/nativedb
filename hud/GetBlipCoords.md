@@ -9,5 +9,5 @@ aliases: ["0x586afe3ff72d996e"]
 Vector3 GET_BLIP_COORDS();
 ```
 
-Returns the location of this blip. Can only be called for blips added by [ADD_BLIP_FOR_COORD](#_0x5A039BB0BCA604B6)
+Returns the location of this blip. Can only be called for blips added by [`ADD_BLIP_FOR_COORD`](#_0x5A039BB0BCA604B6)
 

@@ -11,3 +11,9 @@ bool IS_PROJECTILE_TYPE_WITHIN_DISTANCE(Vector3 vecPosition, Hash weaponHash, fl
 
 Checks that a projectile object of the specified type is in a sphere
 
+
+## Parameters
+* **vecPosition**: 
+* **weaponHash**: 
+* **distance**: 
+* **IsPlayer**: (Default value: `False`)

@@ -28,5 +28,5 @@ Specifies a new movement animation to use when the ped is moving around
 * **type**: 
 * **animDictionary**: the name of the dictionary the anim is in
 * **anim**: the name of the anim to use
-* **blendDelta**: a float value specifying how fast the anim should blend in if the ped is already moving around defaults to NORMAL_BLEND_IN (see commands_task.sch)
-* **looped**: Whether or not the movement anim should play once and then end, or loop until CLEAR_PED_ALTERNATE_MOVEMENT_ANIM is called
+* **blendDelta**: a float value specifying how fast the anim should blend in if the ped is already moving around defaults to NORMAL_BLEND_IN (see commands_task.sch) (Default value: `8`)
+* **looped**: Whether or not the movement anim should play once and then end, or loop until CLEAR_PED_ALTERNATE_MOVEMENT_ANIM is called (Default value: `True`)

@@ -11,3 +11,13 @@ void TASK_PUT_PED_DIRECTLY_INTO_COVER(Vector3 vCoverPos, int Time, bool CanPeekA
 
 Puts the ped directly into cover at the nearest point to the position specified.
 
+
+## Parameters
+* **vCoverPos**: 
+* **Time**: 
+* **CanPeekAndAim**: (Default value: `False`)
+* **BlendInDuration**: (Default value: `0`)
+* **ForceInitialFacingDirection**: (Default value: `False`)
+* **ForceFaceLeft**: (Default value: `False`)
+* **coverpoint**: (Default value: `Null`)
+* **DoEntryAnim**: (Default value: `False`)

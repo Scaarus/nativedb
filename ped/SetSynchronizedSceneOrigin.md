@@ -28,4 +28,4 @@ Use this command to change a synchronised scene's origin after it has been creat
 ## Parameters
 * **scenePosition**: the position of the scene root in world coordinates
 * **sceneOrientation**: The orientation of the scene root in world coordinates
-* **RotOrder**: 
+* **RotOrder**: (Default value: `Yxz`)

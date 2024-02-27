@@ -13,3 +13,6 @@ Shows the system sign-in UI.
 
 This assumes there is a system-provided sign-in UI (as on Xbox Live).
 
+
+## Parameters
+* **Force**: (Default value: `False`)

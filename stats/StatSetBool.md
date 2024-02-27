@@ -11,3 +11,8 @@ bool STAT_SET_BOOL(int Hash, bool data, bool coderAssert);
 
 Set the value of an boolean stat.
 
+
+## Parameters
+* **Hash**: 
+* **data**: 
+* **coderAssert**: (Default value: `True`)

@@ -34,5 +34,5 @@ APPLY_FORCE_TYPE see enum Vector force to be applied
 * **LocalForce**: Specifies whether the force vector passed in is in local or world coordinates. Local coordinates (TRUE) means the force will get automatically transformed into world space before being applied.
 * **LocalOffset**: Specifies whether the offset passed in is in local or world coordinates.
 * **ScaleByMass**: Specifies whether to scale the force by mass. TRUE force will be multiplied by mass, ie Force passed in is in fact an acceleration rate in ms*s (force) or velocity change in ms(impulse) FALSE force will be applied directly and it's effect will depend on the mass of the object, ie Force passed in is a proper force in Newtons (force) or a step change in momentum kg*ms (impulse) In other words, scaling by mass is probably easier in most
-* **triggerAudio**: 
-* **ScaleByTimeWarp**: 
+* **triggerAudio**: (Default value: `False`)
+* **ScaleByTimeWarp**: (Default value: `True`)

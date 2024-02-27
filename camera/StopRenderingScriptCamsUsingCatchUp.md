@@ -53,7 +53,7 @@ The script must have created a camera that can be rendered. Note that rendering 
 
 
 ## Parameters
-* **ShouldApplyAcrossAllThreads**: If true, a request to stop rendering will be enforced irrespective of whether other script threads expect rendering to be active. Note that this can result in conflicts between concurrent script threads, so this must be used with caution.
-* **DistanceToBlend**: overrides the distance over which the catch up blend occurs, if zero is specified, default blend distance will be used.
-* **BlendType**: 
-* **RenderingOptions**: 
+* **ShouldApplyAcrossAllThreads**: If true, a request to stop rendering will be enforced irrespective of whether other script threads expect rendering to be active. Note that this can result in conflicts between concurrent script threads, so this must be used with caution. (Default value: `False`)
+* **DistanceToBlend**: overrides the distance over which the catch up blend occurs, if zero is specified, default blend distance will be used. (Default value: `0`)
+* **BlendType**: (Default value: `Slow In Out Smooth`)
+* **RenderingOptions**: (Default value: `No Options`)

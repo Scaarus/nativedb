@@ -25,5 +25,5 @@ Sets wether the clips on a priority level on the scripted anim task should loop,
 ## Parameters
 * **entity**: 
 * **looped**: 
-* **priority**: The priority level to apply the filter to. AF_PRIORITY_LOW, AF_PRIORITY_MEDIUM or AF_PRIORITY_HIGH.
-* **secondary**: 
+* **priority**: The priority level to apply the filter to. AF_PRIORITY_LOW, AF_PRIORITY_MEDIUM or AF_PRIORITY_HIGH. (Default value: `Low`)
+* **secondary**: (Default value: `False`)

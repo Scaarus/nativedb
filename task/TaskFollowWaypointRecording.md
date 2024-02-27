@@ -29,3 +29,10 @@ Instructs the ped to follow the named recording, starting at the given waypoint 
 | 2048 | Suppress Exactstop |
 | 4096 | Slow More For Corners |
 
+
+## Parameters
+* **ped**: 
+* **RecordingName**: 
+* **iStartingProgress**: (Default value: `0`)
+* **iFlags**: (Default value: `Default`)
+* **iTargetProgress**: 

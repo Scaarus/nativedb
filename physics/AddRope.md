@@ -23,3 +23,17 @@ Creat rope and return rope's unique ID.
 | 5 | Reins |
 | 6 | Thin4 |
 
+
+## Parameters
+* **rot**: 
+* **len**: 
+* **ropeType**: 
+* **initialLen**: 
+* **minLen**: (Default value: `0`)
+* **lengthChangeRate**: (Default value: `0`)
+* **ppuOnly**: (Default value: `False`)
+* **collisionOn**: (Default value: `False`)
+* **lockFromFront**: (Default value: `True`)
+* **timeMultiplier**: (Default value: `1`)
+* **reakable**: (Default value: `False`)
+* **materialName**: (Default value: `Null`)

@@ -13,4 +13,4 @@ Returns true if there is enough space to record a replay
 
 
 ## Parameters
-* **showWarning**: If true, will displayed a warning message if disk space is low or empty.
+* **showWarning**: If true, will displayed a warning message if disk space is low or empty. (Default value: `False`)

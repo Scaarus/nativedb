@@ -11,3 +11,14 @@ void SETUP_FAKE_CONE_DATA(Blip blip, float fVisualFieldMinAzimuthAngle, float fV
 
 Sets up data for a fake blip cone. This must be set before the blip is flagged to draw a cone.
 
+
+## Parameters
+* **blip**: 
+* **fVisualFieldMinAzimuthAngle**: 
+* **fVisualFieldMaxAzimuthAngle**: 
+* **fCentreOfGazeMaxAngle**: 
+* **fPeripheralRange**: 
+* **fFocusRange**: 
+* **fRotation**: 
+* **ContinuousUpdate**: 
+* **iHudColor**: (Default value: `11`)

@@ -11,3 +11,8 @@ void SPECIAL_ABILITY_FILL_METER(Player player, bool ignoreActive, int abilitySlo
 
 Fills the player special ability meter.
 
+
+## Parameters
+* **player**: 
+* **ignoreActive**: 
+* **abilitySlot**: (Default value: `0`)

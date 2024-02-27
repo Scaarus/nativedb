@@ -15,3 +15,7 @@ Use move instantly to move the roof to the position with out transitioning throu
 
 Lower the roof on a convertible
 
+
+## Parameters
+* **vehicle**: 
+* **MoveInstantly**: (Default value: `False`)

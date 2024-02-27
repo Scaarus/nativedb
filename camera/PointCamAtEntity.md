@@ -16,4 +16,4 @@ Points the camera at an entity.
 * **camera**: 
 * **entity**: 
 * **vecOffset**: An additional offset to be applied from the look-at position.
-* **OffsetIsRelative**: If true, vecOffset is applied relative to the orientation of the entity being pointed at, rather than in world-space.
+* **OffsetIsRelative**: If true, vecOffset is applied relative to the orientation of the entity being pointed at, rather than in world-space. (Default value: `True`)

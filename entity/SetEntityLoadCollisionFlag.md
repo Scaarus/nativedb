@@ -11,3 +11,8 @@ void SET_ENTITY_LOAD_COLLISION_FLAG(Entity entity, bool LoadCollisionFlag, bool 
 
 Sets the collision around the entity to load.
 
+
+## Parameters
+* **entity**: 
+* **LoadCollisionFlag**: 
+* **DoDeadCheck**: (Default value: `True`)

@@ -50,5 +50,5 @@ Sets a cam active which will interpolated too.
 * **camera**: 
 * **camera**: 
 * **Duration**: The time of the tinterp in milli seconds.
-* **GraphTypePos**: 
-* **GraphTypeRot**: 
+* **GraphTypePos**: (Default value: `Graph_Type_Sin_Accel_Decel`)
+* **GraphTypeRot**: (Default value: `Graph_Type_Sin_Accel_Decel`)

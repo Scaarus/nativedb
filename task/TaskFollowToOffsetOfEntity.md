@@ -13,3 +13,12 @@ Tells the ped to go to the position of an entity offset by a certain vector
 
 Time == -1 indicates continuous follow behaviour.
 
+
+## Parameters
+* **ped**: 
+* **entity**: 
+* **Offset**: 
+* **MoveBlendRatio**: 
+* **Time**: 
+* **Radius**: (Default value: `0`)
+* **RelativeOffset**: (Default value: `True`)

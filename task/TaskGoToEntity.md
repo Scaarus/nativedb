@@ -20,3 +20,12 @@ Tells a ped to go to another entity.
 
 if Time is chosen to be -1 the ped will never warp.
 
+
+## Parameters
+* **ped**: 
+* **entity**: 
+* **Time**: (Default value: `Default_Time_Before_Warp`)
+* **SeekRadius**: (Default value: `Default_Seek_Radius`)
+* **MoveBlendRatio**: (Default value: `Pedmoveblendratio_Run`)
+* **SlowDownDistance**: (Default value: `2`)
+* **GotoFlags**: (Default value: `Default`)

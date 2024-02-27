@@ -11,7 +11,7 @@ void SET_GPS_DISABLED_ZONE(Vector3 vMin, Vector3 vMax);
 
 Can be used to stop GPS functioning in a certain area, or from revealing the route to a certain area.
 
-To re-enable the GPS, call the function again with a zero-area zone (eg. <0,0,0> to <0,0,0>). It will also be restored automatically upon script termination. Can also be restored by calling [CLEAR_GPS_DISABLED_ZONE_AT_INDEX](#_0x2801D0012266DF07)(0) The Z coordinate is
+To re-enable the GPS, call the function again with a zero-area zone (eg. <0,0,0> to <0,0,0>). It will also be restored automatically upon script termination. Can also be restored by calling [`CLEAR_GPS_DISABLED_ZONE_AT_INDEX`](#_0x2801D0012266DF07)(0) The Z coordinate is
 
 Defines a rectangular zone which the GPS will not pathfind through.
 

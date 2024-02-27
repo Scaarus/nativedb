@@ -11,3 +11,9 @@ void NETWORK_EXPLODE_HELI(Vehicle vehicle, bool AddExplosion, bool KeepDamageEnt
 
 Makes a helicopter explode. This doesn't trigger the crash task on abandoned helis it just blows them up
 
+
+## Parameters
+* **vehicle**: 
+* **AddExplosion**: (Default value: `True`)
+* **KeepDamageEntity**: (Default value: `False`)
+* **network**: (Default value: `Null`)

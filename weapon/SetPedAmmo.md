@@ -11,3 +11,9 @@ void SET_PED_AMMO(Ped ped, Hash weaponHash, int AmountOfAmmo, bool IgnoreDeadChe
 
 Set the ammo a character has for a certain weapon type
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **AmountOfAmmo**: 
+* **IgnoreDeadCheck**: (Default value: `False`)

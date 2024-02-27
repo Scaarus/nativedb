@@ -40,3 +40,17 @@ The ped will move to the GoToCoord while aiming at the AimAtEntity
 | 4 | Clip (Uses Firing Type Default As It'S No Longer A Valid Type) |
 | 5 | Continuous (Fires At The Maximum Rate For The Duration, Reloading If The Clips Empty) |
 
+
+## Parameters
+* **ped**: 
+* **GoToCoord**: 
+* **entity**: 
+* **MoveBlendRatio**: 
+* **Shoot**: 
+* **TargetDistance**: (Default value: `0`)
+* **SlowDistance**: (Default value: `4`)
+* **UseNavMesh**: (Default value: `True`)
+* **iNavFlags**: (Default value: `Default`)
+* **InstantBlendToAim**: (Default value: `False`)
+* **FiringPatternHash**: (Default value: `Firing_Pattern_Full_Auto`)
+* **iTimer**: (Default value: `Default_Time_Before_Warp`)

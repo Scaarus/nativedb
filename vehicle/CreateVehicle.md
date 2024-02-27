@@ -17,7 +17,7 @@ Model_names is taken from Model_enums.sch,
 ## Parameters
 * **modelHash**: 
 * **Position**: 
-* **fVehicleHeading**: 
-* **RegisterAsNetworkObject**: The new object will be created and synced on other machines if a network game is running
-* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that
-* **IgnoreGroundCheck**: 
+* **fVehicleHeading**: (Default value: `0`)
+* **RegisterAsNetworkObject**: The new object will be created and synced on other machines if a network game is running (Default value: `True`)
+* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that (Default value: `True`)
+* **IgnoreGroundCheck**: (Default value: `False`)

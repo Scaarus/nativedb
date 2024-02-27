@@ -19,4 +19,4 @@ Call this command to make sure that the call to spend cash will succeedd.
 * **fromWalletAndBank**: If TRUE take the money from both Wallet and Bank, removing first from the Wallet.
 * **diff**: 
 * **character**: if the character is -1 it will use the current selected character.
-* **evcOnly**: 
+* **evcOnly**: (Default value: `False`)

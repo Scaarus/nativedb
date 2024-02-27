@@ -15,3 +15,10 @@ Open
 
 To open and shut a door smoothly call every frame with bLockState=false as you increase/decrease the open/shut ratio In your script tidyup you should reset the door to bLockState = false, fOpenRatio = 0.0 to release the door. Unless you specifically want the door to remain locked for ever more. Get door position using helper widget: Rag Widgets -> Objects -> Show Door Info
 
+
+## Parameters
+* **modelHash**: 
+* **vecPos**: 
+* **LockState**: 
+* **fOpenRatio**: 
+* **RemoveSpring**: (Default value: `False`)

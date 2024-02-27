@@ -9,7 +9,7 @@ aliases: ["0x6af0636ddedcb6dd"]
 void SET_VEHICLE_MOD(Vehicle vehicle, int modSlot, int modIndex, bool variation);
 ```
 
-Sets a mod on the specified mod slot. Use [GET_NUM_VEHICLE_MODS](#_0xE38E9162A2500646) to find out the count available
+Sets a mod on the specified mod slot. Use [`GET_NUM_VEHICLE_MODS`](#_0xE38E9162A2500646) to find out the count available
 
 ## modSlot Values:
 | Value | Name |
@@ -64,3 +64,9 @@ Sets a mod on the specified mod slot. Use [GET_NUM_VEHICLE_MODS](#_0xE38E9162A25
 | 47 | Door R |
 | 48 | Livery |
 
+
+## Parameters
+* **vehicle**: 
+* **modSlot**: 
+* **modIndex**: 
+* **variation**: (Default value: `False`)

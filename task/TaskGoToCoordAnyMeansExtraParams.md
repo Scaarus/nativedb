@@ -68,10 +68,10 @@ As above but has an extra param to increase the distance required from vehicle t
 * **Position**: 
 * **MoveBlendRatio**: 
 * **vehicle**: 
-* **UseLongRangeVehiclePathing**: 
-* **DrivingFlags**: 
+* **UseLongRangeVehiclePathing**: (Default value: `False`)
+* **DrivingFlags**: (Default value: `Drivingmode_Stopforcars`)
 * **MaxRangeToShootTargets**: 
-* **fExtraVehToTargetDistToPreferVeh**: 
-* **fDriveStraightLineDistance**: allow script to define the distance at which vehicles switch to straight-line pathfinding; default to same value as in code (20m)
-* **iExtraFlags**: bitset of values from the TASK_GO_TO_COORD_ANY_MEANS_FLAGS enumeration
+* **fExtraVehToTargetDistToPreferVeh**: (Default value: `0`)
+* **fDriveStraightLineDistance**: allow script to define the distance at which vehicles switch to straight-line pathfinding; default to same value as in code (20m) (Default value: `20`)
+* **iExtraFlags**: bitset of values from the TASK_GO_TO_COORD_ANY_MEANS_FLAGS enumeration (Default value: `Default`)
 * **fWarpTimerMS**: 

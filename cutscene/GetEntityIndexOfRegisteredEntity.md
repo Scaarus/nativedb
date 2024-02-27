@@ -11,5 +11,9 @@ Entity GET_ENTITY_INDEX_OF_REGISTERED_ENTITY(string sEntitySceneName, Hash model
 
 Only use this to get the entity index of an entity registered to be created by the cutscene.
 
-Call this command during the cutscene when [REGISTER_ENTITY_FOR_CUTSCENE](#_0xE40C1C56DF95C2E8) with CU_CREATE_AND_ANIMATE_NEW_SCRIPT_ENTITY is used. Only need to pass a Model in if the scene contains both an IG_ and CS_ version of the same entity. e.g. The scene is seamless and will swap a the CS_ version for an IG_ at the end of the scene.
+Call this command during the cutscene when [`REGISTER_ENTITY_FOR_CUTSCENE`](#_0xE40C1C56DF95C2E8) with CU_CREATE_AND_ANIMATE_NEW_SCRIPT_ENTITY is used. Only need to pass a Model in if the scene contains both an IG_ and CS_ version of the same entity. e.g. The scene is seamless and will swap a the CS_ version for an IG_ at the end of the scene.
 
+
+## Parameters
+* **sEntitySceneName**: 
+* **modelHash**: (Default value: `Dummy_Model_For_Script`)

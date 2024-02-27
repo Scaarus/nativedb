@@ -16,5 +16,5 @@ Metric that gets sent when a piece of clothing is bought.
 * **itemHash**: Unique Id of the item of clothing.
 * **cashSpent**: Amount which the player paid for the item.
 * **shopNameHash**: Hash of the shop name.
-* **extraItemHash**: additional item type for weaponvehicleother hashes.
-* **colorHash**: Parameter for the type of colour being applied when purchasing vehicle colours (i.e. classicmetallicmatte).
+* **extraItemHash**: additional item type for weaponvehicleother hashes. (Default value: `0`)
+* **colorHash**: Parameter for the type of colour being applied when purchasing vehicle colours (i.e. classicmetallicmatte). (Default value: `0`)

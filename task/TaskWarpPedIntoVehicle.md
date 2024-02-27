@@ -26,3 +26,7 @@ Can warp a ped into a vehicle using a task sequence.
 | 7 | Extra Left 3 |
 | 8 | Extra Right 3 |
 
+
+## Parameters
+* **ped**: 
+* **seat**: (Default value: `Driver`)

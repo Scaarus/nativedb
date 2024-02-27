@@ -11,3 +11,7 @@ void SPECIAL_ABILITY_UNLOCK(Hash modelHash, bool isArcadePlayer);
 
 Unlocks the player special ability for the given player.
 
+
+## Parameters
+* **modelHash**: 
+* **isArcadePlayer**: (Default value: `False`)

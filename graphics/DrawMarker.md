@@ -78,14 +78,14 @@ Draws a marker this frame
 * **scrVecDirection**: the direction the marker should face
 * **scrVecRotation**: the rotation applied to the marker (in degrees for each axis)
 * **scrVecScale**: the scale of the marker in each of the 3 dimensions
-* **colR**: 
-* **colG**: 
-* **colB**: 
-* **colA**: 
-* **ounce**: whether the marker should bounce up and down
-* **faceCam**: whether the marker should face the camera
-* **RotOrder**: 
-* **rotate**: whether the marker should rotate automatically on the Z axis.
-* **txdName**: streamed texture dictionary name
-* **texName**: streamed texture name
-* **invert**: render inverted
+* **colR**: (Default value: `255`)
+* **colG**: (Default value: `100`)
+* **colB**: (Default value: `0`)
+* **colA**: (Default value: `100`)
+* **ounce**: whether the marker should bounce up and down (Default value: `False`)
+* **faceCam**: whether the marker should face the camera (Default value: `False`)
+* **RotOrder**: (Default value: `Yxz`)
+* **rotate**: whether the marker should rotate automatically on the Z axis. (Default value: `False`)
+* **txdName**: streamed texture dictionary name (Default value: `Null`)
+* **texName**: streamed texture name (Default value: `Null`)
+* **invert**: render inverted (Default value: `False`)

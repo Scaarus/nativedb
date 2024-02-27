@@ -11,3 +11,9 @@ bool NETWORK_EXPLODE_VEHICLE(Vehicle vehicle, bool AddExplosion, bool KeepDamage
 
 Returns TRUE is the entity has been marked to assert if removed;
 
+
+## Parameters
+* **vehicle**: 
+* **AddExplosion**: (Default value: `True`)
+* **KeepDamageEntity**: (Default value: `False`)
+* **culprit**: 

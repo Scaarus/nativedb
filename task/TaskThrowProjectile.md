@@ -11,3 +11,9 @@ void TASK_THROW_PROJECTILE(Ped ped, Vector3 ThrowAtCoord, Entity entity, bool Cr
 
 This triggers the throw projectile task one time
 
+
+## Parameters
+* **ped**: 
+* **ThrowAtCoord**: 
+* **entity**: (Default value: `Null`)
+* **CreateInvincibleProjectile**: (Default value: `False`)

@@ -11,3 +11,8 @@ bool DOES_CONTEXT_EXIST_FOR_THIS_PED(Ped ped, string context, bool allowBackupPV
 
 Checks if the context exists for the ped, searching through the voices in its PedVoiceGroup. The final argument can be set to true to allow searching in backup PVGs
 
+
+## Parameters
+* **ped**: 
+* **context**: 
+* **allowBackupPVG**: (Default value: `False`)

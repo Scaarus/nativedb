@@ -13,3 +13,12 @@ movie id, actionscript method name, parms (not all need to be filled)
 
 calls an actionscript method on the passed in movie
 
+
+## Parameters
+* **scaleform**: 
+* **cMethodName**: 
+* **fParam1**: 
+* **fParam2**: (Default value: `Invalid_Scaleform_Param`)
+* **fParam3**: (Default value: `Invalid_Scaleform_Param`)
+* **fParam4**: (Default value: `Invalid_Scaleform_Param`)
+* **fParam5**: (Default value: `Invalid_Scaleform_Param`)

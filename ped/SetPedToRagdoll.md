@@ -28,6 +28,6 @@ A ped will only switch to a ragdoll if it's onscreen and within range of the pla
 * **MinTime**: 
 * **MaxTime**: 
 * **StartTask**: 
-* **AbortIfInjured**: 
-* **AbortIfDead**: 
-* **ForceScriptControl**: If you require to control a ped's ragdoll even though they may take additional damage This both stops the ped from becoming injured and lowers the magnitude of any bullet impact forces.
+* **AbortIfInjured**: (Default value: `True`)
+* **AbortIfDead**: (Default value: `True`)
+* **ForceScriptControl**: If you require to control a ped's ragdoll even though they may take additional damage This both stops the ped from becoming injured and lowers the magnitude of any bullet impact forces. (Default value: `False`)

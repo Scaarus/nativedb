@@ -85,7 +85,7 @@ Starts a synchronized scene on the specified ped
 * **anim**: 
 * **blendInDelta**: the rate at which the task will blend in The blend in duration is 1.0 blendInDelta e.g. 1.0 NORMAL_BLEND_IN -> 1.0 8.0 = 0.125 seconds
 * **blendOutDelta**: the rate at which the task will blend out The blend out duration is -1.0 blendOutDelta e.g. -1.0 NORMAL_BLEND_OUT -> -1.0 -8.0 = 0.125 seconds should create remove the task without a frame's delay
-* **flags**: A set of flags allowing for different playback options (SYNCED_SCENE_PLAYBACK_FLAGS for a description)
-* **ragdollFlags**: Determines which ragdoll reactions to disable while the scene is running.
-* **moverBlendInDelta**: 
-* **ikFlags**: 
+* **flags**: A set of flags allowing for different playback options (SYNCED_SCENE_PLAYBACK_FLAGS for a description) (Default value: `None`)
+* **ragdollFlags**: Determines which ragdoll reactions to disable while the scene is running. (Default value: `None`)
+* **moverBlendInDelta**: (Default value: `Instant_Blend_In`)
+* **ikFlags**: (Default value: `None`)

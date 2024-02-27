@@ -53,5 +53,5 @@ Plays a pain sound from the ped
 ## Parameters
 * **ped**: 
 * **DamageReason**: Reason for the Pain
-* **RawDamage**: Damage value (usually won't be needed)
-* **SyncOverNetwork**: indicates whether this should automatically play on a locally controlled ped on remote machines
+* **RawDamage**: Damage value (usually won't be needed) (Default value: `0`)
+* **SyncOverNetwork**: indicates whether this should automatically play on a locally controlled ped on remote machines (Default value: `False`)

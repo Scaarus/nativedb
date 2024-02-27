@@ -11,3 +11,14 @@ void SET_DESCRIPTION_FOR_UGC_MISSION_EIGHT_STRINGS(bool Active, string pString1,
 
 sets the current mission description to display in the Jobs section of the pause menu - takes up to 8 strings
 
+
+## Parameters
+* **Active**: 
+* **pString1**: (Default value: `Null`)
+* **pString2**: (Default value: `Null`)
+* **pString3**: (Default value: `Null`)
+* **pString4**: (Default value: `Null`)
+* **pString5**: (Default value: `Null`)
+* **pString6**: (Default value: `Null`)
+* **pString7**: (Default value: `Null`)
+* **pString8**: (Default value: `Null`)

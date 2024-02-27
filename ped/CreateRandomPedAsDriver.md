@@ -11,3 +11,7 @@ Ped CREATE_RANDOM_PED_AS_DRIVER(Vehicle vehicle, bool IgnoreDriverRestriction);
 
 Creates a random ped as the driver of the passed in vehicle.
 
+
+## Parameters
+* **vehicle**: 
+* **IgnoreDriverRestriction**: (Default value: `True`)

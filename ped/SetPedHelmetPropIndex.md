@@ -13,3 +13,8 @@ Sets the helmet prop index to be used instead of default, -1 uses default. This 
 
 In MP this is can only be used for the bike/quad helmets bought in a shop.
 
+
+## Parameters
+* **ped**: 
+* **OverwriteHelmetPropIndex**: 
+* **IncludeBicycles**: (Default value: `True`)

@@ -16,6 +16,6 @@ Grabs the closest object (or dummy object) with the specified model. The object 
 * **scrVecCentrePosition**: 
 * **Radius**: 
 * **modelHash**: 
-* **RegisterAsScriptObject**: The new object will be registered with the script
-* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that
-* **RegisterAsNetworkObject**: The new object will be created and synced on other machines if a network game is running
+* **RegisterAsScriptObject**: The new object will be registered with the script (Default value: `True`)
+* **ScriptHostObject**: If true, this object has been created by the host portion of a network script and is vital to that (Default value: `False`)
+* **RegisterAsNetworkObject**: The new object will be created and synced on other machines if a network game is running (Default value: `True`)

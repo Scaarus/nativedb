@@ -11,3 +11,9 @@ int COMPARE_STRINGS(string String1, string String2, bool CaseSensitive, int numb
 
 Compares two strings
 
+
+## Parameters
+* **String1**: 
+* **String2**: 
+* **CaseSensitive**: (Default value: `False`)
+* **numberOfCharactersToCompare**: 

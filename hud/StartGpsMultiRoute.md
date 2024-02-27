@@ -251,3 +251,8 @@ void START_GPS_MULTI_ROUTE(int Colour, bool TrackPlayer, bool OnFoot);
 
 Initialises the GPS to calculate a route using the road nodes & passing through multiple waypoints, one after the other The route between each given waypoint will be the shortest available using roads
 
+
+## Parameters
+* **Colour**: 
+* **TrackPlayer**: (Default value: `True`)
+* **OnFoot**: (Default value: `False`)

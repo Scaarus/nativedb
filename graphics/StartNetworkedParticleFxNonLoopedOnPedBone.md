@@ -84,7 +84,7 @@ Triggers a named particle effect on a ped bone at an offset position and rotatio
 * **vecPosition**: 
 * **vecRotation**: 
 * **boneTag**: the bone tag to attach the particle effect to FLOAT
-* **scale**: size scale of the effect (default size = 1.0)
-* **invertAxisX**: 
-* **invertAxisY**: 
-* **invertAxisZ**: 
+* **scale**: size scale of the effect (default size = 1.0) (Default value: `1`)
+* **invertAxisX**: (Default value: `False`)
+* **invertAxisY**: (Default value: `False`)
+* **invertAxisZ**: (Default value: `False`)

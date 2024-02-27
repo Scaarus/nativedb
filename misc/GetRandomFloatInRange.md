@@ -13,3 +13,7 @@ Gets a random float from the range passed in.
 
 Default vaules min float = 0 and max float = 1.0
 
+
+## Parameters
+* **MinFloat**: (Default value: `0`)
+* **MaxFloat**: (Default value: `1`)

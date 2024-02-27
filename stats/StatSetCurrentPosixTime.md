@@ -11,3 +11,7 @@ bool STAT_SET_CURRENT_POSIX_TIME(int Hash, bool coderAssert);
 
 Set the current posix time in a stat.
 
+
+## Parameters
+* **Hash**: 
+* **coderAssert**: (Default value: `True`)

@@ -11,3 +11,9 @@ bool IS_OBJECT_ENTIRELY_INSIDE_GARAGE(int GarageHash, Entity entity, float margi
 
 Returns TRUE if the entity is entirely inside the garage.
 
+
+## Parameters
+* **GarageHash**: 
+* **entity**: 
+* **margin**: (Default value: `0`)
+* **boxIndex**: 

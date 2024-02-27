@@ -21,3 +21,8 @@ Set the camera's rotation in Euler angles (in degrees.)
 | 4 | Zxy |
 | 5 | Zyx |
 
+
+## Parameters
+* **camera**: 
+* **NewRot**: 
+* **RotOrder**: (Default value: `Yxz`)

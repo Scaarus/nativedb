@@ -13,3 +13,7 @@ Get the enity index of a cutscene entity.
 
 These entitis can be deleted at any time, use the registered version to check for
 
+
+## Parameters
+* **sEntitySceneName**: 
+* **modelHash**: (Default value: `Dummy_Model_For_Script`)

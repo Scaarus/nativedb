@@ -11,3 +11,8 @@ void SET_ENTITY_VISIBLE(Entity entity, bool VisibleFlag, bool ResetRenderPhaseVi
 
 Set if the ped is visible (i.e. rendered)
 
+
+## Parameters
+* **entity**: 
+* **VisibleFlag**: 
+* **ResetRenderPhaseVisibilityMask**: (Default value: `False`)

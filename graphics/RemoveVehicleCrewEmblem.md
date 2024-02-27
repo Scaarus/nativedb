@@ -11,3 +11,7 @@ void REMOVE_VEHICLE_CREW_EMBLEM(Vehicle vehicle, int badgeIndex);
 
 Removes a crew emblem from a vehicle
 
+
+## Parameters
+* **vehicle**: 
+* **badgeIndex**: (Default value: `0`)

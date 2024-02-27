@@ -9,7 +9,7 @@ aliases: ["0x16da8172459434aa"]
 int SC_EMAIL_GET_RETRIEVAL_STATUS();
 ```
 
-Returns the retrieval status after [SC_EMAIL_RETRIEVE_EMAILS](#_0x040ADDCBAFA1018A) has been called
+Returns the retrieval status after [`SC_EMAIL_RETRIEVE_EMAILS`](#_0x040ADDCBAFA1018A) has been called
 
 ## Return Type Values:
 | Value | Name |

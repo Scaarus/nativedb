@@ -45,3 +45,9 @@ flags specifies a number of control options as per enum SWITCH_FLAGS
 
 starts player switch
 
+
+## Parameters
+* **ped**: 
+* **ped**: 
+* **flags**: 
+* **type**: (Default value: `Auto`)

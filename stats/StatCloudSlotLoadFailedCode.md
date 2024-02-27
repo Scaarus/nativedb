@@ -9,7 +9,7 @@ aliases: ["0xe496a53ba5f50a56"]
 int STAT_CLOUD_SLOT_LOAD_FAILED_CODE(int slot);
 ```
 
-Returns LOAD failure code. Only returns a error if [STAT_CLOUD_SLOT_LOAD_FAILED](#_0x7F2C4CDF2E82DF4C)() return also TRUE.
+Returns LOAD failure code. Only returns a error if [`STAT_CLOUD_SLOT_LOAD_FAILED`](#_0x7F2C4CDF2E82DF4C)() return also TRUE.
 
 ## Return Type Values:
 | Value | Name |

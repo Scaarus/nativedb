@@ -11,3 +11,7 @@ void SET_PED_AS_COP(Ped ped, bool SetRelationshipGroup);
 
 Will setup a ped so that they are treated as a cop
 
+
+## Parameters
+* **ped**: 
+* **SetRelationshipGroup**: (Default value: `True`)

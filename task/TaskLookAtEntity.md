@@ -23,3 +23,9 @@ Tells a ped to look at an entity.
 
 If LookTime is -1 the ped will perform the task forever. The optional flags parameter is made by combining any of the following flags from commands_task.sch.
 
+
+## Parameters
+* **ped**: 
+* **entity**: 
+* **time**: 
+* **priority**: (Default value: `Medium`)

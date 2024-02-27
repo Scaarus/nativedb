@@ -9,7 +9,7 @@ aliases: ["0x7e17be53e1aaabaf"]
 void GET_MENU_LAYOUT_CHANGED_EVENT_DETAILS(int iPreviousId, int iNextId, int iMenuIndex);
 ```
 
-passes the details of the layout changed event - must only be called once, and only when [HAS_MENU_LAYOUT_CHANGED_EVENT_OCCURRED](#_0x2E22FEFA0100275E) returns true
+passes the details of the layout changed event - must only be called once, and only when [`HAS_MENU_LAYOUT_CHANGED_EVENT_OCCURRED`](#_0x2E22FEFA0100275E) returns true
 
 ## iPreviousId Values:
 | Value | Name |

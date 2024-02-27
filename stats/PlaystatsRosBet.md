@@ -11,3 +11,9 @@ void PLAYSTATS_ROS_BET(int amount, int activity, int playerIndex, float commissi
 
 Tells the PlayStats that a bet has been done by the local player.
 
+
+## Parameters
+* **amount**: 
+* **activity**: 
+* **playerIndex**: 
+* **commission**: (Default value: `0`)

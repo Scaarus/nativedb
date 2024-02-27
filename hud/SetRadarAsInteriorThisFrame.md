@@ -11,3 +11,10 @@ void SET_RADAR_AS_INTERIOR_THIS_FRAME(int iInteriorHash, float fPosX, float fPos
 
 set radar to appear as if inside an interior for 1 frame:
 
+
+## Parameters
+* **iInteriorHash**: (Default value: `0`)
+* **fPosX**: (Default value: `0`)
+* **fPosY**: (Default value: `0`)
+* **iInteriorRotation**: (Default value: `0`)
+* **iInteriorLevel**: (Default value: `0`)

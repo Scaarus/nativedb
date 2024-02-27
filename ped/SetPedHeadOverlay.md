@@ -29,7 +29,7 @@ Sets an overlay texture for the blended head of the given ped.
 | 12 | Body 3 |
 
 
-This function sets an overlay texture on a blended head. The ped index given needs to be an MP ped with a blended head, which means [SET_PED_HEAD_BLEND_DATA](#_0x9414E18B9434C2FE) needs to have already been called on this ped before this function is called.
+This function sets an overlay texture on a blended head. The ped index given needs to be an MP ped with a blended head, which means [`SET_PED_HEAD_BLEND_DATA`](#_0x9414E18B9434C2FE) needs to have already been called on this ped before this function is called.
 
 
 ## Parameters

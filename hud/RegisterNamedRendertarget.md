@@ -13,3 +13,7 @@ Register a named render target. It returns true render target has been registere
 
 set Delay to true to use texture streamed separatly as a rendertarget
 
+
+## Parameters
+* **name**: 
+* **delay**: (Default value: `False`)

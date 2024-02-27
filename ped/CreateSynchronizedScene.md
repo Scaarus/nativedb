@@ -27,4 +27,4 @@ Creates a common scene origin which can be used to playback synchronised animati
 
 ## Parameters
 * **sceneOrientation**: The orientation of the scene root in world coordinates
-* **RotOrder**: 
+* **RotOrder**: (Default value: `Yxz`)

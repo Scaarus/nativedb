@@ -11,3 +11,8 @@ void ADD_ENTITY_TO_AUDIO_MIX_GROUP(Entity entity, string groupName, float fadeIn
 
 adds an entity to the named mix group so that it's sounds can be dynamically mixed.
 
+
+## Parameters
+* **entity**: 
+* **groupName**: 
+* **fadeIn**: (Default value: `0`)

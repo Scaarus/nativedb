@@ -13,3 +13,8 @@ Warps the ped into the cloeset scenario to the pos.
 
 Make sure the scenario point or objects its attached to is loaded at the time.
 
+
+## Parameters
+* **vPosition**: 
+* **fRange**: 
+* **iTimeToLeaveMS**: (Default value: `0`)

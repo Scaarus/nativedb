@@ -13,3 +13,8 @@ void TASK_PARACHUTE(Ped ped, bool GiveParachuteItem, bool Instant);
 
 Since performing this operation requires the Ped to have a Parachute Item, there is an option to give one in the parameters.
 
+
+## Parameters
+* **ped**: 
+* **GiveParachuteItem**: 
+* **Instant**: (Default value: `False`)

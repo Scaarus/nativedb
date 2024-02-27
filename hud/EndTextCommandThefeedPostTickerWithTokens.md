@@ -14,4 +14,4 @@ Displays a ticker message containing tokens (i.e. ~BLIP_INFO_ICON~)
 
 ## Parameters
 * **IsImportant**: T
-* **CacheMessage**: T
+* **CacheMessage**: T (Default value: `True`)

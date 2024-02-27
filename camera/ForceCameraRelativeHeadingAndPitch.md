@@ -13,6 +13,6 @@ Force the gameplay and cinematic mounted camera's heading and pitch relative to 
 
 
 ## Parameters
-* **heading**: The relative heading to set, in degrees.
-* **pitch**: The relative pitch to set, in degrees.
-* **pitchSmoothRate**: 
+* **heading**: The relative heading to set, in degrees. (Default value: `0`)
+* **pitch**: The relative pitch to set, in degrees. (Default value: `0`)
+* **pitchSmoothRate**: (Default value: `1`)

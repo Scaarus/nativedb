@@ -24,6 +24,6 @@ MinFireLoops is atleast how many times the ped will be going in the shoot from g
 * **ped**: 
 * **ped**: 
 * **nMinFireLoops**: 
-* **StartState**: 
-* **ForceShootOnGround**: Makes the ped go into the shooting from ground state, and prevents him from randomly dying in the loops
+* **StartState**: (Default value: `Shm Onground`)
+* **ForceShootOnGround**: Makes the ped go into the shooting from ground state, and prevents him from randomly dying in the loops (Default value: `False`)
 * **nShootFromGroundTimer**: Time in milliseconds that defines how long ped keeps shooting in each cycle (before playing writhe anims again)

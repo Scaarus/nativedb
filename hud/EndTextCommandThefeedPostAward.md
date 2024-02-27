@@ -256,4 +256,4 @@ Displays the Award component
 * **sTXN**: award texture name
 * **iXP**: award xp
 * **eAwardColour**: award colour
-* **sTitle**: award title (i.e. "Medal" or "Award")
+* **sTitle**: award title (i.e. "Medal" or "Award") (Default value: `Null`)

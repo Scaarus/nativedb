@@ -13,3 +13,8 @@ Blocks/Removes ambient idles from playing on a ped. Must be running TASK_AMBIENT
 
 bBlockIdleClips: if true, blocks future idle clips from playing. bRemoveIdleClipIfPlaying: if true, will remove any current clip playing (will also block).
 
+
+## Parameters
+* **ped**: 
+* **BlockIdleClips**: (Default value: `False`)
+* **RemoveIdleClipIfPlaying**: (Default value: `False`)

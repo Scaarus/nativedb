@@ -11,3 +11,8 @@ void NETWORK_SPENT_BOUNTY(int amount, bool fromBank, bool fromBankAndWallet);
 
 Player was killed in a detahmatch and had a bounty.
 
+
+## Parameters
+* **amount**: 
+* **fromBank**: (Default value: `False`)
+* **fromBankAndWallet**: (Default value: `False`)

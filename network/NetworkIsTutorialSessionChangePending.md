@@ -9,5 +9,5 @@ aliases: ["0x35f0b98a8387274d"]
 bool NETWORK_IS_TUTORIAL_SESSION_CHANGE_PENDING();
 ```
 
-Returns whether the local player is currently pending a tutorial session change began via a call to either [NETWORK_START_SOLO_TUTORIAL_SESSION](#_0x17E0198B3882C2CB)() or [NETWORK_ALLOW_GANG_TO_JOIN_TUTORIAL_SESSION](#_0xFB680D403909DC70)() or [NETWORK_END_TUTORIAL_SESSION](#_0xD0AFAFF5A51D72F7)()
+Returns whether the local player is currently pending a tutorial session change began via a call to either [`NETWORK_START_SOLO_TUTORIAL_SESSION`](#_0x17E0198B3882C2CB)() or [`NETWORK_ALLOW_GANG_TO_JOIN_TUTORIAL_SESSION`](#_0xFB680D403909DC70)() or [`NETWORK_END_TUTORIAL_SESSION`](#_0xD0AFAFF5A51D72F7)()
 

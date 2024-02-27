@@ -36,3 +36,7 @@ Re-enables ragdoll reactions from various forms of damage, (see enum RAGDOLL_BLO
 
 To re-enable ragdoll from bullets and player ped impacts, use RBF_BULLET_IMPACT | RBF_PLAYER_IMPACT
 
+
+## Parameters
+* **ped**: 
+* **flags**: (Default value: `Bullet Impact`)

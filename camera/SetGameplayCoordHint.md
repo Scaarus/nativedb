@@ -31,7 +31,7 @@ iDwellTime = how long cam looks at the entity.
 
 ## Parameters
 * **vCoord**: 
-* **iDwellTime**: 
-* **iInterpTo**: How long the interp to the hint is
-* **iInterpFrom**: How long the interp is from the iterp.
-* **Type**: 
+* **iDwellTime**: (Default value: `Default_Dwell_Time`)
+* **iInterpTo**: How long the interp to the hint is (Default value: `Default_Interp_In_Time`)
+* **iInterpFrom**: How long the interp is from the iterp. (Default value: `Default_Interp_Out_Time`)
+* **Type**: (Default value: `Default`)

@@ -27,3 +27,11 @@ Manually sets the previous variation data, restored when the parachute / scuba p
 | 10 | Decl (?) |
 | 11 | Jbib |
 
+
+## Parameters
+* **player**: 
+* **ComponentNumber**: 
+* **DrawableID**: 
+* **AltDrawableID**: (Default value: `0`)
+* **TextureID**: (Default value: `0`)
+* **PaletteID**: (Default value: `0`)

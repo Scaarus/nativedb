@@ -28,3 +28,15 @@ Host a transition session
 | 0 | Rockstar Created |
 | 1 | User Created |
 
+
+## Parameters
+* **nGameMode**: 
+* **nMaxPlayers**: 
+* **nActivityType**: 
+* **nActivityID**: 
+* **IsPrivate**: 
+* **IsOpen**: 
+* **FromMatchmaking**: (Default value: `False`)
+* **nActivityIsland**: (Default value: `General`)
+* **nContentCreator**: (Default value: `Rockstar Created`)
+* **nHostFlags**: (Default value: `0`)

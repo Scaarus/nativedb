@@ -11,3 +11,7 @@ bool IS_ENTITY_UPRIGHT(Entity entity, float fAngleToVerticalLimit);
 
 Checks if the entity is upright within a define angle limit.
 
+
+## Parameters
+* **entity**: 
+* **fAngleToVerticalLimit**: (Default value: `90`)

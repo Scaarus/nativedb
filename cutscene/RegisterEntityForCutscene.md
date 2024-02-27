@@ -41,5 +41,5 @@ Registers an entity with the cut scene system.
 * **entity**: 
 * **sSceneHandle**: The name of the asscoiated on the cutscene side with that entites. All entites exported for a cutscene have a unique name, this name references those objects. To find scene handle for peds start your cutscene Rag->Cutscene->Start or End Selected Cutscene tehn go to Rag->Cutscene->Ped Variation-> Display Peds Names and Scene Handles CU_ANIMATE_EXISTING_SCRIPT_ENTITY, Get the cut scene to animate a script controlled entity CU_ANIMATE_AND_DELETE_EXISTING_SCRIPT_ENTITY, Get the cutscene to animate a script controled entity and then delete it. e.g. if the entity dies in the scene CU_CREATE_AND_ANIMATE_NEW_SCRIPT_ENTITY, Get the cut scene to create and script that will be handed to script control at the end of the scene. e.g. player meets a buddy in the scene CU_DONT_ANIMATE_ENTITY Tell the the cutscene that this ped is dead and should not appera in the scene.
 * **Usage**: 
-* **modelHash**: 
-* **Options**: 
+* **modelHash**: (Default value: `Dummy_Model_For_Script`)
+* **Options**: (Default value: `None`)

@@ -11,5 +11,11 @@ void START_PLAYBACK_RECORDED_VEHICLE(Vehicle vehicle, int FileNumber, string pRe
 
 Starts the playback for a recorded vehicle
 
-This will start the engine automatically, to control this use [START_PLAYBACK_RECORDED_VEHICLE_WITH_FLAGS](#_0x7D80FD645D4DA346)
+This will start the engine automatically, to control this use [`START_PLAYBACK_RECORDED_VEHICLE_WITH_FLAGS`](#_0x7D80FD645D4DA346)
 
+
+## Parameters
+* **vehicle**: 
+* **FileNumber**: 
+* **pRecordingName**: 
+* **DoPlaceOnRoadAdjustment**: (Default value: `True`)

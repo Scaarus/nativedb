@@ -20,3 +20,8 @@ Clears all non-mission objects within the defined sphere.
 | 8 | Include Objwithbrains |
 | 16 | Exclude Ladders |
 
+
+## Parameters
+* **CentrePosition**: 
+* **Radius**: 
+* **controlFlags**: (Default value: `0`)

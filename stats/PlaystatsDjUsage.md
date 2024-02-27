@@ -11,3 +11,7 @@ void PLAYSTATS_DJ_USAGE(int djUsage, int location);
 
 Telemetry for Dj usage
 
+
+## Parameters
+* **djUsage**: 
+* **location**: (Default value: `0`)

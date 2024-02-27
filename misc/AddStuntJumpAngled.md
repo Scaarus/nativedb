@@ -11,3 +11,14 @@ int ADD_STUNT_JUMP_ANGLED(Vector3 startMax, float startWidth, Vector3 endMin, Ve
 
 min/max/width for boxes comes from the script tool at Script -> Toggle Script Bank -> Script Debug Tools -> Locates -> Non-axis aligned locates
 
+
+## Parameters
+* **startMax**: 
+* **startWidth**: 
+* **endMin**: 
+* **endMax**: 
+* **endWidth**: 
+* **cameraPos**: 
+* **Reward**: 
+* **set**: (Default value: `0`)
+* **camOptional**: (Default value: `False`)

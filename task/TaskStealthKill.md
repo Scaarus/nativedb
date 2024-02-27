@@ -22,5 +22,5 @@ Gives designated ped a stealth task which will navigate to a defined target ped 
 * **ped**: 
 * **ped**: 
 * **StealthKillActionResultId**: Hash of the CActionResult defined in action_table.meta
-* **fDesiredMoveBlendRatio**: 
-* **iFlags**: 
+* **fDesiredMoveBlendRatio**: (Default value: `Pedmoveblendratio_Walk`)
+* **iFlags**: (Default value: `Default`)

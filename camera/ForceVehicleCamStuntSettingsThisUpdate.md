@@ -9,5 +9,5 @@ aliases: ["0x0aa27680a0bd43fa"]
 void FORCE_VEHICLE_CAM_STUNT_SETTINGS_THIS_UPDATE();
 ```
 
-Force a group of settings for the vehicle camera to avoid confusing cameras during certain stunts. Similar to the [USE_VEHICLE_CAM_STUNT_SETTINGS_THIS_UPDATE](#_0x6493CF69859B116A)() but is activating the stunt cameras always without trying to detect if a stunt is in place.
+Force a group of settings for the vehicle camera to avoid confusing cameras during certain stunts. Similar to the [`USE_VEHICLE_CAM_STUNT_SETTINGS_THIS_UPDATE`](#_0x6493CF69859B116A)() but is activating the stunt cameras always without trying to detect if a stunt is in place.
 

@@ -15,3 +15,7 @@ Ensure this is reset to false when finished!!!
 
 Sets whether vehicle occupants can take explosive damage if the vehicle is invincible/explosion proof.
 
+
+## Parameters
+* **vehicle**: 
+* **VehicleOccupantsTakeExplosiveDamage**: (Default value: `False`)

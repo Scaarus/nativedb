@@ -9,7 +9,7 @@ aliases: ["0x1e09c32048fefd1c"]
 void TASK_VEHICLE_HELI_PROTECT(Ped ped, Vehicle vehicle, Entity entity, float CruiseSpeed, int mode, float CustomOffset, int MinHeightAboveTerrain, int HeliFlags);
 ```
 
-Identical to [TASK_VEHICLE_MISSION](#_0x659427E0EF36BCDE) with MISSION_PROTECT mission,
+Identical to [`TASK_VEHICLE_MISSION`](#_0x659427E0EF36BCDE) with MISSION_PROTECT mission,
 
 ## mode Values:
 | Value | Name |
@@ -72,3 +72,13 @@ Identical to [TASK_VEHICLE_MISSION](#_0x659427E0EF36BCDE) with MISSION_PROTECT m
 
 Tells a helicopter to protect another entity.
 
+
+## Parameters
+* **ped**: 
+* **vehicle**: 
+* **entity**: 
+* **CruiseSpeed**: 
+* **mode**: 
+* **CustomOffset**: 
+* **MinHeightAboveTerrain**: (Default value: `20`)
+* **HeliFlags**: (Default value: `None`)

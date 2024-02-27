@@ -11,3 +11,8 @@ void SET_FAKE_GPS_PLAYER_POSITION_THIS_FRAME(float fPosX, float fPosY, float fPo
 
 sets the position of where the GPS start point will be
 
+
+## Parameters
+* **fPosX**: 
+* **fPosY**: 
+* **fPosZ**: (Default value: `0`)

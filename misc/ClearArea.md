@@ -15,3 +15,11 @@ All projectiles in the world are removed if DeleteProjectilesFlag is set to TRUE
 
 All fires and explosions in the area are also cleared
 
+
+## Parameters
+* **CentrePosition**: 
+* **Radius**: 
+* **DeleteProjectilesFlag**: 
+* **LeaveCarGenCars**: (Default value: `False`)
+* **ClearLowPriorityPickupsOnly**: (Default value: `False`)
+* **Broadcast**: (Default value: `False`)

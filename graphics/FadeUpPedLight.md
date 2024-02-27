@@ -11,3 +11,6 @@ void FADE_UP_PED_LIGHT(float seconds);
 
 Trigger the ped light to fade up when this command is called
 
+
+## Parameters
+* **seconds**: (Default value: `4`)

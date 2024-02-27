@@ -11,3 +11,7 @@ void SET_MINIMAP_IN_SPECTATOR_MODE(bool OnOff, Ped ped);
 
 sets the minimap into spector mode, passing in a ped index (or off)
 
+
+## Parameters
+* **OnOff**: 
+* **ped**: (Default value: `Null`)

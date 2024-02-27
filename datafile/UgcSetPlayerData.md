@@ -16,4 +16,4 @@ Sets player data. This is determined by game and context.
 * **szContentID**: UGC content ID
 * **fRating**: 
 * **szContentType**: 
-* **datafileIndex**: Datafile slot containing the data you want to save
+* **datafileIndex**: Datafile slot containing the data you want to save (Default value: `0`)

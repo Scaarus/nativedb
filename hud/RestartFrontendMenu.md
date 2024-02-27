@@ -176,3 +176,7 @@ restarts the frontend menu if its already active with new header details
 | 158 | Legal |
 | 159 | Credits Legal |
 
+
+## Parameters
+* **iMenuVersion**: 
+* **HighlightTab**: (Default value: `Invalid`)

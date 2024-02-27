@@ -17,7 +17,7 @@ To skip tranisation when coming out a cut scene, e.g., form idle to run, the vig
 ## Parameters
 * **player**: 
 * **moveBlendRatio**: move blend ratio to simulate as if the player were inputing it on the controller. (1.
-* **timer**: this can be interrupted if left stick is touched, in millisecond.
-* **heading**: simulated heading. Range from -180.0 to 180.0 degrees.
-* **useRelativeHeading**: if the heading is global or local to the ped.
-* **noInputInterruption**: if true, don't break out on input changes, it just times out.
+* **timer**: this can be interrupted if left stick is touched, in millisecond. (Default value: `2000`)
+* **heading**: simulated heading. Range from -180.0 to 180.0 degrees. (Default value: `0`)
+* **useRelativeHeading**: if the heading is global or local to the ped. (Default value: `True`)
+* **noInputInterruption**: if true, don't break out on input changes, it just times out. (Default value: `False`)

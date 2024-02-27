@@ -15,3 +15,8 @@ bulldozer vehicle index, ratio between 0 and 1
 
 Sets a vehicle bulldozer arm position
 
+
+## Parameters
+* **vehicle**: 
+* **ArmPosition**: 
+* **SnapToPosition**: (Default value: `False`)

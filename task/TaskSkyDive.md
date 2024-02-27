@@ -11,3 +11,7 @@ void TASK_SKY_DIVE(Ped ped, bool Instant);
 
 Makes a ped go into sky diving mode (should be at a height when doing this)
 
+
+## Parameters
+* **ped**: 
+* **Instant**: (Default value: `False`)

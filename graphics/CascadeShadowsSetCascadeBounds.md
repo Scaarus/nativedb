@@ -11,3 +11,13 @@ void CASCADE_SHADOWS_SET_CASCADE_BOUNDS(int cascadeIndex, bool Enabled, float x,
 
 call this to explicitly set a cascade bounds in worldspace - typically get these from rag "Cascade Shadows/Cascade Bounds Adjust (Mouse Track)"
 
+
+## Parameters
+* **cascadeIndex**: 
+* **Enabled**: 
+* **x**: 
+* **y**: 
+* **z**: 
+* **radiusScale**: 
+* **interpolateToDisabled**: (Default value: `False`)
+* **interpolationTime**: (Default value: `0`)

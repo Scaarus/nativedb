@@ -17,3 +17,8 @@ Sets that a ped can use viseme anims
 | 0 | None |
 | 1 | Allow Viseme Anims Audio |
 
+
+## Parameters
+* **ped**: 
+* **AllowVisemeAnims**: 
+* **flags**: (Default value: `None`)

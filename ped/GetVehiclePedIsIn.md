@@ -11,3 +11,7 @@ Vehicle GET_VEHICLE_PED_IS_IN(Ped ped, bool ConsiderEnteringAsInVehicle);
 
 Gets the vehicle that the ped is in.
 
+
+## Parameters
+* **ped**: 
+* **ConsiderEnteringAsInVehicle**: (Default value: `False`)

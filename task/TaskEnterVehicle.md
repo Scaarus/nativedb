@@ -50,3 +50,11 @@ Tells a ped to enter a vehicle.
 
 If Time = -1 the ped will never warp into the vehicle. VEHICLE_SEAT is in generic.sch
 
+
+## Parameters
+* **vehicle**: 
+* **Time**: 
+* **seat**: (Default value: `Driver`)
+* **MoveBlendRatio**: (Default value: `Pedmoveblendratio_Run`)
+* **iFlags**: (Default value: `Resume If Interrupted`)
+* **OverridenClipSet**: (Default value: `Null`)

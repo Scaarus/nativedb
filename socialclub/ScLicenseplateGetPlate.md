@@ -11,5 +11,5 @@ string SC_LICENSEPLATE_GET_PLATE(int token, int index);
 
 get the current license plate at a given index retrieved for this token
 
-Use [SC_LICENSEPLATE_GET_CHECK_IS_PENDING](#_0x9237E334F6E43156)() and wait for the request to finish. Once it's finished, use [SC_LICENSEPLATE_GET_COUNT](#_0x700569DBA175A77C)() to get the count of license plates retrieved, then iterate using an index to get individual license plates.
+Use [`SC_LICENSEPLATE_GET_CHECK_IS_PENDING`](#_0x9237E334F6E43156)() and wait for the request to finish. Once it's finished, use [`SC_LICENSEPLATE_GET_COUNT`](#_0x700569DBA175A77C)() to get the count of license plates retrieved, then iterate using an index to get individual license plates.
 

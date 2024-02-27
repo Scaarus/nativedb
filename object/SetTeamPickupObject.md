@@ -14,4 +14,4 @@ Sets an ambient or portable pickup object collectable by the given team. Call th
 
 ## Parameters
 * **Team**: 
-* **Set**: if true then the given team is permitted to collect the object, if false the team is not allowed. You only need to call this with false if you have previously called it with true.
+* **Set**: if true then the given team is permitted to collect the object, if false the team is not allowed. You only need to call this with false if you have previously called it with true. (Default value: `True`)

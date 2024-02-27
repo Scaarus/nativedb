@@ -16,4 +16,4 @@ Adds a road speed zone at the specified position+radius. Cars cruising in this v
 * **center**: Position to add the speed zone
 * **radius**: Radius
 * **maxSpeed**: Maximum speed that vehicles will cruise in this area
-* **AllowAffectMissionVehs**: Should this also slow down mission vehicles RETURNS The index of the speed node. You will need to save this in order to remove it properly
+* **AllowAffectMissionVehs**: Should this also slow down mission vehicles RETURNS The index of the speed node. You will need to save this in order to remove it properly (Default value: `False`)

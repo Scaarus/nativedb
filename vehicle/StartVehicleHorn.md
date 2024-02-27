@@ -11,3 +11,9 @@ void START_VEHICLE_HORN(Vehicle vehicle, int TimeToSoundHorn, int HornTypeHash, 
 
 Sounds a vehicle horn for the given time and type. the type is the hash name, at the moment we only allow "NORMAL" and "HELDDOWN"
 
+
+## Parameters
+* **vehicle**: 
+* **TimeToSoundHorn**: 
+* **HornTypeHash**: (Default value: `0`)
+* **isMusicalHorn**: (Default value: `False`)

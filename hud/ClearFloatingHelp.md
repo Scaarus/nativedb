@@ -17,3 +17,7 @@ clears floating help text
 | 0 | 1 |
 | 1 | 2 |
 
+
+## Parameters
+* **id**: 
+* **ClearNow**: (Default value: `True`)

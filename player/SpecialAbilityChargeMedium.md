@@ -11,3 +11,9 @@ void SPECIAL_ABILITY_CHARGE_MEDIUM(Player player, bool increment, bool ignoreAct
 
 Modifies the player special ability meter with a medium charge. If increment is true it will add a charge other remove. If ignoreActive is true the charge will be added even if the ability is currently active otherwise command is ignored.
 
+
+## Parameters
+* **player**: 
+* **increment**: 
+* **ignoreActive**: 
+* **abilitySlot**: (Default value: `0`)

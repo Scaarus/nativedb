@@ -15,3 +15,7 @@ You should never need to pass in false here, since the flag resets itself after 
 
 This is a reset flag, and will only stay set for one frame
 
+
+## Parameters
+* **vehicle**: 
+* **ActHighSpeed**: (Default value: `True`)

@@ -22,3 +22,7 @@ float GET_RENDERED_CHARACTER_HEIGHT(float TextYScale, int TextFont);
 | 7 | Style Pricedown |
 | 8 | Style Taxi |
 
+
+## Parameters
+* **TextYScale**: 
+* **TextFont**: (Default value: `Standard`)

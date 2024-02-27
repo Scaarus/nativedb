@@ -13,3 +13,11 @@ on an entity with breakable glass, Breaks any glass panes at impactPosition, in 
 
 Use silent to avoid VFX, falling shards and audio
 
+
+## Parameters
+* **impactPosition**: 
+* **impactRadius**: 
+* **impulse**: 
+* **damage**: 
+* **crackType**: 
+* **silent**: (Default value: `False`)

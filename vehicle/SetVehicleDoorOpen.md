@@ -25,3 +25,9 @@ Opens a vehicle door.
 
 SC_DOOR_LIST is in commands_vehicle.sch
 
+
+## Parameters
+* **vehicle**: 
+* **DoorNumber**: 
+* **SwingFree**: (Default value: `False`)
+* **Instant**: (Default value: `False`)

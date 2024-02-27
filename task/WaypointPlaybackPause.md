@@ -11,3 +11,8 @@ void WAYPOINT_PLAYBACK_PAUSE(Ped ped, bool FacePlayer, bool StopBeforeOrientatin
 
 Pauses the playback of a waypoint-recording on the specified ped, and optionally instructs them to face the player bStopBeforeOrientating = causes the ped to halt before turning, so they do not leave their route
 
+
+## Parameters
+* **ped**: 
+* **FacePlayer**: 
+* **StopBeforeOrientating**: (Default value: `False`)

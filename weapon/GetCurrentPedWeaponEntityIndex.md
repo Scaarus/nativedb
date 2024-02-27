@@ -11,3 +11,7 @@ Entity GET_CURRENT_PED_WEAPON_ENTITY_INDEX(Ped ped, bool DoDeadCheck);
 
 Get the current weapon a character is using - returns if it is usable (i.e. in their hand)
 
+
+## Parameters
+* **ped**: 
+* **DoDeadCheck**: (Default value: `True`)

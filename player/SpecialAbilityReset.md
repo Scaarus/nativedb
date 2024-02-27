@@ -11,3 +11,7 @@ void SPECIAL_ABILITY_RESET(Player player, int abilitySlot);
 
 Resets the player's special ability, i.e. deactivates and fully depletes the meter
 
+
+## Parameters
+* **player**: 
+* **abilitySlot**: (Default value: `0`)

@@ -16,10 +16,10 @@ Clears the non axis aligned area of all all non-mission vehicles ** CURRENTLY NO
 * **vecAngledAreaPoint1**: 
 * **vecAngledAreaPoint2**: 
 * **DistanceOfOppositeFace**: 
-* **LeaveCarGenCars**: 
-* **Broadcast**: if set an event is sent over the network in MP to do the same clear area on all other machines. Please avoid using this if you can.
-* **CheckViewFrustum**: 
-* **IfWrecked**: 
-* **IfAbandoned**: 
-* **IfEngineOnFire**: 
-* **KeepScriptTrains**: 
+* **LeaveCarGenCars**: (Default value: `False`)
+* **Broadcast**: if set an event is sent over the network in MP to do the same clear area on all other machines. Please avoid using this if you can. (Default value: `False`)
+* **CheckViewFrustum**: (Default value: `False`)
+* **IfWrecked**: (Default value: `False`)
+* **IfAbandoned**: (Default value: `False`)
+* **IfEngineOnFire**: (Default value: `False`)
+* **KeepScriptTrains**: (Default value: `False`)

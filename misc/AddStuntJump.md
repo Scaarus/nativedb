@@ -20,5 +20,5 @@ The first two vector parameters define a box which will start the stunt jump. Th
 * **endMax**: 
 * **cameraPos**: 
 * **Reward**: is the amount of points the player receives if he lands in the end box
-* **set**: is the set to add the stunt jump to. (eg 0 = singleplayer stuntjumps, 1 = multiplayer stuntjumps) By default only set 0 stunt jumps are enabled. This value can only be in the range 0 to 31
-* **camOptional**: 
+* **set**: is the set to add the stunt jump to. (eg 0 = singleplayer stuntjumps, 1 = multiplayer stuntjumps) By default only set 0 stunt jumps are enabled. This value can only be in the range 0 to 31 (Default value: `0`)
+* **camOptional**: (Default value: `False`)

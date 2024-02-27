@@ -13,3 +13,11 @@ Creates an explosion at the co-ordinates owned by a specific ped. Size scale bet
 
 EXPLOSION_TAG is a list of explosion tyrpe
 
+
+## Parameters
+* **entity**: 
+* **ExplosionPos**: 
+* **SizeScale**: (Default value: `0`)
+* **MakeSound**: (Default value: `True`)
+* **NoFx**: (Default value: `False`)
+* **CamShakeMultiplier**: (Default value: `1`)

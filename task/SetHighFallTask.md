@@ -27,4 +27,4 @@ Give the ped an NM HighFall task. This is good for falling anf rolling after hit
 * **ped**: 
 * **nMinTime**: 
 * **nMaxTime**: minimum and maximum time to run the task for.
-* **type**: 
+* **type**: (Default value: `In Air`)

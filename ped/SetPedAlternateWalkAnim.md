@@ -18,5 +18,5 @@ Specifies a new walking animation to use when the ped is walking around
 * **ped**: 
 * **animDictionary**: the name of the dictionary the anim is in
 * **anim**: the name of the anim to use
-* **blendDelta**: a float value specifying how fast the anim should blend in if the ped is already walking around defaults to NORMAL_BLEND_IN (see commands_task.sch)
-* **looped**: Whether or not the walk anim should play once and then end, or loop until CLEAR_PED_ALTERNATE_WALK_ANIM is called
+* **blendDelta**: a float value specifying how fast the anim should blend in if the ped is already walking around defaults to NORMAL_BLEND_IN (see commands_task.sch) (Default value: `8`)
+* **looped**: Whether or not the walk anim should play once and then end, or loop until CLEAR_PED_ALTERNATE_WALK_ANIM is called (Default value: `True`)

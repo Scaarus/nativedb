@@ -11,3 +11,14 @@ void TASK_SWEEP_AIM_POSITION(Ped ped, string pAnimDictName, string pLowAnimName,
 
 Set the desired ped to point (anims dependant) at the desired position. Turn rate is default to PI * 0.5f, increasing will turn faster.
 
+
+## Parameters
+* **ped**: 
+* **pAnimDictName**: 
+* **pLowAnimName**: 
+* **pMedAnimName**: 
+* **pHiAnimName**: 
+* **runTime**: 
+* **scrVecPosition**: 
+* **turnRate**: (Default value: `1`)
+* **BlendInDuration**: (Default value: `Slow_Blend_Duration`)

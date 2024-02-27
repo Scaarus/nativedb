@@ -11,3 +11,8 @@ int NETWORK_GET_NUM_SCRIPT_PARTICIPANTS(string scriptName, int instanceId, int p
 
 Returns the number of participants running the given script locally or remotely
 
+
+## Parameters
+* **scriptName**: 
+* **instanceId**: 
+* **positionHash**: (Default value: `0`)

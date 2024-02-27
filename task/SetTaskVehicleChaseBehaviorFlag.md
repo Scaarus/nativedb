@@ -26,5 +26,5 @@ Sets a behavior flag when chasing a vehicle.
 | 512 | Cant Pull Alongside Infront |
 
 
-Sets a behavior flag when chasing a vehicle. The ped must be running [TASK_VEHICLE_CHASE](#_0x3C08A8E30363B353).
+Sets a behavior flag when chasing a vehicle. The ped must be running [`TASK_VEHICLE_CHASE`](#_0x3C08A8E30363B353).
 

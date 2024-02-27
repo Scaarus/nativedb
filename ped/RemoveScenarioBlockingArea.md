@@ -11,3 +11,6 @@ void REMOVE_SCENARIO_BLOCKING_AREA(bool Network);
 
 Removes a scenario blocking area by SCENARIO_BLOCKING_INDEX (This can be optionally networked to other players, for use in scripts that aren't run on all machines)
 
+
+## Parameters
+* **Network**: (Default value: `False`)

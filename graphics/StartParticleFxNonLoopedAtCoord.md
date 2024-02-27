@@ -20,7 +20,7 @@ Triggers a named particle effect at a world position. This should only be used w
 * **fxName**: the name of the particle effect to be triggered VECTOR
 * **vecPosition**: 
 * **vecRotation**: 
-* **scale**: size scale of the effect (default size = 1.0)
-* **invertAxisX**: 
-* **invertAxisY**: 
-* **invertAxisZ**: 
+* **scale**: size scale of the effect (default size = 1.0) (Default value: `1`)
+* **invertAxisX**: (Default value: `False`)
+* **invertAxisY**: (Default value: `False`)
+* **invertAxisZ**: (Default value: `False`)

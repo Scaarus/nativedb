@@ -13,3 +13,8 @@ void ENABLE_TENNIS_MODE(Ped ped, bool Enable, bool UseFemaleClipSet);
 
 Turns on tennis navigation changes for a ped
 
+
+## Parameters
+* **ped**: 
+* **Enable**: 
+* **UseFemaleClipSet**: (Default value: `False`)

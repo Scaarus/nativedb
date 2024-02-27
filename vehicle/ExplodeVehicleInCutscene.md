@@ -11,3 +11,7 @@ void EXPLODE_VEHICLE_IN_CUTSCENE(Vehicle vehicle, bool AddExplosion);
 
 explosed a vehicle in a cutscene
 
+
+## Parameters
+* **vehicle**: 
+* **AddExplosion**: (Default value: `True`)

@@ -13,3 +13,12 @@ Plays back a sound from an absolute position. Optionally can specify a sound set
 
 If isExteriorLoc is set to TRUE, then it will use a portal occlusion environmentGroup. Only use this if the sound is playing outside and needs occlusion.
 
+
+## Parameters
+* **SoundId**: 
+* **SoundName**: 
+* **position**: 
+* **SetName**: (Default value: `Null`)
+* **OverNetwork**: (Default value: `False`)
+* **nNetworkRange**: (Default value: `0`)
+* **isExteriorLoc**: (Default value: `False`)

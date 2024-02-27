@@ -13,3 +13,8 @@ turn on/off a vehicle search light
 
 AlwaysOn will guarantee that headlight will not turn off UNLESS THE FOLLOWING
 
+
+## Parameters
+* **vehicle**: 
+* **on**: 
+* **AlwaysOn**: (Default value: `False`)

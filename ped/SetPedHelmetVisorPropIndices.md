@@ -11,3 +11,9 @@ void SET_PED_HELMET_VISOR_PROP_INDICES(Ped ped, bool VisorUp, int HelmetVisorUpP
 
 Sets up prop ID for helmet versions with visor up and down, and sets if current equipped version has visor up or down
 
+
+## Parameters
+* **ped**: 
+* **VisorUp**: (Default value: `False`)
+* **HelmetVisorUpPropId**: 
+* **HelmetVisorDownPropId**: 

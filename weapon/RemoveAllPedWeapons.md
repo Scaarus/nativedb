@@ -11,3 +11,7 @@ void REMOVE_ALL_PED_WEAPONS(Ped ped, bool DeadCheck);
 
 Remove all weapons a character has
 
+
+## Parameters
+* **ped**: 
+* **DeadCheck**: (Default value: `True`)

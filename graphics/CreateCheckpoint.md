@@ -85,3 +85,14 @@ Creates a race checkpoint.
 
 If the checkpoint is a chevron then it will point towards scrVecPointAt. If it's a flag then scrVecPointAt will be ignored.
 
+
+## Parameters
+* **CheckpointType**: 
+* **scrVecPosition**: 
+* **scrVecPointAt**: 
+* **fSize**: 
+* **colR**: (Default value: `255`)
+* **colG**: (Default value: `100`)
+* **colB**: (Default value: `0`)
+* **colA**: (Default value: `100`)
+* **num**: (Default value: `0`)

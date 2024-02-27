@@ -33,4 +33,4 @@ This command initiates a search for spawn coordinates using the navmesh, using a
 * **vSearchPos**: the location where you wish to find a spawn coordinate
 * **fSearchRadius**: the range of the search
 * **vFaceTowardsPos**: the position which you wish the spawn coordinate to face towards
-* **iFlags**: optional flags
+* **iFlags**: optional flags (Default value: `Default`)

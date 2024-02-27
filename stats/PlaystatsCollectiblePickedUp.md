@@ -11,3 +11,16 @@ void PLAYSTATS_COLLECTIBLE_PICKED_UP(int collectionType, int pickedUp, int picke
 
 Metric to be sent every time a collectible is picked up
 
+
+## Parameters
+* **collectionType**: 
+* **pickedUp**: 
+* **pickedSoFar**: 
+* **total**: 
+* **awardCash**: 
+* **awardRP**: 
+* **awardChips**: 
+* **awardItems**: 
+* **location**: 
+* **animal**: 
+* **awardMedal**: (Default value: `0`)

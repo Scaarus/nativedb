@@ -27,3 +27,7 @@ Sets flags to control GPS behaviour, for routes which use the scripted GPS slot 
 
 iFlags = bit flags from the GPS_FLAGS enumeration fBlippedRouteDisplayDistance = the distance which a blipped entity must be away from the player before a GPS route to them is displayed; use this to avoid displaying a GPS for entities which are close enough to the player (defaults to zero)
 
+
+## Parameters
+* **iFlags**: 
+* **fBlippedRouteDisplayDistance**: (Default value: `0`)

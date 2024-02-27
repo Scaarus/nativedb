@@ -13,4 +13,4 @@ Opens all barrier type doors and doors mark to be open for races in the door sys
 
 
 ## Parameters
-* **snapOpen**: The doors will snap open if this is set to true
+* **snapOpen**: The doors will snap open if this is set to true (Default value: `False`)

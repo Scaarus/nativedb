@@ -15,5 +15,5 @@ Returns true if any scripts with the given hash are running locally or remotely 
 ## Parameters
 * **scriptHash**: 
 * **instanceId**: 
-* **localOnly**: if set the command only checks if there are any local instances of the script running, there may not be a script thread running but the code that manages the thread may still be active cleaning up
-* **positionHash**: 
+* **localOnly**: if set the command only checks if there are any local instances of the script running, there may not be a script thread running but the code that manages the thread may still be active cleaning up (Default value: `False`)
+* **positionHash**: (Default value: `0`)

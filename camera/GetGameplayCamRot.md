@@ -21,3 +21,6 @@ Gets the game play cams rotation.
 | 4 | Zxy |
 | 5 | Zyx |
 
+
+## Parameters
+* **RotOrder**: (Default value: `Yxz`)

@@ -11,3 +11,8 @@ void SPECIAL_ABILITY_CHARGE_CONTINUOUS(Player player, bool ignoreActive, int abi
 
 Flags the continuous charge as active. This needs to be called every frame while charging should take place. If ignoreActive is true the charge will be added even if the ability is currently active otherwise command is ignored.
 
+
+## Parameters
+* **player**: 
+* **ignoreActive**: 
+* **abilitySlot**: (Default value: `0`)

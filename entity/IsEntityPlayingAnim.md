@@ -19,3 +19,8 @@ Checks if the entity is currently playing the animation.
 | 3 | Default |
 | 4 | Code |
 
+
+## Parameters
+* **AnimDictName**: 
+* **AnimName**: 
+* **type**: (Default value: `Default`)

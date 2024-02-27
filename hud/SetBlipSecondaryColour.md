@@ -11,3 +11,9 @@ void SET_BLIP_SECONDARY_COLOUR(Blip blip, int r, int g, int b);
 
 Change Radar blip colour
 
+
+## Parameters
+* **blip**: 
+* **r**: 
+* **g**: (Default value: `0`)
+* **b**: (Default value: `0`)

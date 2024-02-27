@@ -9,7 +9,7 @@ aliases: ["0x2e65248609523599"]
 void LEADERBOARDS_WRITE_ADD_COLUMN_LONG(int fieldId, int value_a, int value_b);
 ```
 
-Set a integerfloat value in a column. Must be used after calling [LEADERBOARDS2_WRITE_DATA](#_0xAE2206545888AE49).
+Set a integerfloat value in a column. Must be used after calling [`LEADERBOARDS2_WRITE_DATA`](#_0xAE2206545888AE49).
 
 ## fieldId Values:
 | Value | Name |

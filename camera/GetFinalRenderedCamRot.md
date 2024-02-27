@@ -21,3 +21,6 @@ Gets the rotation of the final rendered cam.
 | 4 | Zxy |
 | 5 | Zyx |
 
+
+## Parameters
+* **RotOrder**: (Default value: `Yxz`)

@@ -14,4 +14,4 @@ Sets a portable pickup to be uncollectable
 
 ## Parameters
 * **Prevent**: 
-* **LocalOnly**: if true then the local player is prohibited from collecting the pickup. This is not synced and is used to prevent collection locally
+* **LocalOnly**: if true then the local player is prohibited from collecting the pickup. This is not synced and is used to prevent collection locally (Default value: `False`)

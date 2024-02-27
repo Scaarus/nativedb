@@ -34,3 +34,12 @@ Adds a non-ped entity and associated animation data to a previous created networ
 | 65536 | Set Ped Out Of Vehicle At Start |
 | 131072 | Net Disregard Attachment Checks |
 
+
+## Parameters
+* **entity**: 
+* **NetworkSceneID**: 
+* **animDictionary**: 
+* **anim**: 
+* **blendInDelta**: 
+* **blendOutDelta**: 
+* **flags**: (Default value: `None`)

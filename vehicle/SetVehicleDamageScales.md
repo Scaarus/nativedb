@@ -11,3 +11,9 @@ void SET_VEHICLE_DAMAGE_SCALES(float bodyScale, float petrolTankScale, float eng
 
 Sets the amount damage to each of the vehicle areas is scaled by
 
+
+## Parameters
+* **bodyScale**: 
+* **petrolTankScale**: 
+* **engineScale**: 
+* **collisionWithMapScale**: (Default value: `1`)

@@ -32,5 +32,5 @@ Command to check if the direct access entry point for a seat is clear (ped can e
 * **ped**: 
 * **vehicle**: 
 * **Seat**: 
-* **CheckSide**: some vehicle seats can be entered from two sides (e.g. bike / jetski), if set to true, this checks the entry point corresponding to the LeftSide (set to FALSE to check the right side entry)
-* **LeftSide**: 
+* **CheckSide**: some vehicle seats can be entered from two sides (e.g. bike / jetski), if set to true, this checks the entry point corresponding to the LeftSide (set to FALSE to check the right side entry) (Default value: `False`)
+* **LeftSide**: (Default value: `False`)

@@ -15,3 +15,11 @@ RGB = integers between 0 and 255. Defaulted to blue.
 
 This command draws to the screen game screen. The top left of the screen is 0,0 and the bottom right is 1,1. so all values should be bewteen these values.
 
+
+## Parameters
+* **text**: 
+* **Position**: 
+* **Red**: (Default value: `0`)
+* **Green**: (Default value: `0`)
+* **Blue**: (Default value: `255`)
+* **alpha_param**: (Default value: `255`)

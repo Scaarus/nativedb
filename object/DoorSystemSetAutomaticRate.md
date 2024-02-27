@@ -11,3 +11,9 @@ void DOOR_SYSTEM_SET_AUTOMATIC_RATE(int doorEnumHash, float fAutomaticRate, bool
 
 Set the rate at which the door's open ratio gets adjusted when opening automatically, i.e. the inverse of the time it takes to open.
 
+
+## Parameters
+* **doorEnumHash**: 
+* **fAutomaticRate**: 
+* **network**: (Default value: `True`)
+* **flushState**: (Default value: `False`)

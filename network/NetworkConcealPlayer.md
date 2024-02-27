@@ -15,4 +15,4 @@ Sets the concealed status for the specific player. This can be used to hide a re
 ## Parameters
 * **player**: 
 * **Conceal**: Indicates whether the player should be concealed
-* **allowDamagingWhileConcealed**: 
+* **allowDamagingWhileConcealed**: (Default value: `False`)

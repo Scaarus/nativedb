@@ -11,3 +11,8 @@ void NETWORK_BAIL(int nContext, int nParam1, int nParam2);
 
 Call to bail from a network game.
 
+
+## Parameters
+* **nContext**: 
+* **nParam1**: (Default value: `0`)
+* **nParam2**: (Default value: `0`)

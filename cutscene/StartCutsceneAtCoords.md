@@ -33,3 +33,7 @@ Starts a seamless cut scene at the given coords.
 
 The given coords will act as the scene origin, round which all animations are authored.
 
+
+## Parameters
+* **vPos**: 
+* **flags**: (Default value: `No Options`)

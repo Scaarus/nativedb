@@ -19,7 +19,13 @@ void UPDATE_NAVMESH_BLOCKING_OBJECT(Vector3 vPosition, Vector3 vSizeXYZ, float f
 | 7 | Allpaths |
 
 
-The "iObjectId" must be a valid index as returned by "[ADD_NAVMESH_BLOCKING_OBJECT](#_0xFCD5C8E06E502F5A)"
+The "iObjectId" must be a valid index as returned by "[`ADD_NAVMESH_BLOCKING_OBJECT`](#_0xFCD5C8E06E502F5A)"
 
 This command updates the position, size & orientation of a navmesh blocking object
 
+
+## Parameters
+* **vPosition**: 
+* **vSizeXYZ**: 
+* **fHeading**: 
+* **iFlags**: (Default value: `Allpaths`)

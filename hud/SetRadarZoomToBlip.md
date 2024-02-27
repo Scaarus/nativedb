@@ -13,3 +13,7 @@ zooms in/out enough so that the passed blip is on the edge of the minimap
 
 Must be called every frame - keeps it locked to a blip
 
+
+## Parameters
+* **blip**: 
+* **fOffset**: (Default value: `0`)

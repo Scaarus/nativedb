@@ -15,4 +15,4 @@ If this vehicle is detected by a tow truck or truck whether it should automatica
 ## Parameters
 * **entity**: 
 * **AutomaticallyAttach**: 
-* **ScanWithNonPlayerDriver**: when set to true on a truck will scan for trailers even without a player driver
+* **ScanWithNonPlayerDriver**: when set to true on a truck will scan for trailers even without a player driver (Default value: `False`)

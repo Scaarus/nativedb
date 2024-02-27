@@ -14,4 +14,4 @@ Props UGC player data for access through data file commands
 
 ## Parameters
 * **nContentIndex**: 
-* **datafileIndex**: Datafile slot to put the data in
+* **datafileIndex**: Datafile slot to put the data in (Default value: `0`)

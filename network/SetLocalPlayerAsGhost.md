@@ -13,3 +13,7 @@ Sets the local player as a ghost, so that other players are displayed semi-trans
 
 If bInvertGhosting is set to TRUE and bSet is TRUE, then the local player will be displayed semi-transparent instead (remote players will be rendered as normal)
 
+
+## Parameters
+* **Set**: 
+* **InvertGhosting**: (Default value: `False`)

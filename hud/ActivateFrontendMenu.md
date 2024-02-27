@@ -176,3 +176,8 @@ opens frontend menu
 | 158 | Legal |
 | 159 | Credits Legal |
 
+
+## Parameters
+* **iMenuVersion**: 
+* **PauseGame**: (Default value: `True`)
+* **HighlightTab**: (Default value: `Invalid`)

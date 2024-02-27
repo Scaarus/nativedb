@@ -21,3 +21,11 @@ bool CREATE_INCIDENT_WITH_ENTITY(Entity entity, int iNumUnits, float fTime, Inci
 
 Creates an incident and returns an index, requests a set number of units
 
+
+## Parameters
+* **entity**: 
+* **iNumUnits**: 
+* **fTime**: 
+* **incident**: 
+* **iOverrideRelGroupHash**: (Default value: `0`)
+* **assassinsLevel**: (Default value: `0`)

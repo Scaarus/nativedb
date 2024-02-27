@@ -13,3 +13,7 @@ Checks that this cutscene entity exits.
 
 Only need to pass the model in if the scene has both an IG_ and CS_ version of the same model
 
+
+## Parameters
+* **sEntitySceneName**: 
+* **modelHash**: (Default value: `Dummy_Model_For_Script`)

@@ -17,4 +17,4 @@ Set masked element of a stat.
 * **data**: 
 * **offSet**: number of bits counting from right were the value is going to be set.
 * **numberOfBits**: number Of bits that should be changed. STAT_SET_MASKED_INT(statHash, statValue, 8, 8) would set the second byte in a stat
-* **coderAssert**: 
+* **coderAssert**: (Default value: `True`)

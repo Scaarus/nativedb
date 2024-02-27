@@ -20,5 +20,9 @@ Tells the ped to use a mobile phone.
 | 3 | Tocamera |
 
 
-when called with FALSE, this command cannot be used in a sequence. If you want to use this as part of an AI sequence, consider using [TASK_USE_MOBILE_PHONE_TIMED](#_0x5EE02954A14C69DB).
+when called with FALSE, this command cannot be used in a sequence. If you want to use this as part of an AI sequence, consider using [`TASK_USE_MOBILE_PHONE_TIMED`](#_0x5EE02954A14C69DB).
 
+
+## Parameters
+* **UsePhone**: 
+* **PhoneMode**: (Default value: `Tocall`)

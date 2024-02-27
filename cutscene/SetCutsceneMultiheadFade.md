@@ -16,4 +16,4 @@ Sets the multihead board sides to emulate cutscene style multihead fades to cove
 * **FadeIn**: Mark if fading in or out.
 * **Instant**: Put up blinders right away, no slide in.
 * **Manual**: Set to ture if you are taking responsability for turning off the blinders
-* **FullscreenMovie**: 
+* **FullscreenMovie**: (Default value: `False`)

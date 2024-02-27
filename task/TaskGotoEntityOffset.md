@@ -23,3 +23,11 @@ The destination point is SeekRadiusFloat metres from the other entity’s positi
 
 if Time is chosen to be -1 the ped will never warp.
 
+
+## Parameters
+* **entity**: 
+* **Time**: (Default value: `Default_Time_Before_Warp`)
+* **SeekRadius**: (Default value: `Default_Seek_Radius`)
+* **SeekAngle**: (Default value: `0`)
+* **MoveBlendRatio**: (Default value: `Pedmoveblendratio_Run`)
+* **OffsetFlags**: (Default value: `Default`)

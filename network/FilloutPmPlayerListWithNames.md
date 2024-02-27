@@ -22,3 +22,9 @@ Fills out the list of players in the PM Player List (clears the previous data).
 | 5 | Directory |
 | 100 | Last Job |
 
+
+## Parameters
+* **gamerHandles**: 
+* **gamerNames**: 
+* **count**: 
+* **type**: (Default value: `Corona Players`)

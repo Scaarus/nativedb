@@ -11,3 +11,9 @@ bool GET_COORDS_OF_PROJECTILE_TYPE_IN_AREA(Vector3 MinPosition, Vector3 MaxPosit
 
 Checks that a projectile object of the specified type is in the area and returns it's position
 
+
+## Parameters
+* **MinPosition**: 
+* **MaxPosition**: 
+* **weaponHash**: 
+* **IsPlayer**: (Default value: `False`)

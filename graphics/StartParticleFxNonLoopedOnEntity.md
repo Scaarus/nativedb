@@ -21,7 +21,7 @@ Triggers a named particle effect on an entity at an offset position. This should
 * **entity**: 
 * **vecPosition**: 
 * **vecRotation**: 
-* **scale**: size scale of the effect (default size = 1.0)
-* **invertAxisX**: 
-* **invertAxisY**: 
-* **invertAxisZ**: 
+* **scale**: size scale of the effect (default size = 1.0) (Default value: `1`)
+* **invertAxisX**: (Default value: `False`)
+* **invertAxisY**: (Default value: `False`)
+* **invertAxisZ**: (Default value: `False`)

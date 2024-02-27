@@ -11,3 +11,7 @@ void FORCE_PLAYBACK_RECORDED_VEHICLE_UPDATE(Vehicle vehicle, bool DoPlaceOnRoadA
 
 Forces through a playback update of a vehicle recording, allowing this to be performed on the same game update that the request is made to start playback. This makes it easier to synchronise vehicle recordings with entity warping and scripted camera cuts.
 
+
+## Parameters
+* **vehicle**: 
+* **DoPlaceOnRoadAdjustment**: (Default value: `True`)

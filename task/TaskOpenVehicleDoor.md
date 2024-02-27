@@ -29,3 +29,9 @@ Tells a ped to open a vehicle door.
 
 If Time = -1 the ped will never warp to the vehicle.
 
+
+## Parameters
+* **vehicle**: 
+* **Time**: (Default value: `Default_Time_Before_Warp`)
+* **seat**: (Default value: `Driver`)
+* **MoveBlendRatio**: (Default value: `Pedmoveblendratio_Run`)

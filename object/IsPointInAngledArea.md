@@ -13,3 +13,9 @@ Checks if a given point is in the non axis aligned area
 
 VecCoors1 and VecCoors2 define the midpoints of two parallel sides and DisatanceP1toP4 is the width of these sides.
 
+
+## Parameters
+* **Position1**: 
+* **Position2**: 
+* **DistanceP1toP4**: 
+* **HighlightArea**: (Default value: `False`)

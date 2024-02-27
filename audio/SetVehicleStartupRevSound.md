@@ -11,3 +11,8 @@ void SET_VEHICLE_STARTUP_REV_SOUND(Vehicle vehicle, string SoundName, string Set
 
 Set the startup rev sound that this vehicle should use
 
+
+## Parameters
+* **vehicle**: 
+* **SoundName**: 
+* **SetName**: (Default value: `Null`)

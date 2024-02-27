@@ -11,3 +11,10 @@ void NETWORK_SPENT_PAY_VEHICLE_INSURANCE_PREMIUM(int amount, int vehiclehash, An
 
 Player spent money in insurance claim. ONLY Set a valid Gamer handle if we are paying insurance for a remote player vehicle, ie, not our vehicle.
 
+
+## Parameters
+* **amount**: 
+* **vehiclehash**: 
+* **handle**: 
+* **fromBank**: (Default value: `False`)
+* **fromBankAndWallet**: (Default value: `False`)

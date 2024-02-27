@@ -15,3 +15,7 @@ framesToUpdateBounds gets set as a u16 in code, so make sure that the input valu
 
 Instructs the game to update ragdoll bounds for animated AI peds for a specified number of frames.
 
+
+## Parameters
+* **ped**: 
+* **framesToUpdateBounds**: (Default value: `10`)

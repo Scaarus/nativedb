@@ -24,5 +24,5 @@ Request streaming to load a weapon asset
 
 ## Parameters
 * **weaponHash**: 
-* **iWeaponResourceFlags**: 
-* **ExtraWeaponComponentFlags**: Used to load the non-default weapon components.
+* **iWeaponResourceFlags**: (Default value: `Wrf_Request_All_Anims`)
+* **ExtraWeaponComponentFlags**: Used to load the non-default weapon components. (Default value: `None`)

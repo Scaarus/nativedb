@@ -25,3 +25,8 @@ Shuts a vehicle door.
 
 SC_DOOR_LIST is in commands_vehicle.sch
 
+
+## Parameters
+* **vehicle**: 
+* **DoorNumber**: 
+* **ShutInstantly**: (Default value: `True`)

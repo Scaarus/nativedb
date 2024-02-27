@@ -16,4 +16,4 @@ this is to help with tralers, etc. please don't use this in general
 
 ## Parameters
 * **CloudHatName**: force a loading of the named cloud hat
-* **TransitionTime**: amount of time to fade out the cloudhat, default is 0 seconds.
+* **TransitionTime**: amount of time to fade out the cloudhat, default is 0 seconds. (Default value: `0`)

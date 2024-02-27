@@ -13,3 +13,11 @@ Creates an explosion at the co-ordinates. Size scale between 0.01 and 1.0.
 
 EXPLOSION_TAG is a list of explosion tyrpe
 
+
+## Parameters
+* **ExplosionPos**: 
+* **VfxTagHash**: 
+* **SizeScale**: (Default value: `0`)
+* **MakeSound**: (Default value: `True`)
+* **NoFx**: (Default value: `False`)
+* **CamShakeMultiplier**: (Default value: `1`)

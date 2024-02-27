@@ -11,3 +11,7 @@ void SPECIAL_ABILITY_LOCK(Hash modelHash, bool isArcadePlayer);
 
 Locks the player special ability for the given player.
 
+
+## Parameters
+* **modelHash**: 
+* **isArcadePlayer**: (Default value: `False`)

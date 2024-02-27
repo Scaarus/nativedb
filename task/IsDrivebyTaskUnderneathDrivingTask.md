@@ -9,5 +9,5 @@ aliases: ["0x8785e6e40c7a8818"]
 bool IS_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK();
 ```
 
-Used to query driveby tasks given by [TASK_DRIVE_BY](#_0x2F8AF0E82773A171) with bPushUnderneathDrivingTaskIfDriving set on peds driving
+Used to query driveby tasks given by [`TASK_DRIVE_BY`](#_0x2F8AF0E82773A171) with bPushUnderneathDrivingTaskIfDriving set on peds driving
 

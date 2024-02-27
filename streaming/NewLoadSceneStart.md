@@ -23,3 +23,9 @@ position, direction of camera, range (e.g. 20m)
 
 starts a new frustum load scene, which is interior-aware and uses a streaming volume
 
+
+## Parameters
+* **pos**: 
+* **dir**: 
+* **farClip**: 
+* **controlFlags**: (Default value: `0`)

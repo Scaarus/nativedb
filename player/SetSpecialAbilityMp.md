@@ -11,3 +11,8 @@ void SET_SPECIAL_ABILITY_MP(Player player, int abilityType, int abilitySlot);
 
 Set the player's special ability in MP
 
+
+## Parameters
+* **player**: 
+* **abilityType**: 
+* **abilitySlot**: (Default value: `0`)

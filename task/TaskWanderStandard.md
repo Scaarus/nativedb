@@ -17,3 +17,8 @@ Tells a ped to wander. If you dont pass in a heading it will be randomized when 
 | 0 | Default |
 | 1 | Keep Moving Whilst Waiting For First Path |
 
+
+## Parameters
+* **ped**: 
+* **Heading**: (Default value: `Default_Navmesh_Final_Heading`)
+* **WanderFlags**: (Default value: `Default`)

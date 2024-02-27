@@ -13,3 +13,7 @@ Marks object as 'golf ball' - which causes it to run some alternate or extra phy
 
 Currently pretty hacky and directly targeted at golf balls interacting at putting level velocities Ask code about this before using it (Robert Percival)
 
+
+## Parameters
+* **object**: 
+* **IsGolfBall**: (Default value: `True`)

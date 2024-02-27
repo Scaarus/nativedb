@@ -77,5 +77,15 @@ Tells a ped in a vehicle to target another ped in a vehicle.
 | 1073741824 | DF_ForceJoinInRoadDirection |
 
 
-INT TargetReached (the distance at which the ai thinks the target has been reached and the car stops) FLOAT StraightLineDist (the distance at which the ai switches to heading for the target directly instead of following the nodes) (just like in sa) To pick default values (recommended) both parameters can be passed in as -1. Use TASK_CAR_MISSION_PED_TARGET to target another ped instead of a vehicle. The task status is the same as that for TASK_CAR_MISSION, i.e. use [GET_SCRIPT_TASK_STATUS](#_0x77F1BEB8863288D5)(a_ped, SCRIPT_TASK_CAR_MISSION, my_status) to check for both commands. TASK_CAR_MISSION_NOT_AGAINST_TRAFFIC does exaclt the same apart from the fact it won't allow cars to drive against the flow of traffic. TASK_CAR_MISSION does allow cars to drive agains the flow of traffic. DriveAgainstTraffic being true allows the car to drive on the opposite side of the road into incoming traffic
+INT TargetReached (the distance at which the ai thinks the target has been reached and the car stops) FLOAT StraightLineDist (the distance at which the ai switches to heading for the target directly instead of following the nodes) (just like in sa) To pick default values (recommended) both parameters can be passed in as -1. Use TASK_CAR_MISSION_PED_TARGET to target another ped instead of a vehicle. The task status is the same as that for TASK_CAR_MISSION, i.e. use [`GET_SCRIPT_TASK_STATUS`](#_0x77F1BEB8863288D5)(a_ped, SCRIPT_TASK_CAR_MISSION, my_status) to check for both commands. TASK_CAR_MISSION_NOT_AGAINST_TRAFFIC does exaclt the same apart from the fact it won't allow cars to drive against the flow of traffic. TASK_CAR_MISSION does allow cars to drive agains the flow of traffic. DriveAgainstTraffic being true allows the car to drive on the opposite side of the road into incoming traffic
 
+
+## Parameters
+* **vehicle**: 
+* **ped**: 
+* **Mission**: 
+* **CruiseSpeed**: 
+* **mode**: 
+* **TargetReachedDist**: 
+* **StraightLineDist**: 
+* **DriveAgainstTraffic**: (Default value: `True`)

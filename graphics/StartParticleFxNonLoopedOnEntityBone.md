@@ -22,7 +22,7 @@ Triggers a named particle effect on an entity bone at an offset position. This s
 * **vecPosition**: 
 * **vecRotation**: 
 * **boneIndex**: the bone index to attach the particle effect to (use GET_ENTITY_BONE_INDEX_BY_NAME to get the index) FLOAT
-* **scale**: size scale of the effect (default size = 1.0)
-* **invertAxisX**: 
-* **invertAxisY**: 
-* **invertAxisZ**: 
+* **scale**: size scale of the effect (default size = 1.0) (Default value: `1`)
+* **invertAxisX**: (Default value: `False`)
+* **invertAxisY**: (Default value: `False`)
+* **invertAxisZ**: (Default value: `False`)

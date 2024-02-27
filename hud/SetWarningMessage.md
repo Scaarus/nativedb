@@ -13,3 +13,14 @@ sets a warning message with buttons. No header. Must be called every frame
 
 iButtonFlagBitfield should be made up of the constants that begin with FE_WARNING_ (declared in frontend_enums.sch / frontend.xml). You can combine several of these using the | operator
 
+
+## Parameters
+* **pTextLabel**: 
+* **iButtonFlagBitfield**: 
+* **pBodySubTextLabel**: (Default value: `Null`)
+* **InsertNumber**: (Default value: `False`)
+* **NumberToInsert**: 
+* **pFirstSubStringTextLabel**: (Default value: `Null`)
+* **pSecondSubStringTextLabel**: (Default value: `Null`)
+* **Background**: (Default value: `True`)
+* **errorNumber**: (Default value: `0`)

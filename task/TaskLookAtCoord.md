@@ -46,3 +46,9 @@ Gives the ped a look at coord task.
 
 If LookTime is -1 the ped will perform the task forever. The optional flags parameter is made by combining any of the following flags from commands_task.sch.
 
+
+## Parameters
+* **ped**: 
+* **Position**: 
+* **LookFlags**: (Default value: `Default`)
+* **priority**: (Default value: `Medium`)

@@ -23,3 +23,9 @@ Set the state of a door managed by the door system
 | 5 | Force Open This Frame |
 | 6 | Force Closed This Frame |
 
+
+## Parameters
+* **doorEnumHash**: 
+* **state**: 
+* **network**: (Default value: `True`)
+* **flushState**: (Default value: `False`)

@@ -11,3 +11,6 @@ bool HAS_OBJECT_BEEN_BROKEN(bool networked);
 
 Returns true if the object has been broken (ie. fragmented)
 
+
+## Parameters
+* **networked**: (Default value: `False`)

@@ -16,9 +16,9 @@ Gets a position to create a new vehicle. Searches outward from the position in t
 * **SearchPos**: Position to search outward from (most of the time you want the local player's position)
 * **Result**: Coordinates to spawn a vehicle, passed back by reference
 * **ResultLinkDir**: 
-* **DesiredHeading**: Try to find a node facing this direction.
-* **DesiredHeadingTolerance**: How far away from the desired heading can we be? (Pass in 180 if you don't care)
-* **MinCreationDistance**: What's the minimum distance from SearchPos that you'd like a vehicle to spawn?
-* **IncludeSwitchedOffNodes**: Search areas not currently switched on
-* **NoWater**: TRUE to prevent finding a position in water
-* **AllowAgainstTraffic**: 
+* **DesiredHeading**: Try to find a node facing this direction. (Default value: `0`)
+* **DesiredHeadingTolerance**: How far away from the desired heading can we be? (Pass in 180 if you don't care) (Default value: `180`)
+* **MinCreationDistance**: What's the minimum distance from SearchPos that you'd like a vehicle to spawn? (Default value: `0`)
+* **IncludeSwitchedOffNodes**: Search areas not currently switched on (Default value: `False`)
+* **NoWater**: TRUE to prevent finding a position in water (Default value: `True`)
+* **AllowAgainstTraffic**: (Default value: `True`)

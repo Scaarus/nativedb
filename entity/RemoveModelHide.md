@@ -13,3 +13,9 @@ if bLazy is true, the persistent hide is removed but not actually acted on
 
 Removes a previously created model hide, if one exists and matches exactly
 
+
+## Parameters
+* **pos**: 
+* **radius**: 
+* **modelHash**: 
+* **Lazy**: (Default value: `False`)

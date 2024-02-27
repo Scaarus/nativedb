@@ -13,3 +13,8 @@ Handles conversation interrupts, using the code-side system for improved timing 
 
 -
 
+
+## Parameters
+* **ped**: 
+* **Context**: 
+* **VoiceName**: (Default value: `Null`)

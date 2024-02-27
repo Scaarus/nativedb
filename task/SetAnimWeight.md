@@ -25,6 +25,6 @@ Sets the blend weight of a clip playing on the scripted anim task,
 ## Parameters
 * **entity**: 
 * **blendWeight**: 
-* **priority**: The priority level the clip is playing on. AF_PRIORITY_LOW, AF_PRIORITY_MEDIUM or AF_PRIORITY_HIGH.
-* **index**: The index of the clip to set on the given priority (used when the priority level is playing a blend of clips, when playing a single clip this can be left blank).
-* **secondary**: 
+* **priority**: The priority level the clip is playing on. AF_PRIORITY_LOW, AF_PRIORITY_MEDIUM or AF_PRIORITY_HIGH. (Default value: `Low`)
+* **index**: The index of the clip to set on the given priority (used when the priority level is playing a blend of clips, when playing a single clip this can be left blank). (Default value: `0`)
+* **secondary**: (Default value: `False`)

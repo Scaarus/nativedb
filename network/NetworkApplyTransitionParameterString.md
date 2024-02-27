@@ -11,3 +11,8 @@ void NETWORK_APPLY_TRANSITION_PARAMETER_STRING(int nID, string szParameter, bool
 
 Applies a string parameter.
 
+
+## Parameters
+* **nID**: 
+* **szParameter**: 
+* **ForceDirty**: (Default value: `False`)

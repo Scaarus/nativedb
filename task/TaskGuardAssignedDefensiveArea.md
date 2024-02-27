@@ -11,5 +11,5 @@ void TASK_GUARD_ASSIGNED_DEFENSIVE_AREA(Vector3 vDefendPosition, float fHeading,
 
 Tells the ped to guard its assigned area, will assert if no defensive area is assigned.
 
-The behaviour will be the same as [TASK_STAND_GUARD](#_0xAE032F8BBA959E90), if the ped shouldn't patrol the area, set fMaxPatrolProximity to 0.0
+The behaviour will be the same as [`TASK_STAND_GUARD`](#_0xAE032F8BBA959E90), if the ped shouldn't patrol the area, set fMaxPatrolProximity to 0.0
 

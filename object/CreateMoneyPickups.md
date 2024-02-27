@@ -16,4 +16,4 @@ Creates a bunch of money pickups around the given coordinates, of the given amou
 * **NewPosition**: the coordinates the money pickups will be generated round. Must be on or above the ground.
 * **Amount**: the total amount of money dropped
 * **MaxNumPickups**: the maximum number of money pickups created (no greater than 8)
-* **modelHash**: 
+* **modelHash**: (Default value: `0`)

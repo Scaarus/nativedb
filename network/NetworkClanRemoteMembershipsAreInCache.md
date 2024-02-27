@@ -9,5 +9,5 @@ aliases: ["0xbb6e6fee99d866b2"]
 bool NETWORK_CLAN_REMOTE_MEMBERSHIPS_ARE_IN_CACHE(Any* gamerHandle);
 ```
 
-Code always remembers the last remote player's downloaded memberships retreived using [NETWORK_CLAN_DOWNLOAD_MEMBERSHIP](#_0xA989044E70010ABE). Script can use this func to check if data is there, and avoid calling NETWORK_CLAN_DOWNLOAD_MEMBERSHIP if we don't need to force a refresh
+Code always remembers the last remote player's downloaded memberships retreived using [`NETWORK_CLAN_DOWNLOAD_MEMBERSHIP`](#_0xA989044E70010ABE). Script can use this func to check if data is there, and avoid calling NETWORK_CLAN_DOWNLOAD_MEMBERSHIP if we don't need to force a refresh
 

@@ -20,8 +20,8 @@ Triggers a named particle effect at a world position, that will replicate across
 * **fxName**: the name of the particle effect to be triggered VECTOR
 * **vecPosition**: 
 * **vecRotation**: 
-* **scale**: size scale of the effect (default size = 1.0)
-* **invertAxisX**: 
-* **invertAxisY**: 
-* **invertAxisZ**: 
-* **ignoreScopeChecks**: use this ONLY for the ion cannon effects, otherwise request permission from network code
+* **scale**: size scale of the effect (default size = 1.0) (Default value: `1`)
+* **invertAxisX**: (Default value: `False`)
+* **invertAxisY**: (Default value: `False`)
+* **invertAxisZ**: (Default value: `False`)
+* **ignoreScopeChecks**: use this ONLY for the ion cannon effects, otherwise request permission from network code (Default value: `False`)

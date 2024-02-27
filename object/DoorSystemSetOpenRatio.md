@@ -11,3 +11,9 @@ void DOOR_SYSTEM_SET_OPEN_RATIO(int doorEnumHash, float fOpenRatio, bool network
 
 Get opening ratio to lock the door at (i.e. 1.0 to lock open)
 
+
+## Parameters
+* **doorEnumHash**: 
+* **fOpenRatio**: 
+* **network**: (Default value: `True`)
+* **flushState**: (Default value: `False`)

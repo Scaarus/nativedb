@@ -21,3 +21,13 @@ Find a transition session. Variant of above that works with a group
 | 3 | Event |
 | 4 | Tournament |
 
+
+## Parameters
+* **nGameMode**: 
+* **nMaxPlayers**: 
+* **nActivityType**: 
+* **nActivityID**: 
+* **hGamers**: 
+* **nNumGamers**: 
+* **nMmFlags**: (Default value: `0`)
+* **nActivityIsland**: (Default value: `Invalid`)

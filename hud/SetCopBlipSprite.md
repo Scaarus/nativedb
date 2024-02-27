@@ -11,3 +11,7 @@ void SET_COP_BLIP_SPRITE(int sprite, float blipScale);
 
 All cop ped blips will use this sprite
 
+
+## Parameters
+* **sprite**: 
+* **blipScale**: (Default value: `1`)

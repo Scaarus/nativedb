@@ -11,3 +11,10 @@ void NETWORK_SPENT_BUY_WANTEDLEVEL(int amount, Any* handle, bool fromBank, bool 
 
 Player spent money from buying wanted level for another player.
 
+
+## Parameters
+* **amount**: 
+* **handle**: 
+* **fromBank**: (Default value: `False`)
+* **fromBankAndWallet**: (Default value: `False`)
+* **npcProvider**: (Default value: `0`)

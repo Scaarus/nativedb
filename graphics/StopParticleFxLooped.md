@@ -18,4 +18,4 @@ The stopped effect will automatically clean itself up once stopped.
 
 ## Parameters
 * **ptfxId**: the id of the started particle effect to stop
-* **localOnly**: 
+* **localOnly**: (Default value: `False`)

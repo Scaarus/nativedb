@@ -13,3 +13,8 @@ Task to the peds motion state so it can be sequenced
 
 see commands_ped.sch for the list of motion states that can be forced
 
+
+## Parameters
+* **ped**: 
+* **motionState**: 
+* **ForceRestart**: (Default value: `False`)

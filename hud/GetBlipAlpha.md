@@ -9,5 +9,5 @@ aliases: ["0x970f608f0ee6c885"]
 int GET_BLIP_ALPHA();
 ```
 
-Returns the alpha of the blip (the value set via [SET_BLIP_ALPHA](#_0x45FF974EEE1C8734))
+Returns the alpha of the blip (the value set via [`SET_BLIP_ALPHA`](#_0x45FF974EEE1C8734))
 

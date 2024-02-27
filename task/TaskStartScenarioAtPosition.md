@@ -13,3 +13,11 @@ The ped will move or warp to the position and heading given, then start the scen
 
 scenario is chosen fromhttp://10.11.23.14/wiki/index.php?title=SCENARIO_STRINGS The z coord of vPosition should be the ground position plus the ped's ground to root offset.
 
+
+## Parameters
+* **ScenarioName**: 
+* **vPosition**: 
+* **fHeading**: 
+* **iTimeToLeave**: (Default value: `0`)
+* **PlayIntroClip**: (Default value: `False`)
+* **Warp**: (Default value: `True`)

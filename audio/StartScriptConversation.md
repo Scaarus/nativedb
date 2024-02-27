@@ -8,3 +8,9 @@ aliases: ["0x6b17c62c9635d2dc"]
 // 0x6B17C62C9635D2DC
 void START_SCRIPT_CONVERSATION(bool DisplaySubtitles, bool addToBriefScreen, bool cloneConversation, bool Interruptible);
 ```
+
+## Parameters
+* **DisplaySubtitles**: 
+* **addToBriefScreen**: (Default value: `True`)
+* **cloneConversation**: (Default value: `False`)
+* **Interruptible**: (Default value: `True`)

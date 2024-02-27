@@ -59,3 +59,13 @@ Sets the camera's position, rotation and field of view.
 
 If duration is set > 0 the camera will interp to the specified settings.
 
+
+## Parameters
+* **camera**: 
+* **vPos**: 
+* **vRot**: 
+* **FOV**: 
+* **Duration**: (Default value: `0`)
+* **GraphTypePos**: (Default value: `Graph_Type_Sin_Accel_Decel`)
+* **GraphTypeRot**: (Default value: `Graph_Type_Sin_Accel_Decel`)
+* **RotOrder**: (Default value: `Yxz`)

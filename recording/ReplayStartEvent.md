@@ -18,3 +18,6 @@ void REPLAY_START_EVENT(int importance);
 | 3 | High |
 | 4 | Highest |
 
+
+## Parameters
+* **importance**: (Default value: `High`)

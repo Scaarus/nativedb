@@ -477,3 +477,8 @@ Gets the given ped config flag bit
 | 460 | Ragdoll Floats Indefinitely |
 | 461 | Block Electric Weapon Damage |
 
+
+## Parameters
+* **ped**: 
+* **ConfigFlag**: 
+* **DoDeadCheck**: (Default value: `True`)

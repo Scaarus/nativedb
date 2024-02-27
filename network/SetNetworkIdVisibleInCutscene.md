@@ -11,3 +11,8 @@ void SET_NETWORK_ID_VISIBLE_IN_CUTSCENE(Network network, bool Visible, bool Remo
 
 Sets whether a script entity is visible in the cutscene, locally and/or remotely. The entity must be networked.
 
+
+## Parameters
+* **network**: 
+* **Visible**: 
+* **RemotelyVisible**: (Default value: `False`)

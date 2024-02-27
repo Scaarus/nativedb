@@ -13,3 +13,11 @@ Tells a ped to flee the given coord.
 
 FleeTime is an INT (-1 indicates flee forever)
 
+
+## Parameters
+* **ped**: 
+* **Position**: 
+* **SafeDistance**: 
+* **FleeTime**: 
+* **PreferPavements**: (Default value: `False`)
+* **QuitIfOutOfRange**: (Default value: `False`)

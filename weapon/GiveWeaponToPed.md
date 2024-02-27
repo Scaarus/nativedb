@@ -11,3 +11,10 @@ void GIVE_WEAPON_TO_PED(Ped ped, Hash weaponHash, int AmountOfAmmo, bool ForceIn
 
 Give a weapon to a character with ammo
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: 
+* **AmountOfAmmo**: 
+* **ForceIntoHand**: (Default value: `False`)
+* **Equip**: (Default value: `True`)

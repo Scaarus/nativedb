@@ -11,3 +11,7 @@ void ADD_TEXT_COMPONENT_SUBSTRING_PHONE_NUMBER(string PhoneNumberString, int Num
 
 Use ~a~ to mark the position in your line of text where you want this substring inserted
 
+
+## Parameters
+* **PhoneNumberString**: 
+* **NumberOfCharactersToDisplay**: (Default value: `Display_Full_Phone_Number`)

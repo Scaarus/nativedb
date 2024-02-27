@@ -17,3 +17,6 @@ Returns true if the local player has user generated content privileges
 | 0 | Everyone |
 | 1 | Friends |
 
+
+## Parameters
+* **nPrivilegeType**: (Default value: `Everyone`)

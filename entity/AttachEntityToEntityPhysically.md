@@ -34,7 +34,7 @@ Physical attachment using rage constraints - entities are still physically activ
 * **vecRotation**: is used to build a rotation matrix, relative to the bone you're attaching too (the entity itself if bone=0)
 * **PhysicalStrength**: 
 * **ConstrainRotation**: specifies whether you wish to constrain rotation as well as position. In most cases the answer will be Yes. Unless you want to have a hangingswinging thing.
-* **DoInitialWarp**: ** NOT USED FOR PEDS** specifies whether to warp the object to the specified attach point. If not, then the initial seperation will be used as an allowed give in the attachment (e.g. a rope length)
-* **CollideWithEntity**: ** ONLY USED FOR PEDS** of set the two entities will collide with each other once attached
-* **AddInitialSeperation**: 
-* **RotOrder**: 
+* **DoInitialWarp**: ** NOT USED FOR PEDS** specifies whether to warp the object to the specified attach point. If not, then the initial seperation will be used as an allowed give in the attachment (e.g. a rope length) (Default value: `True`)
+* **CollideWithEntity**: ** ONLY USED FOR PEDS** of set the two entities will collide with each other once attached (Default value: `False`)
+* **AddInitialSeperation**: (Default value: `True`)
+* **RotOrder**: (Default value: `Yxz`)

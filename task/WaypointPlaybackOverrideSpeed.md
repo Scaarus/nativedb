@@ -13,3 +13,8 @@ Overrides the speed at which the ped moves, ignoring the speeds recorded in the 
 
 fMoveBlendRatio (0.0 = still, 1.0 = walk, 2.0 = run, 3.0 = sprint)
 
+
+## Parameters
+* **ped**: 
+* **fMoveBlendRatio**: 
+* **DontAllowSlowingForCorners**: (Default value: `False`)

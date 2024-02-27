@@ -59,3 +59,8 @@ Requests a cutscene and tells it what sections to play, for branched cutscenes o
 
 Include the sections you want to play, it will use the first section as the section to start from.
 
+
+## Parameters
+* **pCutName**: 
+* **CutsceneSection**: 
+* **PlaybackFlags**: (Default value: `Requested In Mission`)

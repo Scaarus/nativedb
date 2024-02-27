@@ -14,5 +14,5 @@ Detaches an entity from being attached. ApplyVelocity is not used for peds. bNoC
 
 ## Parameters
 * **entity**: 
-* **ApplyVelocity**: 
-* **NoCollisionUntilClear**: disables collision between this object and the parent until they are clear of one anotherNATIVE PROC DETACH_ENTITY(ENTITY_INDEX EntityIndex, bool
+* **ApplyVelocity**: (Default value: `True`)
+* **NoCollisionUntilClear**: disables collision between this object and the parent until they are clear of one anotherNATIVE PROC DETACH_ENTITY(ENTITY_INDEX EntityIndex, bool (Default value: `True`)

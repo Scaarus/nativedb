@@ -11,3 +11,8 @@ void REMOVE_VEHICLES_FROM_GENERATORS_IN_AREA(Vector3 MinPosition, Vector3 MaxPos
 
 Removes vehicles for all gens in the area.
 
+
+## Parameters
+* **MinPosition**: 
+* **MaxPosition**: 
+* **isNetworked**: (Default value: `False`)

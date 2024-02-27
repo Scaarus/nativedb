@@ -8,3 +8,21 @@ aliases: ["0x95812f9b26074726"]
 // 0x95812F9B26074726
 void DRAW_SPRITE_ARX_WITH_UV(string pTextureDictionaryName, string pTextureName, float CentreX, float CentreY, float Width, float Height, float ux, float uy, float vx, float vy, float Rotation, int R, int G, int B, int A, bool UseNearest);
 ```
+
+## Parameters
+* **pTextureDictionaryName**: 
+* **pTextureName**: 
+* **CentreX**: 
+* **CentreY**: 
+* **Width**: 
+* **Height**: 
+* **ux**: 
+* **uy**: 
+* **vx**: 
+* **vy**: 
+* **Rotation**: 
+* **R**: 
+* **G**: 
+* **B**: 
+* **A**: 
+* **UseNearest**: (Default value: `False`)

@@ -11,3 +11,8 @@ void CLONE_PED_TO_TARGET_ALT(Ped ped, Ped ped, bool CloneCompressedDamage);
 
 Copies variation and head blend settings from one ped to another.
 
+
+## Parameters
+* **ped**: 
+* **ped**: 
+* **CloneCompressedDamage**: (Default value: `True`)

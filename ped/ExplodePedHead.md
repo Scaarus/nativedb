@@ -11,3 +11,7 @@ void EXPLODE_PED_HEAD(Ped ped, Hash weaponHash);
 
 Appllies a sniper rifle damage to the ped.
 
+
+## Parameters
+* **ped**: 
+* **weaponHash**: (Default value: `Weapontype_Sniperrifle`)

@@ -26,5 +26,14 @@ Tells a ped to driveby a coord, ped or vehicle.
 | 2055493265 | Delay Fire By One Sec |
 
 
-The character can fire at a vehicle, coordinates or another character. At least one of TargetCharID and TargetVehicleID must be NULL. If there is a target character or vehicle then the target coordinates are used as an offset. If TargetCharID and TargetVehicleID are both NULL then the character will fire at the target coordinates. CharID and TargetCharID are both of type PED_INDEX TargetVehicleID is of type VEHICLE_INDEX AbortRangeFloat is the distance in metres from the target at which the task will be aborted. FireFrequencyPercentage should be between 0 (never shoot) and 100 (fire as fast as possible). bPushUnderneathDrivingTaskIfDriving If this is set it will allow the ped to continue driving whilst shooting. instead of interupting the driving task it will sit along side it. [CLEAR_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK](#_0xC35B5CDB2824CF69) can be used to remove it FiringPatternHash allows you to set the firing pattern from a
+The character can fire at a vehicle, coordinates or another character. At least one of TargetCharID and TargetVehicleID must be NULL. If there is a target character or vehicle then the target coordinates are used as an offset. If TargetCharID and TargetVehicleID are both NULL then the character will fire at the target coordinates. CharID and TargetCharID are both of type PED_INDEX TargetVehicleID is of type VEHICLE_INDEX AbortRangeFloat is the distance in metres from the target at which the task will be aborted. FireFrequencyPercentage should be between 0 (never shoot) and 100 (fire as fast as possible). bPushUnderneathDrivingTaskIfDriving If this is set it will allow the ped to continue driving whilst shooting. instead of interupting the driving task it will sit along side it. [`CLEAR_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK`](#_0xC35B5CDB2824CF69) can be used to remove it FiringPatternHash allows you to set the firing pattern from a
 
+
+## Parameters
+* **ped**: 
+* **vehicle**: 
+* **Position**: 
+* **AbortRange**: 
+* **FrequencyPercentage**: 
+* **PushUnderneathDrivingTaskIfDriving**: (Default value: `False`)
+* **FiringPatternHash**: (Default value: `Burst Fire Driveby`)

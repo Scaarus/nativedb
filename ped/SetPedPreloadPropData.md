@@ -24,3 +24,9 @@ Sets a ped prop to preload into memory, without applying it on the ped
 | 7 | Right Wrist |
 | 8 | Hip |
 
+
+## Parameters
+* **ped**: 
+* **Anchor**: 
+* **PropId**: 
+* **TexId**: (Default value: `0`)

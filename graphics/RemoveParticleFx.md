@@ -11,3 +11,7 @@ void REMOVE_PARTICLE_FX(int ptfxId, bool localOnly);
 
 Remove a particle effects (including existing particles)
 
+
+## Parameters
+* **ptfxId**: 
+* **localOnly**: (Default value: `False`)

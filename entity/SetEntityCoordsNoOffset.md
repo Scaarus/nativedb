@@ -17,6 +17,6 @@ Sets the entity's coords without adding the offset.
 ## Parameters
 * **entity**: 
 * **NewPosition**: 
-* **KeepTasks**: only applied to peds. If true, the tasks on the ped are not removed when he is teleported.
-* **KeepIK**: only applied to peds. If true, the IK on the ped is not reset when he is teleported.
-* **DoWarp**: Calling with the non-default value of FALSE implies that the object has continuous motion and should not clear contacts nor space for itself.
+* **KeepTasks**: only applied to peds. If true, the tasks on the ped are not removed when he is teleported. (Default value: `False`)
+* **KeepIK**: only applied to peds. If true, the IK on the ped is not reset when he is teleported. (Default value: `False`)
+* **DoWarp**: Calling with the non-default value of FALSE implies that the object has continuous motion and should not clear contacts nor space for itself. (Default value: `True`)

@@ -13,3 +13,9 @@ Tells the ped to aim a gun at the coord
 
 InstantBlendToAim will skip the idle transition and instantly blend to the aim pose
 
+
+## Parameters
+* **TargetPosition**: 
+* **Duration**: 
+* **InstantBlendToAim**: (Default value: `False`)
+* **PlayAimIntro**: (Default value: `False`)

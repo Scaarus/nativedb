@@ -15,3 +15,11 @@ Defaulted to blue. Colours and alpha range are
 
 Call this command every frame. Only runs in dev and bank release. Requires script -> Draw Debug Lines And Spheres widget to be active.
 
+
+## Parameters
+* **Position**: 
+* **Range**: 
+* **Red**: (Default value: `0`)
+* **Green**: (Default value: `0`)
+* **Blue**: (Default value: `255`)
+* **alpha_param**: (Default value: `255`)

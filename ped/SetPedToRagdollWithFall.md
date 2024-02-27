@@ -9,7 +9,7 @@ aliases: ["0xd76632d99e4966c8"]
 bool SET_PED_TO_RAGDOLL_WITH_FALL(int MinTime, int MaxTime, int nFallType, Vector3 vecDirection, float fGroundHeight, Vector3 vecGrab1, Vector3 vecGrab2);
 ```
 
-this performs the same function as std [SET_PED_TO_RAGDOLL](#_0xAE99FB955581844A), but gives them a specific task, which controls them to fall off a high place, fall down stairs etc,
+this performs the same function as std [`SET_PED_TO_RAGDOLL`](#_0xAE99FB955581844A), but gives them a specific task, which controls them to fall off a high place, fall down stairs etc,
 
 ## nFallType Values:
 | Value | Name |

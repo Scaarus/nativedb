@@ -14,4 +14,4 @@ Start the asyncronous process of saving data to the cloud
 
 ## Parameters
 * **filename**: filename of file to save
-* **datafileIndex**: slot to save from
+* **datafileIndex**: slot to save from (Default value: `0`)

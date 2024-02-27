@@ -11,3 +11,13 @@ Object CREATE_WEAPON_OBJECT(Hash weaponHash, int AmountOfAmmo, Vector3 NewPositi
 
 Create weapon object not attached to ped
 
+
+## Parameters
+* **weaponHash**: 
+* **AmountOfAmmo**: 
+* **NewPosition**: 
+* **CreateDefaultComponents**: 
+* **Scale**: (Default value: `1`)
+* **modelHash**: (Default value: `0`)
+* **RegisterAsNetworkObject**: (Default value: `False`)
+* **ScriptHostObject**: (Default value: `True`)

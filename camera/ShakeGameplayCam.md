@@ -16,4 +16,4 @@ Valid shake names are as
 
 ## Parameters
 * **ShakeName**: 
-* **fAmplitudeScalar**: Can be used to increase or decrease the amplitude of the shake effect.
+* **fAmplitudeScalar**: Can be used to increase or decrease the amplitude of the shake effect. (Default value: `1`)

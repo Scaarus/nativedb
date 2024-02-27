@@ -11,3 +11,8 @@ void SPECIAL_ABILITY_DEPLETE_METER(Player player, bool ignoreActive, int ability
 
 Depletes the player special ability meter.
 
+
+## Parameters
+* **player**: 
+* **ignoreActive**: 
+* **abilitySlot**: (Default value: `0`)

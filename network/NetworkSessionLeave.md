@@ -9,7 +9,7 @@ aliases: ["0xb9351a07a0d458b1"]
 bool NETWORK_SESSION_LEAVE(int leaveFlags);
 ```
 
-Leaves a network session (equivalent to [NETWORK_SESSION_END](#_0xA02E59562D711006))
+Leaves a network session (equivalent to [`NETWORK_SESSION_END`](#_0xA02E59562D711006))
 
 
 ## Parameters

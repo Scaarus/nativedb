@@ -11,3 +11,8 @@ void SET_PED_HAIR_TINT(Ped ped, int tint, int tint2);
 
 Sets the tint index for the hair on the specified ped
 
+
+## Parameters
+* **ped**: 
+* **tint**: 
+* **tint2**: (Default value: `0`)

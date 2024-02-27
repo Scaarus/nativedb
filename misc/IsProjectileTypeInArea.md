@@ -11,3 +11,9 @@ bool IS_PROJECTILE_TYPE_IN_AREA(Vector3 MinPosition, Vector3 MaxPosition, Hash w
 
 Checks that a projectile object of the specified type is in the area.
 
+
+## Parameters
+* **MinPosition**: 
+* **MaxPosition**: 
+* **weaponHash**: 
+* **IsPlayer**: (Default value: `False`)

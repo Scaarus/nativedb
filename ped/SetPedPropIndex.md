@@ -27,3 +27,9 @@ Set the id of the prop at the given position for the given ped.
 
 PED_PROP_POSITION in commands_ped.sch
 
+
+## Parameters
+* **Position**: 
+* **NewPropIndex**: 
+* **NewTextIndex**: (Default value: `0`)
+* **SyncWithBlend**: (Default value: `False`)

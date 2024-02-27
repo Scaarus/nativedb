@@ -23,3 +23,8 @@ position, direction of camera, range (e.g. 20m)
 
 starts a new spherical load scene, which is interior-aware and uses a streaming volume. this cannot be used during a player switch.
 
+
+## Parameters
+* **pos**: 
+* **radius**: 
+* **controlFlags**: (Default value: `0`)

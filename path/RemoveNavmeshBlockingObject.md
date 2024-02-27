@@ -10,7 +10,7 @@ void REMOVE_NAVMESH_BLOCKING_OBJECT();
 ```
 
 All blocking objects added with the default "bPermanent=FALSE" will be automatically removed when the script which added them teminates - there is no need to manually remove these objects in this case.
-The "iObjectId" must be a valid index as returned by "[ADD_NAVMESH_BLOCKING_OBJECT](#_0xFCD5C8E06E502F5A)"
+The "iObjectId" must be a valid index as returned by "[`ADD_NAVMESH_BLOCKING_OBJECT`](#_0xFCD5C8E06E502F5A)"
 
 This command removes a blocking object which was previously added via "ADD_NAVMESH_BLOCKING_OBJECT"
 

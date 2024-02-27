@@ -15,4 +15,4 @@ Sets the hud's health display values directly TURNS OFF REAL-TIME QUERYING. So y
 ## Parameters
 * **iHealth**: health value to display (assumes it's got a deadpoint of 100 HP) passing in -1 turns this override off
 * **iArmour**: armour to display
-* **ShowDmg**: 
+* **ShowDmg**: (Default value: `True`)

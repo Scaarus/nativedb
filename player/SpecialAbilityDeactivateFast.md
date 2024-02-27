@@ -11,3 +11,7 @@ void SPECIAL_ABILITY_DEACTIVATE_FAST(Player player, int abilitySlot);
 
 Deactivates the player's special ability immediately without applying the fadeout fx
 
+
+## Parameters
+* **player**: 
+* **abilitySlot**: (Default value: `0`)

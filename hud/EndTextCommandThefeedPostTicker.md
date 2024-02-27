@@ -14,4 +14,4 @@ Displays the ticker message string in the top left of the HUD
 
 ## Parameters
 * **IsImportant**: T
-* **CacheMessage**: 
+* **CacheMessage**: (Default value: `True`)

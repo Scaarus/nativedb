@@ -11,3 +11,9 @@ void SPECIAL_ABILITY_CHARGE_ABSOLUTE(Player player, int charge, bool ignoreActiv
 
 Adds an absolute charge in seconds to the player special ability meter. By default the ability meter is 30 seconds so adding a charge of 30 or higher will fill the meter.
 
+
+## Parameters
+* **player**: 
+* **charge**: 
+* **ignoreActive**: 
+* **abilitySlot**: (Default value: `0`)

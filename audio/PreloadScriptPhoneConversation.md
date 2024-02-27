@@ -8,3 +8,7 @@ aliases: ["0x6004bcb0e226aaea"]
 // 0x6004BCB0E226AAEA
 void PRELOAD_SCRIPT_PHONE_CONVERSATION(bool DisplaySubtitles, bool addToBriefScreen);
 ```
+
+## Parameters
+* **DisplaySubtitles**: 
+* **addToBriefScreen**: (Default value: `True`)

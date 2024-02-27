@@ -275,3 +275,11 @@ sets the style of the floating help text
 | 2 | South |
 | 3 | West |
 
+
+## Parameters
+* **id**: 
+* **style**: 
+* **colour**: 
+* **iAlpha**: 
+* **iArrowPosition**: (Default value: `0`)
+* **iFloatingTextOffset**: (Default value: `0`)

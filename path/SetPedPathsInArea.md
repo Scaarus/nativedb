@@ -20,4 +20,4 @@ When a path is switched off, no peds will be created on it and peds that already
 * **MinPosition**: 
 * **MaxPosition**: 
 * **Active**: 
-* **ForceAbortCurrentPath**: avoid possible stalls by forcing any active path request to be aborted use this if there are reports of this command causing brief hangs waiting for navmesh data to be accessible but be aware that if timing-critical pathfinding is occuring, that it can be interruped by this
+* **ForceAbortCurrentPath**: avoid possible stalls by forcing any active path request to be aborted use this if there are reports of this command causing brief hangs waiting for navmesh data to be accessible but be aware that if timing-critical pathfinding is occuring, that it can be interruped by this (Default value: `False`)

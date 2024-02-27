@@ -17,3 +17,7 @@ Generate the pick up rope for cargobob
 | 0 | Hook |
 | 1 | Magnet |
 
+
+## Parameters
+* **vehicle**: 
+* **pickupType**: (Default value: `Hook`)

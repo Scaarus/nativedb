@@ -26,3 +26,7 @@ Returns the number of available color for a specific color type. More...
 
 If base is false it willr eturn the index of the specular color index. This only applies for MCT_PEARLESCENT, the rest have only one index
 
+
+## Parameters
+* **colorType**: 
+* **ase**: (Default value: `True`)
